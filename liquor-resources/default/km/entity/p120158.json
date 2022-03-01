@@ -1,0 +1,17 @@
+{
+  "$id": "p120158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$15.99 - $26.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/boulevard-quirk-hard-seltzer-berry-and-botanical-mix-pack/p120158",
+    "name": "Boulevard Quirk Hard Seltzer Berry \u0026 Botanical Mix Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p10359",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.99 - $15.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/alias-cabernet-sauvignon/p10359",
+    "name": "Alias Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p12112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "99.00",
+    "c_minPrice": "9.43",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.43 - $99.00",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/kendall-jackson-vintners-reserve-red-blend-summation/p12112",
+    "name": "Kendall-Jackson Vintner\u0027s Reserve Red Blend (Summation)"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5524",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.99 - $24.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/bonterra-organic-zinfandel/p5524",
+    "name": "Bonterra Organic Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p97976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "3.44",
+    "c_numberReviews": "22",
+    "c_priceRange": "$3.44 - $11.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/dark-horse-brut-bubbles/p97976",
+    "name": "Dark Horse Brut Bubbles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

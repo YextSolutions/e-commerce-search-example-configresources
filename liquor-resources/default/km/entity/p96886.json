@@ -1,0 +1,17 @@
+{
+  "$id": "p96886",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "107.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$34.99 - $107.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/writers-tears-double-oak-irish-whiskey/p96886",
+    "name": "Writers\u0027 Tears Double Oak Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

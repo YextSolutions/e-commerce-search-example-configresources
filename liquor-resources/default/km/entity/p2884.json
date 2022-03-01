@@ -1,0 +1,17 @@
+{
+  "$id": "p2884",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "70",
+    "c_priceRange": "$8.79 - $47.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/jose-cuervo-tradicional-reposado/p2884",
+    "name": "Jose Cuervo Tradicional Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

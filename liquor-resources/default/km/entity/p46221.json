@@ -1,0 +1,16 @@
+{
+  "$id": "p46221",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "57",
+    "c_priceRange": "$8.49 - $22.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/hiram-walker-peppermint-schnapps-90-proof/p46221",
+    "name": "Hiram Walker Peppermint Schnapps 90 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p62008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "3299.99",
+    "c_minPrice": "65.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$65.99 - $3299.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/codigo-1530-anejo-tequila/p62008",
+    "name": "Código 1530 Anejo Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-codigo-1530-anejo-tequila-c80809b51142f517.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ouRIbjfOnMlhqd4rYmCv9JaZA-C2CCBlgLLm3YPNnZ8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ouRIbjfOnMlhqd4rYmCv9JaZA-C2CCBlgLLm3YPNnZ8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ouRIbjfOnMlhqd4rYmCv9JaZA-C2CCBlgLLm3YPNnZ8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ouRIbjfOnMlhqd4rYmCv9JaZA-C2CCBlgLLm3YPNnZ8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

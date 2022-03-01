@@ -1,0 +1,17 @@
+{
+  "$id": "p1910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1075",
+    "c_priceRange": "$11.99 - $15.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/bota-box-pinot-grigio/p1910",
+    "name": "Bota Box Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

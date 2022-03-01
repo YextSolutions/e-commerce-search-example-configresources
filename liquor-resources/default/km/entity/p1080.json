@@ -1,0 +1,17 @@
+{
+  "$id": "p1080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "128",
+    "c_priceRange": "$3.99 - $26.99",
+    "c_subCategory": "Dark Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/lone-star-lager/p1080",
+    "name": "Lone Star Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

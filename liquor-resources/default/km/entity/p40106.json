@@ -1,0 +1,17 @@
+{
+  "$id": "p40106",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "32.89",
+    "c_numberReviews": "9",
+    "c_priceRange": "$32.89 - $69.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/cotswolds-dry-gin/p40106",
+    "name": "Cotswolds Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

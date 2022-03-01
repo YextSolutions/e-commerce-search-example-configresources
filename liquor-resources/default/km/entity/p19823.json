@@ -1,0 +1,16 @@
+{
+  "$id": "p19823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.01",
+    "c_numberReviews": "370",
+    "c_priceRange": "$8.01 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/taaka-vodka/p19823",
+    "name": "Taaka Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

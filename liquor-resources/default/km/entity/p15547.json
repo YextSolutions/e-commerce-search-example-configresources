@@ -1,0 +1,17 @@
+{
+  "$id": "p15547",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$24.99 - $65.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/grahams-10-year-tawny-port/p15547",
+    "name": "Graham\u0027s Tawny Port 10 Year"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

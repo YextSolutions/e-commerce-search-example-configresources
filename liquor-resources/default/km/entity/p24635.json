@@ -1,0 +1,16 @@
+{
+  "$id": "p24635",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.49 - $17.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/seagrams-peach-twisted-gin/p24635",
+    "name": "Seagram\u0027s Peach Twisted Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

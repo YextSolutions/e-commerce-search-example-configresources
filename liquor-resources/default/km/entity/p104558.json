@@ -1,0 +1,17 @@
+{
+  "$id": "p104558",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "19.79",
+    "c_numberReviews": "9",
+    "c_priceRange": "$19.79 - $22.99",
+    "c_subCategory": "Shots Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/shots-ready-to-drink/slrrrp-alcohol-infused-gelatin-shots-mash-up-variety/p104558",
+    "name": "SLRRRP Alcohol-Infused Gelatin Shots - Mash-Up Variety"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

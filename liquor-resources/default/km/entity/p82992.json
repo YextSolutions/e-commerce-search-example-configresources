@@ -1,0 +1,44 @@
+{
+  "$id": "p82992",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$12.99 - $17.99",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/exhibit-a-briefcase-porter/p82992",
+    "name": "Exhibit \u0027A\u0027 Briefcase Porter",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-exhibit-a-briefcase-porter-c726fb33df7a8801.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/n71KWgYoaeYFpHTLkPInP_3rZkao9kJ1A_-64KXwS20/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/n71KWgYoaeYFpHTLkPInP_3rZkao9kJ1A_-64KXwS20/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/n71KWgYoaeYFpHTLkPInP_3rZkao9kJ1A_-64KXwS20/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n71KWgYoaeYFpHTLkPInP_3rZkao9kJ1A_-64KXwS20/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

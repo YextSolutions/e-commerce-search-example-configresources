@@ -1,0 +1,16 @@
+{
+  "$id": "p7120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "50.94",
+    "c_minPrice": "21.40",
+    "c_numberReviews": "16",
+    "c_priceRange": "$21.40 - $50.94",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/ricard-pastis-de-marseille/p7120",
+    "name": "Ricard Pastis De Marseille"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

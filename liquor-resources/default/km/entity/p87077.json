@@ -1,0 +1,16 @@
+{
+  "$id": "p87077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "70.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$9.99 - $70.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/victory-kick-back-can-pack/p87077",
+    "name": "Victory Kick Back Can Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

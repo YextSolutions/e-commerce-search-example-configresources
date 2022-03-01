@@ -1,0 +1,18 @@
+{
+  "$id": "p84064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.49",
+    "c_minPrice": "16.79",
+    "c_numberReviews": "5",
+    "c_priceRange": "$16.79 - $21.49",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/exhibit-a-sunday-paper-imperial-stout/p84064",
+    "name": "Exhibit \u0027A\u0027 Sunday Paper Imperial Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

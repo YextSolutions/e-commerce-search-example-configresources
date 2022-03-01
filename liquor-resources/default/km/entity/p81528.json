@@ -1,0 +1,17 @@
+{
+  "$id": "p81528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.00",
+    "c_minPrice": "6.00",
+    "c_numberReviews": "20",
+    "c_priceRange": "$6.00 - $16.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/maine-beer-co-another-one/p81528",
+    "name": "Maine Beer Company Another One"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

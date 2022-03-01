@@ -1,0 +1,17 @@
+{
+  "$id": "p59363",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "189.99",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "458",
+    "c_priceRange": "$17.59 - $189.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/suntory-toki-japanese-whisky/p59363",
+    "name": "Suntory Toki Japanese Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p47576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$15.99 - $65.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/1800-ultimate-margarita-raspberry/p47576",
+    "name": "1800 Ultimate Margarita Raspberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

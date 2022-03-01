@@ -1,0 +1,17 @@
+{
+  "$id": "p62469",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "287.49",
+    "c_minPrice": "64.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$64.99 - $287.49",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistlepig-farmstock/p62469",
+    "name": "WhistlePig Farmstock Rye Whiskey Crop #1"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

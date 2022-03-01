@@ -1,0 +1,17 @@
+{
+  "$id": "p3343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "211.99",
+    "c_minPrice": "9.52",
+    "c_numberReviews": "3515",
+    "c_priceRange": "$9.52 - $211.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/fireball-cinnamon-whisky/p3343",
+    "name": "Fireball Cinnamon Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

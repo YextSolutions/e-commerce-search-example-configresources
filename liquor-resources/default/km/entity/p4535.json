@@ -1,0 +1,17 @@
+{
+  "$id": "p4535",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$7.99 - $30.99",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/sea-dog-blueberry/p4535",
+    "name": "Sea Dog Blueberry"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

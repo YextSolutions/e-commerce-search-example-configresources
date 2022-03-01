@@ -1,0 +1,17 @@
+{
+  "$id": "p99996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "78.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$19.99 - $78.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/howler-head-banana-infused-kentucky-straight-bourbon/p99996",
+    "name": "Howler Head Banana Infused Kentucky Straight Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

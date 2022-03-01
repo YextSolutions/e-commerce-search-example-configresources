@@ -1,0 +1,17 @@
+{
+  "$id": "p8305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "3.25",
+    "c_numberReviews": "27",
+    "c_priceRange": "$3.25 - $12.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/frontera-pinot-noir/p8305",
+    "name": "Frontera Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

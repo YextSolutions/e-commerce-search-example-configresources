@@ -1,0 +1,18 @@
+{
+  "$id": "p64071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.77",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "46",
+    "c_priceRange": "$9.99 - $23.77",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Berliner Weisse",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/berliner-weisse/10-barrel-raspberry-sour-crush/p64071",
+    "name": "10 Barrel Brewing Co. Raspberry Sour Crush"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

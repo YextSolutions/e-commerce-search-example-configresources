@@ -1,0 +1,17 @@
+{
+  "$id": "p17968",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "17.40",
+    "c_numberReviews": "28",
+    "c_priceRange": "$17.40 - $41.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/earthquake-cabernet-sauvignon/p17968",
+    "name": "Earthquake Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18654",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$18.99 - $49.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/el-dorado-rum-8-year/p18654",
+    "name": "El Dorado Rum 8 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

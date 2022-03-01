@@ -1,0 +1,16 @@
+{
+  "$id": "p2343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rioja Blend",
+    "c_maxPrice": "32.49",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "248",
+    "c_priceRange": "$5.99 - $32.49",
+    "landingPageUrl": "https://drizly.com/wine/rioja-blend/campo-viejo-reserva/p2343",
+    "name": "Campo Viejo Reserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

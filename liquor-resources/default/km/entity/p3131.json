@@ -1,0 +1,16 @@
+{
+  "$id": "p3131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "63.79",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "85",
+    "c_priceRange": "$9.99 - $63.79",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/drambuie-the-isle-of-skye-scotch-liqueur/p3131",
+    "name": "Drambuie The Isle of Skye Scotch Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p133156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "28.49",
+    "c_minPrice": "10.79",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.79 - $28.49",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Berliner Weisse",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/berliner-weisse/creature-comforts-athena-zombie-berliner-weisse/p133156",
+    "name": "Creature Comforts Athena Zombie Berliner Weisse"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p7528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "77.17",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "182",
+    "c_priceRange": "$18.99 - $77.17",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/summer-in-a-bottle-long-island-rose/p7528",
+    "name": "Summer in a Bottle Long Island Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

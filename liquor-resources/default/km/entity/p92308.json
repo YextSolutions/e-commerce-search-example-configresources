@@ -1,0 +1,17 @@
+{
+  "$id": "p92308",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "81",
+    "c_priceRange": "$6.49 - $65.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-authentic-mango-margarita/p92308",
+    "name": "Jose Cuervo Authentic Mango Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

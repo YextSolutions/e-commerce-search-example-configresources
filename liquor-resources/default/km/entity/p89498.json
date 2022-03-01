@@ -1,0 +1,17 @@
+{
+  "$id": "p89498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.44",
+    "c_minPrice": "8.69",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.69 - $21.44",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/chop-shop-cabernet-sauvignon/p89498",
+    "name": "Chop Shop Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

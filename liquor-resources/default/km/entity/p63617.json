@@ -1,0 +1,17 @@
+{
+  "$id": "p63617",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "28.32",
+    "c_numberReviews": "27",
+    "c_priceRange": "$28.32 - $76.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/tx-straight-bourbon/p63617",
+    "name": "TX Straight Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

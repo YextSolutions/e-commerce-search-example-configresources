@@ -1,0 +1,17 @@
+{
+  "$id": "p116802",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$14.99 - $27.99",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/harveys-bristol-cream-sherry/p116802",
+    "name": "Harveys Bristol Cream Sherry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

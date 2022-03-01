@@ -1,0 +1,17 @@
+{
+  "$id": "p27937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.99 - $49.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/antinori-tenuta-guado-al-tasso-il-bruciato-bolgheri/p27937",
+    "name": "Antinori Tenuta Guado al Tasso \"Il Bruciato\" Bolgheri"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

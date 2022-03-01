@@ -1,0 +1,19 @@
+{
+  "$id": "p21995",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "146",
+    "c_priceRange": "$2.99 - $11.49",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "White Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/white-sangria/carlo-rossi-moscato-sangria/p21995",
+    "name": "Carlo Rossi Moscato Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

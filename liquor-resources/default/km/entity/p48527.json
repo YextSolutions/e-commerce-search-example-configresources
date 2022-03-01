@@ -1,0 +1,17 @@
+{
+  "$id": "p48527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$7.99 - $13.19",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/begyle-blonde/p48527",
+    "name": "Begyle Blonde"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

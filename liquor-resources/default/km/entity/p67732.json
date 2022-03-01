@@ -1,0 +1,17 @@
+{
+  "$id": "p67732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "9.75",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.75 - $17.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/georgetown-rogers-pils/p67732",
+    "name": "Georgetown Rogers Pils"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

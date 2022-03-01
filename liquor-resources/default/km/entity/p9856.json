@@ -1,0 +1,17 @@
+{
+  "$id": "p9856",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "4399.99",
+    "c_minPrice": "77.00",
+    "c_numberReviews": "4",
+    "c_priceRange": "$77.00 - $4399.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/george-t-stagg-bourbon/p9856",
+    "name": "George T. Stagg Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

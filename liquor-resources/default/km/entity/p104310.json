@@ -1,0 +1,17 @@
+{
+  "$id": "p104310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "107.79",
+    "c_minPrice": "78.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$78.99 - $107.79",
+    "c_subCategory": "Junmai Daiginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-daiginjo/heavensake-junmai-daiginjo/p104310",
+    "name": "HEAVENSAKE Junmai Daiginjo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "229",
+    "c_priceRange": "$9.99 - $65.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-forester-86-proof-kentucky-straight-bourbon-whisky/p7119",
+    "name": "Old Forester 86 Proof Kentucky Straight Bourbon Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

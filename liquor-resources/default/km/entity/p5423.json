@@ -1,0 +1,17 @@
+{
+  "$id": "p5423",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "45.90",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "68",
+    "c_priceRange": "$18.99 - $45.90",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/olmeca-altos-reposado-tequila/p5423",
+    "name": "Olmeca Altos Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

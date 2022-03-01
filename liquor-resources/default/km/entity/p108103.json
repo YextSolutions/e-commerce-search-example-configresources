@@ -1,0 +1,17 @@
+{
+  "$id": "p108103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$6.99 - $31.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/nude-hard-seltzer-variety-pack/p108103",
+    "name": "Nude Hard Seltzer Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

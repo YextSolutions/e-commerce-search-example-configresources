@@ -1,0 +1,44 @@
+{
+  "$id": "p939",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.09",
+    "c_minPrice": "2.87",
+    "c_numberReviews": "38",
+    "c_priceRange": "$2.87 - $16.09",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/beringer-main-and-vine-moscato/p939",
+    "name": "Beringer Main \u0026 Vine Moscato",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-beringer-moscato-d4f0b40a3a4c99dc.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCBFKbftO5HhUXaaXNV6l3CGlcJaysM36O0B7acYUlo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCBFKbftO5HhUXaaXNV6l3CGlcJaysM36O0B7acYUlo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCBFKbftO5HhUXaaXNV6l3CGlcJaysM36O0B7acYUlo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jCBFKbftO5HhUXaaXNV6l3CGlcJaysM36O0B7acYUlo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

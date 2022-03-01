@@ -1,0 +1,44 @@
+{
+  "$id": "p7547",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "164.99",
+    "c_minPrice": "76.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$76.99 - $164.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/shafer-one-point-five-cabernet-sauvignon/p7547",
+    "name": "Shafer One Point Five Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-shafer-one-point-five-cab-11-83f2f60cd1bb1ecc.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vo4IaH_gp76ylezIQNsV_ksHgX4CejMJkFvfIZ-_Mes/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vo4IaH_gp76ylezIQNsV_ksHgX4CejMJkFvfIZ-_Mes/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vo4IaH_gp76ylezIQNsV_ksHgX4CejMJkFvfIZ-_Mes/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Vo4IaH_gp76ylezIQNsV_ksHgX4CejMJkFvfIZ-_Mes/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p10028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "13.43",
+    "c_numberReviews": "51",
+    "c_priceRange": "$13.43 - $45.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/mumm-napa-cuvee-m-sparkling-wine/p10028",
+    "name": "Mumm Napa Cuvée M Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

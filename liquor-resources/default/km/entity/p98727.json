@@ -1,0 +1,16 @@
+{
+  "$id": "p98727",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.99 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/drinkworks-classic-collection-long-island-iced-tea-pods/p98727",
+    "name": "Drinkworks Classic Collection Long Island Iced Tea Pods"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p3833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "60.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$21.99 - $60.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/penfolds-kalimna-bin-28-shiraz/p3833",
+    "name": "Penfolds Kalimna Bin 28 Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

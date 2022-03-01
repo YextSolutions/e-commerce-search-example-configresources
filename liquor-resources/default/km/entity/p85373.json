@@ -1,0 +1,44 @@
+{
+  "$id": "p85373",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "9.90",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.90 - $13.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/buoy-czech-style-pilsner/p85373",
+    "name": "Buoy Czech Style Pilsner",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-buoy-czech-style-pilsner-pilsner-71f55b2a6ade3666.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ze8mulWSbc1abxefwj3xc1Xv3O_8E6Yo7EGKgaYVLpg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ze8mulWSbc1abxefwj3xc1Xv3O_8E6Yo7EGKgaYVLpg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ze8mulWSbc1abxefwj3xc1Xv3O_8E6Yo7EGKgaYVLpg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ze8mulWSbc1abxefwj3xc1Xv3O_8E6Yo7EGKgaYVLpg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

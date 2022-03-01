@@ -1,0 +1,17 @@
+{
+  "$id": "p7862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "92",
+    "c_priceRange": "$7.99 - $79.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/dr-loosen-l-riesling/p7862",
+    "name": "Dr Loosen \"L\" Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

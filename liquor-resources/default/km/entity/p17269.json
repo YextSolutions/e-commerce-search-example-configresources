@@ -1,0 +1,19 @@
+{
+  "$id": "p17269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "5.60",
+    "c_numberReviews": "33",
+    "c_priceRange": "$5.60 - $22.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/michelob-golden-draft-light-lager/p17269",
+    "name": "Michelob Golden Draft Light Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

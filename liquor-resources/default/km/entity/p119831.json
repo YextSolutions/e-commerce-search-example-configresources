@@ -1,0 +1,17 @@
+{
+  "$id": "p119831",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "139.99",
+    "c_minPrice": "38.09",
+    "c_numberReviews": "4",
+    "c_priceRange": "$38.09 - $139.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/calumet-farm-bourbon-kentucky-straight-8-year/p119831",
+    "name": "Calumet Farm Bourbon Kentucky Straight 8 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

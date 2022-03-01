@@ -1,0 +1,17 @@
+{
+  "$id": "p26010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$11.99 - $29.99",
+    "c_subCategory": "Valpolicella Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/valpolicella-blend/tommasi-rafael-valpolicella-classico-superiore/p26010",
+    "name": "Tommasi Rafael Valpolicella Classico Superiore"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

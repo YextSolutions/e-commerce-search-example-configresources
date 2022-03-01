@@ -1,0 +1,17 @@
+{
+  "$id": "p126130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "41.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$41.99 - $76.99",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-black-cognac-gift-set/p126130",
+    "name": "Hennessy Black Cognac Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$4.99 - $16.49",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/danzante-pinot-grigio/p2936",
+    "name": "Danzante Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

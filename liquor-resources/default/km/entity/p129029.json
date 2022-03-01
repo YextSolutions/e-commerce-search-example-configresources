@@ -1,0 +1,16 @@
+{
+  "$id": "p129029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.00",
+    "c_minPrice": "3.40",
+    "c_numberReviews": "40",
+    "c_priceRange": "$3.40 - $15.00",
+    "landingPageUrl": "https://drizly.com/beer/lager/dos-equis-lager-lime-and-salt/p129029",
+    "name": "Dos Equis Lager Lime \u0026 Salt"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

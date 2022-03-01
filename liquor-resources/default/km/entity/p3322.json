@@ -1,0 +1,17 @@
+{
+  "$id": "p3322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$11.49 - $49.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/ferrari-carano-siena/p3322",
+    "name": "Ferrari Carano Siena"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

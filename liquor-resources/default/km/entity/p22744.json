@@ -1,0 +1,17 @@
+{
+  "$id": "p22744",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "13.98",
+    "c_numberReviews": "4",
+    "c_priceRange": "$13.98 - $79.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/finca-decero-malbec-2012/p22744",
+    "name": "Finca Decero Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

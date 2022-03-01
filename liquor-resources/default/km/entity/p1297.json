@@ -1,0 +1,44 @@
+{
+  "$id": "p1297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "216.00",
+    "c_minPrice": "1.09",
+    "c_numberReviews": "1222",
+    "c_priceRange": "$1.09 - $216.00",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/kendall-jackson-vintners-reserve-chardonnay/p1297",
+    "name": "Kendall-Jackson Vintner\u0027s Reserve Chardonnay",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-kendall-jackson-chardonnay-c59174511cd04ff1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cmI1lEREng5tq2uDORYvrC20BrKHNo5ba65kTCYaMgw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cmI1lEREng5tq2uDORYvrC20BrKHNo5ba65kTCYaMgw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cmI1lEREng5tq2uDORYvrC20BrKHNo5ba65kTCYaMgw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cmI1lEREng5tq2uDORYvrC20BrKHNo5ba65kTCYaMgw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

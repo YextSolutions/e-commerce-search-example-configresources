@@ -1,0 +1,17 @@
+{
+  "$id": "p11457",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$19.99 - $65.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/north-valley-vineyards-willamette-valley-pinot-noir-classic/p11457",
+    "name": "North Valley Vineyards, Willamette Valley, Pinot Noir \"Classic\""
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

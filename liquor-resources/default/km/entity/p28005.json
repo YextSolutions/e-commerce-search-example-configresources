@@ -1,0 +1,44 @@
+{
+  "$id": "p28005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$11.99 - $59.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/j-lohr-hilltop-cabernet-sauvignon/p28005",
+    "name": "J. Lohr Hilltop Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-j-lohr-cabernet-sauvignon-hilltop-0f471c757d8aeaf0.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/mAO1DYy6VWpcO3gc-nqtA8ZgEc_s7hboHoKP1gNYbhU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/mAO1DYy6VWpcO3gc-nqtA8ZgEc_s7hboHoKP1gNYbhU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/mAO1DYy6VWpcO3gc-nqtA8ZgEc_s7hboHoKP1gNYbhU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mAO1DYy6VWpcO3gc-nqtA8ZgEc_s7hboHoKP1gNYbhU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

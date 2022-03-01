@@ -1,0 +1,17 @@
+{
+  "$id": "p20609",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "34.19",
+    "c_minPrice": "9.61",
+    "c_numberReviews": "34",
+    "c_priceRange": "$9.61 - $34.19",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/kendall-jackson-vintners-reserve-pinot-gris/p20609",
+    "name": "Kendall-Jackson Vintner\u0027s Reserve Pinot Gris"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

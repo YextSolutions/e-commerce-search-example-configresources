@@ -1,0 +1,17 @@
+{
+  "$id": "p21956",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "58.29",
+    "c_minPrice": "12.00",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.00 - $58.29",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/canvasback-red-mountain-washington-state-cabernet-sauvignon/p21956",
+    "name": "Canvasback Red Mountain Washington State Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

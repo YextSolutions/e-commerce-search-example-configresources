@@ -1,0 +1,43 @@
+{
+  "$id": "p5573",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "37.98",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$15.99 - $37.98",
+    "landingPageUrl": "https://drizly.com/beer/lager/heineken-mini-keg/p5573",
+    "name": "Heineken Mini-Keg",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-heineken-mini-keg-7c8f5dfc24ca9b06.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JdpEJuGVVARksQDpRfLQK-oYT7EUiZBN6YtuceFUFCw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JdpEJuGVVARksQDpRfLQK-oYT7EUiZBN6YtuceFUFCw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JdpEJuGVVARksQDpRfLQK-oYT7EUiZBN6YtuceFUFCw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JdpEJuGVVARksQDpRfLQK-oYT7EUiZBN6YtuceFUFCw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

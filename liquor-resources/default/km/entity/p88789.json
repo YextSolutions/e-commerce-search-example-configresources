@@ -1,0 +1,17 @@
+{
+  "$id": "p88789",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "2.98",
+    "c_numberReviews": "6",
+    "c_priceRange": "$2.98 - $8.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/crafters-union-red-blend-can/p88789",
+    "name": "Crafters Union Red Blend Can"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

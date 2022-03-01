@@ -1,0 +1,17 @@
+{
+  "$id": "p1977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "36.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$10.99 - $36.00",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/brugal-extra-dry-white-rum/p1977",
+    "name": "Brugal Extra Dry White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

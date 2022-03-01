@@ -1,0 +1,16 @@
+{
+  "$id": "p4289",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "51.96",
+    "c_minPrice": "13.19",
+    "c_numberReviews": "157",
+    "c_priceRange": "$13.19 - $51.96",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/romana-sambuca/p4289",
+    "name": "Romana Sambuca"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

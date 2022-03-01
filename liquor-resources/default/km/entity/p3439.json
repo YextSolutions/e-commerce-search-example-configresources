@@ -1,0 +1,17 @@
+{
+  "$id": "p3439",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "55.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$17.99 - $55.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/frogs-leap-sauvignon-blanc/p3439",
+    "name": "Frog\u0027s Leap Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

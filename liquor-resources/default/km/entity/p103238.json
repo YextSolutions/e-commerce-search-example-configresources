@@ -1,0 +1,17 @@
+{
+  "$id": "p103238",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.89 - $14.99",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/golden-road-brewing-champango/p103238",
+    "name": "Golden Road Brewing Champango"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

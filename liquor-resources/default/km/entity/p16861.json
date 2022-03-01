@@ -1,0 +1,17 @@
+{
+  "$id": "p16861",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "4.75",
+    "c_numberReviews": "30",
+    "c_priceRange": "$4.75 - $12.99",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/manischewitz-cream-peach/p16861",
+    "name": "Manischewitz Cream Peach"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

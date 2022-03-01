@@ -1,0 +1,17 @@
+{
+  "$id": "p7346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.12",
+    "c_numberReviews": "50",
+    "c_priceRange": "$8.12 - $17.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/castillo-silver-rum/p7346",
+    "name": "Castillo Silver Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p27545",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.50",
+    "c_numberReviews": "70",
+    "c_priceRange": "$6.50 - $23.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/odell-mountain-standard-ipa/p27545",
+    "name": "Odell Mountain Standard IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

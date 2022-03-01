@@ -1,0 +1,17 @@
+{
+  "$id": "p128064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$11.99 - $16.99",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/cape-may-brewing-company-mop-water-spiced-ale/p128064",
+    "name": "Cape May Brewing Company Mop Water Spiced Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

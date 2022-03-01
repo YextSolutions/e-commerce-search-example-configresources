@@ -1,0 +1,17 @@
+{
+  "$id": "p1339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "5.29",
+    "c_numberReviews": "10",
+    "c_priceRange": "$5.29 - $16.49",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/la-fiera-montepulciano-dabruzzo/p1339",
+    "name": "La Fiera Montepulciano d\u0027Abruzzo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

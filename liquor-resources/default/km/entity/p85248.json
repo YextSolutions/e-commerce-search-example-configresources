@@ -1,0 +1,17 @@
+{
+  "$id": "p85248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "19.94",
+    "c_numberReviews": "15",
+    "c_priceRange": "$19.94 - $49.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/early-times-bottled-in-bond-bourbon/p85248",
+    "name": "Early Times Bottled In Bond Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

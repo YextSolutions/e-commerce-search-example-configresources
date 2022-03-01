@@ -1,0 +1,17 @@
+{
+  "$id": "p92101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "48.39",
+    "c_minPrice": "18.39",
+    "c_numberReviews": "34",
+    "c_priceRange": "$18.39 - $48.39",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/mi-campo-blanco-tequila/p92101",
+    "name": "Mi Campo Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p18657",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.00",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.24 - $20.00",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/burnetts-strawberry-vodka/p18657",
+    "name": "Burnett\u0027s Strawberry Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p57421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "449.99",
+    "c_minPrice": "139.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$139.99 - $449.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistle-pig-15-year/p57421",
+    "name": "WhistlePig 15 Year Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

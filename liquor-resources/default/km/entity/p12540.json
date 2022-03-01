@@ -1,0 +1,17 @@
+{
+  "$id": "p12540",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "12.13",
+    "c_numberReviews": "16",
+    "c_priceRange": "$12.13 - $29.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/locations-e-by-dave-phinney-spanish-red-blend/p12540",
+    "name": "Locations E by Dave Phinney – Spanish Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

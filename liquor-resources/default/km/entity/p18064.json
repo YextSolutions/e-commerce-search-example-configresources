@@ -1,0 +1,17 @@
+{
+  "$id": "p18064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.07",
+    "c_minPrice": "8.21",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.21 - $20.07",
+    "c_subCategory": "Viognier",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/viognier/cline-cellars-viognier/p18064",
+    "name": "Cline Cellars Viognier"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

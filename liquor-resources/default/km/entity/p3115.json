@@ -1,0 +1,17 @@
+{
+  "$id": "p3115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "6.20",
+    "c_numberReviews": "98",
+    "c_priceRange": "$6.20 - $32.99",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/dos-equis-ambar/p3115",
+    "name": "Dos Equis Ambar"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

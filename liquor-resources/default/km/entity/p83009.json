@@ -1,0 +1,17 @@
+{
+  "$id": "p83009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "36.08",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "164",
+    "c_priceRange": "$2.99 - $36.08",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-wild-berry-spiked-and-sparkling-water/p83009",
+    "name": "TRULY Hard Seltzer Wild Berry, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

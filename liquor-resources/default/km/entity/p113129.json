@@ -1,0 +1,17 @@
+{
+  "$id": "p113129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.95",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$9.99 - $22.95",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/carnivor-bourbon-barrel-aged-cabernet-sauvignon/p113129",
+    "name": "Carnivor Bourbon Barrel Aged Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

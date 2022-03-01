@@ -1,0 +1,17 @@
+{
+  "$id": "p90141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$3.99 - $14.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/yosemite-road-chardonnay/p90141",
+    "name": "Yosemite Road Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

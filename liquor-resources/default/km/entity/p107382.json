@@ -1,0 +1,17 @@
+{
+  "$id": "p107382",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "23.09",
+    "c_minPrice": "18.49",
+    "c_numberReviews": "13",
+    "c_priceRange": "$18.49 - $23.09",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/crafthouse-cocktails-smoky-margarita-bottled-cocktail/p107382",
+    "name": "Crafthouse Cocktails Smoky Margarita Bottled Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

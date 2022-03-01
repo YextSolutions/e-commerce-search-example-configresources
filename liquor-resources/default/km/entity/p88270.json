@@ -1,0 +1,17 @@
+{
+  "$id": "p88270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "9.38",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.38 - $18.69",
+    "c_subCategory": "Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/new-belgium-oakspire-bourbon-barrel-ale/p88270",
+    "name": "New Belgium Oakspire Bourbon Barrel Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

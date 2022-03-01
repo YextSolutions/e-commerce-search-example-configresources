@@ -1,0 +1,17 @@
+{
+  "$id": "p19695",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "20.94",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$7.99 - $20.94",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/hartley-and-gibson-amontillado-sherry/p19695",
+    "name": "Hartley \u0026 Gibson Amontillado Sherry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

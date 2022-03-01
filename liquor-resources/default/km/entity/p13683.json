@@ -1,0 +1,17 @@
+{
+  "$id": "p13683",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "96.79",
+    "c_minPrice": "30.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$30.00 - $96.79",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/woodinville-straight-100-rye-whiskey/p13683",
+    "name": "Woodinville Straight 100% Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

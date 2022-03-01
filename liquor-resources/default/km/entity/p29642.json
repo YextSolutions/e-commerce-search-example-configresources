@@ -1,0 +1,17 @@
+{
+  "$id": "p29642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "82.99",
+    "c_minPrice": "42.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$42.99 - $82.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/massolino-barolo-serralunga-dalba/p29642",
+    "name": "Massolino Barolo Serralunga d\u0027Alba"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

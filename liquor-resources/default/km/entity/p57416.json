@@ -1,0 +1,16 @@
+{
+  "$id": "p57416",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "23",
+    "c_priceRange": "$5.00 - $17.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/broadbent-vinho-verde-rose/p57416",
+    "name": "Broadbent Vinho Verde Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

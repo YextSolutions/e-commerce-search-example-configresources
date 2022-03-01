@@ -1,0 +1,17 @@
+{
+  "$id": "p27161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$19.99 - $42.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/cimarron-reposado-tequila/p27161",
+    "name": "Cimarron Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p12898",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$16.99 - $49.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/absinthe-ordinaire/p12898",
+    "name": "Absinthe Ordinaire"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

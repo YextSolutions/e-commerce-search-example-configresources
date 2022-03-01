@@ -1,0 +1,19 @@
+{
+  "$id": "p89716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "18",
+    "c_priceRange": "$6.59 - $21.99",
+    "c_subCategory": "Sour Ale",
+    "c_subType": "Fruit Lambic",
+    "c_type": "Lambic",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/lambic/fruit-lambic/lindemans-strawberry-lambic/p89716",
+    "name": "Lindemans Strawberry Lambic"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

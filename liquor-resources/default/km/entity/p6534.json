@@ -1,0 +1,44 @@
+{
+  "$id": "p6534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$18.99 - $44.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/islay-mist-8-year/p6534",
+    "name": "Islay Mist 8 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-islay-mist-8-year-b515b462be811742.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFCyW5u-tZpdx5DGp3Jomccj7I6fi_yI62_Hwn1kKvM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFCyW5u-tZpdx5DGp3Jomccj7I6fi_yI62_Hwn1kKvM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/xFCyW5u-tZpdx5DGp3Jomccj7I6fi_yI62_Hwn1kKvM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xFCyW5u-tZpdx5DGp3Jomccj7I6fi_yI62_Hwn1kKvM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

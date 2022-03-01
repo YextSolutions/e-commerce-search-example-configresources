@@ -1,0 +1,17 @@
+{
+  "$id": "p101926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.77",
+    "c_minPrice": "6.00",
+    "c_numberReviews": "28",
+    "c_priceRange": "$6.00 - $29.77",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-zero-sugar-original/p101926",
+    "name": "Smirnoff Ice Zero Sugar Original"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

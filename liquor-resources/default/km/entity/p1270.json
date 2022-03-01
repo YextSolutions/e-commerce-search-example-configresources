@@ -1,0 +1,17 @@
+{
+  "$id": "p1270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "742.49",
+    "c_minPrice": "99.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$99.99 - $742.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/michters-10-year-kentucky-straight-bourbon/p1270",
+    "name": "Michter’s 10 Year Kentucky Straight Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

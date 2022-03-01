@@ -1,0 +1,45 @@
+{
+  "$id": "p17350",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "8.46",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.46 - $14.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Hefeweizen",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/hefeweizen/two-roads-no-limits-hefeweizen/p17350",
+    "name": "Two Roads No Limits Hefeweizen",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-two-roads-no-limits-hefeweizen-a11fccb8f0d50cf7.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/7hwxN5jf3zMKY2lUGOO_G-rvI7_vHAJHwVvfOJCtwc8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7hwxN5jf3zMKY2lUGOO_G-rvI7_vHAJHwVvfOJCtwc8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7hwxN5jf3zMKY2lUGOO_G-rvI7_vHAJHwVvfOJCtwc8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7hwxN5jf3zMKY2lUGOO_G-rvI7_vHAJHwVvfOJCtwc8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

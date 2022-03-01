@@ -1,0 +1,17 @@
+{
+  "$id": "p12341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.82",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$29.99 - $109.82",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/amrut-single-malt/p12341",
+    "name": "Amrut Single Malt"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

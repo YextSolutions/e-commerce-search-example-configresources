@@ -1,0 +1,17 @@
+{
+  "$id": "p88353",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "568.49",
+    "c_minPrice": "18.15",
+    "c_numberReviews": "6",
+    "c_priceRange": "$18.15 - $568.49",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/the-singleton-of-glendullan-the-game-of-thrones-house-tully-select-single-malt-scotch-whisky/p88353",
+    "name": "The Singleton of Glendullan Game of Thrones House Tully Select Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

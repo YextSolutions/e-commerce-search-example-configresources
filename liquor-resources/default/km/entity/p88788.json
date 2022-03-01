@@ -1,0 +1,17 @@
+{
+  "$id": "p88788",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "2.98",
+    "c_numberReviews": "19",
+    "c_priceRange": "$2.98 - $15.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/crafters-union-pinot-grigio-can/p88788",
+    "name": "Crafters Union Pinot Grigio Can"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p9650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "26.24",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$8.99 - $26.24",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/parrot-bay-mango-rum/p9650",
+    "name": "Parrot Bay Mango Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

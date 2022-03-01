@@ -1,0 +1,17 @@
+{
+  "$id": "p38662",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.53",
+    "c_minPrice": "8.80",
+    "c_numberReviews": "96",
+    "c_priceRange": "$8.80 - $23.53",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/prophecy-california-pinot-noir/p38662",
+    "name": "Prophecy California Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p105490",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$19.99 - $37.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/stoller-family-estate-willamette-valley-pinot-noir/p105490",
+    "name": "Stoller Family Estate Willamette Valley Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

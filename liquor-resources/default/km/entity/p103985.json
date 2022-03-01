@@ -1,0 +1,16 @@
+{
+  "$id": "p103985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/daou-rose/p103985",
+    "name": "Daou Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

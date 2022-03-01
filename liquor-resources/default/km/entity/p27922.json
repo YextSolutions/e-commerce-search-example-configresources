@@ -1,0 +1,17 @@
+{
+  "$id": "p27922",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.67",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "14",
+    "c_priceRange": "$10.00 - $22.67",
+    "c_subCategory": "Cabernet Franc",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-franc/cosentino-the-franc/p27922",
+    "name": "Cosentino The Franc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

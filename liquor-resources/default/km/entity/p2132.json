@@ -1,0 +1,17 @@
+{
+  "$id": "p2132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "6.73",
+    "c_numberReviews": "6",
+    "c_priceRange": "$6.73 - $29.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/william-hill-coastal-collection-merlot/p2132",
+    "name": "William Hill Central Coast Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

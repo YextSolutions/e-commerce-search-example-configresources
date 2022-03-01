@@ -1,0 +1,17 @@
+{
+  "$id": "p29570",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "47.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$47.99 - $76.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-double-oaked-kentucky-straight-bourbon-whiskey-personal-selection/p29570",
+    "name": "Woodford Reserve Double Oaked Kentucky Straight Bourbon Whiskey Personal Selection"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

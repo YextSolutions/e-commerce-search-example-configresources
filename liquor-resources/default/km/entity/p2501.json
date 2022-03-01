@@ -1,0 +1,17 @@
+{
+  "$id": "p2501",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "327",
+    "c_priceRange": "$12.09 - $69.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/chandon-brut-sparkling/p2501",
+    "name": "Chandon Brut Sparkling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

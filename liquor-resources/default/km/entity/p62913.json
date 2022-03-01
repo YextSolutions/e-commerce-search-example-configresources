@@ -1,0 +1,17 @@
+{
+  "$id": "p62913",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.00",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "124",
+    "c_priceRange": "$5.99 - $29.00",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/jack-daniels-country-cocktails-southern-peach/p62913",
+    "name": "Jack Daniel\u0027s Country Cocktails Southern Peach"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

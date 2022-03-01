@@ -1,0 +1,17 @@
+{
+  "$id": "p6217",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "28.59",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$8.99 - $28.59",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/360-vodka-double-chocolate/p6217",
+    "name": "360 Vodka Double Chocolate"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p96387",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "20.03",
+    "c_minPrice": "10.76",
+    "c_numberReviews": "38",
+    "c_priceRange": "$10.76 - $20.03",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/99-long-island-iced-tea-liqueur/p96387",
+    "name": "99 Long Island Iced Tea Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p12462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "112",
+    "c_priceRange": "$5.99 - $19.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/barefoot-bubbly-prosecco/p12462",
+    "name": "Barefoot Bubbly Prosecco",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-barefoot-bubbly-prosecco-c4956180e07d8ded.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cd1YzR8kkK9ENL_rRH9cFIxkuVT5_sk6UK02U73TXIU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cd1YzR8kkK9ENL_rRH9cFIxkuVT5_sk6UK02U73TXIU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cd1YzR8kkK9ENL_rRH9cFIxkuVT5_sk6UK02U73TXIU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cd1YzR8kkK9ENL_rRH9cFIxkuVT5_sk6UK02U73TXIU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

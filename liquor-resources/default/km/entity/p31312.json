@@ -1,0 +1,17 @@
+{
+  "$id": "p31312",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "69.29",
+    "c_minPrice": "31.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$31.99 - $69.29",
+    "c_subCategory": "Brunello",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/brunello/fattoria-la-lecciaia-brunello-di-montalcino/p31312",
+    "name": "Fattoria La Lecciaia Brunello di Montalcino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

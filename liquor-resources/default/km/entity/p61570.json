@@ -1,0 +1,16 @@
+{
+  "$id": "p61570",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "114.99",
+    "c_minPrice": "3.30",
+    "c_numberReviews": "112",
+    "c_priceRange": "$3.30 - $114.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/fleur-de-mer-rose/p61570",
+    "name": "Fleur de Mer Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

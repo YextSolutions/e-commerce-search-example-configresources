@@ -1,0 +1,17 @@
+{
+  "$id": "p25492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "51",
+    "c_priceRange": "$7.00 - $27.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/chloe-prosecco-sparkling-wine/p25492",
+    "name": "Chloe Prosecco Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

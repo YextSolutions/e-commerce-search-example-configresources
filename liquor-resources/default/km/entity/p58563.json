@@ -1,0 +1,17 @@
+{
+  "$id": "p58563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$13.99 - $47.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/effen-green-apple-vodka/p58563",
+    "name": "Effen Green Apple Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

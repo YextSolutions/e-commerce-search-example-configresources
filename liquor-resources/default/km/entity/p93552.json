@@ -1,0 +1,17 @@
+{
+  "$id": "p93552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "156",
+    "c_priceRange": "$7.69 - $41.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/dogfish-head-slightly-mighty-lo-cal-ipa/p93552",
+    "name": "Dogfish Head Slightly Mighty Lo-Cal IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

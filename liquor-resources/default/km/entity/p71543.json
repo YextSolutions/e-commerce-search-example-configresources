@@ -1,0 +1,17 @@
+{
+  "$id": "p71543",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "96.79",
+    "c_minPrice": "42.72",
+    "c_numberReviews": "18",
+    "c_priceRange": "$42.72 - $96.79",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-forester-statesman-kentucky-bourbon/p71543",
+    "name": "Old Forester Statesman Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

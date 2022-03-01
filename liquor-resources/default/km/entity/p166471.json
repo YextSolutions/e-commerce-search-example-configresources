@@ -1,0 +1,44 @@
+{
+  "$id": "p166471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "599.99",
+    "c_minPrice": "47.29",
+    "c_numberReviews": "8",
+    "c_priceRange": "$47.29 - $599.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/crown-royal-aged-18-years-extra-rare-blended-canadian-whisky/p166471",
+    "name": "Crown Royal Aged 18 Years Extra Rare Blended Canadian Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-crown-royal-aged-18-years-extra-rare-blended-canadian-whisky-92953ee08813eccb.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5niALsZnsNhwC4VE9qlHoJft51ImeiJTjM2tzgTTpI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5niALsZnsNhwC4VE9qlHoJft51ImeiJTjM2tzgTTpI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/a5niALsZnsNhwC4VE9qlHoJft51ImeiJTjM2tzgTTpI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a5niALsZnsNhwC4VE9qlHoJft51ImeiJTjM2tzgTTpI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

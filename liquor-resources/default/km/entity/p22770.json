@@ -1,0 +1,44 @@
+{
+  "$id": "p22770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "309.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$59.99 - $309.99",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/flor-de-cana-25-year-old-rum/p22770",
+    "name": "Flor de Caña 25 Year Old Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-flor-de-cana-centenario-25-year-rum-73f473b031934515.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBOrbz6L8LkfOezClHakCPj00dIBp6jllG6LJS9zZpU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBOrbz6L8LkfOezClHakCPj00dIBp6jllG6LJS9zZpU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/RBOrbz6L8LkfOezClHakCPj00dIBp6jllG6LJS9zZpU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RBOrbz6L8LkfOezClHakCPj00dIBp6jllG6LJS9zZpU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

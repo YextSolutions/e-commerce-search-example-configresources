@@ -1,0 +1,17 @@
+{
+  "$id": "p1917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "28.59",
+    "c_numberReviews": "338",
+    "c_priceRange": "$28.59 - $299.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/the-botanist-islay-dry-gin/p1917",
+    "name": "The Botanist Islay Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "86",
+    "c_priceRange": "$9.99 - $26.49",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/layer-cake-shiraz/p1409",
+    "name": "Layer Cake Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

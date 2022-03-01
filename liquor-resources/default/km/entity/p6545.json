@@ -1,0 +1,17 @@
+{
+  "$id": "p6545",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "104.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "76",
+    "c_priceRange": "$10.99 - $104.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/evan-williams-1783-small-batch/p6545",
+    "name": "Evan Williams 1783 Small Batch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

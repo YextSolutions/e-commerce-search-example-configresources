@@ -1,0 +1,17 @@
+{
+  "$id": "p1891",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.26",
+    "c_minPrice": "8.06",
+    "c_numberReviews": "32",
+    "c_priceRange": "$8.06 - $25.26",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/bonterra-organic-merlot/p1891",
+    "name": "Bonterra Organic Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

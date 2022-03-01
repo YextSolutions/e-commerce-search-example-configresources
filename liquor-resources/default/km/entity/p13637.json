@@ -1,0 +1,17 @@
+{
+  "$id": "p13637",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$9.99 - $26.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/skyy-infusions-wild-strawberry/p13637",
+    "name": "SKYY Infusions Wild Strawberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

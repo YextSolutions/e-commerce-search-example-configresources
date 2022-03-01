@@ -1,0 +1,17 @@
+{
+  "$id": "p87511",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "13.19",
+    "c_numberReviews": "314",
+    "c_priceRange": "$13.19 - $59.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/proper-no-twelve-irish-whiskey/p87511",
+    "name": "Proper No. Twelve Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

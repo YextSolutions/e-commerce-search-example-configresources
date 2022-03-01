@@ -1,0 +1,17 @@
+{
+  "$id": "p99809",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$15.99 - $19.99",
+    "c_subCategory": "Mojito Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mojito-ready-to-drink/drinkworks-classic-collection-mojito-pods/p99809",
+    "name": "Drinkworks Classic Collection Mojito Pods"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

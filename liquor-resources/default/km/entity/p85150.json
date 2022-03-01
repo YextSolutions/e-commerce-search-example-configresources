@@ -1,0 +1,16 @@
+{
+  "$id": "p85150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.79 - $27.49",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/american-anthem-vodka/p85150",
+    "name": "American Anthem Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

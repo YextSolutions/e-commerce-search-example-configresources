@@ -1,0 +1,16 @@
+{
+  "$id": "p64105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "12.31",
+    "c_minPrice": "3.66",
+    "c_numberReviews": "52",
+    "c_priceRange": "$3.66 - $12.31",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/barefoot-rose-spritzer/p64105",
+    "name": "Barefoot Rosé Spritzer"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

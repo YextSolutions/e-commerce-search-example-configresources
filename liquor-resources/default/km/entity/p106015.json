@@ -1,0 +1,18 @@
+{
+  "$id": "p106015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$9.99 - $54.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/lawsons-super-session-ipa-series/p106015",
+    "name": "Lawson\u0027s Super Session IPA Series"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

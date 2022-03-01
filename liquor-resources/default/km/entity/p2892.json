@@ -1,0 +1,17 @@
+{
+  "$id": "p2892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "134",
+    "c_priceRange": "$6.63 - $999.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/cupcake-vineyards-moscato-d-asti-white-wine/p2892",
+    "name": "Cupcake® Vineyards Moscato d\u0027 Asti White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

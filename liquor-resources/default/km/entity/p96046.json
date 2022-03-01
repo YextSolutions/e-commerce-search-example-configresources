@@ -1,0 +1,17 @@
+{
+  "$id": "p96046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$7.99 - $16.49",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/breckenridge-brewery-strawberry-sky/p96046",
+    "name": "Breckenridge Brewery Strawberry Sky"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p81762",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "44.84",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$27.99 - $44.84",
+    "landingPageUrl": "https://drizly.com/liquor/gin/corgi-pembroke-gin/p81762",
+    "name": "Corgi Pembroke Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

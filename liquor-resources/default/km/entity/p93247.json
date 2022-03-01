@@ -1,0 +1,17 @@
+{
+  "$id": "p93247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "140",
+    "c_priceRange": "$3.99 - $19.99",
+    "c_subCategory": "Mai Tai Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mai-tai-ready-to-drink/otr-cruzan-mai-tai-cocktail/p93247",
+    "name": "OTR Cruzan Mai Tai Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

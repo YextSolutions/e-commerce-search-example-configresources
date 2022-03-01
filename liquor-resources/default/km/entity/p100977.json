@@ -1,0 +1,17 @@
+{
+  "$id": "p100977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "2.50",
+    "c_numberReviews": "17",
+    "c_priceRange": "$2.50 - $27.49",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/fireball-peel-and-party-shots/p100977",
+    "name": "Fireball Peel \u0026 Party Shots"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

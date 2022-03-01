@@ -1,0 +1,17 @@
+{
+  "$id": "p69464",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "16",
+    "c_priceRange": "$9.49 - $12.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/bootstrap-chillax-pineapple-golden-ale/p69464",
+    "name": "Bootstrap Chillax Pineapple Golden Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

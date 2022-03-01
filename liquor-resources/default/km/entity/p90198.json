@@ -1,0 +1,18 @@
+{
+  "$id": "p90198",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$9.99 - $13.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Hefeweizen",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/hefeweizen/rar-groove-city-hefeweizen/p90198",
+    "name": "RAR Groove City Hefeweizen"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

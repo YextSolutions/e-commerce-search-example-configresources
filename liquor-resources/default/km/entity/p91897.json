@@ -1,0 +1,17 @@
+{
+  "$id": "p91897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "351.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.99 - $351.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/amass-los-angeles-dry-gin/p91897",
+    "name": "AMASS Los Angeles Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

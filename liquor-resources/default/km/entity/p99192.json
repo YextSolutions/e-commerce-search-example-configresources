@@ -1,0 +1,17 @@
+{
+  "$id": "p99192",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "18.79",
+    "c_minPrice": "3.25",
+    "c_numberReviews": "31",
+    "c_priceRange": "$3.25 - $18.79",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/two-chicks-sparkling-citrus-margarita/p99192",
+    "name": "Two Chicks Sparkling Citrus Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

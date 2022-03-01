@@ -1,0 +1,17 @@
+{
+  "$id": "p115167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "23.88",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$6.99 - $23.88",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-extra-hard-seltzer-black-raspberry-8-abv-spiked-and-sparkling-water/p115167",
+    "name": "TRULY EXTRA Hard Seltzer Black Raspberry 8% ABV, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

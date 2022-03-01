@@ -1,0 +1,16 @@
+{
+  "$id": "p4395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "10.69",
+    "c_numberReviews": "254",
+    "c_priceRange": "$10.69 - $34.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/samuel-adams-gameday-beers-seasonal-variety-pack/p4395",
+    "name": "Samuel Adams Gameday Beers Seasonal Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

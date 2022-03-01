@@ -1,0 +1,17 @@
+{
+  "$id": "p95562",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.69",
+    "c_numberReviews": "56",
+    "c_priceRange": "$15.69 - $99.99",
+    "c_subCategory": "Moonshine",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/moonshine/ole-smoky-moonshine-pickles/p95562",
+    "name": "Ole Smoky Moonshine Pickles"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p28177",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "8.54",
+    "c_minPrice": "3.77",
+    "c_numberReviews": "20",
+    "c_priceRange": "$3.77 - $8.54",
+    "c_subCategory": "Shots Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/shots-ready-to-drink/twisted-shotz-b52/p28177",
+    "name": "Twisted Shotz B52",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-twisted-shotz-b52-46a6f65b313b6053.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/xS93BJK_4H-2MopP2LssjW0mcCZqcHr_qJwwdIYRdCE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/xS93BJK_4H-2MopP2LssjW0mcCZqcHr_qJwwdIYRdCE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/xS93BJK_4H-2MopP2LssjW0mcCZqcHr_qJwwdIYRdCE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/xS93BJK_4H-2MopP2LssjW0mcCZqcHr_qJwwdIYRdCE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

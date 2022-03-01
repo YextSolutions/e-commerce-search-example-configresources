@@ -1,0 +1,17 @@
+{
+  "$id": "p4051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "129",
+    "c_priceRange": "$6.99 - $22.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/punto-final-malbec-clasico/p4051",
+    "name": "Punto Final Malbec Clásico"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

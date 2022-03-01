@@ -1,0 +1,44 @@
+{
+  "$id": "p28145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.50",
+    "c_minPrice": "4.94",
+    "c_numberReviews": "12",
+    "c_priceRange": "$4.94 - $15.50",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/fre-moscato-white-wine-750ml-wine-bottle/p28145",
+    "name": "Fre Moscato White Wine, 750mL Wine Bottle",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-sutter-home-fre-alcohol-removed-moscato-59557a14cf0dc0b0.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dn2CAXCgWP7c2j_neToKrCxLkTSNt6EMWSodb-uY094/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dn2CAXCgWP7c2j_neToKrCxLkTSNt6EMWSodb-uY094/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Dn2CAXCgWP7c2j_neToKrCxLkTSNt6EMWSodb-uY094/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Dn2CAXCgWP7c2j_neToKrCxLkTSNt6EMWSodb-uY094/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

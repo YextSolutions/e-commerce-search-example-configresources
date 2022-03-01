@@ -1,0 +1,17 @@
+{
+  "$id": "p2922",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "52.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "138",
+    "c_priceRange": "$1.49 - $52.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/oskar-blues-dales-pale-ale/p2922",
+    "name": "Oskar Blues Dale\u0027s Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

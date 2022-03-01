@@ -1,0 +1,17 @@
+{
+  "$id": "p1258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "281",
+    "c_priceRange": "$9.99 - $27.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/malibu-pineapple-rum/p1258",
+    "name": "Malibu Pineapple Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p102510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "5.99",
+    "c_minPrice": "1.87",
+    "c_numberReviews": "42",
+    "c_priceRange": "$1.87 - $5.99",
+    "c_subCategory": "Martini Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/martini-ready-to-drink/buzzballz-sour-apple-chiller/p102510",
+    "name": "BuzzBallz Sour Apple Chiller"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

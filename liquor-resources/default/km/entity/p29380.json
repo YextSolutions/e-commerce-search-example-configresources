@@ -1,0 +1,17 @@
+{
+  "$id": "p29380",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.99 - $19.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/two-fingers-teq-white/p29380",
+    "name": "Two Fingers Teq White"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

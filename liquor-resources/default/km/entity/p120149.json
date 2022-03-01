@@ -1,0 +1,17 @@
+{
+  "$id": "p120149",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.29",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.29 - $16.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/goose-island-beer-company-christmas-ipa/p120149",
+    "name": "Goose Island Beer Company Christmas IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

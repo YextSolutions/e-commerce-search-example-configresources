@@ -1,0 +1,17 @@
+{
+  "$id": "p58503",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "40.00",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$23.99 - $40.00",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/bully-boy-distillers-estate-gin/p58503",
+    "name": "Bully Boy Distillers Estate Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$4.99 - $18.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/cycles-gladiator-pinot-noir/p2911",
+    "name": "Cycles Gladiator Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p112472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "9.71",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.71 - $37.99",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/five-boroughs-brewing-co-pumpkin-ale/p112472",
+    "name": "Five Boroughs Brewing Co. Pumpkin Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

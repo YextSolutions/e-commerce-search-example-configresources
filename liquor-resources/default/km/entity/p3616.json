@@ -1,0 +1,17 @@
+{
+  "$id": "p3616",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "170",
+    "c_priceRange": "$8.99 - $21.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/new-amsterdam-coconut-vodka/p3616",
+    "name": "New Amsterdam Coconut Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

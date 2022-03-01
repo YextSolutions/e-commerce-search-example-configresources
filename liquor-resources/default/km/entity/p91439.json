@@ -1,0 +1,18 @@
+{
+  "$id": "p91439",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "1.79",
+    "c_numberReviews": "8",
+    "c_priceRange": "$1.79 - $19.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Gose",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/gose/destihl-wild-sour-series-seasonal/p91439",
+    "name": "Destihl Wild Sour Series Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

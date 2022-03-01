@@ -1,0 +1,16 @@
+{
+  "$id": "p63314",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "3.47",
+    "c_numberReviews": "452",
+    "c_priceRange": "$3.47 - $99.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/barefoot-rose/p63314",
+    "name": "Barefoot Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

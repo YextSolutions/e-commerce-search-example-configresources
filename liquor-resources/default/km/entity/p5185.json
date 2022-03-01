@@ -1,0 +1,17 @@
+{
+  "$id": "p5185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$14.99 - $65.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/jordan-chardonnay/p5185",
+    "name": "Jordan Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

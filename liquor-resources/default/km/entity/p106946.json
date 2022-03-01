@@ -1,0 +1,17 @@
+{
+  "$id": "p106946",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "7.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.98 - $17.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/vina-palaciega-cava-brut/p106946",
+    "name": "Vina Palaciega Cava Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

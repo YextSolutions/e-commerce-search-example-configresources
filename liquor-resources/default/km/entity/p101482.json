@@ -1,0 +1,16 @@
+{
+  "$id": "p101482",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "1.09",
+    "c_numberReviews": "98",
+    "c_priceRange": "$1.09 - $9.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/jinro-chamisul-strawberry-soju/p101482",
+    "name": "Jinro Chamisul Strawberry Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p61032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.49",
+    "c_minPrice": "8.29",
+    "c_numberReviews": "27",
+    "c_priceRange": "$8.29 - $19.49",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/3-floyds-brewing-lazersnake/p61032",
+    "name": "3 Floyds Brewing LazerSnake"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

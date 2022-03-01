@@ -1,0 +1,17 @@
+{
+  "$id": "p25491",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "26.44",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "119",
+    "c_priceRange": "$8.99 - $26.44",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/the-pinot-project-pinot-grigio/p25491",
+    "name": "The Pinot Project Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

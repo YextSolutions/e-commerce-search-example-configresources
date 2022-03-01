@@ -1,0 +1,17 @@
+{
+  "$id": "p4127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.24",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $16.24",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/red-label-red-wine/p4127",
+    "name": "Red Label Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

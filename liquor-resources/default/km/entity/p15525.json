@@ -1,0 +1,17 @@
+{
+  "$id": "p15525",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$8.99 - $16.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/argentine-revolution-malbec/p15525",
+    "name": "Argentine Revolution Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

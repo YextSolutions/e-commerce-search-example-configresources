@@ -1,0 +1,17 @@
+{
+  "$id": "p347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$15.99 - $39.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/trimbach-pinot-gris/p347",
+    "name": "Trimbach Pinot Gris"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

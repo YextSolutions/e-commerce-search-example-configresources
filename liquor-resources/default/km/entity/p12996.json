@@ -1,0 +1,17 @@
+{
+  "$id": "p12996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$14.99 - $43.99",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/plantation-original-dark-rum/p12996",
+    "name": "Plantation Original Dark Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

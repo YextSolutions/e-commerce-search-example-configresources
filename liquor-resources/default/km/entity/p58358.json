@@ -1,0 +1,16 @@
+{
+  "$id": "p58358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "558",
+    "c_priceRange": "$9.89 - $99.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/baileys-pumpkin-spice-irish-cream-liqueur/p58358",
+    "name": "Baileys Pumpkin Spice Irish Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

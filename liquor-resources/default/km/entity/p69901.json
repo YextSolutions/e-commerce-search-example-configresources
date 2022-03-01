@@ -1,0 +1,17 @@
+{
+  "$id": "p69901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "57.49",
+    "c_minPrice": "29.97",
+    "c_numberReviews": "17",
+    "c_priceRange": "$29.97 - $57.49",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/rock-n-roll-tequila-mango-flavored-tequila-100-blue-weber-agave-ultra-premium-tequila-750ml-guitar-shape-bottle/p69901",
+    "name": "Rock N Roll Tequila Mango Flavored Tequila - 100% Blue Weber Agave - Ultra Premium Tequila 750mL Guitar Shape Bottle"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

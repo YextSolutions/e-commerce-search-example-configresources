@@ -1,0 +1,16 @@
+{
+  "$id": "p92801",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "19.03",
+    "c_numberReviews": "13",
+    "c_priceRange": "$19.03 - $41.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/whitley-neill-rhubarb-and-ginger-gin/p92801",
+    "name": "Whitley Neill Rhubarb \u0026 Ginger Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

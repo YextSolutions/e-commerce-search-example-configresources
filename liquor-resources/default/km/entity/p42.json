@@ -1,0 +1,17 @@
+{
+  "$id": "p42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$9.99 - $36.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/stoli-blueberi/p42",
+    "name": "Stoli® Blueberi"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

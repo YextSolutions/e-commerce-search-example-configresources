@@ -1,0 +1,17 @@
+{
+  "$id": "p2730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$12.99 - $30.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/clos-la-coutale-cahors/p2730",
+    "name": "Clos La Coutale Cahors"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

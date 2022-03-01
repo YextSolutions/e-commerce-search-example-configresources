@@ -1,0 +1,17 @@
+{
+  "$id": "p90360",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$18.99 - $39.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/cascina-del-torcc-barolo/p90360",
+    "name": "Cascina del Torcc Barolo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

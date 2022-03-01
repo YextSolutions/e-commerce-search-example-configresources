@@ -1,0 +1,17 @@
+{
+  "$id": "p87745",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "347.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "45",
+    "c_priceRange": "$17.99 - $347.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-blackberry/p87745",
+    "name": "CÎROC Limited Edition Black Raspberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

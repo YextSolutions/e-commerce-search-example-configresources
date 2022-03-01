@@ -1,0 +1,17 @@
+{
+  "$id": "p27900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.24 - $42.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/admiral-nelsons-cherry-spiced-rum/p27900",
+    "name": "Admiral Nelson\u0027s Cherry Spiced Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

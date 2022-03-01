@@ -1,0 +1,17 @@
+{
+  "$id": "p17925",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "86.49",
+    "c_minPrice": "28.43",
+    "c_numberReviews": "13",
+    "c_priceRange": "$28.43 - $86.49",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/grgich-hills-chardonnay/p17925",
+    "name": "Grgich Hills Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

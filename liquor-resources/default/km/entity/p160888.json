@@ -1,0 +1,17 @@
+{
+  "$id": "p160888",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "2",
+    "c_priceRange": "$11.49 - $22.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/clubby-lemon-lime-hard-seltzer/p160888",
+    "name": "Clubby Lemon Lime Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

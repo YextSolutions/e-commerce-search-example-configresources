@@ -1,0 +1,17 @@
+{
+  "$id": "p21151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$5.99 - $24.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/layer-cake-sauvignon-blanc/p21151",
+    "name": "Layer Cake Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

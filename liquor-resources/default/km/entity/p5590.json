@@ -1,0 +1,44 @@
+{
+  "$id": "p5590",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "169.99",
+    "c_minPrice": "38.49",
+    "c_numberReviews": "45",
+    "c_priceRange": "$38.49 - $169.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/bakers-single-barrel-7-year-kentucky-straight-bourbon-whiskey/p5590",
+    "name": "Baker\u0027s Single Barrel 7 Year Kentucky Straight Bourbon Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-bakers-kentucky-straight-bourbon-whiskey-d27fd0bcd707e08a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/PvDab9NQ7z9LXUZXkP4IJUYIyVLUadxsxP5CQ3tlUkw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/PvDab9NQ7z9LXUZXkP4IJUYIyVLUadxsxP5CQ3tlUkw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/PvDab9NQ7z9LXUZXkP4IJUYIyVLUadxsxP5CQ3tlUkw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PvDab9NQ7z9LXUZXkP4IJUYIyVLUadxsxP5CQ3tlUkw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

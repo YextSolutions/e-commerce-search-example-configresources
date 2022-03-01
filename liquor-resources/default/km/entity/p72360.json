@@ -1,0 +1,17 @@
+{
+  "$id": "p72360",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.39",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.39 - $19.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/13-celsius-sauvignon-blanc-750ml-marlborough-new-zealand/p72360",
+    "name": "13 Celsius® Sauvignon Blanc - 750ml, Marlborough, New Zealand"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

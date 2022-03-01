@@ -1,0 +1,17 @@
+{
+  "$id": "p1274",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "37.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$37.99 - $109.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/michters-us1-sour-mash/p1274",
+    "name": "Michter’s US★1 Sour Mash"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

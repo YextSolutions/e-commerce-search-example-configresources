@@ -1,0 +1,17 @@
+{
+  "$id": "p7094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "41.79",
+    "c_minPrice": "19.97",
+    "c_numberReviews": "19",
+    "c_priceRange": "$19.97 - $41.79",
+    "c_subCategory": "Nuts Amaretto Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/nuts-amaretto-liqueur/gozio-amaretto-liqueur/p7094",
+    "name": "Gozio Amaretto Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

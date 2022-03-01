@@ -1,0 +1,17 @@
+{
+  "$id": "p85383",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "89",
+    "c_priceRange": "$9.99 - $12.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/house-wine-rose-bubbles/p85383",
+    "name": "House Wine Rose Bubbles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "469",
+    "c_priceRange": "$8.99 - $54.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Witbier",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/witbier/allagash-white/p621",
+    "name": "Allagash White"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

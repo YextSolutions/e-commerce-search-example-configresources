@@ -1,0 +1,17 @@
+{
+  "$id": "p85142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "13.63",
+    "c_numberReviews": "33",
+    "c_priceRange": "$13.63 - $42.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/bacardi-anejo-cuatro/p85142",
+    "name": "Bacardi Anejo Cuatro"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

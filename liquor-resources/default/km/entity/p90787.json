@@ -1,0 +1,16 @@
+{
+  "$id": "p90787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "12.00",
+    "c_numberReviews": "5",
+    "c_priceRange": "$12.00 - $31.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/kona-liquid-aloha-variety-pack/p90787",
+    "name": "Kona Liquid Aloha Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

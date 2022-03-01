@@ -1,0 +1,17 @@
+{
+  "$id": "p112132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "2",
+    "c_priceRange": "$12.09 - $24.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/terrebonne-pinot-noir/p112132",
+    "name": "Terrebonne Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

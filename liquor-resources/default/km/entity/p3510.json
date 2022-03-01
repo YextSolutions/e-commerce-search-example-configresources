@@ -1,0 +1,17 @@
+{
+  "$id": "p3510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "169.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "32",
+    "c_priceRange": "$39.99 - $169.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenfiddich-15-year-old-solera-reserve-single-malt-scotch-whisky/p3510",
+    "name": "Glenfiddich 15 Year Old Solera Reserve Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

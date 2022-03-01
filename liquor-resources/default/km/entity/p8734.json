@@ -1,0 +1,17 @@
+{
+  "$id": "p8734",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$14.99 - $34.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/gerard-bertrand-cremant-de-limoux-brut-rose/p8734",
+    "name": "Gerard Bertrand Cremant de Limoux Brut Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

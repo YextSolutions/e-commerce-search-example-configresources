@@ -1,0 +1,17 @@
+{
+  "$id": "p61583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.49",
+    "c_minPrice": "8.87",
+    "c_numberReviews": "63",
+    "c_priceRange": "$8.87 - $12.49",
+    "c_subCategory": "Cream Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/cream-ale/station-26-tangerine-cream/p61583",
+    "name": "Station 26 Tangerine Cream"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

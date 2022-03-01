@@ -1,0 +1,17 @@
+{
+  "$id": "p81589",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "6.43",
+    "c_numberReviews": "33",
+    "c_priceRange": "$6.43 - $14.29",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/luscious-semi-sweet-rosato-moscato-and-pinot-noir/p81589",
+    "name": "Luscious Semi Sweet Rosato Moscato \u0026 Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

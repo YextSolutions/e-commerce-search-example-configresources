@@ -1,0 +1,16 @@
+{
+  "$id": "p22898",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "35.19",
+    "c_minPrice": "10.79",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.79 - $35.19",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/gabbiano-chianti-reserva-2011/p22898",
+    "name": "Gabbiano Chianti Reserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7081",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "200.00",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$32.99 - $200.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-swing/p7081",
+    "name": "Johnnie Walker Swing"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

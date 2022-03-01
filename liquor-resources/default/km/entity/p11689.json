@@ -1,0 +1,17 @@
+{
+  "$id": "p11689",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "30.23",
+    "c_numberReviews": "145",
+    "c_priceRange": "$30.23 - $129.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/moet-and-chandon-nectar-imperial-champagne/p11689",
+    "name": "Moët \u0026 Chandon Nectar Impérial Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

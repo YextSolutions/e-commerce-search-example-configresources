@@ -1,0 +1,44 @@
+{
+  "$id": "p99394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "384.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$39.99 - $384.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/makers-mark-wood-finishing-series-limited-release/p99394",
+    "name": "Maker\u0027s Mark Wood Finishing Series Limited Release",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-makers-mark-wood-finishing-series-limited-release-f29fb8f3ff1e7c4d.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EXhVwyFd0G7eTkOZfr86T-tyUXs05UWl3HJMIms-dn8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EXhVwyFd0G7eTkOZfr86T-tyUXs05UWl3HJMIms-dn8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EXhVwyFd0G7eTkOZfr86T-tyUXs05UWl3HJMIms-dn8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EXhVwyFd0G7eTkOZfr86T-tyUXs05UWl3HJMIms-dn8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

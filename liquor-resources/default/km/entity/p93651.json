@@ -1,0 +1,17 @@
+{
+  "$id": "p93651",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "1599.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "81",
+    "c_priceRange": "$9.99 - $1599.00",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-zero-sugar-infusions-cucumber-and-lime/p93651",
+    "name": "Smirnoff Zero Sugar Infusions Cucumber \u0026 Lime"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

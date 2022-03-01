@@ -1,0 +1,17 @@
+{
+  "$id": "p2128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "18.98",
+    "c_numberReviews": "1",
+    "c_priceRange": "$18.98 - $32.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/william-fevre-chablis-champs-royaux/p2128",
+    "name": "William Fevre Chablis Champs Royaux"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

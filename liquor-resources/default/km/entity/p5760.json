@@ -1,0 +1,16 @@
+{
+  "$id": "p5760",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$21.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/martin-millers-gin-distilled/p5760",
+    "name": "Martin Miller\u0027s Gin Distilled"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7422",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "13.42",
+    "c_numberReviews": "10",
+    "c_priceRange": "$13.42 - $49.99",
+    "c_subCategory": "Moonshine",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/moonshine/midnight-moon-strawberry-moonshine/p7422",
+    "name": "Midnight Moon Strawberry Moonshine"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

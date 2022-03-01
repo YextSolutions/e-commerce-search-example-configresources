@@ -1,0 +1,17 @@
+{
+  "$id": "p12248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "1199.99",
+    "c_minPrice": "69.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$69.99 - $1199.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/caymus-napa-valley-special-selection-cabernet-sauvignon/p12248",
+    "name": "Caymus Napa Valley Special Selection Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

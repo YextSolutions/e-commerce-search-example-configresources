@@ -1,0 +1,44 @@
+{
+  "$id": "p58062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "35.49",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$19.99 - $35.49",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/lo-fi-aperitifs-sweet-vermouth/p58062",
+    "name": "Lo-Fi Aperitifs Sweet Vermouth",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-lo-fi-aperitifs-sweet-vermouth-af8d2f16e3c8fda4.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VKMG3TbitABvSGyca1rp95ToiC6eVToiU7ZsESiMZU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VKMG3TbitABvSGyca1rp95ToiC6eVToiU7ZsESiMZU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/5VKMG3TbitABvSGyca1rp95ToiC6eVToiU7ZsESiMZU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5VKMG3TbitABvSGyca1rp95ToiC6eVToiU7ZsESiMZU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

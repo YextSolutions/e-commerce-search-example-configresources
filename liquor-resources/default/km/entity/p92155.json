@@ -1,0 +1,44 @@
+{
+  "$id": "p92155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$14.99 - $49.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/five-farms-irish-cream-liqueur/p92155",
+    "name": "Five Farms Irish Cream Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-five-farms-irish-cream-bd90a7c143b8be3b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/5phaqfBEHSryH0VmKcuTE16BnRF1AKvoxa64IQfL-Jg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/5phaqfBEHSryH0VmKcuTE16BnRF1AKvoxa64IQfL-Jg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/5phaqfBEHSryH0VmKcuTE16BnRF1AKvoxa64IQfL-Jg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/5phaqfBEHSryH0VmKcuTE16BnRF1AKvoxa64IQfL-Jg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

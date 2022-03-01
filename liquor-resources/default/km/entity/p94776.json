@@ -1,0 +1,17 @@
+{
+  "$id": "p94776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$8.99 - $21.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/oliver-blueberry-moscato/p94776",
+    "name": "Oliver Blueberry Moscato"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

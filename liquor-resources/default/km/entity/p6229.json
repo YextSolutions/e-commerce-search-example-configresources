@@ -1,0 +1,17 @@
+{
+  "$id": "p6229",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "28.59",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "96",
+    "c_priceRange": "$8.99 - $28.59",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/clan-macgregor-scotch/p6229",
+    "name": "Clan Macgregor Scotch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

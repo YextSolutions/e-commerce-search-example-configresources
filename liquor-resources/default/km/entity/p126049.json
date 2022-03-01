@@ -1,0 +1,17 @@
+{
+  "$id": "p126049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "32.25",
+    "c_numberReviews": "1",
+    "c_priceRange": "$32.25 - $99.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/drumshanbo-irish-whiskey/p126049",
+    "name": "Drumshanbo Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

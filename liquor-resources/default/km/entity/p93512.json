@@ -1,0 +1,16 @@
+{
+  "$id": "p93512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$9.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/veuve-du-vernay-ice-rose/p93512",
+    "name": "Veuve du Vernay Ice Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

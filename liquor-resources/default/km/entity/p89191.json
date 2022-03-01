@@ -1,0 +1,17 @@
+{
+  "$id": "p89191",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $19.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/first-press-ruby-red-grapefruit-sparkling-rose/p89191",
+    "name": "First Press Ruby Red Grapefruit Sparkling Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

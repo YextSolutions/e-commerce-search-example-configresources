@@ -1,0 +1,17 @@
+{
+  "$id": "p764",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$11.99 - $39.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/avalon-napa-valley-cabernet-sauvignon/p764",
+    "name": "Avalon Napa Valley Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

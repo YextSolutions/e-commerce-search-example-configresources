@@ -1,0 +1,44 @@
+{
+  "$id": "p85211",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$22.99 - $49.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/malfy-gin/p85211",
+    "name": "Malfy Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-malfy-gin-449de790836d6f0f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/CUkMUUVR5LZjZO6GkYNxpIWyovJ8pavWwEHGRSnfIYc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/CUkMUUVR5LZjZO6GkYNxpIWyovJ8pavWwEHGRSnfIYc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/CUkMUUVR5LZjZO6GkYNxpIWyovJ8pavWwEHGRSnfIYc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CUkMUUVR5LZjZO6GkYNxpIWyovJ8pavWwEHGRSnfIYc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

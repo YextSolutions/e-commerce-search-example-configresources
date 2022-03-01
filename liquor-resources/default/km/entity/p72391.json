@@ -1,0 +1,17 @@
+{
+  "$id": "p72391",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "56.99",
+    "c_minPrice": "5.69",
+    "c_numberReviews": "30",
+    "c_priceRange": "$5.69 - $56.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/omission-ipa/p72391",
+    "name": "Omission IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

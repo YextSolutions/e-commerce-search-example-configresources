@@ -1,0 +1,44 @@
+{
+  "$id": "p127815",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "28.74",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$17.99 - $28.74",
+    "c_subCategory": "Orange Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/orange-wine/meinklang-weisser-mulatschak/p127815",
+    "name": "Meinklang \u0027Weisser Mulatschak\u0027",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-meinklang-weisser-mulatschak-8d5412407faac590.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/k75sTocAOHCYPFZgLusPnNLm3EO7OgYVdLhuMYzuszo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/k75sTocAOHCYPFZgLusPnNLm3EO7OgYVdLhuMYzuszo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/k75sTocAOHCYPFZgLusPnNLm3EO7OgYVdLhuMYzuszo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/k75sTocAOHCYPFZgLusPnNLm3EO7OgYVdLhuMYzuszo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

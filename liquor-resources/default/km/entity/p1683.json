@@ -1,0 +1,44 @@
+{
+  "$id": "p1683",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "334.75",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "699",
+    "c_priceRange": "$16.99 - $334.75",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/moet-and-chandon-imperial-brut-champagne/p1683",
+    "name": "Moët \u0026 Chandon Impérial Brut Champagne",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-moet-chandon-imperial-brut-champagne-75076a8787d43f73.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH_U_m_VlVgncrGBQya-UqtnraEQciDMcE-scj_jQUc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH_U_m_VlVgncrGBQya-UqtnraEQciDMcE-scj_jQUc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cH_U_m_VlVgncrGBQya-UqtnraEQciDMcE-scj_jQUc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cH_U_m_VlVgncrGBQya-UqtnraEQciDMcE-scj_jQUc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p144678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "11.00",
+    "c_minPrice": "4.95",
+    "c_numberReviews": "14",
+    "c_priceRange": "$4.95 - $11.00",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sutter-home-fruit-infusions-sweet-peach-white-wine-750ml-wine-bottle/p144678",
+    "name": "Sutter Home Fruit Infusions Sweet Peach White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

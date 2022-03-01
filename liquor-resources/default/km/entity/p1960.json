@@ -1,0 +1,45 @@
+{
+  "$id": "p1960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "46.00",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$5.99 - $46.00",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/brooklyn-black-chocolate-stout/p1960",
+    "name": "Brooklyn Black Chocolate Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-brooklyn-black-chocolate-stout-648f8ca582e0c876.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/O2IE4tdM1SMR5JNOjbPwy80RGuuGo2KB4H_GukCNHzU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/O2IE4tdM1SMR5JNOjbPwy80RGuuGo2KB4H_GukCNHzU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/O2IE4tdM1SMR5JNOjbPwy80RGuuGo2KB4H_GukCNHzU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/O2IE4tdM1SMR5JNOjbPwy80RGuuGo2KB4H_GukCNHzU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

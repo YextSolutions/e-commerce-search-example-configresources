@@ -1,0 +1,16 @@
+{
+  "$id": "p89769",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "31.99",
+    "c_numberReviews": "67",
+    "c_priceRange": "$31.99 - $89.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/hendricks-orbium-gin/p89769",
+    "name": "Hendrick\u0027s Orbium Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

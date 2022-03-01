@@ -1,0 +1,17 @@
+{
+  "$id": "p1031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$5.99 - $28.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/krombacher-pils/p1031",
+    "name": "Krombacher Pils"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

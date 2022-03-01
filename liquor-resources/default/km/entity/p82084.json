@@ -1,0 +1,16 @@
+{
+  "$id": "p82084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rhone Blend",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "72.76",
+    "c_numberReviews": "18",
+    "c_priceRange": "$72.76 - $149.99",
+    "landingPageUrl": "https://drizly.com/wine/rhone-blend/the-prisoner-derange-red-blend/p82084",
+    "name": "The Prisoner Derange Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$19.99 - $38.49",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/dorda-liqueur-double-chocolate/p18128",
+    "name": "Dorda Double Chocolate Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

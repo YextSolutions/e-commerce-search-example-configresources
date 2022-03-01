@@ -1,0 +1,17 @@
+{
+  "$id": "p7724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$23.99 - $129.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/corazon-anejo/p7724",
+    "name": "Corazón Añejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

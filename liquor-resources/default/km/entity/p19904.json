@@ -1,0 +1,17 @@
+{
+  "$id": "p19904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "53.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$16.99 - $53.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/round-pond-estate-kith-and-kin-cabernet/p19904",
+    "name": "Round Pond Estate Kith \u0026 Kin Cabernet"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

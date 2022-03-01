@@ -1,0 +1,17 @@
+{
+  "$id": "p101264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "42",
+    "c_priceRange": "$9.49 - $24.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/svedka-pure-infusions-dragonfruit-melon-flavored-vodka/p101264",
+    "name": "SVEDKA Pure Infusions Dragonfruit Melon Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

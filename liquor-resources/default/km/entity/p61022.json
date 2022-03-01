@@ -1,0 +1,44 @@
+{
+  "$id": "p61022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.98",
+    "c_minPrice": "52.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$52.99 - $149.98",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/bruichladdich-port-charlotte-heavily-peated-10-year/p61022",
+    "name": "Bruichladdich Port Charlotte Heavily Peated 10 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-bruichladdich-port-charlotte-heavily-peated-10-year-a26a3cdbc9e54479.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/rZF_XrdgF-IgC_R2n5PgiDALQptzEHATQLwknkReQns/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rZF_XrdgF-IgC_R2n5PgiDALQptzEHATQLwknkReQns/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/rZF_XrdgF-IgC_R2n5PgiDALQptzEHATQLwknkReQns/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rZF_XrdgF-IgC_R2n5PgiDALQptzEHATQLwknkReQns/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

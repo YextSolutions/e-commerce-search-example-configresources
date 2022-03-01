@@ -1,0 +1,18 @@
+{
+  "$id": "p85554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "13",
+    "c_priceRange": "$9.49 - $14.29",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/funky-buddha-vibin-groovable-lager/p85554",
+    "name": "Funky Buddha Vibin Groovable Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

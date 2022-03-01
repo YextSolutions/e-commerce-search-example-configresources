@@ -1,0 +1,17 @@
+{
+  "$id": "p117861",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.99 - $14.29",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/blackberry-farm-ipa/p117861",
+    "name": "Blackberry Farm IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

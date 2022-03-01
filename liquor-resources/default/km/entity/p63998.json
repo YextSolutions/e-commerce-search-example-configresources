@@ -1,0 +1,18 @@
+{
+  "$id": "p63998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$8.99 - $37.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Dunkelweizen",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/dunkelweizen/shiner-holiday-cheer/p63998",
+    "name": "Shiner Holiday Cheer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

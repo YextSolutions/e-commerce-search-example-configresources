@@ -1,0 +1,16 @@
+{
+  "$id": "p64022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rioja Blend",
+    "c_maxPrice": "39.00",
+    "c_minPrice": "10.97",
+    "c_numberReviews": "4",
+    "c_priceRange": "$10.97 - $39.00",
+    "landingPageUrl": "https://drizly.com/wine/rioja-blend/la-nevera-rioja/p64022",
+    "name": "La Nevera Rioja"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

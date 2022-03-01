@@ -1,0 +1,45 @@
+{
+  "$id": "p108395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$8.99 - $16.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/half-acre-tome-hazy-pale-ale/p108395",
+    "name": "Half Acre Tome Hazy Pale Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-half-acre-co-tome-hazy-pale-ale-4701fa77bcfb97c4.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/qNI9coyR_7JPVd-tPY2Oa4r8JcmvAnkwuHpzCY1BB_Y/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qNI9coyR_7JPVd-tPY2Oa4r8JcmvAnkwuHpzCY1BB_Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/qNI9coyR_7JPVd-tPY2Oa4r8JcmvAnkwuHpzCY1BB_Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qNI9coyR_7JPVd-tPY2Oa4r8JcmvAnkwuHpzCY1BB_Y/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p19733",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "45.21",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$5.99 - $45.21",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Helles Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/helles-lager/paulaner-original-munich-lager/p19733",
+    "name": "Paulaner Original Munich Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

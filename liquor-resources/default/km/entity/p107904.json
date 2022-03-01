@@ -1,0 +1,17 @@
+{
+  "$id": "p107904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "47.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$47.99 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-elk-wheated-bourbon/p107904",
+    "name": "Old Elk Wheated Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

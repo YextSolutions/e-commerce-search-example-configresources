@@ -1,0 +1,17 @@
+{
+  "$id": "p1486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$5.00 - $24.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/dona-paula-los-cardos-malbec/p1486",
+    "name": "Dona Paula Los Cardos Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

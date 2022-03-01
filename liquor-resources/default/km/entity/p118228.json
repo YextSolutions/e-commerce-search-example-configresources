@@ -1,0 +1,44 @@
+{
+  "$id": "p118228",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "60",
+    "c_priceRange": "$17.99 - $37.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/rumchata-peppermint-bark/p118228",
+    "name": "RumChata Peppermint Bark",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-rumchata-peppermint-bark-345d95a479f63a05.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/sq0NfxcAGBtAazfUDfaOPuHJWoyQNVRteKGsfVva5lY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sq0NfxcAGBtAazfUDfaOPuHJWoyQNVRteKGsfVva5lY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/sq0NfxcAGBtAazfUDfaOPuHJWoyQNVRteKGsfVva5lY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sq0NfxcAGBtAazfUDfaOPuHJWoyQNVRteKGsfVva5lY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

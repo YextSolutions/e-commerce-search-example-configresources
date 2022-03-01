@@ -1,0 +1,18 @@
+{
+  "$id": "p44100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "9.79",
+    "c_numberReviews": "15",
+    "c_priceRange": "$9.79 - $20.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Gose",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/gose/anderson-valley-briney-melon-gose/p44100",
+    "name": "Anderson Valley Briney Melon Gose"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p14890",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "41.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$41.99 - $129.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/ad-laws-four-grain-straight-bourbon-whiskey/p14890",
+    "name": "A.D. Laws Four Grain Straight Bourbon Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-laws-four-grain-straight-bourbon-whiskey-b30736de77db7f60.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLfw9OuTVBB1RN2nNxWNiVl22r7ur94O2xYOdHNajfs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLfw9OuTVBB1RN2nNxWNiVl22r7ur94O2xYOdHNajfs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/NLfw9OuTVBB1RN2nNxWNiVl22r7ur94O2xYOdHNajfs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NLfw9OuTVBB1RN2nNxWNiVl22r7ur94O2xYOdHNajfs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

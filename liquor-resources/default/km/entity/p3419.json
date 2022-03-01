@@ -1,0 +1,17 @@
+{
+  "$id": "p3419",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "64.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "217",
+    "c_priceRange": "$9.99 - $64.99",
+    "c_subCategory": "Nuts Amaretto Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/nuts-amaretto-liqueur/frangelico-hazelnut-liqueur/p3419",
+    "name": "Frangelico Hazelnut Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

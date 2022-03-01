@@ -1,0 +1,44 @@
+{
+  "$id": "p3402",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.79 - $9.99",
+    "c_subCategory": "Hard Lemonade",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-lemonade/four-loko-electric-lemonade/p3402",
+    "name": "Four Loko Electric Lemonade",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-four-loko-lemonade-3390f4b15a2737a3.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/MWd3_6FwFyV91U-kEVlx-FuGcmZ2QysI8Gre5P8Lrcw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MWd3_6FwFyV91U-kEVlx-FuGcmZ2QysI8Gre5P8Lrcw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/MWd3_6FwFyV91U-kEVlx-FuGcmZ2QysI8Gre5P8Lrcw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MWd3_6FwFyV91U-kEVlx-FuGcmZ2QysI8Gre5P8Lrcw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

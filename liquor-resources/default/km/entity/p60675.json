@@ -1,0 +1,17 @@
+{
+  "$id": "p60675",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$7.99 - $16.49",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/villa-jolanda-moscato-and-peach/p60675",
+    "name": "Villa Jolanda Moscato \u0026 Peach"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

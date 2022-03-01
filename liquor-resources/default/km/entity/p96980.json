@@ -1,0 +1,16 @@
+{
+  "$id": "p96980",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "65.83",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$21.99 - $65.83",
+    "landingPageUrl": "https://drizly.com/wine/sake/joto-yuzu-sake/p96980",
+    "name": "Joto Yuzu Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

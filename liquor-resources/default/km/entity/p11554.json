@@ -1,0 +1,17 @@
+{
+  "$id": "p11554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "137.49",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$19.99 - $137.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wyoming-whiskey-small-batch-straight-bourbon-whiskey/p11554",
+    "name": "Wyoming Whiskey Small Batch Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

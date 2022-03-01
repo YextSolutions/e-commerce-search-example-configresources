@@ -1,0 +1,44 @@
+{
+  "$id": "p54664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "45",
+    "c_priceRange": "$9.49 - $12.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/bootstrap-insane-rush-ipa/p54664",
+    "name": "Bootstrap Insane Rush IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-bootstrap-insane-rush-ipa-2897e3f5bf419a7f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JS6RmrspdnGQ98v6SeHP-aiDzbYVa2CpdWttaFNg9Q/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JS6RmrspdnGQ98v6SeHP-aiDzbYVa2CpdWttaFNg9Q/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6JS6RmrspdnGQ98v6SeHP-aiDzbYVa2CpdWttaFNg9Q/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6JS6RmrspdnGQ98v6SeHP-aiDzbYVa2CpdWttaFNg9Q/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

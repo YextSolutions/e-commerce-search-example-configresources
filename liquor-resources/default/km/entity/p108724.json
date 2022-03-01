@@ -1,0 +1,16 @@
+{
+  "$id": "p108724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "528",
+    "c_priceRange": "$10.99 - $24.19",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/kim-crawford-illuminate-rose-wine-lower-calorie-and-alcohol/p108724",
+    "name": "Kim Crawford Illuminate Rose Wine Lower Calorie and Alcohol"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

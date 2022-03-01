@@ -1,0 +1,17 @@
+{
+  "$id": "p86837",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "31.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$31.99 - $79.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/nobushi-japanese-whiskey/p86837",
+    "name": "Nobushi Japanese Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

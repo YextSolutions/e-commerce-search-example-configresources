@@ -1,0 +1,17 @@
+{
+  "$id": "p6569",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "699.99",
+    "c_minPrice": "79.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$79.99 - $699.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/hakushu-12-year/p6569",
+    "name": "Hakushu 12 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

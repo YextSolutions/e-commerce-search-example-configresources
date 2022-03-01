@@ -1,0 +1,17 @@
+{
+  "$id": "p5008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "127.77",
+    "c_minPrice": "34.34",
+    "c_numberReviews": "105",
+    "c_priceRange": "$34.34 - $127.77",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/herradura-anejo-tequila/p5008",
+    "name": "Herradura Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

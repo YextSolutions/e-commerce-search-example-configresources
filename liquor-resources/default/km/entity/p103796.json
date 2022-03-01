@@ -1,0 +1,16 @@
+{
+  "$id": "p103796",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$29.99 - $99.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/handy-and-schiller-barreled-old-fashioned/p103796",
+    "name": "Handy \u0026 Schiller Barreled Old Fashioned"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

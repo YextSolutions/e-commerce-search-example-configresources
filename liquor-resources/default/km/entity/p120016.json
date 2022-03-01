@@ -1,0 +1,44 @@
+{
+  "$id": "p120016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "16.79",
+    "c_numberReviews": "10",
+    "c_priceRange": "$16.79 - $23.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/mighty-squirrel-indulge-series-french-macaron/p120016",
+    "name": "Mighty Squirrel Indulge Series: French Macaron",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-mighty-squirrel-indulge-series-cookies-and-cream-589305a5ba7f0bed.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_C_gJHLVN1sYxPYKR7EsP0-QCimcN8XtSgiSw1L0MY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_C_gJHLVN1sYxPYKR7EsP0-QCimcN8XtSgiSw1L0MY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_C_gJHLVN1sYxPYKR7EsP0-QCimcN8XtSgiSw1L0MY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a_C_gJHLVN1sYxPYKR7EsP0-QCimcN8XtSgiSw1L0MY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

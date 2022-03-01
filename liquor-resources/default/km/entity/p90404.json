@@ -1,0 +1,44 @@
+{
+  "$id": "p90404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "1.87",
+    "c_numberReviews": "158",
+    "c_priceRange": "$1.87 - $39.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/athletic-brewing-run-wild-non-alcoholic-ipa/p90404",
+    "name": "Athletic Brewing Run Wild Non-Alcoholic IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-athletic-brewing-company-run-wild-non-alcoholic-ipa-de33513e1fb3ec14.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jkZvSptzPVIwhJd1A5W1L7iISgNNQ7FOU8-2wIBNq80/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jkZvSptzPVIwhJd1A5W1L7iISgNNQ7FOU8-2wIBNq80/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jkZvSptzPVIwhJd1A5W1L7iISgNNQ7FOU8-2wIBNq80/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jkZvSptzPVIwhJd1A5W1L7iISgNNQ7FOU8-2wIBNq80/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

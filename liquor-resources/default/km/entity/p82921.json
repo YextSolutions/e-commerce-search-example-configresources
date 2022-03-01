@@ -1,0 +1,17 @@
+{
+  "$id": "p82921",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.29",
+    "c_minPrice": "12.79",
+    "c_numberReviews": "6",
+    "c_priceRange": "$12.79 - $16.29",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/lamplighter-werewolves-of-cambridge-porter/p82921",
+    "name": "Lamplighter Werewolves Of Cambridge Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

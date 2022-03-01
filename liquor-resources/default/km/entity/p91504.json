@@ -1,0 +1,17 @@
+{
+  "$id": "p91504",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "29.49",
+    "c_minPrice": "7.50",
+    "c_numberReviews": "127",
+    "c_priceRange": "$7.50 - $29.49",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/odell-sippin-pretty/p91504",
+    "name": "Odell Sippin\u0027 Pretty"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

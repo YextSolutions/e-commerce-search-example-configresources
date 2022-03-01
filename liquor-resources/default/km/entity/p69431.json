@@ -1,0 +1,46 @@
+{
+  "$id": "p69431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "296",
+    "c_priceRange": "$1.99 - $17.99",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/capriccio-red-sangria/p69431",
+    "name": "Capriccio Red Sangria",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-capriccio-bubbly-sangria-cd97d8ff98faaed5.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/pLrO_MEo1x-sFi6pdAgoMBsd3pyA5FsfS0M8wJU2Bmo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/pLrO_MEo1x-sFi6pdAgoMBsd3pyA5FsfS0M8wJU2Bmo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/pLrO_MEo1x-sFi6pdAgoMBsd3pyA5FsfS0M8wJU2Bmo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pLrO_MEo1x-sFi6pdAgoMBsd3pyA5FsfS0M8wJU2Bmo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

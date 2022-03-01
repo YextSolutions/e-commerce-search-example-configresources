@@ -1,0 +1,17 @@
+{
+  "$id": "p113115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "24.00",
+    "c_minPrice": "8.46",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.46 - $24.00",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/eandj-spiced-brandy/p113115",
+    "name": "E\u0026J Spiced Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

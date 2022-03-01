@@ -1,0 +1,44 @@
+{
+  "$id": "p105681",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "21.95",
+    "c_minPrice": "16.49",
+    "c_numberReviews": "90",
+    "c_priceRange": "$16.49 - $21.95",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/upslope-snow-melt-variety-pack-electrolyte-series-spiked-seltzer/p105681",
+    "name": "Upslope Snow Melt Variety Pack Electrolyte Series - Spiked Seltzer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-upslope-snow-melt-variety-pack-electrolyte-series-spiked-seltzer-d8c0fe25a0692009.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hkpgIIZj2pv6DvSFOqtXPB_1Kpc7UjuUEsjEJ68Y8lg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hkpgIIZj2pv6DvSFOqtXPB_1Kpc7UjuUEsjEJ68Y8lg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hkpgIIZj2pv6DvSFOqtXPB_1Kpc7UjuUEsjEJ68Y8lg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hkpgIIZj2pv6DvSFOqtXPB_1Kpc7UjuUEsjEJ68Y8lg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

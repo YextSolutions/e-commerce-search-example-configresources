@@ -1,0 +1,17 @@
+{
+  "$id": "p102094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "11.25",
+    "c_minPrice": "10.41",
+    "c_numberReviews": "22",
+    "c_priceRange": "$10.41 - $11.25",
+    "c_subCategory": "Other Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/other-liqueur/deep-south-egg-nog/p102094",
+    "name": "Deep South Egg Nog"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

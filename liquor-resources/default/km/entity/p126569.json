@@ -1,0 +1,17 @@
+{
+  "$id": "p126569",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "75.45",
+    "c_minPrice": "33.58",
+    "c_numberReviews": "8",
+    "c_priceRange": "$33.58 - $75.45",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/lobos-1707-tequila-joven/p126569",
+    "name": "Lobos 1707 Tequila Joven"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p34613",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.00 - $13.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/skol-vodka-100-proof/p34613",
+    "name": "Skol Vodka 100 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

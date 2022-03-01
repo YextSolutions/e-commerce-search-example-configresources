@@ -1,0 +1,17 @@
+{
+  "$id": "p6207",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$19.99 - $59.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/galliano-lautentico/p6207",
+    "name": "Galliano L\u0027Autentico"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

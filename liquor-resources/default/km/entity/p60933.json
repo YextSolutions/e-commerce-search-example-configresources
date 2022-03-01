@@ -1,0 +1,17 @@
+{
+  "$id": "p60933",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "1.55",
+    "c_numberReviews": "16",
+    "c_priceRange": "$1.55 - $8.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/steel-reserve-alloy-series-spiked-watermelon/p60933",
+    "name": "Steel Reserve Alloy Series Spiked Watermelon"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p73497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$36.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cynar-70-proof/p73497",
+    "name": "Cynar 70 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

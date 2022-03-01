@@ -1,0 +1,17 @@
+{
+  "$id": "p93668",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "33.90",
+    "c_numberReviews": "8",
+    "c_priceRange": "$33.90 - $109.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-elk-blended-straight-bourbon-whiskey/p93668",
+    "name": "Old Elk Blended Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

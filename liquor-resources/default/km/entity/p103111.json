@@ -1,0 +1,17 @@
+{
+  "$id": "p103111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "33.59",
+    "c_minPrice": "14.66",
+    "c_numberReviews": "27",
+    "c_priceRange": "$14.66 - $33.59",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/frankly-organic-strawberry-vodka/p103111",
+    "name": "Frankly Organic Strawberry Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

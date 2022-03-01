@@ -1,0 +1,17 @@
+{
+  "$id": "p84937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $24.19",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/replica-just-right-california-cabernet-sauvignon/p84937",
+    "name": "Replica Just Right California Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

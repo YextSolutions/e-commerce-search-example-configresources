@@ -1,0 +1,17 @@
+{
+  "$id": "p18651",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.13",
+    "c_numberReviews": "80",
+    "c_priceRange": "$6.13 - $18.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-watermelon-mimosa/p18651",
+    "name": "Smirnoff Ice Watermelon Mimosa"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

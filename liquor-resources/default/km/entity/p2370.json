@@ -1,0 +1,17 @@
+{
+  "$id": "p2370",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "179.99",
+    "c_minPrice": "51.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$51.99 - $179.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/caol-ila-12-year-single-malt-scotch/p2370",
+    "name": "Caol Ila 12 Year Single Malt Scotch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

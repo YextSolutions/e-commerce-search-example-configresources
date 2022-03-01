@@ -1,0 +1,17 @@
+{
+  "$id": "p36417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "2.77",
+    "c_numberReviews": "12",
+    "c_priceRange": "$2.77 - $27.99",
+    "c_subCategory": "Punch Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/punch-ready-to-drink/beatbox-blue-razzberry/p36417",
+    "name": "Beatbox Blue Razzberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

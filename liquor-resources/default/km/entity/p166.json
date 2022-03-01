@@ -1,0 +1,44 @@
+{
+  "$id": "p166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "65",
+    "c_priceRange": "$15.99 - $79.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/templeton-rye-whiskey-4-year/p166",
+    "name": "Templeton Rye Whiskey 4 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-templeton-rye-d54d56407be84051.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hot9LU8ttb07qeiHFH7E4DO4hpTvaUh-yxp2QYiae7w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hot9LU8ttb07qeiHFH7E4DO4hpTvaUh-yxp2QYiae7w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hot9LU8ttb07qeiHFH7E4DO4hpTvaUh-yxp2QYiae7w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hot9LU8ttb07qeiHFH7E4DO4hpTvaUh-yxp2QYiae7w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p24002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$11.99 - $24.99",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/nigori/p24002",
+    "name": "Nigori"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

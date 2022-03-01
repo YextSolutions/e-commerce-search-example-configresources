@@ -1,0 +1,17 @@
+{
+  "$id": "p118949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "15.15",
+    "c_numberReviews": "3",
+    "c_priceRange": "$15.15 - $18.69",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/rack-and-barrel-cabernet-sauvignon-bourbon-barrel-aged-lodi/p118949",
+    "name": "Rack \u0026 Barrel Cabernet Sauvignon Bourbon Barrel Aged Lodi"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

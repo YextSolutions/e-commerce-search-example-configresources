@@ -1,0 +1,17 @@
+{
+  "$id": "p127452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "12.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$12.49 - $18.69",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/cape-may-ties-the-room-together-stout/p127452",
+    "name": "Cape May Ties The Room Together Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p28042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "118.67",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "7",
+    "c_priceRange": "$6.59 - $118.67",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/baron-herzog-brut-champagne/p28042",
+    "name": "Baron Herzog American Champagne Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

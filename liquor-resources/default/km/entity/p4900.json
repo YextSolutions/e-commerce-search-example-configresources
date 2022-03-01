@@ -1,0 +1,17 @@
+{
+  "$id": "p4900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "51.59",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$16.99 - $51.59",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/grey-goose-cherry-noir-flavored-vodka/p4900",
+    "name": "GREY GOOSE Cherry Noir Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p8065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "90.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$34.99 - $90.99",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/flor-de-cana-18-year-old-rum/p8065",
+    "name": "Flor de Caña 18 Year Old Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

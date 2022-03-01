@@ -1,0 +1,17 @@
+{
+  "$id": "p98680",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "6.99",
+    "c_minPrice": "3.95",
+    "c_numberReviews": "3",
+    "c_priceRange": "$3.95 - $6.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/canned-oregon-pink-rose-bubbles/p98680",
+    "name": "Canned Oregon Pink Rosé Bubbles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

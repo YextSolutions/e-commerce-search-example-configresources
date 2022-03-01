@@ -1,0 +1,17 @@
+{
+  "$id": "p17959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "69.29",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "44",
+    "c_priceRange": "$8.79 - $69.29",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/don-q-coco-rum/p17959",
+    "name": "Don Q Coco Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

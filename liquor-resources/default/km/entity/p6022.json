@@ -1,0 +1,17 @@
+{
+  "$id": "p6022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "189.99",
+    "c_minPrice": "56.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$56.99 - $189.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/bowmore-islay-single-malt-scotch-whisky-15-year-darkest/p6022",
+    "name": "Bowmore Islay Single Malt Scotch Whisky 15 Year Darkest"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p105245",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$17.99 - $59.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/appleton-estate-8-year-old-reserve/p105245",
+    "name": "Appleton Estate 8 Year Old Reserve",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-appleton-estate-8-year-old-reserve-d41b94734a5517b9.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/dFprFtZQBES8XSMra_5ngdsy_yvJce8f68UZcpUlCv0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dFprFtZQBES8XSMra_5ngdsy_yvJce8f68UZcpUlCv0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/dFprFtZQBES8XSMra_5ngdsy_yvJce8f68UZcpUlCv0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dFprFtZQBES8XSMra_5ngdsy_yvJce8f68UZcpUlCv0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p33753",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "28.59",
+    "c_minPrice": "8.01",
+    "c_numberReviews": "13",
+    "c_priceRange": "$8.01 - $28.59",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/miles-london-dry-gin/p33753",
+    "name": "Miles London Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

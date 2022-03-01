@@ -1,0 +1,17 @@
+{
+  "$id": "p90242",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$4.99 - $27.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/burlington-brewing-creatures-of-magic-new-england-oatmeal-ipa/p90242",
+    "name": "Burlington Beer Creatures Of Magic New England Oatmeal IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

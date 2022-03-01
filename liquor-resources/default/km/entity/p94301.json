@@ -1,0 +1,16 @@
+{
+  "$id": "p94301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "3.98",
+    "c_numberReviews": "5",
+    "c_priceRange": "$3.98 - $8.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/beach-juice-rose/p94301",
+    "name": "Beach Juice Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

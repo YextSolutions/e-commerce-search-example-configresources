@@ -1,0 +1,17 @@
+{
+  "$id": "p89567",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "80.49",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$20.99 - $80.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/cooper-and-thief-napa-valley-rye-barrel-aged-cabernet-sauvignon-red-wine/p89567",
+    "name": "Cooper and Thief Napa Valley Rye Barrel Aged Cabernet Sauvignon Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

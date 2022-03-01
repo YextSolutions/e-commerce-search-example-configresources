@@ -1,0 +1,17 @@
+{
+  "$id": "p35362",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "27.49",
+    "c_numberReviews": "19",
+    "c_priceRange": "$27.49 - $65.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-bourbon-gift-set/p35362",
+    "name": "Woodford Reserve Bourbon Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

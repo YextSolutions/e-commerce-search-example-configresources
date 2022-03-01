@@ -1,0 +1,18 @@
+{
+  "$id": "p14464",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "1",
+    "c_priceRange": "$5.49 - $15.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Hefeweizen",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/hefeweizen/sweetwater-seasonal/p14464",
+    "name": "SweetWater Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

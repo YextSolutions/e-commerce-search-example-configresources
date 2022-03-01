@@ -1,0 +1,17 @@
+{
+  "$id": "p61987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.69",
+    "c_minPrice": "6.15",
+    "c_numberReviews": "66",
+    "c_priceRange": "$6.15 - $35.69",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/cayman-jack-cuban-mojito/p61987",
+    "name": "Cayman Jack Mojito"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,43 @@
+{
+  "$id": "p117167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $14.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/dovetail-helles-lager/p117167",
+    "name": "Dovetail Helles Lager",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-dovetail-helles-lager-2da0b1c3f3bf7ac0.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/iWvQNRb2RZO8NuHw-YXfrl5GDStMUiwT6W192chwbHk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iWvQNRb2RZO8NuHw-YXfrl5GDStMUiwT6W192chwbHk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/iWvQNRb2RZO8NuHw-YXfrl5GDStMUiwT6W192chwbHk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iWvQNRb2RZO8NuHw-YXfrl5GDStMUiwT6W192chwbHk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

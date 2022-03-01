@@ -1,0 +1,17 @@
+{
+  "$id": "p3998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.09",
+    "c_numberReviews": "30",
+    "c_priceRange": "$8.09 - $16.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/portillo-malbec/p3998",
+    "name": "Portillo Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

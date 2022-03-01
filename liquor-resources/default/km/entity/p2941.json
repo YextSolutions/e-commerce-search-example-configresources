@@ -1,0 +1,17 @@
+{
+  "$id": "p2941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "145.99",
+    "c_minPrice": "25.98",
+    "c_numberReviews": "9",
+    "c_priceRange": "$25.98 - $145.99",
+    "c_subCategory": "Junmai Daiginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-daiginjo/dassai-23-junmai-daiginjo-sake/p2941",
+    "name": "Dassai 23 Junmai Daiginjo Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

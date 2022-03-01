@@ -1,0 +1,17 @@
+{
+  "$id": "p68919",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "17.49",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$13.99 - $17.49",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/mercat-cava-brut-nature/p68919",
+    "name": "Mercat Cava Brut Nature"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

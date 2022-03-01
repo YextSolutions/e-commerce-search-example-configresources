@@ -1,0 +1,17 @@
+{
+  "$id": "p3580",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "208.99",
+    "c_minPrice": "25.50",
+    "c_numberReviews": "1026",
+    "c_priceRange": "$25.50 - $208.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/grand-marnier-cordon-rouge-orange-liqueur/p3580",
+    "name": "Grand Marnier Cordon Rouge Orange Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

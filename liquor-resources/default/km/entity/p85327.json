@@ -1,0 +1,17 @@
+{
+  "$id": "p85327",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "176.99",
+    "c_minPrice": "49.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$49.49 - $176.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jeffersons-ocean-wheated-bourbon/p85327",
+    "name": "Jefferson\u0027s Ocean Wheated  Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "69.00",
+    "c_numberReviews": "1",
+    "c_priceRange": "$69.00 - $99.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/kings-county-distillery-bourbon-whiskey/p7105",
+    "name": "Kings County Distillery Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

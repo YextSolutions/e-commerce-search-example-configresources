@@ -1,0 +1,17 @@
+{
+  "$id": "p103816",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "684",
+    "c_priceRange": "$18.69 - $99.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/teremana-blanco-tequila/p103816",
+    "name": "Teremana Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

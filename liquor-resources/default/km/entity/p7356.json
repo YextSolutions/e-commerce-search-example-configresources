@@ -1,0 +1,17 @@
+{
+  "$id": "p7356",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "68.49",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "90",
+    "c_priceRange": "$16.99 - $68.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-forester-100-proof-signature-bourbon/p7356",
+    "name": "Old Forester 100 Proof Signature Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

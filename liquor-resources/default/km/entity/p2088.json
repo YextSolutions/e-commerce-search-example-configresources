@@ -1,0 +1,17 @@
+{
+  "$id": "p2088",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.99 - $23.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/western-son-grapefruit-vodka/p2088",
+    "name": "Western Son Grapefruit Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

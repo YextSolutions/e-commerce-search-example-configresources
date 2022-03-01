@@ -1,0 +1,17 @@
+{
+  "$id": "p3212",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "14.00",
+    "c_numberReviews": "1",
+    "c_priceRange": "$14.00 - $31.99",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/lustau-deluxe-cream-sherry/p3212",
+    "name": "Lustau Deluxe Cream Sherry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

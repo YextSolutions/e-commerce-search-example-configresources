@@ -1,0 +1,17 @@
+{
+  "$id": "p14421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$39.99 - $89.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/renato-ratti-barolo-marcenasco/p14421",
+    "name": "Renato Ratti Barolo Marcenasco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p62189",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "38.81",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$10.99 - $38.81",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/montauk-watermelon-session-ale/p62189",
+    "name": "Montauk Watermelon Session Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

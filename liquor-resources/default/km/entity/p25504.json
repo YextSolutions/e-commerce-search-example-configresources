@@ -1,0 +1,17 @@
+{
+  "$id": "p25504",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$12.99 - $25.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/rothaus-pils-tannen-zapfle/p25504",
+    "name": "Rothaus Pils Tannen Zäpfle"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p117863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "40.67",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$8.99 - $40.67",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/yuengling-hersheys-chocolate-porter/p117863",
+    "name": "Yuengling Hershey\u0027s Chocolate Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

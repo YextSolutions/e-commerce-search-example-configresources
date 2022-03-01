@@ -1,0 +1,17 @@
+{
+  "$id": "p3713",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "132",
+    "c_priceRange": "$9.99 - $43.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/old-overholt-original/p3713",
+    "name": "Old Overholt Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p5984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.87",
+    "c_numberReviews": "44",
+    "c_priceRange": "$8.87 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-watermelon-pucker-schnapps-liqueur/p5984",
+    "name": "DeKuyper Watermelon Pucker Schnapps Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

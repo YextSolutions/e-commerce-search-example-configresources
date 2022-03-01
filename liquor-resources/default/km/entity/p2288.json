@@ -1,0 +1,17 @@
+{
+  "$id": "p2288",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$8.99 - $28.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/butternut-chardonnay/p2288",
+    "name": "Butternut Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

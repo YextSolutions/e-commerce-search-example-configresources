@@ -1,0 +1,16 @@
+{
+  "$id": "p96079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$5.99 - $30.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/10-barrel-brewing-co-crush-variety-pack/p96079",
+    "name": "10 Barrel Brewing Co. Crush Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p98769",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "13.95",
+    "c_numberReviews": "3",
+    "c_priceRange": "$13.95 - $21.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/mark-ryan-the-vincent-white/p98769",
+    "name": "Mark Ryan \u0027The Vincent\u0027 White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

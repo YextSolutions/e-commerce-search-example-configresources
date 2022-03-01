@@ -1,0 +1,17 @@
+{
+  "$id": "p123235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.79",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$11.99 - $16.79",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/cape-may-coffee-stout/p123235",
+    "name": "Cape May Coffee Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

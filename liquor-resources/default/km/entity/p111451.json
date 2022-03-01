@@ -1,0 +1,44 @@
+{
+  "$id": "p111451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "185.56",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$25.99 - $185.56",
+    "c_subCategory": "Mead",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/mead/dansk-mjod-odins-skull/p111451",
+    "name": "Dansk Mjod Odins Skull",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-dansk-mjod-odins-skull-3836cf275526a0b7.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/rNPQmmG9MemhHGkFqGSpT79cbJBmE-vHZL_jgvi-c0g/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rNPQmmG9MemhHGkFqGSpT79cbJBmE-vHZL_jgvi-c0g/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/rNPQmmG9MemhHGkFqGSpT79cbJBmE-vHZL_jgvi-c0g/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rNPQmmG9MemhHGkFqGSpT79cbJBmE-vHZL_jgvi-c0g/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

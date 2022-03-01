@@ -1,0 +1,17 @@
+{
+  "$id": "p63155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$34.99 - $109.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/kikori-japanese-whiskey/p63155",
+    "name": "Kikori Japanese Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2285",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "99.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$99.99 - $499.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/bushmills-21-year-single-malt-irish-whiskey/p2285",
+    "name": "Bushmills 21 Year Single Malt Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

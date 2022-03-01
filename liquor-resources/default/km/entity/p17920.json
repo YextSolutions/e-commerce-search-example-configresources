@@ -1,0 +1,17 @@
+{
+  "$id": "p17920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "157",
+    "c_priceRange": "$10.99 - $30.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/michael-david-petite-petit/p17920",
+    "name": "Michael David Petite Petit"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

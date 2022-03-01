@@ -1,0 +1,44 @@
+{
+  "$id": "p20652",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "251.88",
+    "c_minPrice": "11.97",
+    "c_numberReviews": "74",
+    "c_priceRange": "$11.97 - $251.88",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/jose-cuervo-tradicional-silver-tequila/p20652",
+    "name": "Jose Cuervo Tradicional Silver Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-jose-cuervo-tradicional-silver-tequila-8cb83e21c68a6863.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPCctsnkMBrEIzkQFbpOu_KEHkQtOrKjd8S0Zood8ho/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPCctsnkMBrEIzkQFbpOu_KEHkQtOrKjd8S0Zood8ho/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPCctsnkMBrEIzkQFbpOu_KEHkQtOrKjd8S0Zood8ho/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yPCctsnkMBrEIzkQFbpOu_KEHkQtOrKjd8S0Zood8ho/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

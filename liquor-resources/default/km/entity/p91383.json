@@ -1,0 +1,17 @@
+{
+  "$id": "p91383",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "10.00",
+    "c_minPrice": "4.75",
+    "c_numberReviews": "4",
+    "c_priceRange": "$4.75 - $10.00",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/wandering-barman-fomo/p91383",
+    "name": "Wandering Barman Fomo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

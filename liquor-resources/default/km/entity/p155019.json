@@ -1,0 +1,17 @@
+{
+  "$id": "p155019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1099.99",
+    "c_minPrice": "95.65",
+    "c_numberReviews": "1",
+    "c_priceRange": "$95.65 - $1099.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/orphan-barrel-copper-tongue-16-year-old-cask-strength-straight-bourbon-whisky/p155019",
+    "name": "Orphan Barrel Copper Tongue 16 Year Old Cask Strength Straight Bourbon Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

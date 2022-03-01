@@ -1,0 +1,17 @@
+{
+  "$id": "p3570",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "73.69",
+    "c_minPrice": "9.64",
+    "c_numberReviews": "41",
+    "c_priceRange": "$9.64 - $73.69",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/grahams-six-grapes-porto/p3570",
+    "name": "Grahams Six Grapes Porto"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

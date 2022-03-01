@@ -1,0 +1,17 @@
+{
+  "$id": "p1429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "40.00",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$23.99 - $40.00",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/lemelson-theas-selection-pinot-noir/p1429",
+    "name": "Lemelson Thea\u0027s Selection Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

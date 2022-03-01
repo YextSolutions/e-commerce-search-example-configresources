@@ -1,0 +1,17 @@
+{
+  "$id": "p285",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "25.49",
+    "c_minPrice": "10.85",
+    "c_numberReviews": "14",
+    "c_priceRange": "$10.85 - $25.49",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/tiefenbrunner-pinot-grigio/p285",
+    "name": "Tiefenbrunner Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

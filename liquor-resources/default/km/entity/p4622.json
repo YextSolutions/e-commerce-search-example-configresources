@@ -1,0 +1,17 @@
+{
+  "$id": "p4622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$9.99 - $62.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/silver-palm-cabernet-sauvignon/p4622",
+    "name": "Silver Palm Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p4327",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "24.19",
+    "c_numberReviews": "39",
+    "c_priceRange": "$24.19 - $99.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/rowans-creek-bourbon/p4327",
+    "name": "Rowan\u0027s Creek Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

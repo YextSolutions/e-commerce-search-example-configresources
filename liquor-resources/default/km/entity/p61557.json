@@ -1,0 +1,17 @@
+{
+  "$id": "p61557",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.39",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.79 - $26.39",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/z-alexander-brown-uncaged-pinot-noir/p61557",
+    "name": "Z Alexander Brown Uncaged Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

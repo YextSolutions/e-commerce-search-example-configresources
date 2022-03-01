@@ -1,0 +1,17 @@
+{
+  "$id": "p435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "114",
+    "c_priceRange": "$3.99 - $23.99",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/unibroue-la-fin-du-monde/p435",
+    "name": "Unibroue - La Fin Du Monde"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

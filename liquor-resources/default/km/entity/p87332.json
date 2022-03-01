@@ -1,0 +1,17 @@
+{
+  "$id": "p87332",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$1.49 - $25.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/clubtails-screwdriver/p87332",
+    "name": "Clubtails Screwdriver"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

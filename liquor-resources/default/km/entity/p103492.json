@@ -1,0 +1,17 @@
+{
+  "$id": "p103492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "7.20",
+    "c_numberReviews": "17",
+    "c_priceRange": "$7.20 - $17.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/clausthaler-grapefruit-non-alcoholic/p103492",
+    "name": "Clausthaler Grapefruit Non-Alcoholic"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

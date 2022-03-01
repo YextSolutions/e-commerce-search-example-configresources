@@ -1,0 +1,16 @@
+{
+  "$id": "p1845",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$2.99 - $12.09",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/barefoot-summer-red-spritzer/p1845",
+    "name": "Barefoot Summer Red Spritzer"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p96498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.77",
+    "c_minPrice": "7.04",
+    "c_numberReviews": "37",
+    "c_priceRange": "$7.04 - $32.77",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/juneshine-hard-kombucha-acai-berry/p96498",
+    "name": "JuneShine Hard Kombucha Acai Berry"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

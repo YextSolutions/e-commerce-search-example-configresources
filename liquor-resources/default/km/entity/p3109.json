@@ -1,0 +1,17 @@
+{
+  "$id": "p3109",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "2996",
+    "c_priceRange": "$29.99 - $99.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/don-julio-blanco/p3109",
+    "name": "Don Julio Blanco"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p87424",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "2.00",
+    "c_minPrice": "0.92",
+    "c_numberReviews": "5",
+    "c_priceRange": "$0.92 - $2.00",
+    "c_subCategory": "Gold Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/gold-tequila/99-gold-tequila/p87424",
+    "name": "99 Gold Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

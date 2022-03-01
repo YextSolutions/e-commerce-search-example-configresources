@@ -1,0 +1,17 @@
+{
+  "$id": "p27247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.24 - $11.49",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/canadian-leaf-canadian-whisky/p27247",
+    "name": "Canadian Leaf Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p10478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "29.98",
+    "c_numberReviews": "10",
+    "c_priceRange": "$29.98 - $49.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/leopold-bros-silver-tree--vodka/p10478",
+    "name": "Leopold Bros Silver Tree Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

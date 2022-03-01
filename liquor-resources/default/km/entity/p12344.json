@@ -1,0 +1,17 @@
+{
+  "$id": "p12344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$7.99 - $19.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/charles-de-fere-cuvee-jean-louis-blanc-de-blancs-brut/p12344",
+    "name": "Charles de Fere \u0027Cuvee Jean-Louis\u0027 Blanc de Blancs Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p94272",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "55.49",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "38",
+    "c_priceRange": "$14.29 - $55.49",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/21-seeds-grapefruit-hibiscus-blanco-tequila/p94272",
+    "name": "21 Seeds Grapefruit Hibiscus Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

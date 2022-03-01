@@ -1,0 +1,44 @@
+{
+  "$id": "p937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "70.99",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "48",
+    "c_priceRange": "$17.59 - $70.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/beringer-knights-valley-cabernet-sauvignon/p937",
+    "name": "Beringer Knights Valley Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-beringer-knights-valley-cabernet-sauvignon-f57025d9e41983b1.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/9g__IbvSBSNOlyGpq3RTIPp73L9NEpaOXYIwVOlRxa4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9g__IbvSBSNOlyGpq3RTIPp73L9NEpaOXYIwVOlRxa4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/9g__IbvSBSNOlyGpq3RTIPp73L9NEpaOXYIwVOlRxa4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9g__IbvSBSNOlyGpq3RTIPp73L9NEpaOXYIwVOlRxa4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

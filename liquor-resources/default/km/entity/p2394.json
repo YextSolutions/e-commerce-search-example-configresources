@@ -1,0 +1,16 @@
+{
+  "$id": "p2394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "16",
+    "c_priceRange": "$6.59 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/carlo-rossi-chianti/p2394",
+    "name": "Carlo Rossi Chianti"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

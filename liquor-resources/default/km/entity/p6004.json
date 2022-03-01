@@ -1,0 +1,16 @@
+{
+  "$id": "p6004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "14.33",
+    "c_numberReviews": "11",
+    "c_priceRange": "$14.33 - $39.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/ouzo-12/p6004",
+    "name": "Ouzo 12"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p84643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "39",
+    "c_priceRange": "$1.49 - $26.99",
+    "c_subCategory": "Shots Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/shots-ready-to-drink/slrrrp-alcohol-infused-gelatin-shots-og-variety/p84643",
+    "name": "SLRRRP Alcohol-Infused Gelatin Shots - O.G. Variety"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

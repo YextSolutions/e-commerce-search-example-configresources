@@ -1,0 +1,44 @@
+{
+  "$id": "p22037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "22.54",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "20",
+    "c_priceRange": "$9.49 - $22.54",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/castello-del-poggio-sparkling-moscato/p22037",
+    "name": "Castello Del Poggio Sparkling Moscato",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-castello-del-poggio-moscato-d162371322b8b070.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_ZMVvucR8A6F1q6xIG0LRn-b0V3pnr51yQe2SPjHCY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_ZMVvucR8A6F1q6xIG0LRn-b0V3pnr51yQe2SPjHCY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/D_ZMVvucR8A6F1q6xIG0LRn-b0V3pnr51yQe2SPjHCY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D_ZMVvucR8A6F1q6xIG0LRn-b0V3pnr51yQe2SPjHCY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

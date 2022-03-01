@@ -1,0 +1,17 @@
+{
+  "$id": "p81333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.14",
+    "c_numberReviews": "4",
+    "c_priceRange": "$6.14 - $18.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/sand-point-pinot-noir/p81333",
+    "name": "Sand Point Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p65767",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "50.00",
+    "c_numberReviews": "23",
+    "c_priceRange": "$50.00 - $129.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/codigo-1530-reposado/p65767",
+    "name": "Código 1530 Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

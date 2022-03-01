@@ -1,0 +1,17 @@
+{
+  "$id": "p4910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "84.95",
+    "c_minPrice": "11.00",
+    "c_numberReviews": "96",
+    "c_priceRange": "$11.00 - $84.95",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/gruet-brut/p4910",
+    "name": "Gruet Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

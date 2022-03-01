@@ -1,0 +1,17 @@
+{
+  "$id": "p134302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "119.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$49.99 - $119.99",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-vsop-privilege-nba-gift-box-cognac/p134302",
+    "name": "Hennessy V.S.O.P Privilege NBA Gift Box Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

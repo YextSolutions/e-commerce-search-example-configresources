@@ -1,0 +1,17 @@
+{
+  "$id": "p95895",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "7.98",
+    "c_numberReviews": "6",
+    "c_priceRange": "$7.98 - $11.99",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/upslope-rocky-mountain-kolsch/p95895",
+    "name": "Upslope Rocky Mountain Kolsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

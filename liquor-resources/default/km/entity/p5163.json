@@ -1,0 +1,44 @@
+{
+  "$id": "p5163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "2199.00",
+    "c_minPrice": "9.66",
+    "c_numberReviews": "282",
+    "c_priceRange": "$9.66 - $2199.00",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/joel-gott-815-cabernet-sauvignon-red-wine-750ml-wine-bottle/p5163",
+    "name": "Joel Gott 815 Cabernet Sauvignon Red Wine, 750mL Wine Bottle",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-joel-gott-815-cabernet-sauvignon-b98d1c9719dd6d5d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Fhv1rn3J-3vvryObEBiIxq5f034MODVH1XsgN7RynQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Fhv1rn3J-3vvryObEBiIxq5f034MODVH1XsgN7RynQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/8Fhv1rn3J-3vvryObEBiIxq5f034MODVH1XsgN7RynQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8Fhv1rn3J-3vvryObEBiIxq5f034MODVH1XsgN7RynQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

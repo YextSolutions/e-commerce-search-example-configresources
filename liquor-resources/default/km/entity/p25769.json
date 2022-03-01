@@ -1,0 +1,44 @@
+{
+  "$id": "p25769",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "119.99",
+    "c_minPrice": "33.00",
+    "c_numberReviews": "11",
+    "c_priceRange": "$33.00 - $119.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/kirk-and-sweeney-23-reserva/p25769",
+    "name": "Kirk \u0026 Sweeney 23 Reserva",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-kirk-sweeney-23-year-dominican-rum-92a613b504b93b12.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1NvV3RjB5dkQ3WyqQ8N7BeJpTxyDWNQlaPrljpa7lX4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1NvV3RjB5dkQ3WyqQ8N7BeJpTxyDWNQlaPrljpa7lX4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1NvV3RjB5dkQ3WyqQ8N7BeJpTxyDWNQlaPrljpa7lX4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1NvV3RjB5dkQ3WyqQ8N7BeJpTxyDWNQlaPrljpa7lX4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

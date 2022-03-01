@@ -1,0 +1,17 @@
+{
+  "$id": "p5162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.95",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$10.99 - $149.95",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/jim-beam-rye-whiskey/p5162",
+    "name": "Jim Beam Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

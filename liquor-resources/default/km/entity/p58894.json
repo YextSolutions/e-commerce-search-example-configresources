@@ -1,0 +1,17 @@
+{
+  "$id": "p58894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "1299.21",
+    "c_minPrice": "129.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$129.99 - $1299.21",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/opus-one/p58894",
+    "name": "Opus One"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

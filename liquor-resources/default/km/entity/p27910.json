@@ -1,0 +1,17 @@
+{
+  "$id": "p27910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "53.79",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$14.99 - $53.79",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/selvarey-white-rum/p27910",
+    "name": "SelvaRey White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

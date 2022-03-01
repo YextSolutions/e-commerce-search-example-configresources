@@ -1,0 +1,16 @@
+{
+  "$id": "p33788",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/mr-boston-blue-curacao/p33788",
+    "name": "Mr. Boston Blue Curacao"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

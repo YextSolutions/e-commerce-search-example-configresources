@@ -1,0 +1,17 @@
+{
+  "$id": "p68977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.15",
+    "c_minPrice": "14.69",
+    "c_numberReviews": "1",
+    "c_priceRange": "$14.69 - $29.15",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/juve-y-camps-gran-juve-gran-reserva-brut/p68977",
+    "name": "Juve Y Camps Gran Juvé Gran Reserva Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

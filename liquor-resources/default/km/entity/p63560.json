@@ -1,0 +1,44 @@
+{
+  "$id": "p63560",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "24.35",
+    "c_numberReviews": "8",
+    "c_priceRange": "$24.35 - $38.49",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/hamilton-jamaican-pot-still-black-rum/p63560",
+    "name": "Hamilton Jamaican Pot Still Black Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-hamilton-jamaican-pot-still-black-rum-273e979c00058548.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/m0EeiNMrqL7leY26x3bDxt9yNzyG8MpbC_-bRg9D-4s/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/m0EeiNMrqL7leY26x3bDxt9yNzyG8MpbC_-bRg9D-4s/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/m0EeiNMrqL7leY26x3bDxt9yNzyG8MpbC_-bRg9D-4s/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/m0EeiNMrqL7leY26x3bDxt9yNzyG8MpbC_-bRg9D-4s/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

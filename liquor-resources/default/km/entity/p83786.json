@@ -1,0 +1,17 @@
+{
+  "$id": "p83786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.44",
+    "c_minPrice": "3.98",
+    "c_numberReviews": "3",
+    "c_priceRange": "$3.98 - $26.44",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/walking-dead-daryl-dixon-cabernet-sauvignon/p83786",
+    "name": "Walking Dead Daryl Dixon Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p586",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "12.95",
+    "c_numberReviews": "10",
+    "c_priceRange": "$12.95 - $37.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/achaval-ferrer-malbec/p586",
+    "name": "Achaval Ferrer Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

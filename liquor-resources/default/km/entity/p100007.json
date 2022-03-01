@@ -1,0 +1,43 @@
+{
+  "$id": "p100007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "7.99",
+    "c_minPrice": "2.98",
+    "c_numberReviews": "8",
+    "c_priceRange": "$2.98 - $7.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/crafters-union-bubbles-brut-white-wine-can/p100007",
+    "name": "Crafters Union Bubbles Brut White Wine Can",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-crafters-union-brut-white-wine-5052d94b494abd98.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/aQe_v63DDXm57JG3KDMCnhHe1k3m3o0qHyxXa8Xz88Q/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aQe_v63DDXm57JG3KDMCnhHe1k3m3o0qHyxXa8Xz88Q/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/aQe_v63DDXm57JG3KDMCnhHe1k3m3o0qHyxXa8Xz88Q/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aQe_v63DDXm57JG3KDMCnhHe1k3m3o0qHyxXa8Xz88Q/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

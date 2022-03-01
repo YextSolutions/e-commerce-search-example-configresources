@@ -1,0 +1,17 @@
+{
+  "$id": "p80880",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "41",
+    "c_priceRange": "$17.59 - $79.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/crown-royal-fine-de-luxe-blended-canadian-whisky-gift-set/p80880",
+    "name": "Crown Royal Fine de Luxe Blended Canadian Whisky Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

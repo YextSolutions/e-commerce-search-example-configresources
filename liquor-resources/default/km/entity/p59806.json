@@ -1,0 +1,18 @@
+{
+  "$id": "p59806",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.10",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.99 - $12.10",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/4-hands-city-wide/p59806",
+    "name": "4 Hands City Wide"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "97.77",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "190",
+    "c_priceRange": "$18.69 - $97.77",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/herradura-reposado-tequila/p5007",
+    "name": "Herradura Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

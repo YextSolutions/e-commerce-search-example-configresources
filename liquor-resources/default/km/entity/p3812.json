@@ -1,0 +1,17 @@
+{
+  "$id": "p3812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "94",
+    "c_priceRange": "$6.99 - $34.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/paulaner-hefe-weizen/p3812",
+    "name": "Paulaner Hefe Weizen"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

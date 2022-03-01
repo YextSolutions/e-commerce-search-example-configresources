@@ -1,0 +1,17 @@
+{
+  "$id": "p4867",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "87.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$19.99 - $87.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/stags-leap-winery-napa-valley-merlot/p4867",
+    "name": "Stags\u0027 Leap Winery Napa Valley Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

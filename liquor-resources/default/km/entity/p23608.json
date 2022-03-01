@@ -1,0 +1,17 @@
+{
+  "$id": "p23608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$5.99 - $22.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/livingston-merlot/p23608",
+    "name": "Livingston Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p18632",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rhone Blend",
+    "c_maxPrice": "63.99",
+    "c_minPrice": "39.59",
+    "c_numberReviews": "1",
+    "c_priceRange": "$39.59 - $63.99",
+    "landingPageUrl": "https://drizly.com/wine/rhone-blend/chateau-mont-redon-chateauneuf-du-pape/p18632",
+    "name": "Château Mont-Redon Châteauneuf-du-Pape"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

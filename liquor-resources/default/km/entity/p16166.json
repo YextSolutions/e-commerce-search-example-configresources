@@ -1,0 +1,16 @@
+{
+  "$id": "p16166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "477",
+    "c_priceRange": "$8.04 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/mccormick-vodka/p16166",
+    "name": "McCormick Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

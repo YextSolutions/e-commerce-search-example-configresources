@@ -1,0 +1,16 @@
+{
+  "$id": "p102259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$19.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/stateside-urbancraft-vodka/p102259",
+    "name": "Stateside Urbancraft Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

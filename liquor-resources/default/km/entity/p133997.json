@@ -1,0 +1,44 @@
+{
+  "$id": "p133997",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "15.00",
+    "c_numberReviews": "1",
+    "c_priceRange": "$15.00 - $24.19",
+    "c_subCategory": "Orange Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/orange-wine/borgo-savaian-aransat-friuli-venezia-giulia-orange-wine/p133997",
+    "name": "Borgo Savaian Aransat Friuli-Venezia Giulia Orange Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-borgo-savaian-aransat-friuli-venezia-giulia-orange-wine-e9f17e498c426f80.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/LBf_HDnFm33GKPCwi_W0IdI6Z2gtyzGSvGrh-J0AsG8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/LBf_HDnFm33GKPCwi_W0IdI6Z2gtyzGSvGrh-J0AsG8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/LBf_HDnFm33GKPCwi_W0IdI6Z2gtyzGSvGrh-J0AsG8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LBf_HDnFm33GKPCwi_W0IdI6Z2gtyzGSvGrh-J0AsG8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

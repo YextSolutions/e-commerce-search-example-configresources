@@ -1,0 +1,17 @@
+{
+  "$id": "p1804",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "194.99",
+    "c_minPrice": "9.34",
+    "c_numberReviews": "4143",
+    "c_priceRange": "$9.34 - $194.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/bacardi-superior-white-rum/p1804",
+    "name": "BACARDÍ Superior White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

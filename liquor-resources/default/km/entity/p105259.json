@@ -1,0 +1,17 @@
+{
+  "$id": "p105259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "4.06",
+    "c_minPrice": "2.94",
+    "c_numberReviews": "108",
+    "c_priceRange": "$2.94 - $4.06",
+    "c_subCategory": "Pina Colada Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/pina-colada-ready-to-drink/buzzballz-chillers-pineapple-colada/p105259",
+    "name": "BuzzBallz Chillers Pineapple Colada"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

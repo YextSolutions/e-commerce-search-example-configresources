@@ -1,0 +1,17 @@
+{
+  "$id": "p136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "2499.99",
+    "c_minPrice": "69.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$69.99 - $2499.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/talisker-malt-18-year/p136",
+    "name": "Talisker 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

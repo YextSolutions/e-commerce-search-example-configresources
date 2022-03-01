@@ -1,0 +1,17 @@
+{
+  "$id": "p5010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "86",
+    "c_priceRange": "$10.00 - $45.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/hess-select-north-coast-cabernet-sauvignon/p5010",
+    "name": "Hess Select North Coast Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

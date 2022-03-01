@@ -1,0 +1,17 @@
+{
+  "$id": "p13592",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "349.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$4.99 - $349.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/ck-mondavi-red-blend/p13592",
+    "name": "CK Mondavi Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

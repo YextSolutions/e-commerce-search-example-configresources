@@ -1,0 +1,17 @@
+{
+  "$id": "p10314",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "8.15",
+    "c_numberReviews": "108",
+    "c_priceRange": "$8.15 - $38.99",
+    "c_subCategory": "Other Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/other-liqueur/dr-mcgillicuddys-mentholmint-liqueur/p10314",
+    "name": "Dr. McGillicuddy\u0027s Mentholmint Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

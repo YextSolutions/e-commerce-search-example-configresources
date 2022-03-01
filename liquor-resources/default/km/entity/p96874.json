@@ -1,0 +1,17 @@
+{
+  "$id": "p96874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "31.89",
+    "c_minPrice": "4.79",
+    "c_numberReviews": "22",
+    "c_priceRange": "$4.79 - $31.89",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/natural-light-seltzer-catalina-lime-mixer/p96874",
+    "name": "Natural Light Seltzer Catalina Lime Mixer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

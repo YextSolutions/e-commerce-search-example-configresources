@@ -1,0 +1,43 @@
+{
+  "$id": "p3767",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "56.29",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "79",
+    "c_priceRange": "$9.99 - $56.29",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/pama-pomegranate-liqueur/p3767",
+    "name": "PAMA Pomegranate Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-pama-pomegranate-liqueur-a48e9585a9710bfb.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyEstf9WMESYgMvM2qJN5G0NK7xA8KFtYry0DFvhv38/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyEstf9WMESYgMvM2qJN5G0NK7xA8KFtYry0DFvhv38/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/RyEstf9WMESYgMvM2qJN5G0NK7xA8KFtYry0DFvhv38/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RyEstf9WMESYgMvM2qJN5G0NK7xA8KFtYry0DFvhv38/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

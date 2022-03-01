@@ -1,0 +1,17 @@
+{
+  "$id": "p17862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "4.34",
+    "c_numberReviews": "51",
+    "c_priceRange": "$4.34 - $20.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/tribuno-sweet-vermouth/p17862",
+    "name": "Tribuno Sweet Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "drizly",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Drizly",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://drizly.com/"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://drizly.com/*"
+  ]
+}

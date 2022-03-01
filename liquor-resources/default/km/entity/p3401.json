@@ -1,0 +1,17 @@
+{
+  "$id": "p3401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$14.99 - $49.49",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/the-four-graces-willamette-valley-pinot-noir/p3401",
+    "name": "The Four Graces Willamette Valley Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

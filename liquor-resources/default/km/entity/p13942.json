@@ -1,0 +1,16 @@
+{
+  "$id": "p13942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.99 - $29.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chateau-de-bon-ami-bordeaux/p13942",
+    "name": "Chateau De Bon Ami Bordeaux"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

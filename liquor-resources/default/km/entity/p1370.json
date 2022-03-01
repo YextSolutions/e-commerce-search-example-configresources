@@ -1,0 +1,17 @@
+{
+  "$id": "p1370",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.47",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "65",
+    "c_priceRange": "$5.00 - $18.47",
+    "c_subCategory": "White Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/la-vieille-ferme-blanc/p1370",
+    "name": "La Vieille Ferme Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

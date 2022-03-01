@@ -1,0 +1,17 @@
+{
+  "$id": "p2358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "43.65",
+    "c_minPrice": "10.21",
+    "c_numberReviews": "48",
+    "c_priceRange": "$10.21 - $43.65",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/cannonball-cabernet-sauvignon/p2358",
+    "name": "Cannonball Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

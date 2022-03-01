@@ -1,0 +1,17 @@
+{
+  "$id": "p6076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$7.99 - $35.99",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/abita-amber/p6076",
+    "name": "Abita Amber"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

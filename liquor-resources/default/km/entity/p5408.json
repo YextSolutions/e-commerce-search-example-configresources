@@ -1,0 +1,17 @@
+{
+  "$id": "p5408",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "229.00",
+    "c_minPrice": "45.07",
+    "c_numberReviews": "147",
+    "c_priceRange": "$45.07 - $229.00",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/milagro-tequila-select-barrel-reserve-anejo/p5408",
+    "name": "Milagro Tequila Select Barrel Reserve Añejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p629",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "134.99",
+    "c_minPrice": "58.30",
+    "c_numberReviews": "2",
+    "c_priceRange": "$58.30 - $134.99",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/allegrini-amarone-classico/p629",
+    "name": "Allegrini Amarone Classico"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

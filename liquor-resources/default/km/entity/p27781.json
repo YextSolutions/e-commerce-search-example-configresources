@@ -1,0 +1,16 @@
+{
+  "$id": "p27781",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.97",
+    "c_numberReviews": "23",
+    "c_priceRange": "$6.97 - $18.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/oliver-sweet-rose/p27781",
+    "name": "Oliver Sweet Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

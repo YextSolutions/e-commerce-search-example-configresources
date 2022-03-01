@@ -1,0 +1,44 @@
+{
+  "$id": "p103943",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "10.19",
+    "c_numberReviews": "16",
+    "c_priceRange": "$10.19 - $13.19",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/-512-pecan-porter/p103943",
+    "name": "(512) Pecan Porter",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-512-brewing-pecan-porter-3833c6f35ee2ab88.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6oN9TzWr1bX4lPpifhwy6MKdFzRLu2-z1Jp5WShC88/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6oN9TzWr1bX4lPpifhwy6MKdFzRLu2-z1Jp5WShC88/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/V6oN9TzWr1bX4lPpifhwy6MKdFzRLu2-z1Jp5WShC88/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V6oN9TzWr1bX4lPpifhwy6MKdFzRLu2-z1Jp5WShC88/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

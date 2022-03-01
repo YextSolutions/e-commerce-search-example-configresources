@@ -1,0 +1,17 @@
+{
+  "$id": "p22583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "10",
+    "c_priceRange": "$14.29 - $39.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/drouhin-chablis-1-er-cru-2012/p22583",
+    "name": "Drouhin Chablis 1 Er Cru"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

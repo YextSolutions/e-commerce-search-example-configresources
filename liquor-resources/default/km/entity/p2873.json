@@ -1,0 +1,17 @@
+{
+  "$id": "p2873",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "66.99",
+    "c_minPrice": "18.36",
+    "c_numberReviews": "3692",
+    "c_priceRange": "$18.36 - $66.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/crown-royal-fine-deluxe-blended-canadian-whisky/p2873",
+    "name": "Crown Royal Fine Deluxe Blended Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

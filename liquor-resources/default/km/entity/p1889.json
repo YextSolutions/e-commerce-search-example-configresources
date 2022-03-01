@@ -1,0 +1,17 @@
+{
+  "$id": "p1889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "109",
+    "c_priceRange": "$9.97 - $37.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/bonterra-organic-cabernet-sauvignon/p1889",
+    "name": "Bonterra Organic Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

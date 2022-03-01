@@ -1,0 +1,18 @@
+{
+  "$id": "p2982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "6.48",
+    "c_numberReviews": "148",
+    "c_priceRange": "$6.48 - $89.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Belgian Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/belgian-strong-ale/delirium-tremens/p2982",
+    "name": "Delirium Tremens"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

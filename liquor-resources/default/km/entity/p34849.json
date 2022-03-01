@@ -1,0 +1,16 @@
+{
+  "$id": "p34849",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$24.99 - $62.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/strega-liquore/p34849",
+    "name": "Strega Liquore"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

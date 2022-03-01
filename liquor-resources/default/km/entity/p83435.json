@@ -1,0 +1,18 @@
+{
+  "$id": "p83435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$2.99 - $23.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Wild Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/wild-ale/collective-arts-jam-up-the-mash/p83435",
+    "name": "Collective Arts Jam Up The Mash"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

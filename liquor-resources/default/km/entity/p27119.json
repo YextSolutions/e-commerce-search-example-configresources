@@ -1,0 +1,17 @@
+{
+  "$id": "p27119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.95",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.98 - $22.95",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/contour-pinot-noir/p27119",
+    "name": "Contour Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

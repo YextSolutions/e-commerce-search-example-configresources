@@ -1,0 +1,17 @@
+{
+  "$id": "p1059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "230",
+    "c_priceRange": "$7.99 - $39.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/left-hand-milk-stout-nitro/p1059",
+    "name": "Left Hand Milk Stout Nitro"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

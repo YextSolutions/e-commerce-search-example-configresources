@@ -1,0 +1,17 @@
+{
+  "$id": "p6969",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "54.95",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$20.99 - $54.95",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/barrows-intense-ginger-liqueur/p6969",
+    "name": "Barrow\u0027s Intense Ginger Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p16702",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "91.29",
+    "c_minPrice": "2.53",
+    "c_numberReviews": "76",
+    "c_priceRange": "$2.53 - $91.29",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/arbor-mist-exotic-fruit-white-zinfandel-sweet-wine/p16702",
+    "name": "Arbor Mist Exotic Fruit White Zinfandel Sweet Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-arbor-mist-exotic-fruit-white-zinfandel-7439057bea11d0ba.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/lgQz-68FRPtzmAaaRr-vdj8Hjw82scmpw0s3ehAybRI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lgQz-68FRPtzmAaaRr-vdj8Hjw82scmpw0s3ehAybRI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/lgQz-68FRPtzmAaaRr-vdj8Hjw82scmpw0s3ehAybRI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lgQz-68FRPtzmAaaRr-vdj8Hjw82scmpw0s3ehAybRI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

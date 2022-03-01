@@ -1,0 +1,17 @@
+{
+  "$id": "p6717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "176.99",
+    "c_minPrice": "52.95",
+    "c_numberReviews": "7",
+    "c_priceRange": "$52.95 - $176.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/laphroaig-triple-wood-islay-single-malt-whisky/p6717",
+    "name": "Laphroaig Triple Wood Islay Single Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

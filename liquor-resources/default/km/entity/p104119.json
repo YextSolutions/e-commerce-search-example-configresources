@@ -1,0 +1,17 @@
+{
+  "$id": "p104119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$8.99 - $34.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/bon-vv-spiked-seltzer-blends-variety-pack/p104119",
+    "name": "BON V!V Spiked Seltzer Blends Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$1.99 - $17.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/crane-lake-chardonnay/p2850",
+    "name": "Crane Lake Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

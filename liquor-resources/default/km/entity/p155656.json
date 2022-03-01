@@ -1,0 +1,17 @@
+{
+  "$id": "p155656",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.99 - $17.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/dogfish-head-lemon-quest-non-alcoholic-beer/p155656",
+    "name": "Dogfish Head Lemon Quest Non-Alcoholic Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

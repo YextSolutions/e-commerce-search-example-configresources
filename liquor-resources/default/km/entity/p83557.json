@@ -1,0 +1,17 @@
+{
+  "$id": "p83557",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.39",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "12",
+    "c_priceRange": "$4.39 - $20.39",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/devils-purse-handline-kolsch/p83557",
+    "name": "Devil\u0027s Purse Handline Kolsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p87661",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "5.29",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$1.99 - $5.29",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-smash-strawberry-lemon/p87661",
+    "name": "Smirnoff Ice Smash Strawberry + Lemon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-smirnoff-ice-smash-strawberry-lemon-23a5dc95a56ca370.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hVLiyy9jDs-rpBB5PnTw5QMerC4VuxN4_G0a-tqpPE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hVLiyy9jDs-rpBB5PnTw5QMerC4VuxN4_G0a-tqpPE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/4hVLiyy9jDs-rpBB5PnTw5QMerC4VuxN4_G0a-tqpPE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4hVLiyy9jDs-rpBB5PnTw5QMerC4VuxN4_G0a-tqpPE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

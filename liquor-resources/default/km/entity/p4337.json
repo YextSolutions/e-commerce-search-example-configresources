@@ -1,0 +1,43 @@
+{
+  "$id": "p4337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "67.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "86",
+    "c_priceRange": "$9.99 - $67.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/ruffino-riserva-ducale-oro-chianti-classico/p4337",
+    "name": "Ruffino Riserva Ducale Oro Chianti Classico",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-ruffino-riserva-ducale-60e224e249c67911.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/s1xr6-K0j9OP9-fSdLzycyZ0o3vZEVn9gW1gmIyekUI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/s1xr6-K0j9OP9-fSdLzycyZ0o3vZEVn9gW1gmIyekUI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/s1xr6-K0j9OP9-fSdLzycyZ0o3vZEVn9gW1gmIyekUI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/s1xr6-K0j9OP9-fSdLzycyZ0o3vZEVn9gW1gmIyekUI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

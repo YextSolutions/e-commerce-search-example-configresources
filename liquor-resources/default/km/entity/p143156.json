@@ -1,0 +1,17 @@
+{
+  "$id": "p143156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "124.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$16.99 - $124.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/austin-hope-paso-robles-cabernet-sauvignon/p143156",
+    "name": "Austin Hope Paso Robles Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

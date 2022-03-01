@@ -1,0 +1,17 @@
+{
+  "$id": "p19122",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "72.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$17.99 - $72.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/ferrari-carano-cabernet-sauvignon-sonoma-county/p19122",
+    "name": "Ferrari-Carano Cabernet Sauvignon, Sonoma County"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

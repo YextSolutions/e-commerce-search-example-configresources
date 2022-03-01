@@ -1,0 +1,17 @@
+{
+  "$id": "p18194",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "186.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$7.99 - $186.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/beaulieu-vineyard-cabernet-sauvignon-napa-valley/p18194",
+    "name": "Beaulieu Vineyard Cabernet Sauvignon Napa Valley"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

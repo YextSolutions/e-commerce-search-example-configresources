@@ -1,0 +1,16 @@
+{
+  "$id": "p2716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "35.69",
+    "c_minPrice": "12.90",
+    "c_numberReviews": "6",
+    "c_priceRange": "$12.90 - $35.69",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/clos-de-los-siete-blend/p2716",
+    "name": "Clos De Los Siete Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

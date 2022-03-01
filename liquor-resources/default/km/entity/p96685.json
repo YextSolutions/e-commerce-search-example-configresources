@@ -1,0 +1,16 @@
+{
+  "$id": "p96685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "61.49",
+    "c_minPrice": "20.83",
+    "c_numberReviews": "5",
+    "c_priceRange": "$20.83 - $61.49",
+    "landingPageUrl": "https://drizly.com/liquor/gin/harahorn-gin/p96685",
+    "name": "Harahorn Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

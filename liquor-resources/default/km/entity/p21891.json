@@ -1,0 +1,43 @@
+{
+  "$id": "p21891",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "14.07",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "47",
+    "c_priceRange": "$6.59 - $14.07",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/bully-hill-sweet-walter-rose/p21891",
+    "name": "Bully Hill Sweet Walter Rose",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bully-hill-sweet-walter-rose-5b67f79d6d2dd9fa.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/x4bQNTG0cP31YgGluAQtb_SOeG1xLe_KTJ8dfeaO43w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/x4bQNTG0cP31YgGluAQtb_SOeG1xLe_KTJ8dfeaO43w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/x4bQNTG0cP31YgGluAQtb_SOeG1xLe_KTJ8dfeaO43w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/x4bQNTG0cP31YgGluAQtb_SOeG1xLe_KTJ8dfeaO43w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

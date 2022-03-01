@@ -1,0 +1,17 @@
+{
+  "$id": "p69256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.59",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$10.99 - $17.59",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/eddyline-grapefruit-crank-yanker-ipa/p69256",
+    "name": "Eddyline Grapefruit Crank Yanker IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

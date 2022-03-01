@@ -1,0 +1,17 @@
+{
+  "$id": "p13739",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.00",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.98 - $12.00",
+    "c_subCategory": "Brown Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/brown-ale/telluride-brewing-face-down-brown-ale/p13739",
+    "name": "Telluride Brewing Face Down Brown Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

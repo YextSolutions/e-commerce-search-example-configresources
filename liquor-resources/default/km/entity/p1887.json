@@ -1,0 +1,17 @@
+{
+  "$id": "p1887",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "45.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "123",
+    "c_priceRange": "$9.99 - $45.00",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/bombay-dry-gin/p1887",
+    "name": "BOMBAY® DRY Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

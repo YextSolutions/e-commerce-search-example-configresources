@@ -1,0 +1,18 @@
+{
+  "$id": "p100429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$5.99 - $17.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/goose-island-so-lo-ipa/p100429",
+    "name": "Goose Island So-Lo IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

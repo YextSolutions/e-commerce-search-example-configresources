@@ -1,0 +1,43 @@
+{
+  "$id": "p19622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "10.16",
+    "c_numberReviews": "6",
+    "c_priceRange": "$10.16 - $36.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/banfi-chianti-classico-riserva/p19622",
+    "name": "Banfi Chianti Classico Riserva",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-banfi-chianti-riserva-4a8c7ef33bb31b96.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ovn3PAitw9-hjhhNHtNCTMyWfVm0_k1qXzck1sV9_v0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ovn3PAitw9-hjhhNHtNCTMyWfVm0_k1qXzck1sV9_v0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ovn3PAitw9-hjhhNHtNCTMyWfVm0_k1qXzck1sV9_v0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ovn3PAitw9-hjhhNHtNCTMyWfVm0_k1qXzck1sV9_v0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

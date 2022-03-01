@@ -1,0 +1,17 @@
+{
+  "$id": "p103478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "56",
+    "c_priceRange": "$9.99 - $69.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/disaronno-velvet-cream-liqueur/p103478",
+    "name": "Disaronno Velvet Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

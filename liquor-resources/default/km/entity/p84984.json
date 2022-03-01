@@ -1,0 +1,16 @@
+{
+  "$id": "p84984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "6.30",
+    "c_numberReviews": "28",
+    "c_priceRange": "$6.30 - $27.49",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/fitvine-rose/p84984",
+    "name": "FitVine Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

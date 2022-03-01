@@ -1,0 +1,16 @@
+{
+  "$id": "p53319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$26.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/from-the-tank-vin-rose/p53319",
+    "name": "From The Tank Vin Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

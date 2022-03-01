@@ -1,0 +1,44 @@
+{
+  "$id": "p19690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "63",
+    "c_priceRange": "$9.97 - $22.99",
+    "c_subCategory": "Coffee Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/coffee-liqueur/kamora-coffee-liqueur/p19690",
+    "name": "Kamora Coffee Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-kamora-coffee-liqueur-46b37904a0e06ada.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0AV23ArGepHigTXvITMUIb2_6FxHBP3vj4i-SmclsI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0AV23ArGepHigTXvITMUIb2_6FxHBP3vj4i-SmclsI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/H0AV23ArGepHigTXvITMUIb2_6FxHBP3vj4i-SmclsI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/H0AV23ArGepHigTXvITMUIb2_6FxHBP3vj4i-SmclsI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

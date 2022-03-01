@@ -1,0 +1,18 @@
+{
+  "$id": "p29369",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.77",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "44",
+    "c_priceRange": "$9.99 - $24.77",
+    "c_subCategory": "Stout",
+    "c_type": "Milk Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/milk-stout/belching-beaver-peanut-milk-stout/p29369",
+    "name": "Belching Beaver Peanut Butter Milk Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

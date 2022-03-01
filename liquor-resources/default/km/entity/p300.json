@@ -1,0 +1,17 @@
+{
+  "$id": "p300",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "2.18",
+    "c_numberReviews": "14",
+    "c_priceRange": "$2.18 - $11.49",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/tisdale-pinot-noir/p300",
+    "name": "Tisdale Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

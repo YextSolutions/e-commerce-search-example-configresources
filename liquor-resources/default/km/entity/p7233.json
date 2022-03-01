@@ -1,0 +1,43 @@
+{
+  "$id": "p7233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "45.14",
+    "c_numberReviews": "7",
+    "c_priceRange": "$45.14 - $89.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/mezcal-vago-elote/p7233",
+    "name": "Mezcal Vago Elote",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-mezcal-vago-elote-9388932b76ca064c.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/G75cfzx0n-0JdT0CcL9hG-766KTLSuFeLrsobuGiV_0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/G75cfzx0n-0JdT0CcL9hG-766KTLSuFeLrsobuGiV_0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/G75cfzx0n-0JdT0CcL9hG-766KTLSuFeLrsobuGiV_0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/G75cfzx0n-0JdT0CcL9hG-766KTLSuFeLrsobuGiV_0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

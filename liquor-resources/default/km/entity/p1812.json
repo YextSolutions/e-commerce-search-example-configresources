@@ -1,0 +1,17 @@
+{
+  "$id": "p1812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "138",
+    "c_priceRange": "$8.79 - $30.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/bacardi-spiced-rum/p1812",
+    "name": "BACARDÍ Spiced Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

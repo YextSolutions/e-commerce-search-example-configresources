@@ -1,0 +1,16 @@
+{
+  "$id": "p67045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "58",
+    "c_priceRange": "$8.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/paul-masson-vsop/p67045",
+    "name": "Paul Masson Grande Amber VSOP Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

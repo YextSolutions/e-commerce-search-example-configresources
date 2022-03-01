@@ -1,0 +1,17 @@
+{
+  "$id": "p59367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "25",
+    "c_priceRange": "$8.49 - $39.99",
+    "c_subCategory": "American Blend",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-blend/old-camp-peach-pecan-whiskey/p59367",
+    "name": "Old Camp Peach Pecan Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

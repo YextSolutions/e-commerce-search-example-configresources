@@ -1,0 +1,17 @@
+{
+  "$id": "p6935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$15.99 - $59.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/tres-agaves-organic-blanco/p6935",
+    "name": "Tres Agaves Organic Blanco"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

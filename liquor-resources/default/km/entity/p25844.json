@@ -1,0 +1,17 @@
+{
+  "$id": "p25844",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "52.89",
+    "c_minPrice": "19.88",
+    "c_numberReviews": "2",
+    "c_priceRange": "$19.88 - $52.89",
+    "c_subCategory": "Pisco",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/pisco/caravedo-pisco-puro-quebranta/p25844",
+    "name": "Caravedo Pisco Puro Quebranta"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p4435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$6.99 - $41.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/sandeman-founders-reserve-ruby-port/p4435",
+    "name": "Sandeman Founder\u0027s Reserve Ruby Port",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-sandeman-founders-reserve-port-ffee89c72a0b6e9b.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/8VLgEV6Cuia5EIPsdY_flaTSZCbilAEun9f2uQV9uU4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/8VLgEV6Cuia5EIPsdY_flaTSZCbilAEun9f2uQV9uU4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/8VLgEV6Cuia5EIPsdY_flaTSZCbilAEun9f2uQV9uU4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8VLgEV6Cuia5EIPsdY_flaTSZCbilAEun9f2uQV9uU4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

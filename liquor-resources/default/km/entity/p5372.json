@@ -1,0 +1,16 @@
+{
+  "$id": "p5372",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "250.00",
+    "c_minPrice": "29.69",
+    "c_numberReviews": "17",
+    "c_priceRange": "$29.69 - $250.00",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/beluga-gold-line-vodka/p5372",
+    "name": "Beluga Gold Line Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

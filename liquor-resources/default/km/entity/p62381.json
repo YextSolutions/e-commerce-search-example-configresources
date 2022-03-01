@@ -1,0 +1,16 @@
+{
+  "$id": "p62381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.39",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$7.99 - $15.39",
+    "landingPageUrl": "https://drizly.com/beer/lager/epic-brewing-los-locos-mexican-lager/p62381",
+    "name": "Epic Brewing Los Locos Mexican Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

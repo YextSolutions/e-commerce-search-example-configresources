@@ -1,0 +1,17 @@
+{
+  "$id": "p62857",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$14.99 - $35.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/aperitivo-cappelletti/p62857",
+    "name": "Aperitivo Cappelletti"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p83160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "11.95",
+    "c_numberReviews": "2",
+    "c_priceRange": "$11.95 - $999.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/bear-flag-sonoma-county-zinfandel/p83160",
+    "name": "Bear Flag Sonoma County Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

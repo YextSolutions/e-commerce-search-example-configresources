@@ -1,0 +1,17 @@
+{
+  "$id": "p22920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.44",
+    "c_minPrice": "3.98",
+    "c_numberReviews": "49",
+    "c_priceRange": "$3.98 - $18.44",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/gallo-family-vineyards-pinot-grigio/p22920",
+    "name": "Gallo Family Vineyards Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

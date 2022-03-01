@@ -1,0 +1,16 @@
+{
+  "$id": "p61625",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "561",
+    "c_priceRange": "$16.99 - $22.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/bota-box-dry-rose/p61625",
+    "name": "Bota Box Dry Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "14.77",
+    "c_minPrice": "3.90",
+    "c_numberReviews": "394",
+    "c_priceRange": "$3.90 - $14.77",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/-yellow-tail-pinot-grigio/p2196",
+    "name": "[ yellow tail ] Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

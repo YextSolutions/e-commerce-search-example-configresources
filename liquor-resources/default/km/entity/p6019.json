@@ -1,0 +1,17 @@
+{
+  "$id": "p6019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "25.76",
+    "c_numberReviews": "218",
+    "c_priceRange": "$25.76 - $89.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/four-roses-small-batch-bourbon/p6019",
+    "name": "Four Roses Small Batch Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

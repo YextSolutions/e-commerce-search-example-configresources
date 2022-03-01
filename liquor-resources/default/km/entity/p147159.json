@@ -1,0 +1,17 @@
+{
+  "$id": "p147159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "23.09",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$15.99 - $23.09",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/topo-chico-hard-seltzer-strawberry-guava/p147159",
+    "name": "Topo Chico Hard Seltzer Strawberry Guava"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

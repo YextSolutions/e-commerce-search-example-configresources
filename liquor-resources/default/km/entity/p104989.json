@@ -1,0 +1,17 @@
+{
+  "$id": "p104989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "139.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$59.99 - $139.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/adictivo-tequila-anejo/p104989",
+    "name": "Adictivo Tequila Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

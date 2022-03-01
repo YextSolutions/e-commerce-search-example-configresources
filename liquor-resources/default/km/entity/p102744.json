@@ -1,0 +1,17 @@
+{
+  "$id": "p102744",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "4",
+    "c_priceRange": "$7.69 - $29.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/murphy-goode-california-red-blend/p102744",
+    "name": "Murphy-Goode California Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p103344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "117",
+    "c_priceRange": "$1.99 - $16.99",
+    "c_subCategory": "Punch Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/punch-ready-to-drink/bacardl-ready-to-drink-rum-punch/p103344",
+    "name": "BACARDĺ Ready to Drink Rum Punch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

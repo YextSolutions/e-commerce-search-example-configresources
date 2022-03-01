@@ -1,0 +1,18 @@
+{
+  "$id": "p7970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$8.99 - $36.99",
+    "c_subCategory": "Bock",
+    "c_type": "Doppelbock",
+    "landingPageUrl": "https://drizly.com/beer/lager/bock/doppelbock/abita-andygator/p7970",
+    "name": "Abita Andygator"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

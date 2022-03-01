@@ -1,0 +1,17 @@
+{
+  "$id": "p9008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "859.99",
+    "c_minPrice": "299.00",
+    "c_numberReviews": "45",
+    "c_priceRange": "$299.00 - $859.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-xxv/p9008",
+    "name": "The Glenlivet XXV"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

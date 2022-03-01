@@ -1,0 +1,17 @@
+{
+  "$id": "p6687",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "64.89",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$14.99 - $64.89",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/george-dickel-no-8-whiskey/p6687",
+    "name": "George Dickel No. 8 Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

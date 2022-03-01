@@ -1,0 +1,17 @@
+{
+  "$id": "p18141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$10.99 - $65.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-authentic-coconut-pineapple-margarita/p18141",
+    "name": "Jose Cuervo® Authentic Coconut Pineapple Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

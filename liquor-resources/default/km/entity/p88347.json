@@ -1,0 +1,17 @@
+{
+  "$id": "p88347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1618.92",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$17.99 - $1618.92",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/oban-bay-the-game-of-thrones-the-nights-watch-reserve-single-malt-scotch-whisky/p88347",
+    "name": "Oban Bay Game of Thrones The Night\u0027s Watch Reserve Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

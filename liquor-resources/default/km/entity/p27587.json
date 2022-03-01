@@ -1,0 +1,17 @@
+{
+  "$id": "p27587",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$36.99 - $129.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/pikesville-rye-whiskey/p27587",
+    "name": "Pikesville Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

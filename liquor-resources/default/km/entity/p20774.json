@@ -1,0 +1,16 @@
+{
+  "$id": "p20774",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "81",
+    "c_priceRange": "$11.99 - $25.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/mi-mi-en-provence-grande-reserve-rose/p20774",
+    "name": "Mi Mi en Provence Grande Réserve Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p63045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "127.59",
+    "c_minPrice": "52.79",
+    "c_numberReviews": "5",
+    "c_priceRange": "$52.79 - $127.59",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/bozal-cuishe-mezcal/p63045",
+    "name": "Bozal Cuishe Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

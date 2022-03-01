@@ -1,0 +1,17 @@
+{
+  "$id": "p3698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "4.19",
+    "c_numberReviews": "74",
+    "c_priceRange": "$4.19 - $35.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/odouls-non-alcoholic-beer/p3698",
+    "name": "O\u0027Doul\u0027s Non-Alcoholic Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

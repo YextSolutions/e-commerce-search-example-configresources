@@ -1,0 +1,17 @@
+{
+  "$id": "p12255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "121.97",
+    "c_minPrice": "39.10",
+    "c_numberReviews": "16",
+    "c_priceRange": "$39.10 - $121.97",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/patron-roca-silver/p12255",
+    "name": "Roca Patrón Silver"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

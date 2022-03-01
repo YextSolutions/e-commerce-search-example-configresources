@@ -1,0 +1,17 @@
+{
+  "$id": "p58471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "47.98",
+    "c_numberReviews": "49",
+    "c_priceRange": "$47.98 - $129.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/veuve-clicquot-yellow-label-ice-jacket-champagne/p58471",
+    "name": "Veuve Clicquot Yellow Label Ice Jacket Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

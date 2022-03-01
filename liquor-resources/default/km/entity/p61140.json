@@ -1,0 +1,17 @@
+{
+  "$id": "p61140",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$10.99 - $19.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/odd13-codename-superfan/p61140",
+    "name": "Odd13 Codename: Superfan"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

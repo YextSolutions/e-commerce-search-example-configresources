@@ -1,0 +1,44 @@
+{
+  "$id": "p5747",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "112.99",
+    "c_minPrice": "37.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$37.99 - $112.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/calumet-farm-small-batch-kentucky-straight-bourbon-whiskey/p5747",
+    "name": "Calumet Farm Small Batch Kentucky Straight Bourbon Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-calumet-farm-kentucky-whiskey-725f40b101324c2b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/3j4SlQ8JUa7_2PVzNvx0YPbr-w0wo3_XVDfthkmgG3k/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3j4SlQ8JUa7_2PVzNvx0YPbr-w0wo3_XVDfthkmgG3k/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3j4SlQ8JUa7_2PVzNvx0YPbr-w0wo3_XVDfthkmgG3k/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3j4SlQ8JUa7_2PVzNvx0YPbr-w0wo3_XVDfthkmgG3k/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

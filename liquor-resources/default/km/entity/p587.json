@@ -1,0 +1,17 @@
+{
+  "$id": "p587",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.13",
+    "c_minPrice": "10.48",
+    "c_numberReviews": "32",
+    "c_priceRange": "$10.48 - $26.13",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/acrobat-pinot-noir-oregon/p587",
+    "name": "Acrobat Pinot Noir, Oregon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

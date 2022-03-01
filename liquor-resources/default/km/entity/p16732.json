@@ -1,0 +1,43 @@
+{
+  "$id": "p16732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Moscato",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "2.53",
+    "c_numberReviews": "67",
+    "c_priceRange": "$2.53 - $9.99",
+    "landingPageUrl": "https://drizly.com/wine/pink-moscato/arbor-mist-raspberry-pink-moscato-sweet-wine/p16732",
+    "name": "Arbor Mist Raspberry Pink Moscato Sweet Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-arbor-mist-raspberry-pink-moscato-23e79de964def5b8.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HHjlJzDiiluCLb7q9HhUPfKWrAs58qKuwrHzGsMUJ3w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HHjlJzDiiluCLb7q9HhUPfKWrAs58qKuwrHzGsMUJ3w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HHjlJzDiiluCLb7q9HhUPfKWrAs58qKuwrHzGsMUJ3w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HHjlJzDiiluCLb7q9HhUPfKWrAs58qKuwrHzGsMUJ3w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

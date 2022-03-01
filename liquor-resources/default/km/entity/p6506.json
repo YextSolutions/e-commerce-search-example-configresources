@@ -1,0 +1,17 @@
+{
+  "$id": "p6506",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "14.95",
+    "c_numberReviews": "17",
+    "c_priceRange": "$14.95 - $49.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/grants-scotch-blended/p6506",
+    "name": "Grant\u0027s Family Reserve Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

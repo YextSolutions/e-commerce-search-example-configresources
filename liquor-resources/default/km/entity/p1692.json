@@ -1,0 +1,17 @@
+{
+  "$id": "p1692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.78",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "122",
+    "c_priceRange": "$4.99 - $20.78",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/monkey-bay-sauvignon-blanc/p1692",
+    "name": "Monkey Bay Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

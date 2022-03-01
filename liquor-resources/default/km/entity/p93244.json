@@ -1,0 +1,17 @@
+{
+  "$id": "p93244",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "40.31",
+    "c_minPrice": "4.62",
+    "c_numberReviews": "42",
+    "c_priceRange": "$4.62 - $40.31",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/sol-chelada/p93244",
+    "name": "Sol Chelada"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

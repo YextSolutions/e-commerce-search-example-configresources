@@ -1,0 +1,44 @@
+{
+  "$id": "p2965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "548",
+    "c_priceRange": "$8.99 - $39.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/deep-eddy-ruby-red-vodka/p2965",
+    "name": "Deep Eddy Ruby Red Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-deep-eddy-ruby-red-vodka-dd592eb2b92a83ec.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/kuXjY1EnC3cxjqndmx8UopWuw3rOHQiim1Lbg_1sJEQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kuXjY1EnC3cxjqndmx8UopWuw3rOHQiim1Lbg_1sJEQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kuXjY1EnC3cxjqndmx8UopWuw3rOHQiim1Lbg_1sJEQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kuXjY1EnC3cxjqndmx8UopWuw3rOHQiim1Lbg_1sJEQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

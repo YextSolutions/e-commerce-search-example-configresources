@@ -1,0 +1,17 @@
+{
+  "$id": "p903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "72",
+    "c_priceRange": "$7.00 - $35.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/bells-lager-of-the-lakes/p903",
+    "name": "Bell\u0027s Lager of the Lakes"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

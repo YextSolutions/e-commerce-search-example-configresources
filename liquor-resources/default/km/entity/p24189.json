@@ -1,0 +1,19 @@
+{
+  "$id": "p24189",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "28.07",
+    "c_minPrice": "12.67",
+    "c_numberReviews": "29",
+    "c_priceRange": "$12.67 - $28.07",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/peter-vella-sangria/p24189",
+    "name": "Peter Vella Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

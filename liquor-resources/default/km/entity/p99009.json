@@ -1,0 +1,17 @@
+{
+  "$id": "p99009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$49.99 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/rabbit-hole-heigold-kentucky-straight-bourbon-whiskey/p99009",
+    "name": "Rabbit Hole Heigold Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

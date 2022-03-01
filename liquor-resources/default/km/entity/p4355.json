@@ -1,0 +1,17 @@
+{
+  "$id": "p4355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1099.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$22.99 - $1099.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/russells-reserve-single-barrel-bourbon/p4355",
+    "name": "Russell\u0027s Reserve Single Barrel Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p21361",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "12.38",
+    "c_numberReviews": "99",
+    "c_priceRange": "$12.38 - $49.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/99-watermelons-liqueur/p21361",
+    "name": "99 Watermelons Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

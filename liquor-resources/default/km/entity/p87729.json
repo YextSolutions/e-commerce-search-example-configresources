@@ -1,0 +1,17 @@
+{
+  "$id": "p87729",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "495.95",
+    "c_minPrice": "54.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$54.99 - $495.95",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-master-blenders-selection-no-3-cognac/p87729",
+    "name": "Hennessy Master Blender\u0027s Selection No 3 Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$7.99 - $26.99",
+    "c_subCategory": "Asti",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/asti/cinzano-asti-spumante/p2677",
+    "name": "Cinzano Asti Spumante"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

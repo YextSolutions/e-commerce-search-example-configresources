@@ -1,0 +1,17 @@
+{
+  "$id": "p37029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$7.99 - $22.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/bookwalter-notebook-red-blend/p37029",
+    "name": "Bookwalter Notebook Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

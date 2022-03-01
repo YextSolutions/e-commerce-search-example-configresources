@@ -1,0 +1,44 @@
+{
+  "$id": "p4130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "273",
+    "c_priceRange": "$4.39 - $34.99",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/red-stripe/p4130",
+    "name": "Red Stripe",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-red-stripe-bdca761b4f759ed3.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/8_dUghArVu0tNVHi3mUluK87ZYwzBMY7q6eeuDZf-hM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/8_dUghArVu0tNVHi3mUluK87ZYwzBMY7q6eeuDZf-hM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/8_dUghArVu0tNVHi3mUluK87ZYwzBMY7q6eeuDZf-hM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8_dUghArVu0tNVHi3mUluK87ZYwzBMY7q6eeuDZf-hM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

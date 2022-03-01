@@ -1,0 +1,17 @@
+{
+  "$id": "p4709",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "608",
+    "c_priceRange": "$8.79 - $24.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-passion-fruit/p4709",
+    "name": "Smirnoff Passion Fruit"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

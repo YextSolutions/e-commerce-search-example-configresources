@@ -1,0 +1,16 @@
+{
+  "$id": "p2753",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Port Blend",
+    "c_maxPrice": "84.79",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$10.99 - $84.79",
+    "landingPageUrl": "https://drizly.com/wine/port-blend/cockburns-fine-tawny-port/p2753",
+    "name": "Cockburn\u0027s Fine Tawny Port"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

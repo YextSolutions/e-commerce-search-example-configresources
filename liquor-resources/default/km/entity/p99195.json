@@ -1,0 +1,16 @@
+{
+  "$id": "p99195",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.25",
+    "c_numberReviews": "33",
+    "c_priceRange": "$3.25 - $17.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/two-chicks-sparkling-paloma/p99195",
+    "name": "Two Chicks Sparkling Paloma"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

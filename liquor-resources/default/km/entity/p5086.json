@@ -1,0 +1,17 @@
+{
+  "$id": "p5086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "91.29",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$39.99 - $91.29",
+    "c_subCategory": "Ice Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/ice-wine/inniskillin-vidal-pearl-ice-wine/p5086",
+    "name": "Inniskillin Vidal Pearl Ice Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

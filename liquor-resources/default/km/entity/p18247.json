@@ -1,0 +1,17 @@
+{
+  "$id": "p18247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.58",
+    "c_numberReviews": "12",
+    "c_priceRange": "$6.58 - $24.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/frescobaldi-rmole-tuscany-igt/p18247",
+    "name": "Frescobaldi Rmole Tuscany IGT"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

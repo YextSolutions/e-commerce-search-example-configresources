@@ -1,0 +1,17 @@
+{
+  "$id": "p45639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "2.63",
+    "c_numberReviews": "20",
+    "c_priceRange": "$2.63 - $18.99",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/gallo-fam-vineyard-sweet-berry/p45639",
+    "name": "Gallo Family Vineyards Sweet Berry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

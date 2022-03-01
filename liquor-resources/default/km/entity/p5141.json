@@ -1,0 +1,44 @@
+{
+  "$id": "p5141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1899.99",
+    "c_minPrice": "27.49",
+    "c_numberReviews": "86",
+    "c_priceRange": "$27.49 - $1899.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/jameson-18-years-irish-whiskey/p5141",
+    "name": "Jameson 18 Years Irish Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-jameson-irish-whiskey-18-year-old-limited-reserve-c0c1fcc10e7c26d4.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l9W276nlz8mN50abEdsKXc36fJAx6YkiY-xA11reCc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l9W276nlz8mN50abEdsKXc36fJAx6YkiY-xA11reCc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6l9W276nlz8mN50abEdsKXc36fJAx6YkiY-xA11reCc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6l9W276nlz8mN50abEdsKXc36fJAx6YkiY-xA11reCc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

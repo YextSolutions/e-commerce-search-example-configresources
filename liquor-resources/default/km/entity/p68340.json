@@ -1,0 +1,17 @@
+{
+  "$id": "p68340",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "75.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$32.99 - $75.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/breckenridge-spiced-whiskey/p68340",
+    "name": "Breckenridge Spiced Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

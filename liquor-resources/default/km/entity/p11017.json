@@ -1,0 +1,17 @@
+{
+  "$id": "p11017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "33.91",
+    "c_numberReviews": "8",
+    "c_priceRange": "$33.91 - $109.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/taittinger-prestige-rose/p11017",
+    "name": "Taittinger Prestige Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

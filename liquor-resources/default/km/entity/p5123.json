@@ -1,0 +1,17 @@
+{
+  "$id": "p5123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$4.99 - $16.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/jacobs-creek-moscato-white/p5123",
+    "name": "Jacob\u0027s Creek Moscato White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

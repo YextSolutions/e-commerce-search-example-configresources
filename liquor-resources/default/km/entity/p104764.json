@@ -1,0 +1,18 @@
+{
+  "$id": "p104764",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "13.79",
+    "c_numberReviews": "3",
+    "c_priceRange": "$13.79 - $23.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/aeronaut-into-the-citra-galaxy/p104764",
+    "name": "Aeronaut (Into The) Citra Galaxy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

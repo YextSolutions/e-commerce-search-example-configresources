@@ -1,0 +1,17 @@
+{
+  "$id": "p202696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$14.99 - $29.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-margarita-style-variety-mix-pack-spiked-and-sparkling-water/p202696",
+    "name": "TRULY Hard Seltzer Margarita Style Variety Mix Pack, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

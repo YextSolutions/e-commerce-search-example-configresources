@@ -1,0 +1,17 @@
+{
+  "$id": "p4860",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "59.98",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$19.99 - $59.98",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/stags-leap-wine-cellars-karia-chardonnay-white-wine/p4860",
+    "name": "Stag\u0027s Leap Wine Cellars Karia Chardonnay, White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

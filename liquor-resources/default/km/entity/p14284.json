@@ -1,0 +1,17 @@
+{
+  "$id": "p14284",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "1100.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$9.99 - $1100.00",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/skyy-infusions-blood-orange/p14284",
+    "name": "SKYY Infusions Blood Orange"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

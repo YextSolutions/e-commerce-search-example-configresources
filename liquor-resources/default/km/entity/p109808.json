@@ -1,0 +1,16 @@
+{
+  "$id": "p109808",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "43.19",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$25.99 - $43.19",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/pinaq-liqueur-original/p109808",
+    "name": "Pinaq Liqueur Original"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p70708",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "57.19",
+    "c_minPrice": "10.26",
+    "c_numberReviews": "28",
+    "c_priceRange": "$10.26 - $57.19",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/kinky-green-liqueur/p70708",
+    "name": "Kinky Green Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

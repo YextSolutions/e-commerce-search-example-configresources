@@ -1,0 +1,17 @@
+{
+  "$id": "p3901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "4.58",
+    "c_numberReviews": "226",
+    "c_priceRange": "$4.58 - $39.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/pilsner-urquell-beer/p3901",
+    "name": "Pilsner Urquell Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

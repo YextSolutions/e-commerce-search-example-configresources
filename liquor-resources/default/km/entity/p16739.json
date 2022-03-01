@@ -1,0 +1,17 @@
+{
+  "$id": "p16739",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "9.97",
+    "c_minPrice": "2.53",
+    "c_numberReviews": "72",
+    "c_priceRange": "$2.53 - $9.97",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/arbor-mist-peach-moscato-sweet-wine/p16739",
+    "name": "Arbor Mist Peach Moscato Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

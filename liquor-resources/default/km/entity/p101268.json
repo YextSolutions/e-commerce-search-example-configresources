@@ -1,0 +1,16 @@
+{
+  "$id": "p101268",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.79 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/russian-value-vodka/p101268",
+    "name": "Russian Value Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p6950",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "107",
+    "c_priceRange": "$10.99 - $46.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/fords-gin/p6950",
+    "name": "Fords Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

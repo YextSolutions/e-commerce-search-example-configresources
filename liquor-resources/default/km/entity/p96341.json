@@ -1,0 +1,44 @@
+{
+  "$id": "p96341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$18.99 - $32.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/the-fableist-pinot-noir/p96341",
+    "name": "The Fableist Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-the-fableist-pinot-noir-b7a9bc6fee7a3c0d.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wAideghUJ-i_oNydx2176dewTDFcPY9D56jNPciq4os/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wAideghUJ-i_oNydx2176dewTDFcPY9D56jNPciq4os/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wAideghUJ-i_oNydx2176dewTDFcPY9D56jNPciq4os/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wAideghUJ-i_oNydx2176dewTDFcPY9D56jNPciq4os/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

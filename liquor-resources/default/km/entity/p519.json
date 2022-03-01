@@ -1,0 +1,18 @@
+{
+  "$id": "p519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.99 - $23.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/victory-storm-king-imperial-stout/p519",
+    "name": "Victory Storm King Imperial Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

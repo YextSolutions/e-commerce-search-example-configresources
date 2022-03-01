@@ -1,0 +1,17 @@
+{
+  "$id": "p96766",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "4.98",
+    "c_numberReviews": "8",
+    "c_priceRange": "$4.98 - $20.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/aromo-malbec/p96766",
+    "name": "Aromo Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

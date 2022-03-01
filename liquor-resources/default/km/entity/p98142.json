@@ -1,0 +1,17 @@
+{
+  "$id": "p98142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$49.99 - $109.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/chicken-cock-kentucky-straight-bourbon-whiskey/p98142",
+    "name": "Chicken Cock Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

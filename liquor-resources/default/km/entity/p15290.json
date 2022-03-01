@@ -1,0 +1,16 @@
+{
+  "$id": "p15290",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "42.79",
+    "c_numberReviews": "60",
+    "c_priceRange": "$42.79 - $79.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/amaro-nonino-quintessentia/p15290",
+    "name": "Amaro Nonino Quintessentia"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

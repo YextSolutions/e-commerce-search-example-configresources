@@ -1,0 +1,17 @@
+{
+  "$id": "p108066",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.59",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$10.99 - $17.59",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/victory-brewing-tart-monkey/p108066",
+    "name": "Victory Brewing Tart Monkey"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

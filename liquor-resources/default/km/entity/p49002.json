@@ -1,0 +1,17 @@
+{
+  "$id": "p49002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "13.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.49 - $34.49",
+    "c_subCategory": "Mead",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/mead/redstone-meadery-black-raspberry-nectar/p49002",
+    "name": "Redstone Meadery Black Raspberry Nectar"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

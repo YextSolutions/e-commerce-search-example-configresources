@@ -1,0 +1,17 @@
+{
+  "$id": "p95864",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "34.05",
+    "c_numberReviews": "16",
+    "c_priceRange": "$34.05 - $199.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/basil-hayden-caribbean-rye-whiskey/p95864",
+    "name": "Basil Hayden Caribbean Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

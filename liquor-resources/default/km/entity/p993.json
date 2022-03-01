@@ -1,0 +1,44 @@
+{
+  "$id": "p993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "82",
+    "c_priceRange": "$3.99 - $17.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/blackstone-merlot/p993",
+    "name": "Blackstone Merlot",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-blackstone-merlot-e9a4be352b1c078b.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBJ8ve9KRLpl6rFACloOlqytp7XzSp5SFgfXpSnP5w4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBJ8ve9KRLpl6rFACloOlqytp7XzSp5SFgfXpSnP5w4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/dBJ8ve9KRLpl6rFACloOlqytp7XzSp5SFgfXpSnP5w4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dBJ8ve9KRLpl6rFACloOlqytp7XzSp5SFgfXpSnP5w4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

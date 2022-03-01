@@ -1,0 +1,17 @@
+{
+  "$id": "p179103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "40.49",
+    "c_minPrice": "23.09",
+    "c_numberReviews": "1",
+    "c_priceRange": "$23.09 - $40.49",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/black-irish-cream-liqueur/p179103",
+    "name": "Black Irish Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

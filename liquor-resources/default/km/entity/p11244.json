@@ -1,0 +1,46 @@
+{
+  "$id": "p11244",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "30.73",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "87",
+    "c_priceRange": "$5.99 - $30.73",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/senor-sangria-classic-red/p11244",
+    "name": "Señor Sangria Classic Red",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-senor-sangria-classic-red-0f82a027f82c90d9.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/61EIuOQuZ_VMV-Jyv8D4yVIEJgDgQefTRYjSgaIr0mg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/61EIuOQuZ_VMV-Jyv8D4yVIEJgDgQefTRYjSgaIr0mg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/61EIuOQuZ_VMV-Jyv8D4yVIEJgDgQefTRYjSgaIr0mg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/61EIuOQuZ_VMV-Jyv8D4yVIEJgDgQefTRYjSgaIr0mg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

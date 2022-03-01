@@ -1,0 +1,16 @@
+{
+  "$id": "p7315",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "12.95",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$5.49 - $12.95",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/llords-peppermint-schnapps/p7315",
+    "name": "Llord\u0027s Peppermint Schnapps"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

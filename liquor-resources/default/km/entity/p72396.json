@@ -1,0 +1,17 @@
+{
+  "$id": "p72396",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.94",
+    "c_minPrice": "7.50",
+    "c_numberReviews": "6",
+    "c_priceRange": "$7.50 - $16.94",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/torrebruna-annata-sangiovese/p72396",
+    "name": "Torrebruna Annata Sangiovese"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

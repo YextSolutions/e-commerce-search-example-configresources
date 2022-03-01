@@ -1,0 +1,44 @@
+{
+  "$id": "p24060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "4.50",
+    "c_numberReviews": "5",
+    "c_priceRange": "$4.50 - $16.99",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/ozeki-dry-sake/p24060",
+    "name": "Ozeki Dry Sake",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-ozeki-dry-sake-0b9adad56e6a6402.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCZOPDbhI1TN-8HLthYOBoo2SAuvHQPO6x_IzcHoVnk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCZOPDbhI1TN-8HLthYOBoo2SAuvHQPO6x_IzcHoVnk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jCZOPDbhI1TN-8HLthYOBoo2SAuvHQPO6x_IzcHoVnk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jCZOPDbhI1TN-8HLthYOBoo2SAuvHQPO6x_IzcHoVnk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p5960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.49 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-cremes-de-cacao-white/p5960",
+    "name": "DeKuyper Creme De Cocoa White Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p199416",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1499.99",
+    "c_minPrice": "157.49",
+    "c_numberReviews": "3",
+    "c_priceRange": "$157.49 - $1499.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jack-daniels-single-barrel-special-release-coy-hill-high-proof-whiskey/p199416",
+    "name": "Jack Daniel\u0027s Single Barrel Special Release Coy Hill High Proof Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p86839",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "248",
+    "c_priceRange": "$6.63 - $34.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/white-claw-raspberry-hard-seltzer/p86839",
+    "name": "White Claw Raspberry Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

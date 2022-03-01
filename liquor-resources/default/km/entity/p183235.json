@@ -1,0 +1,44 @@
+{
+  "$id": "p183235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "135.95",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$35.99 - $135.95",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-vs-x-les-twins-edition-cognac/p183235",
+    "name": "Hennessy VS X Les Twins Edition Cognac",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-hennessy-very-special-x-les-twins-edition-10a7bc846beb1915.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1YiPCMcZPs9TJI334g6Z17DXaL2DeShg3_uXinVhtaE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1YiPCMcZPs9TJI334g6Z17DXaL2DeShg3_uXinVhtaE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1YiPCMcZPs9TJI334g6Z17DXaL2DeShg3_uXinVhtaE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1YiPCMcZPs9TJI334g6Z17DXaL2DeShg3_uXinVhtaE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

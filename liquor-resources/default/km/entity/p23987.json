@@ -1,0 +1,17 @@
+{
+  "$id": "p23987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "11.22",
+    "c_numberReviews": "4",
+    "c_priceRange": "$11.22 - $47.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/skyside-cabernet-sauvignon/p23987",
+    "name": "Skyside Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

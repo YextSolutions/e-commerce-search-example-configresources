@@ -1,0 +1,18 @@
+{
+  "$id": "p99641",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "13.58",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "79",
+    "c_priceRange": "$2.99 - $13.58",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/carlo-rossi-watermelon-sangria/p99641",
+    "name": "Carlo Rossi Watermelon Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

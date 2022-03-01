@@ -1,0 +1,17 @@
+{
+  "$id": "p97087",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$16.99 - $29.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/mcbride-sisters-black-girl-magic-california-riesling/p97087",
+    "name": "McBride Sisters Black Girl Magic California Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

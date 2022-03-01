@@ -1,0 +1,17 @@
+{
+  "$id": "p23614",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "7.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$6.99 - $7.99",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/livingston-white-zinfandel/p23614",
+    "name": "Livingston White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

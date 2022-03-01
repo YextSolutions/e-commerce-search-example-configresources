@@ -1,0 +1,16 @@
+{
+  "$id": "p14761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$19.99 - $49.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/villa-antinori-chianti-classico-riserva/p14761",
+    "name": "Villa Antinori Chianti Classico Riserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

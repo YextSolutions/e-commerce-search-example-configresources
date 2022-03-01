@@ -1,0 +1,17 @@
+{
+  "$id": "p6158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "57.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "42",
+    "c_priceRange": "$15.99 - $57.99",
+    "c_subCategory": "Tennessee Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/tennessee-whiskey/george-dickel-superior-no-12-whisky/p6158",
+    "name": "George Dickel Superior No 12 Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

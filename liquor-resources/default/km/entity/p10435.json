@@ -1,0 +1,17 @@
+{
+  "$id": "p10435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "36.74",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "22",
+    "c_priceRange": "$8.04 - $36.74",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/mccormick-american-blended-whiskey/p10435",
+    "name": "McCormick American Blended Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

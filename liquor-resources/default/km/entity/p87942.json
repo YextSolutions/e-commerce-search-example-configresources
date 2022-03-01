@@ -1,0 +1,16 @@
+{
+  "$id": "p87942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "52.79",
+    "c_minPrice": "18.76",
+    "c_numberReviews": "70",
+    "c_priceRange": "$18.76 - $52.79",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/haku-japanese-vodka/p87942",
+    "name": "Haku Japanese Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,43 @@
+{
+  "$id": "p5777",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "57.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$9.99 - $57.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/beluga-noble-russian-vodka/p5777",
+    "name": "Beluga Noble Russian Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-beluga-vodka-noble-russian-e06f679c5dec1705.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ryjM2QTIpE1e3MgjTIKdf6ONiIItJyyaVKBHre2duXs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ryjM2QTIpE1e3MgjTIKdf6ONiIItJyyaVKBHre2duXs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ryjM2QTIpE1e3MgjTIKdf6ONiIItJyyaVKBHre2duXs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ryjM2QTIpE1e3MgjTIKdf6ONiIItJyyaVKBHre2duXs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

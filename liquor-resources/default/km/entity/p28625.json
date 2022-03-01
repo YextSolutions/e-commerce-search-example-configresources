@@ -1,0 +1,16 @@
+{
+  "$id": "p28625",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "25.29",
+    "c_minPrice": "10.95",
+    "c_numberReviews": "5",
+    "c_priceRange": "$10.95 - $25.29",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/360-vodka-huckleberry/p28625",
+    "name": "360 Vodka Huckleberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

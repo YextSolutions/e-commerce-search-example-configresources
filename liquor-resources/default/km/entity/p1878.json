@@ -1,0 +1,17 @@
+{
+  "$id": "p1878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.47",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "161",
+    "c_priceRange": "$7.99 - $24.47",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/bogle-old-vine-zinfandel/p1878",
+    "name": "Bogle Old Vine Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p23873",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "35.08",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "32",
+    "c_priceRange": "$9.98 - $35.08",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/monte-alban-silver-tequila/p23873",
+    "name": "Monte Alban Silver Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

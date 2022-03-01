@@ -1,0 +1,17 @@
+{
+  "$id": "p11063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$26.99 - $59.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/j-vineyards-and-winery-brut-rose/p11063",
+    "name": "J Vineyards \u0026 Winery Brut Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

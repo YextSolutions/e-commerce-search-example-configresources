@@ -1,0 +1,17 @@
+{
+  "$id": "p66760",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "15.00",
+    "c_minPrice": "2.74",
+    "c_numberReviews": "9",
+    "c_priceRange": "$2.74 - $15.00",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/scarpetta-frico-frizzante/p66760",
+    "name": "Scarpetta Frico Frizzante"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

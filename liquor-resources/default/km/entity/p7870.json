@@ -1,0 +1,17 @@
+{
+  "$id": "p7870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "34.08",
+    "c_numberReviews": "7",
+    "c_priceRange": "$34.08 - $99.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/cakebread-cellars-two-creeks-pinot-noir/p7870",
+    "name": "Cakebread Cellars Two Creeks Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

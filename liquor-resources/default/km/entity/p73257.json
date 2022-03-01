@@ -1,0 +1,17 @@
+{
+  "$id": "p73257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.97",
+    "c_minPrice": "41.33",
+    "c_numberReviews": "4",
+    "c_priceRange": "$41.33 - $76.97",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-holiday-edition-bourbon/p73257",
+    "name": "Woodford Reserve Bourbon Holiday Edition"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

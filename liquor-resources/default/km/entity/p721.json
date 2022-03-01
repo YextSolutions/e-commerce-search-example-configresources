@@ -1,0 +1,17 @@
+{
+  "$id": "p721",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "13.49",
+    "c_numberReviews": "165",
+    "c_priceRange": "$13.49 - $65.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/appleton-estate-signature-blend/p721",
+    "name": "Appleton Estate Signature Blend"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

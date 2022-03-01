@@ -1,0 +1,17 @@
+{
+  "$id": "p101063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "39.77",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "33",
+    "c_priceRange": "$8.79 - $39.77",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-watermelon-and-kiwi-spiked-and-sparkling-water/p101063",
+    "name": "TRULY Hard Seltzer Watermelon \u0026 Kiwi, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

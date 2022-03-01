@@ -1,0 +1,43 @@
+{
+  "$id": "p2666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.25",
+    "c_numberReviews": "175",
+    "c_priceRange": "$8.25 - $22.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/christian-brothers-brandy-vs/p2666",
+    "name": "Christian Brothers Brandy VS",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-christian-brothers-brandy-79419553c0ec5474.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/_z52UzzF8Povr6pL6hJYex-2HIRUivWm8fluNVHPeew/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/_z52UzzF8Povr6pL6hJYex-2HIRUivWm8fluNVHPeew/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/_z52UzzF8Povr6pL6hJYex-2HIRUivWm8fluNVHPeew/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_z52UzzF8Povr6pL6hJYex-2HIRUivWm8fluNVHPeew/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

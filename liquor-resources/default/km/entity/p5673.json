@@ -1,0 +1,17 @@
+{
+  "$id": "p5673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "51.69",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.99 - $51.69",
+    "c_subCategory": "Pisco",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/pisco/capel-pisco-premium/p5673",
+    "name": "Capel Pisco Premium"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

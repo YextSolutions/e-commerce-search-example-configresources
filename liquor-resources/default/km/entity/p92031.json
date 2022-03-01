@@ -1,0 +1,17 @@
+{
+  "$id": "p92031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "95",
+    "c_priceRange": "$12.99 - $30.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/wild-basin-boozy-sparkling-water-mixed-pack/p92031",
+    "name": "Wild Basin Boozy Sparkling Water Mixed Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

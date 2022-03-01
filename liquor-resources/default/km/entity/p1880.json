@@ -1,0 +1,17 @@
+{
+  "$id": "p1880",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.06",
+    "c_numberReviews": "122",
+    "c_priceRange": "$6.06 - $24.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/bogle-sauvignon-blanc/p1880",
+    "name": "Bogle Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

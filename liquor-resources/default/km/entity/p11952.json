@@ -1,0 +1,17 @@
+{
+  "$id": "p11952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$4.99 - $21.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/bolla-merlot/p11952",
+    "name": "Bolla Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

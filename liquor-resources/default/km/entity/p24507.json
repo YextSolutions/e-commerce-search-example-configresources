@@ -1,0 +1,44 @@
+{
+  "$id": "p24507",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.00 - $59.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/rutherford-ranch-cab-2013/p24507",
+    "name": "Rutherford Ranch Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-rutherford-ranch-cab-2013-a34aa56b8ac3f3d8.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbU3vNtpu9NQU1dzaLcts1ry8INcXgPh_VVaCg5VToU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbU3vNtpu9NQU1dzaLcts1ry8INcXgPh_VVaCg5VToU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/bbU3vNtpu9NQU1dzaLcts1ry8INcXgPh_VVaCg5VToU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bbU3vNtpu9NQU1dzaLcts1ry8INcXgPh_VVaCg5VToU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

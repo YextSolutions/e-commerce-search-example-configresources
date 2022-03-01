@@ -1,0 +1,17 @@
+{
+  "$id": "p130264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.37",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "31",
+    "c_priceRange": "$6.59 - $19.37",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/cupcake-vineyards-prosecco-rose/p130264",
+    "name": "Cupcake Vineyards Prosecco Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

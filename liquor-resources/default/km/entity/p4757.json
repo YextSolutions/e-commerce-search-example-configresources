@@ -1,0 +1,17 @@
+{
+  "$id": "p4757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "41.39",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$22.99 - $41.39",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/sogno-di-sorrento-lemoncello/p4757",
+    "name": "Sogno di Sorrento Lemoncello"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7329",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "104.64",
+    "c_minPrice": "23.09",
+    "c_numberReviews": "26",
+    "c_priceRange": "$23.09 - $104.64",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/grand-old-parr-scotch-12-year/p7329",
+    "name": "Grand Old Parr Scotch 12 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

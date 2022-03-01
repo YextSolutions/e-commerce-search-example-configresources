@@ -1,0 +1,16 @@
+{
+  "$id": "p87823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$4.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/salt-point-greyhound/p87823",
+    "name": "Salt Point Greyhound"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

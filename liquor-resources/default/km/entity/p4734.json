@@ -1,0 +1,17 @@
+{
+  "$id": "p4734",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.25",
+    "c_minPrice": "4.74",
+    "c_numberReviews": "22",
+    "c_priceRange": "$4.74 - $17.25",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/smoking-loon-cabernet-sauvignon/p4734",
+    "name": "Smoking Loon Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

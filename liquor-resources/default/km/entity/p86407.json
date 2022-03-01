@@ -1,0 +1,17 @@
+{
+  "$id": "p86407",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.59",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$9.99 - $15.59",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/revolution-freedom-of-speach-session-sour/p86407",
+    "name": "Revolution Freedom of Speach Session Sour"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

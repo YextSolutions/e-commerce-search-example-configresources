@@ -1,0 +1,17 @@
+{
+  "$id": "p106841",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$22.99 - $34.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/domaine-de-la-pauline-sancerre/p106841",
+    "name": "Domaine de la Pauline Sancerre"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

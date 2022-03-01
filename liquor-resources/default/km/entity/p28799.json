@@ -1,0 +1,18 @@
+{
+  "$id": "p28799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "4",
+    "c_priceRange": "$3.49 - $17.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/genesee-beer/p28799",
+    "name": "Genesee Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

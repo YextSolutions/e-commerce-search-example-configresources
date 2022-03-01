@@ -1,0 +1,17 @@
+{
+  "$id": "p6131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "250.00",
+    "c_minPrice": "87.54",
+    "c_numberReviews": "4",
+    "c_priceRange": "$87.54 - $250.00",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/aberlour-18-year/p6131",
+    "name": "Aberlour 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

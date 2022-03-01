@@ -1,0 +1,17 @@
+{
+  "$id": "p927",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "6.13",
+    "c_numberReviews": "14",
+    "c_priceRange": "$6.13 - $28.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/benziger-cabernet-sauvignon-red-wine-750ml-sonoma-county/p927",
+    "name": "Benziger Cabernet Sauvignon Red Wine - 750ml, Sonoma County"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

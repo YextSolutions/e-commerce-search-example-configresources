@@ -1,0 +1,45 @@
+{
+  "$id": "p51488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "98",
+    "c_priceRange": "$5.99 - $20.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Helles Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/helles-lager/jacks-abby-house-lager/p51488",
+    "name": "Jack\u0027s Abby House Lager",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-jacks-abby-house-lager-a1d169518c5ac807.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hYn-jiDi6EsFXW14S5Fe3shV2Yr-mZrKLuY2qOoNL3Q/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hYn-jiDi6EsFXW14S5Fe3shV2Yr-mZrKLuY2qOoNL3Q/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hYn-jiDi6EsFXW14S5Fe3shV2Yr-mZrKLuY2qOoNL3Q/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hYn-jiDi6EsFXW14S5Fe3shV2Yr-mZrKLuY2qOoNL3Q/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

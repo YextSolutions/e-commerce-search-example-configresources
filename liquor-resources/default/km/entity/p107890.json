@@ -1,0 +1,17 @@
+{
+  "$id": "p107890",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.85",
+    "c_numberReviews": "21",
+    "c_priceRange": "$3.85 - $17.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/cupcake-lighthearted-chardonnay-white-wine/p107890",
+    "name": "Cupcake LightHearted Chardonnay White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

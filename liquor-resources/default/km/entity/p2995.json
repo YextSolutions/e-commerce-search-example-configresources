@@ -1,0 +1,17 @@
+{
+  "$id": "p2995",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "78",
+    "c_priceRange": "$10.99 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/dewars-12-year-blended-scotch-whisky/p2995",
+    "name": "Dewar\u0027s 12 Year Blended Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

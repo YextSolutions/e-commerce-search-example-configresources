@@ -1,0 +1,16 @@
+{
+  "$id": "p17878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "35.00",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "18",
+    "c_priceRange": "$8.24 - $35.00",
+    "landingPageUrl": "https://drizly.com/beer/lager/lucky-buddha-enlightened-beer/p17878",
+    "name": "Lucky Buddha Enlightened Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

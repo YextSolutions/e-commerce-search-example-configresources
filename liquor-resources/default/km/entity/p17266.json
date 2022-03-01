@@ -1,0 +1,17 @@
+{
+  "$id": "p17266",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.39",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$34.99 - $59.39",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/axe-and-the-oak-colorado-mountain-bourbon-whiskey/p17266",
+    "name": "Axe and the Oak Colorado Mountain Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

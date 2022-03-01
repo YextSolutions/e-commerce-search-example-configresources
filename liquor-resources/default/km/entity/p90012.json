@@ -1,0 +1,17 @@
+{
+  "$id": "p90012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "69.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$69.99 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/barrell-dovetail-whiskey/p90012",
+    "name": "Barrell Dovetail Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

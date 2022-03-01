@@ -1,0 +1,17 @@
+{
+  "$id": "p12562",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$9.99 - $45.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/dc-brau-the-public-pale-ale/p12562",
+    "name": "DC Brau The Public Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

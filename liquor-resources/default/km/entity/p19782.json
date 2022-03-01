@@ -1,0 +1,17 @@
+{
+  "$id": "p19782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "72.00",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$21.99 - $72.00",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/familia-fernandez-rivera-tinto-pesquera-crianza/p19782",
+    "name": "Familia Fernandez Rivera Tinto Pesquera Crianza"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

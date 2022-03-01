@@ -1,0 +1,17 @@
+{
+  "$id": "p4820",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$59.99 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/springbank-single-malt-scotch-10-year-campbeltown/p4820",
+    "name": "Springbank Single Malt 10 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

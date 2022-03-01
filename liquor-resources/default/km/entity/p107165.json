@@ -1,0 +1,17 @@
+{
+  "$id": "p107165",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$8.99 - $16.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/lone-river-rio-red-grapefruit-ranch-water/p107165",
+    "name": "Lone River Rio Red Grapefruit Ranch Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

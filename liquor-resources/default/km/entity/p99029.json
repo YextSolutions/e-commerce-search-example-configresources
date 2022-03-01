@@ -1,0 +1,16 @@
+{
+  "$id": "p99029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "49.97",
+    "c_numberReviews": "53",
+    "c_priceRange": "$49.97 - $109.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/dos-hombres-joven-mezcal/p99029",
+    "name": "Dos Hombres Joven Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

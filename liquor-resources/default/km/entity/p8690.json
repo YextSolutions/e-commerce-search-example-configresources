@@ -1,0 +1,17 @@
+{
+  "$id": "p8690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "4.94",
+    "c_numberReviews": "13",
+    "c_priceRange": "$4.94 - $13.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/ck-mondavi-merlot/p8690",
+    "name": "CK Mondavi Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p10173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "33.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$33.99 - $62.99",
+    "c_subCategory": "Navy Strength Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/navy-strength-gin/leopold-brothers-navy-strength-gin/p10173",
+    "name": "Leopold Brothers Navy Strength Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

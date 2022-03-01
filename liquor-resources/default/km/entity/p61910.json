@@ -1,0 +1,16 @@
+{
+  "$id": "p61910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "8.46",
+    "c_numberReviews": "58",
+    "c_priceRange": "$8.46 - $14.29",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/majorska-vodka/p61910",
+    "name": "Majorska Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

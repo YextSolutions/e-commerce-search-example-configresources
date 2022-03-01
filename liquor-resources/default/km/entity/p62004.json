@@ -1,0 +1,17 @@
+{
+  "$id": "p62004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "274.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$29.99 - $274.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/makers-mark-private-select-bourbon-whisky/p62004",
+    "name": "Maker\u0027s Mark Private Select Bourbon Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

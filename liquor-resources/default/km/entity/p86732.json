@@ -1,0 +1,17 @@
+{
+  "$id": "p86732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "26.31",
+    "c_numberReviews": "16",
+    "c_priceRange": "$26.31 - $44.99",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/plantation-oftd-overproof-rum/p86732",
+    "name": "Plantation O.F.T.D. Overproof Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

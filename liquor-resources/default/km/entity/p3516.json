@@ -1,0 +1,17 @@
+{
+  "$id": "p3516",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "439.99",
+    "c_minPrice": "115.59",
+    "c_numberReviews": "41",
+    "c_priceRange": "$115.59 - $439.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-21-year-archive/p3516",
+    "name": "The Glenlivet 21 Year Archive"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

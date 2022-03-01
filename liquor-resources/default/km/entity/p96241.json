@@ -1,0 +1,17 @@
+{
+  "$id": "p96241",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "470.99",
+    "c_minPrice": "19.79",
+    "c_numberReviews": "176",
+    "c_priceRange": "$19.79 - $470.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-single-malt-scotch-whisky-14-year-old/p96241",
+    "name": "The Glenlivet Single Malt Scotch Whisky 14 Year Old"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

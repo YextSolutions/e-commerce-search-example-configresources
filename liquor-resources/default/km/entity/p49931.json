@@ -1,0 +1,17 @@
+{
+  "$id": "p49931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$3.99 - $31.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/sierra-nevada-tropical-torpedo/p49931",
+    "name": "Sierra Nevada Tropical Torpedo"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

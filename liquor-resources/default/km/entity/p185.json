@@ -1,0 +1,17 @@
+{
+  "$id": "p185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "109",
+    "c_priceRange": "$9.99 - $35.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/terrazas-de-los-andes-reserva-malbec/p185",
+    "name": "Terrazas de los Andes Reserva Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p16594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "36.65",
+    "c_numberReviews": "23",
+    "c_priceRange": "$36.65 - $109.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/ilegal-mezcal-reposado/p16594",
+    "name": "Ilegal Mezcal Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p63967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.90",
+    "c_minPrice": "4.94",
+    "c_numberReviews": "8",
+    "c_priceRange": "$4.94 - $19.90",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/high-water-campfire-stout/p63967",
+    "name": "High Water Campfire Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

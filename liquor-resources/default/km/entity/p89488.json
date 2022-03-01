@@ -1,0 +1,18 @@
+{
+  "$id": "p89488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "11.80",
+    "c_numberReviews": "3",
+    "c_priceRange": "$11.80 - $23.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Belgian Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/belgian-strong-ale/spencer-trappist-holiday-ale/p89488",
+    "name": "Spencer Trappist Holiday Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p103341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "35",
+    "c_priceRange": "$7.99 - $13.19",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/breckenridge-brewery-mountain-beach/p103341",
+    "name": "Breckenridge Brewery Mountain Beach"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5135",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "459.99",
+    "c_minPrice": "24.60",
+    "c_numberReviews": "10",
+    "c_priceRange": "$24.60 - $459.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/james-e-pepper-1776-straight-rye-whiskey/p5135",
+    "name": "James E. Pepper 1776 Straight Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

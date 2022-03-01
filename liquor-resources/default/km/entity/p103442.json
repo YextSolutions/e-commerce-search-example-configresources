@@ -1,0 +1,17 @@
+{
+  "$id": "p103442",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$9.99 - $19.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/evan-williams-original-southern-spiced-cider/p103442",
+    "name": "Evan Williams Original Southern Spiced Cider"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

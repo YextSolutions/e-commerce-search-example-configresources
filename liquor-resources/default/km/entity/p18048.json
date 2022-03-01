@@ -1,0 +1,16 @@
+{
+  "$id": "p18048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "203.89",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$18.99 - $203.89",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/marchese-antinori-chianti-classico-riserva/p18048",
+    "name": "Marchese Antinori Chianti Classico Riserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

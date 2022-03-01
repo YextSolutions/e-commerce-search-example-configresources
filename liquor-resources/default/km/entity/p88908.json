@@ -1,0 +1,17 @@
+{
+  "$id": "p88908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "159.99",
+    "c_minPrice": "37.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$37.99 - $159.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/kamiki-cedar-cask-japanese-whisky/p88908",
+    "name": "Kamiki Cedar Cask Japanese Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

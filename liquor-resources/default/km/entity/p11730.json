@@ -1,0 +1,17 @@
+{
+  "$id": "p11730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "97.36",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "252",
+    "c_priceRange": "$24.99 - $97.36",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/crown-royal-reserve-blended-canadian-whisky/p11730",
+    "name": "Crown Royal Reserve Blended Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

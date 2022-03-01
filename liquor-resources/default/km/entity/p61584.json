@@ -1,0 +1,17 @@
+{
+  "$id": "p61584",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "36",
+    "c_priceRange": "$8.98 - $12.09",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/prost-pilsner/p61584",
+    "name": "Prost Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

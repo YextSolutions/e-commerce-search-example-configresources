@@ -1,0 +1,17 @@
+{
+  "$id": "p7604",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "5.60",
+    "c_numberReviews": "23",
+    "c_priceRange": "$5.60 - $20.89",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/leinenkugels-berry-weiss-beer/p7604",
+    "name": "Leinenkugel\u0027s Berry Weiss Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

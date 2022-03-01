@@ -1,0 +1,16 @@
+{
+  "$id": "p7423",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "98",
+    "c_priceRange": "$8.49 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-schnapps-buttershots/p7423",
+    "name": "DeKuyper Buttershots Schnapps Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

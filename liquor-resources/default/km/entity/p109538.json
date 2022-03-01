@@ -1,0 +1,17 @@
+{
+  "$id": "p109538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "1",
+    "c_priceRange": "$10.98 - $32.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/summer-water-bubbly-rose/p109538",
+    "name": "Summer Water Bubbly Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

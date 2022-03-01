@@ -1,0 +1,17 @@
+{
+  "$id": "p3850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "229.00",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "122",
+    "c_priceRange": "$21.99 - $229.00",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/perrier-jouet-grand-brut-champagne/p3850",
+    "name": "Perrier Jouet Grand Brut Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

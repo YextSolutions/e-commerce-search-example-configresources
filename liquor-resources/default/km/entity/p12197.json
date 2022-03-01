@@ -1,0 +1,16 @@
+{
+  "$id": "p12197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "21.69",
+    "c_minPrice": "11.92",
+    "c_numberReviews": "8",
+    "c_priceRange": "$11.92 - $21.69",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/lamberti-spumante-sparkling-rose/p12197",
+    "name": "Lamberti Spumante Sparkling Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

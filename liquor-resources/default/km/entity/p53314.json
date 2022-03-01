@@ -1,0 +1,17 @@
+{
+  "$id": "p53314",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "42.54",
+    "c_numberReviews": "56",
+    "c_priceRange": "$42.54 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/widow-jane-10-year-straight-bourbon/p53314",
+    "name": "Widow Jane 10 Year Straight Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

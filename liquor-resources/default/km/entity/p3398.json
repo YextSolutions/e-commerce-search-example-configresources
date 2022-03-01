@@ -1,0 +1,18 @@
+{
+  "$id": "p3398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "46",
+    "c_priceRange": "$4.99 - $34.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/founders-dirty-bastard/p3398",
+    "name": "Founders Dirty Bastard"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7476",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "47.49",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$23.99 - $47.49",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/smith-and-cross-traditional-jamaica-rum/p7476",
+    "name": "Smith \u0026 Cross Traditional Jamaica Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

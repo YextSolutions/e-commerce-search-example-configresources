@@ -1,0 +1,17 @@
+{
+  "$id": "p19038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "5.50",
+    "c_numberReviews": "6",
+    "c_priceRange": "$5.50 - $22.99",
+    "c_subCategory": "Nero D\u0027Avola",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nero-d\u0027avola/colosi-nero-davola-doc/p19038",
+    "name": "Colosi Nero D\u0027Avola DOC"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

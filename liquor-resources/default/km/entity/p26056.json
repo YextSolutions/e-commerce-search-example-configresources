@@ -1,0 +1,18 @@
+{
+  "$id": "p26056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.59",
+    "c_numberReviews": "31",
+    "c_priceRange": "$8.59 - $19.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Witbier",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/witbier/cigar-city-brewing-florida-cracker/p26056",
+    "name": "Cigar City Brewing Florida Cracker"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

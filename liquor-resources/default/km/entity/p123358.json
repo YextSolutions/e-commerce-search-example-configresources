@@ -1,0 +1,17 @@
+{
+  "$id": "p123358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.99 - $14.99",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/dovetail-vienna-lager/p123358",
+    "name": "Dovetail Vienna Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

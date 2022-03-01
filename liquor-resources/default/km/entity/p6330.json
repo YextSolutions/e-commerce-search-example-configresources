@@ -1,0 +1,17 @@
+{
+  "$id": "p6330",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "12.00",
+    "c_numberReviews": "87",
+    "c_priceRange": "$12.00 - $29.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/gruet-brut-rose/p6330",
+    "name": "Gruet Brut Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

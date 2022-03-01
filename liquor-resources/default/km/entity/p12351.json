@@ -1,0 +1,44 @@
+{
+  "$id": "p12351",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "6.47",
+    "c_numberReviews": "17",
+    "c_priceRange": "$6.47 - $14.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/jaume-serra-cristalino-extra-dry-brut/p12351",
+    "name": "Jaume Serra Cristalino Extra Dry Cava",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-jaume-serra-cristalino-extra-dry-cava-04016e88d2bd8618.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBj-TcwsOH6dir3r-QKFw_1kd53rtoiNYarigvsjy5w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBj-TcwsOH6dir3r-QKFw_1kd53rtoiNYarigvsjy5w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/KBj-TcwsOH6dir3r-QKFw_1kd53rtoiNYarigvsjy5w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KBj-TcwsOH6dir3r-QKFw_1kd53rtoiNYarigvsjy5w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

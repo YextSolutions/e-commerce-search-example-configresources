@@ -1,0 +1,17 @@
+{
+  "$id": "p2877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "49",
+    "c_priceRange": "$8.99 - $24.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/cruzan-mango-rum/p2877",
+    "name": "Cruzan Mango Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

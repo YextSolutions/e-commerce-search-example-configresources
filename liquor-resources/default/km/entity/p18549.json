@@ -1,0 +1,17 @@
+{
+  "$id": "p18549",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "7.67",
+    "c_numberReviews": "43",
+    "c_priceRange": "$7.67 - $17.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/14-hands-pinot-grigio/p18549",
+    "name": "14 Hands Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

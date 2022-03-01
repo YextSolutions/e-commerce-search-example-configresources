@@ -1,0 +1,16 @@
+{
+  "$id": "p651",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$14.99 - $49.49",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/amaro-lucano/p651",
+    "name": "Amaro Lucano"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

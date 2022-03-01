@@ -1,0 +1,44 @@
+{
+  "$id": "p27224",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.29",
+    "c_minPrice": "12.95",
+    "c_numberReviews": "1",
+    "c_priceRange": "$12.95 - $25.29",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/parducci-true-grit-reserve-cabernet-sauvignon/p27224",
+    "name": "Parducci True Grit Reserve - Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-parducci-true-grit-reserve-cabernet-sauvignon-33f8a1f868220881.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/XxGSZHUnsdOim1sMyAe_UZ2d-IND1P0Gh93oKnOxHeU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/XxGSZHUnsdOim1sMyAe_UZ2d-IND1P0Gh93oKnOxHeU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/XxGSZHUnsdOim1sMyAe_UZ2d-IND1P0Gh93oKnOxHeU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XxGSZHUnsdOim1sMyAe_UZ2d-IND1P0Gh93oKnOxHeU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

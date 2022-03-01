@@ -1,0 +1,17 @@
+{
+  "$id": "p7843",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "19.79",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "23",
+    "c_priceRange": "$8.79 - $19.79",
+    "c_subCategory": "Fruit Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/fruit-brandy/mr-boston-blackberry-brandy/p7843",
+    "name": "Mr. Boston Blackberry Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

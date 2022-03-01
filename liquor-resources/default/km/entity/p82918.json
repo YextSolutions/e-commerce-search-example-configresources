@@ -1,0 +1,17 @@
+{
+  "$id": "p82918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "114",
+    "c_priceRange": "$9.89 - $46.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/malibu-lime-rum/p82918",
+    "name": "Malibu Lime Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

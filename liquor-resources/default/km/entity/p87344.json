@@ -1,0 +1,17 @@
+{
+  "$id": "p87344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "190.39",
+    "c_minPrice": "31.49",
+    "c_numberReviews": "4",
+    "c_priceRange": "$31.49 - $190.39",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenfiddich-fire-and-cane/p87344",
+    "name": "Glenfiddich Fire \u0026 Cane Experimental Single Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

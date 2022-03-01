@@ -1,0 +1,17 @@
+{
+  "$id": "p103473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "58",
+    "c_priceRange": "$5.00 - $20.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/dark-horse-buttery-chardonnay/p103473",
+    "name": "Dark Horse Buttery Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

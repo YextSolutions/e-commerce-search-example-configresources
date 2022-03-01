@@ -1,0 +1,17 @@
+{
+  "$id": "p29537",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "39",
+    "c_priceRange": "$15.39 - $249.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/jack-daniels-single-barrel-barrel-proof-tennessee-whiskey/p29537",
+    "name": "Jack Daniel\u0027s Single Barrel Barrel Proof Tennessee Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

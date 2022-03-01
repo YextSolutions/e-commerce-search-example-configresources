@@ -1,0 +1,17 @@
+{
+  "$id": "p13854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.95",
+    "c_numberReviews": "100",
+    "c_priceRange": "$7.95 - $29.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/hahn-pinot-noir/p13854",
+    "name": "Hahn Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

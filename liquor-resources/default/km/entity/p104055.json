@@ -1,0 +1,44 @@
+{
+  "$id": "p104055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "164.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$39.99 - $164.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/smoke-wagon-small-batch-bourbon-whiskey/p104055",
+    "name": "Smoke Wagon Small Batch Bourbon Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-smoke-wagon-small-batch-bourbon-whiskey-759c8a5b47c390ea.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y8faJ2O_F0OKg5cTXwD6EdhAC5jHTNM5xopB__lynqs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y8faJ2O_F0OKg5cTXwD6EdhAC5jHTNM5xopB__lynqs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Y8faJ2O_F0OKg5cTXwD6EdhAC5jHTNM5xopB__lynqs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Y8faJ2O_F0OKg5cTXwD6EdhAC5jHTNM5xopB__lynqs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

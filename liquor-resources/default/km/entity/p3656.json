@@ -1,0 +1,17 @@
+{
+  "$id": "p3656",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.56",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$5.99 - $20.56",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/noble-vines-242-sauvignon-blanc/p3656",
+    "name": "Noble Vines 242 Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

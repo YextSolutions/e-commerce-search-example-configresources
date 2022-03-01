@@ -1,0 +1,44 @@
+{
+  "$id": "p95839",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "39",
+    "c_priceRange": "$9.49 - $12.09",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/bootstrap-brewing-lush-puppy-ipa/p95839",
+    "name": "Bootstrap Brewing Lush Puppy IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bootstrap-brewing-lush-puppy-ipa-650b5b921d92cb58.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP5L1y3WvszjJDe99hom2HtR4AiW8xQ6uS-IyiBPFpI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP5L1y3WvszjJDe99hom2HtR4AiW8xQ6uS-IyiBPFpI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/sP5L1y3WvszjJDe99hom2HtR4AiW8xQ6uS-IyiBPFpI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sP5L1y3WvszjJDe99hom2HtR4AiW8xQ6uS-IyiBPFpI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

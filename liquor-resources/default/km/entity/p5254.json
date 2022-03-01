@@ -1,0 +1,17 @@
+{
+  "$id": "p5254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "40.00",
+    "c_minPrice": "4.09",
+    "c_numberReviews": "14",
+    "c_priceRange": "$4.09 - $40.00",
+    "c_subCategory": "Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/ginjo/kikusui-funaguchi/p5254",
+    "name": "Kikusui Funaguchi"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

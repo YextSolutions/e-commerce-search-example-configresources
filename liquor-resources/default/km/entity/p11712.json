@@ -1,0 +1,17 @@
+{
+  "$id": "p11712",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$1.99 - $32.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/sandeman-ruby-port/p11712",
+    "name": "Sandeman Ruby Port"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

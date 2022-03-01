@@ -1,0 +1,16 @@
+{
+  "$id": "p24431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "10.99",
+    "c_minPrice": "5.50",
+    "c_numberReviews": "28",
+    "c_priceRange": "$5.50 - $10.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/riunite-lambrusco-rose/p24431",
+    "name": "Riunite Lambrusco Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

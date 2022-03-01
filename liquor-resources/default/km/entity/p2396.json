@@ -1,0 +1,17 @@
+{
+  "$id": "p2396",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "31.83",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$5.99 - $31.83",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/carlo-rossi-white-zinfandel/p2396",
+    "name": "Carlo Rossi White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

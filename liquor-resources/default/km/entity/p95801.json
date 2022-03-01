@@ -1,0 +1,17 @@
+{
+  "$id": "p95801",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "49.95",
+    "c_minPrice": "27.65",
+    "c_numberReviews": "14",
+    "c_priceRange": "$27.65 - $49.95",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/pierre-patou-vsop/p95801",
+    "name": "Pierre Patou V.S.O.P."
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p68035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$10.49 - $13.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/blue-owl-brewing-spirit-animal/p68035",
+    "name": "Blue Owl Brewing Spirit Animal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

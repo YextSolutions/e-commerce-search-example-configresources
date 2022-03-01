@@ -1,0 +1,16 @@
+{
+  "$id": "p96095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "38.00",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$17.99 - $38.00",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/heavy-seas-cannon-crew-sampler/p96095",
+    "name": "Heavy Seas Cannon Crew Sampler"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

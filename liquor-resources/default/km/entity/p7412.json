@@ -1,0 +1,17 @@
+{
+  "$id": "p7412",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$10.99 - $49.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/2-gingers-irish-whiskey/p7412",
+    "name": "2 Gingers Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

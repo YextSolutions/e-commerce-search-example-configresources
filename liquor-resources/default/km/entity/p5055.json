@@ -1,0 +1,17 @@
+{
+  "$id": "p5055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$7.99 - $17.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/house-mountain-merlot/p5055",
+    "name": "House Mountain Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

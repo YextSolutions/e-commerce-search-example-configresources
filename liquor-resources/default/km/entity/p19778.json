@@ -1,0 +1,17 @@
+{
+  "$id": "p19778",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "5.93",
+    "c_numberReviews": "7",
+    "c_priceRange": "$5.93 - $13.99",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/ozeki-sake/p19778",
+    "name": "Ozeki Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

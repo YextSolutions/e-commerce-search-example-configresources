@@ -1,0 +1,18 @@
+{
+  "$id": "p20473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.49 - $19.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Gose",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/gose/destihl-wild-sour-series-here-gose-nothin/p20473",
+    "name": "Destihl Wild Sour Series: Here Gose Nothin\u0027"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

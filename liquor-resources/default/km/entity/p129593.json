@@ -1,0 +1,17 @@
+{
+  "$id": "p129593",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "51.96",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$21.99 - $51.96",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/grey-goose-essences-watermelon-and-basil-vodka/p129593",
+    "name": "GREY GOOSE Essences Watermelon \u0026 Basil Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

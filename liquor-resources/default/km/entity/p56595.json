@@ -1,0 +1,16 @@
+{
+  "$id": "p56595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "23.97",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$1.99 - $23.97",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/liqs-vodka-lemon-drop/p56595",
+    "name": "LIQS Vodka Lemon Drop"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

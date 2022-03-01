@@ -1,0 +1,44 @@
+{
+  "$id": "p27729",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$8.99 - $20.89",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/paul-masson-brandy-red-berry/p27729",
+    "name": "Paul Masson Brandy Red Berry",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-paul-masson-brandy-red-berry-34170d845b6d55e7.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yMhxxTpav7_V3eZVouFLEt8J1dH1qvA355Di8HpLoX0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yMhxxTpav7_V3eZVouFLEt8J1dH1qvA355Di8HpLoX0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yMhxxTpav7_V3eZVouFLEt8J1dH1qvA355Di8HpLoX0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yMhxxTpav7_V3eZVouFLEt8J1dH1qvA355Di8HpLoX0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

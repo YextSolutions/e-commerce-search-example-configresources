@@ -1,0 +1,16 @@
+{
+  "$id": "p81566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$9.99 - $17.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/stem-variety-6-pack/p81566",
+    "name": "Stem Variety 6-pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

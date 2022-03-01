@@ -1,0 +1,44 @@
+{
+  "$id": "p13112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "33.95",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "159",
+    "c_priceRange": "$9.99 - $33.95",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/captain-morgan-pineapple-rum/p13112",
+    "name": "Captain Morgan Pineapple Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-captain-morgan-pineapple-white-rum-b0b20e4865fd7851.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZmKZWoIlIUESPsq3a5H9YNYW3oQDe3zZ8qa8QCHaAcQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZmKZWoIlIUESPsq3a5H9YNYW3oQDe3zZ8qa8QCHaAcQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZmKZWoIlIUESPsq3a5H9YNYW3oQDe3zZ8qa8QCHaAcQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZmKZWoIlIUESPsq3a5H9YNYW3oQDe3zZ8qa8QCHaAcQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

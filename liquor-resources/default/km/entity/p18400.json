@@ -1,0 +1,17 @@
+{
+  "$id": "p18400",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "11.50",
+    "c_numberReviews": "11",
+    "c_priceRange": "$11.50 - $34.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/b-side-cabernet-sauvignon/p18400",
+    "name": "B Side Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

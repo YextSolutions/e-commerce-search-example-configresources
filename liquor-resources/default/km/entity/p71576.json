@@ -1,0 +1,16 @@
+{
+  "$id": "p71576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "54",
+    "c_priceRange": "$8.99 - $14.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/house-wine-rose/p71576",
+    "name": "House Wine Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

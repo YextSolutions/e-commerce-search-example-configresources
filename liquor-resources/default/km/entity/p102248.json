@@ -1,0 +1,44 @@
+{
+  "$id": "p102248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "26.89",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$9.99 - $26.89",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/modelo-reserva-tequila-barrel-mexican-lager-beer/p102248",
+    "name": "Modelo Reserva Tequila Barrel Mexican Lager Beer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-modelo-reserva-tequila-barrel-mexican-lager-beer-0c6308030eb7771f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Q9cP63T3Sx7mFMTtKnKXwsSTy_7yVki5SFweg2JrMM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Q9cP63T3Sx7mFMTtKnKXwsSTy_7yVki5SFweg2JrMM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/2Q9cP63T3Sx7mFMTtKnKXwsSTy_7yVki5SFweg2JrMM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2Q9cP63T3Sx7mFMTtKnKXwsSTy_7yVki5SFweg2JrMM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

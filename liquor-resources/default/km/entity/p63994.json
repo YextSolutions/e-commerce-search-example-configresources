@@ -1,0 +1,17 @@
+{
+  "$id": "p63994",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "36.29",
+    "c_numberReviews": "5",
+    "c_priceRange": "$36.29 - $299.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/st-george-baller-single-malt-whiskey/p63994",
+    "name": "St. George Baller Single Malt Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

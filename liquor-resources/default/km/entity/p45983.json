@@ -1,0 +1,18 @@
+{
+  "$id": "p45983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.33",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.99 - $20.33",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/maredsous-triple-ale-10/p45983",
+    "name": "Maredsous Triple Ale 10"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p48159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "16.50",
+    "c_numberReviews": "2",
+    "c_priceRange": "$16.50 - $28.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/lumami-pinot-noir/p48159",
+    "name": "L\u0027Umami Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

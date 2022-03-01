@@ -1,0 +1,17 @@
+{
+  "$id": "p101041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.49 - $18.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/independence-native-texan-pilsner/p101041",
+    "name": "Independence Native Texan Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

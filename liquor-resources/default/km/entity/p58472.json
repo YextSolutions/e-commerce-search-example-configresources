@@ -1,0 +1,17 @@
+{
+  "$id": "p58472",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$49.99 - $129.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/veuve-clicquot-rose-clicqcall/p58472",
+    "name": "Veuve Clicquot Rose Clicq\u0027call"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

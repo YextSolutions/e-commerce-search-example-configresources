@@ -1,0 +1,17 @@
+{
+  "$id": "p2125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "2999.00",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "521",
+    "c_priceRange": "$14.99 - $2999.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wild-turkey-101/p2125",
+    "name": "Wild Turkey 101"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

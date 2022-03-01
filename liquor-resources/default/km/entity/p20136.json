@@ -1,0 +1,17 @@
+{
+  "$id": "p20136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "54.95",
+    "c_minPrice": "8.10",
+    "c_numberReviews": "188",
+    "c_priceRange": "$8.10 - $54.95",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/night-shift-santilli-ipa/p20136",
+    "name": "Night Shift Santilli IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

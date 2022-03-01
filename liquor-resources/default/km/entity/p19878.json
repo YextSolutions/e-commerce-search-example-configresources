@@ -1,0 +1,17 @@
+{
+  "$id": "p19878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "30",
+    "c_priceRange": "$1.49 - $24.99",
+    "c_subCategory": "Red Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/michelob-amber-bock/p19878",
+    "name": "Michelob Amberbock Dark Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

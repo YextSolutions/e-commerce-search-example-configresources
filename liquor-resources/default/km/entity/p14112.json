@@ -1,0 +1,17 @@
+{
+  "$id": "p14112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.65",
+    "c_numberReviews": "9",
+    "c_priceRange": "$10.65 - $19.99",
+    "c_subCategory": "Sparkling Red Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-red-wine/paringa-sparkling-shiraz/p14112",
+    "name": "Paringa Sparkling Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

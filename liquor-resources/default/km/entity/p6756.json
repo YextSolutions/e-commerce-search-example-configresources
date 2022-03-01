@@ -1,0 +1,17 @@
+{
+  "$id": "p6756",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.49 - $29.99",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/gaffel-kolsch/p6756",
+    "name": "Gaffel Kolsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p4727",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "2879",
+    "c_priceRange": "$10.99 - $38.49",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/smirnoff-whipped-cream/p4727",
+    "name": "Smirnoff Whipped Cream"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

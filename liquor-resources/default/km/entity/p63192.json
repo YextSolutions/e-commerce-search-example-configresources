@@ -1,0 +1,17 @@
+{
+  "$id": "p63192",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "55",
+    "c_priceRange": "$24.99 - $79.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/la-gritona-reposado-tequila/p63192",
+    "name": "La Gritona Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

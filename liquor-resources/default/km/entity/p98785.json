@@ -1,0 +1,44 @@
+{
+  "$id": "p98785",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "53.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$19.99 - $53.99",
+    "c_subCategory": "Mead",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/mead/superstition-meadery-blueberry-hex/p98785",
+    "name": "Superstition Meadery Blueberry Hex",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-superstition-meadery-blueberry-hex-48561600c590d220.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JMP8iwLArCtJO3D_ySsjc7qAmxssF0lb-_rrM_CLuLo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JMP8iwLArCtJO3D_ySsjc7qAmxssF0lb-_rrM_CLuLo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JMP8iwLArCtJO3D_ySsjc7qAmxssF0lb-_rrM_CLuLo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JMP8iwLArCtJO3D_ySsjc7qAmxssF0lb-_rrM_CLuLo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

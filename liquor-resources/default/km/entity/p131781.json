@@ -1,0 +1,17 @@
+{
+  "$id": "p131781",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.11",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.79 - $15.11",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/samuel-adams-non-alcoholic-ipa-just-the-haze/p131781",
+    "name": "Samuel Adams Non-Alcoholic IPA Just the Haze"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

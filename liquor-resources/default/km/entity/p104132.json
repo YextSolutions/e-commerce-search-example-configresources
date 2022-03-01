@@ -1,0 +1,17 @@
+{
+  "$id": "p104132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "55",
+    "c_priceRange": "$11.99 - $31.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/josh-cellars-reserve-bourbon-barrel-aged-cabernet-sauvignon/p104132",
+    "name": "Josh Cellars Reserve Bourbon Barrel Aged Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

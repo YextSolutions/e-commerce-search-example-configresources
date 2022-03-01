@@ -1,0 +1,16 @@
+{
+  "$id": "p25287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "31.94",
+    "c_minPrice": "12.15",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.15 - $31.94",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/castello-di-volpaia-chianti-classico-docg/p25287",
+    "name": "Castello di Volpaia Chianti Classico DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

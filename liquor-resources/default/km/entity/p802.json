@@ -1,0 +1,17 @@
+{
+  "$id": "p802",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "7.17",
+    "c_numberReviews": "1",
+    "c_priceRange": "$7.17 - $39.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/badia-a-coltibuono-chianti-classico-docg/p802",
+    "name": "Badia a Coltibuono Chianti Classico DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p21717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$11.99 - $38.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/blanc-de-bleu-cuvee-mousseux-brut-nv/p21717",
+    "name": "Blanc De Bleu Cuvee Mousseux Brut Nv"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

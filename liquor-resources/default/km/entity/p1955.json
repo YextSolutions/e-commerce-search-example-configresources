@@ -1,0 +1,17 @@
+{
+  "$id": "p1955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "36.08",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "117",
+    "c_priceRange": "$4.99 - $36.08",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/brooklyn-lager/p1955",
+    "name": "Brooklyn Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7656",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "31.89",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "110",
+    "c_priceRange": "$10.99 - $31.89",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/st-remy-vsop/p7656",
+    "name": "St-Rémy VSOP"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

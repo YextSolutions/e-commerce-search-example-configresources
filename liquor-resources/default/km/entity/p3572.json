@@ -1,0 +1,17 @@
+{
+  "$id": "p3572",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "750.00",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "37",
+    "c_priceRange": "$19.99 - $750.00",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/gran-centenario-reposado/p3572",
+    "name": "Gran Centenario Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

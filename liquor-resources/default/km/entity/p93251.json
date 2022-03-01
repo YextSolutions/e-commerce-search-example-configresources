@@ -1,0 +1,17 @@
+{
+  "$id": "p93251",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "5.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$2.99 - $5.99",
+    "c_subCategory": "Punch Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/punch-ready-to-drink/beatbox-pink-lemonade/p93251",
+    "name": "Beatbox Pink Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

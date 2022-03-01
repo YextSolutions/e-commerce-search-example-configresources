@@ -1,0 +1,17 @@
+{
+  "$id": "p5223",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "21",
+    "c_priceRange": "$4.39 - $33.99",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/honey-brown-lager/p5223",
+    "name": "Honey Brown Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

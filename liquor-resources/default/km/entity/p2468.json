@@ -1,0 +1,17 @@
+{
+  "$id": "p2468",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.48",
+    "c_minPrice": "3.53",
+    "c_numberReviews": "54",
+    "c_priceRange": "$3.53 - $17.48",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/cavit-pinot-noir/p2468",
+    "name": "Cavit Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

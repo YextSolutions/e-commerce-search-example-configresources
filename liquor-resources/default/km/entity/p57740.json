@@ -1,0 +1,18 @@
+{
+  "$id": "p57740",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.77",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "65",
+    "c_priceRange": "$3.99 - $19.77",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/golden-road-brewing-wolf-pup-session-ipa/p57740",
+    "name": "Golden Road Brewing Wolf Pup Session IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

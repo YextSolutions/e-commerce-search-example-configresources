@@ -1,0 +1,17 @@
+{
+  "$id": "p48829",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "124.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$124.99 - $199.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/dos-artes-reserva-especial-extra-anejo/p48829",
+    "name": "Dos Artes Reserva Especial Extra Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

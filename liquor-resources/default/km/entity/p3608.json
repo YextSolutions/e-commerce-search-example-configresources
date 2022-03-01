@@ -1,0 +1,18 @@
+{
+  "$id": "p3608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "68",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/great-divide-yeti-imperial-stout/p3608",
+    "name": "Great Divide Yeti Imperial Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

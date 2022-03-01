@@ -1,0 +1,17 @@
+{
+  "$id": "p129594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "51.96",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "35",
+    "c_priceRange": "$21.99 - $51.96",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/grey-goose-essences-white-peach-and-rosemary-vodka/p129594",
+    "name": "Grey Goose Essences White Peach \u0026 Rosemary Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p101032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "47",
+    "c_priceRange": "$10.00 - $19.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/dragons-milk-white/p101032",
+    "name": "Dragon\u0027s Milk White"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

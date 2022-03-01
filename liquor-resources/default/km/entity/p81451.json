@@ -1,0 +1,16 @@
+{
+  "$id": "p81451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "3.98",
+    "c_numberReviews": "10",
+    "c_priceRange": "$3.98 - $21.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/noble-vines-515-rose/p81451",
+    "name": "Noble Vines 515 Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

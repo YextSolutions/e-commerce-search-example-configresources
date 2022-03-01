@@ -1,0 +1,17 @@
+{
+  "$id": "p2682",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "51.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.99 - $51.49",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-amaretto-vodka/p2682",
+    "name": "CIROC Amaretto Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

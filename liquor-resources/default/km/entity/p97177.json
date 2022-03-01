@@ -1,0 +1,17 @@
+{
+  "$id": "p97177",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "229.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "23",
+    "c_priceRange": "$9.89 - $229.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/cincoro-anejo-tequila/p97177",
+    "name": "Cincoro Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p22917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.83",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "16",
+    "c_priceRange": "$3.29 - $12.83",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/gallo-family-vineyards-merlot/p22917",
+    "name": "Gallo Family Vineyards Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

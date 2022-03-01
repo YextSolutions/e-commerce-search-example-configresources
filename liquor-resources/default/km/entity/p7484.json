@@ -1,0 +1,17 @@
+{
+  "$id": "p7484",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "220000.00",
+    "c_minPrice": "54.00",
+    "c_numberReviews": "6",
+    "c_priceRange": "$54.00 - $220000.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-rip-van-winkle-10-year/p7484",
+    "name": "Old Rip Van Winkle 10 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

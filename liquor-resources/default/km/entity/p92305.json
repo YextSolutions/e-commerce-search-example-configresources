@@ -1,0 +1,17 @@
+{
+  "$id": "p92305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "73.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$27.99 - $73.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/penelope-bourbon/p92305",
+    "name": "Penelope Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

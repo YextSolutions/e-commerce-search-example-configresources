@@ -1,0 +1,17 @@
+{
+  "$id": "p4696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "1.96",
+    "c_numberReviews": "583",
+    "c_priceRange": "$1.96 - $99.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-original/p4696",
+    "name": "Smirnoff Ice Original"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

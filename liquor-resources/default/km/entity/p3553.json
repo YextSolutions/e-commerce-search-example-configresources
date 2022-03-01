@@ -1,0 +1,17 @@
+{
+  "$id": "p3553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "1100.00",
+    "c_minPrice": "9.53",
+    "c_numberReviews": "197",
+    "c_priceRange": "$9.53 - $1100.00",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/gordons-london-dry-gin/p3553",
+    "name": "Gordon\u0027s London Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

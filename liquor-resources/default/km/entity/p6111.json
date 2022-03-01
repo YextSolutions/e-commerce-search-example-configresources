@@ -1,0 +1,17 @@
+{
+  "$id": "p6111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "90.00",
+    "c_minPrice": "28.41",
+    "c_numberReviews": "59",
+    "c_priceRange": "$28.41 - $90.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/aberfeldy-12-year-scotch-whisky/p6111",
+    "name": "Aberfeldy 12 Year Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

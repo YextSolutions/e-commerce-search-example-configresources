@@ -1,0 +1,18 @@
+{
+  "$id": "p130624",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "9.48",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.48 - $15.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/colossal-claude/p130624",
+    "name": "Colossal Claude"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

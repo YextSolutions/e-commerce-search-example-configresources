@@ -1,0 +1,18 @@
+{
+  "$id": "p17547",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.50",
+    "c_numberReviews": "4",
+    "c_priceRange": "$6.50 - $18.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Saison",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/saison/lift-bridge-farm-girl-saison/p17547",
+    "name": "Lift Bridge Farm Girl Saison"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

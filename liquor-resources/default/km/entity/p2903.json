@@ -1,0 +1,17 @@
+{
+  "$id": "p2903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.04 - $32.99",
+    "c_subCategory": "Nero D\u0027Avola",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nero-d\u0027avola/cusumano-nero-davola/p2903",
+    "name": "Cusumano Nero d\u0027Avola"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

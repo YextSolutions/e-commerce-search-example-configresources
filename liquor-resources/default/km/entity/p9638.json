@@ -1,0 +1,17 @@
+{
+  "$id": "p9638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "219.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "47",
+    "c_priceRange": "$10.99 - $219.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-grand-dad-bourbon-100-proof-bonded/p9638",
+    "name": "Old Grand Dad Bonded Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

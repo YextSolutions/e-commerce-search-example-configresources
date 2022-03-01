@@ -1,0 +1,16 @@
+{
+  "$id": "p92102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "612",
+    "c_priceRange": "$5.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/corona-refresca-variety-pack-spiked-tropical-cocktail/p92102",
+    "name": "Corona Refresca Variety Pack Spiked Tropical Cocktail"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

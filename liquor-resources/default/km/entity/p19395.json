@@ -1,0 +1,17 @@
+{
+  "$id": "p19395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$29.99 - $54.99",
+    "c_subCategory": "Petite Sirah",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/petite-sirah/ridge-lytton-estate-petite-sirah/p19395",
+    "name": "Ridge Lytton Estate Petite Sirah"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

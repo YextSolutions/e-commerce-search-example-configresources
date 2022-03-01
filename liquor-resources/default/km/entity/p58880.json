@@ -1,0 +1,17 @@
+{
+  "$id": "p58880",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "17.88",
+    "c_numberReviews": "6",
+    "c_priceRange": "$17.88 - $41.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/seersucker-southern-style-gin/p58880",
+    "name": "Seersucker Southern Style Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

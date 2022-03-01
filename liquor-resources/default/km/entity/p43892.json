@@ -1,0 +1,16 @@
+{
+  "$id": "p43892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "10.41",
+    "c_numberReviews": "4",
+    "c_priceRange": "$10.41 - $20.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/hammermill-vodka/p43892",
+    "name": "Hammermill Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

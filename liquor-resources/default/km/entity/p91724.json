@@ -1,0 +1,16 @@
+{
+  "$id": "p91724",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.74",
+    "c_numberReviews": "123",
+    "c_priceRange": "$8.74 - $22.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/yes-way-rose/p91724",
+    "name": "Yes Way Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

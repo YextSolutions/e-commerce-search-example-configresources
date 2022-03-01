@@ -1,0 +1,45 @@
+{
+  "$id": "p18094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.15",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.99 - $20.15",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Belgian Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/belgian-strong-ale/north-coast-brother-thelonious-belgian-abbey-ale/p18094",
+    "name": "North Coast Brother Thelonious Belgian Abbey Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-north-coast-brother-thelonious-belgian-abbey-ale-4000616477ca4688.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/8TzZHAOb0LsTnG1rZ_6Bpraayd4QgHa89ITB0QvZPXI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/8TzZHAOb0LsTnG1rZ_6Bpraayd4QgHa89ITB0QvZPXI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/8TzZHAOb0LsTnG1rZ_6Bpraayd4QgHa89ITB0QvZPXI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8TzZHAOb0LsTnG1rZ_6Bpraayd4QgHa89ITB0QvZPXI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

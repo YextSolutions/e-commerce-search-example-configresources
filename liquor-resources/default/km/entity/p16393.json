@@ -1,0 +1,17 @@
+{
+  "$id": "p16393",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "12.38",
+    "c_numberReviews": "745",
+    "c_priceRange": "$12.38 - $39.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/deep-eddy-lemon-vodka/p16393",
+    "name": "Deep Eddy Lemon Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "17.49",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "33",
+    "c_priceRange": "$5.99 - $17.49",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/jack-daniels-country-cocktails-lynchburg-lemonade/p18611",
+    "name": "Jack Daniel\u0027s Country Cocktails Lynchburg Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

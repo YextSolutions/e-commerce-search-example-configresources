@@ -1,0 +1,16 @@
+{
+  "$id": "p28499",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "8.33",
+    "c_numberReviews": "21",
+    "c_priceRange": "$8.33 - $21.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/skinnygirl-margarita-spicy-lime/p28499",
+    "name": "Skinnygirl Spicy Lime Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

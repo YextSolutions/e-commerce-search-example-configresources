@@ -1,0 +1,44 @@
+{
+  "$id": "p9575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "95.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$24.99 - $95.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/penner-ash-wine-cellars-willamette-valley-pinot-noir/p9575",
+    "name": "Penner-Ash Wine Cellars Willamette Valley Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-penner-ash-pinot-noir-6795ac93fcb8500d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/4iRctnABdLgOcRA_DqbZzjB70w2KW9LUUx3OlDOMpJ4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4iRctnABdLgOcRA_DqbZzjB70w2KW9LUUx3OlDOMpJ4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/4iRctnABdLgOcRA_DqbZzjB70w2KW9LUUx3OlDOMpJ4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4iRctnABdLgOcRA_DqbZzjB70w2KW9LUUx3OlDOMpJ4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

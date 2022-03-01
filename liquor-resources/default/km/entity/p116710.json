@@ -1,0 +1,17 @@
+{
+  "$id": "p116710",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "18.93",
+    "c_numberReviews": "3",
+    "c_priceRange": "$18.93 - $39.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/decoy-limited-napa-valley-red-wine/p116710",
+    "name": "Decoy Limited Napa Valley Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

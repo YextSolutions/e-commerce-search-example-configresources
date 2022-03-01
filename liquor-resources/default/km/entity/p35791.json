@@ -1,0 +1,46 @@
+{
+  "$id": "p35791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.51",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$5.99 - $15.51",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/lone-star-light/p35791",
+    "name": "Lone Star Light",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-lone-star-light-6ea8246ee9e95fe1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/R91ZLbuVOTY7X9jJZukyfm3YTF3KDo9hhD0xC5YK9H0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/R91ZLbuVOTY7X9jJZukyfm3YTF3KDo9hhD0xC5YK9H0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/R91ZLbuVOTY7X9jJZukyfm3YTF3KDo9hhD0xC5YK9H0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/R91ZLbuVOTY7X9jJZukyfm3YTF3KDo9hhD0xC5YK9H0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

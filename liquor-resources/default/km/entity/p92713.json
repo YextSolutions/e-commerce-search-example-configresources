@@ -1,0 +1,17 @@
+{
+  "$id": "p92713",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.44",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$10.99 - $15.44",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/manhattan-project-half-life/p92713",
+    "name": "Manhattan Project Half Life"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

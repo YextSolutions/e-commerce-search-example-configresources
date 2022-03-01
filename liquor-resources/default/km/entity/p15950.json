@@ -1,0 +1,17 @@
+{
+  "$id": "p15950",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.99 - $20.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/sun-king-osiris-pale-ale/p15950",
+    "name": "Sun King Osiris Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

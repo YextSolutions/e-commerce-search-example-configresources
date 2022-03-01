@@ -1,0 +1,17 @@
+{
+  "$id": "p2356",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "71.99",
+    "c_minPrice": "26.98",
+    "c_numberReviews": "4",
+    "c_priceRange": "$26.98 - $71.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/canard-duchene-champagne-brut-nv/p2356",
+    "name": "Canard Duchene Champagne Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

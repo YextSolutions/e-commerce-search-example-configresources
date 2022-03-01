@@ -1,0 +1,17 @@
+{
+  "$id": "p12039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "32.00",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "218",
+    "c_priceRange": "$5.99 - $32.00",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/franzia-white-zinfandel-pink-wine/p12039",
+    "name": "Franzia® White Zinfandel Pink Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

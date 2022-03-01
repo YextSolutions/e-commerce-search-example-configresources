@@ -1,0 +1,17 @@
+{
+  "$id": "p156255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "90.29",
+    "c_minPrice": "24.83",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.83 - $90.29",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/x-by-glenmorangie/p156255",
+    "name": "X by Glenmorangie"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

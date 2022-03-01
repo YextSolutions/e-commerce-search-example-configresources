@@ -1,0 +1,17 @@
+{
+  "$id": "p98252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$17.99 - $40.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/mcbride-sisters-black-girl-magic-red-blend/p98252",
+    "name": "McBride Sisters Black Girl Magic Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

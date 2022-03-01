@@ -1,0 +1,17 @@
+{
+  "$id": "p57804",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "59",
+    "c_priceRange": "$8.99 - $24.19",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/rhinegeist-truth-ipa/p57804",
+    "name": "Rhinegeist Truth IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

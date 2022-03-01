@@ -1,0 +1,17 @@
+{
+  "$id": "p7856",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "3349.99",
+    "c_minPrice": "258.75",
+    "c_numberReviews": "5",
+    "c_priceRange": "$258.75 - $3349.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/van-winkle-special-reserve-12-year/p7856",
+    "name": "Van Winkle Special Reserve 12 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

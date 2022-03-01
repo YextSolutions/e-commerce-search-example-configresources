@@ -1,0 +1,17 @@
+{
+  "$id": "p99164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$10.49 - $18.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/holidaily-brewing-fat-randys-gluten-free-ipa/p99164",
+    "name": "Holidaily Brewing Fat Randy\u0027s Gluten Free IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

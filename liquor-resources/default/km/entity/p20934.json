@@ -1,0 +1,17 @@
+{
+  "$id": "p20934",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "156.00",
+    "c_minPrice": "40.69",
+    "c_numberReviews": "21",
+    "c_priceRange": "$40.69 - $156.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-bourbon-kentucky-derby-edition/p20934",
+    "name": "Woodford Reserve Bourbon Kentucky Derby Edition"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

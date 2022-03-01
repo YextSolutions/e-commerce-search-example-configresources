@@ -1,0 +1,44 @@
+{
+  "$id": "p24990",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "35",
+    "c_priceRange": "$14.99 - $47.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/the-pessimist-red-blend-2013/p24990",
+    "name": "The Pessimist Red Blend",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-the-pessimist-red-blend-2013-d9655b3a028f9e30.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/akGj-dNlorKczW87Ix9bVD4N3QYpUAqSGmjpVp8W1VU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/akGj-dNlorKczW87Ix9bVD4N3QYpUAqSGmjpVp8W1VU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/akGj-dNlorKczW87Ix9bVD4N3QYpUAqSGmjpVp8W1VU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/akGj-dNlorKczW87Ix9bVD4N3QYpUAqSGmjpVp8W1VU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

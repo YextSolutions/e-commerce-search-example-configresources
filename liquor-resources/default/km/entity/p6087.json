@@ -1,0 +1,45 @@
+{
+  "$id": "p6087",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.51",
+    "c_minPrice": "8.59",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.59 - $15.51",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Dortmunder",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/dortmunder/hacker-pschorr-munich-gold/p6087",
+    "name": "Hacker Pschorr Munich Gold",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-hacker-pschorr-munich-gold-5e517d5d249959e8.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yxgdzu7rv6Kxw1CWs_sc5jtSP7jCQtV7SLCxbVw3g3E/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yxgdzu7rv6Kxw1CWs_sc5jtSP7jCQtV7SLCxbVw3g3E/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yxgdzu7rv6Kxw1CWs_sc5jtSP7jCQtV7SLCxbVw3g3E/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yxgdzu7rv6Kxw1CWs_sc5jtSP7jCQtV7SLCxbVw3g3E/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

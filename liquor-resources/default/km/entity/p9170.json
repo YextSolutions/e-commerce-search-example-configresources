@@ -1,0 +1,17 @@
+{
+  "$id": "p9170",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "49",
+    "c_priceRange": "$9.89 - $99.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/jack-daniels-old-no-7-gift-set/p9170",
+    "name": "Jack Daniel\u0027s Old No. 7 Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

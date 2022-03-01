@@ -1,0 +1,17 @@
+{
+  "$id": "p145229",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "28.13",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.99 - $28.13",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/bartenura-italy-prosecco-rose/p145229",
+    "name": "Bartenura Italy Prosecco Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

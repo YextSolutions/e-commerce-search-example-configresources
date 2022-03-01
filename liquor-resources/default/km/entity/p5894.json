@@ -1,0 +1,17 @@
+{
+  "$id": "p5894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$16.99 - $34.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/ole-smoky-lemon-drop-lightin-moonshine/p5894",
+    "name": "Ole Smoky Lemon Drop Lightin\u0027 Moonshine"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

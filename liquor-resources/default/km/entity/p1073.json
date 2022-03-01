@@ -1,0 +1,19 @@
+{
+  "$id": "p1073",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "191.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "124",
+    "c_priceRange": "$11.99 - $191.99",
+    "c_subCategory": "Sour Ale",
+    "c_subType": "Fruit Lambic",
+    "c_type": "Lambic",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/lambic/fruit-lambic/lindemans-framboise-lambic/p1073",
+    "name": "Lindemans Framboise Lambic"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

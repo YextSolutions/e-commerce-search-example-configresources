@@ -1,0 +1,17 @@
+{
+  "$id": "p15287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "79.88",
+    "c_minPrice": "31.50",
+    "c_numberReviews": "6",
+    "c_priceRange": "$31.50 - $79.88",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/caparzo-brunello-di-montalcino/p15287",
+    "name": "Caparzo Brunello di Montalcino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

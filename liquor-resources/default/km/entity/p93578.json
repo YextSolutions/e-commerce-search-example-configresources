@@ -1,0 +1,17 @@
+{
+  "$id": "p93578",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "7.92",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.92 - $12.99",
+    "c_subCategory": "Other Red",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/other-red/markovic-estates-sweet-red/p93578",
+    "name": "Markovic Estates Sweet Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

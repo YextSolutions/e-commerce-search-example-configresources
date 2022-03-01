@@ -1,0 +1,44 @@
+{
+  "$id": "p91937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "3.65",
+    "c_numberReviews": "219",
+    "c_priceRange": "$3.65 - $13.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/otr-jalapeno-pineapple-margarita-cocktail/p91937",
+    "name": "OTR Jalapeno Pineapple Margarita Cocktail",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-on-the-rocks-jalapeno-pinapple-margarita-cocktail-0e2bbdd110fdef16.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/2zzD_CPKZhLbay7Ywx6PCwbl7nj919-B1vmDB9bs91o/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2zzD_CPKZhLbay7Ywx6PCwbl7nj919-B1vmDB9bs91o/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/2zzD_CPKZhLbay7Ywx6PCwbl7nj919-B1vmDB9bs91o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2zzD_CPKZhLbay7Ywx6PCwbl7nj919-B1vmDB9bs91o/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p38232",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$9.99 - $24.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/matchbook-cabernet-sauvignon/p38232",
+    "name": "Matchbook Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

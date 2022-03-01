@@ -1,0 +1,17 @@
+{
+  "$id": "p24062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$6.99 - $16.49",
+    "c_subCategory": "Sparkling Sake",
+    "landingPageUrl": "https://drizly.com/wine/sake/sparkling-sake/ozeki-hana-fuga-peach-sparkling-sake/p24062",
+    "name": "Ozeki Hana Fuga Peach Sparkling Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

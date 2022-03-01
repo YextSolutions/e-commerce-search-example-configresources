@@ -1,0 +1,16 @@
+{
+  "$id": "p3904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "104",
+    "c_priceRange": "$10.99 - $49.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/pimms-original-no-1-cup/p3904",
+    "name": "Pimm\u0027s No. 1 Cup"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

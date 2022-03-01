@@ -1,0 +1,16 @@
+{
+  "$id": "p94345",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$15.99 - $29.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/lve-by-john-legend-rose/p94345",
+    "name": "LVE By John Legend Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

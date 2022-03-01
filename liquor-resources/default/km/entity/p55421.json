@@ -1,0 +1,44 @@
+{
+  "$id": "p55421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.34",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "4",
+    "c_priceRange": "$10.49 - $20.34",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/lapis-luna-cabernet-sauvignon/p55421",
+    "name": "Lapis Luna Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-lapis-luna-2012-cabernet-sauvignon-lodi-f459141f552b01b0.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ngsebNmT2tKk1t6pbXN3M735GibVvmQ1zPGbDVO0kH4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ngsebNmT2tKk1t6pbXN3M735GibVvmQ1zPGbDVO0kH4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ngsebNmT2tKk1t6pbXN3M735GibVvmQ1zPGbDVO0kH4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ngsebNmT2tKk1t6pbXN3M735GibVvmQ1zPGbDVO0kH4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

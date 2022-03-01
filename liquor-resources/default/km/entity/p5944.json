@@ -1,0 +1,17 @@
+{
+  "$id": "p5944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.77",
+    "c_minPrice": "6.81",
+    "c_numberReviews": "80",
+    "c_priceRange": "$6.81 - $23.77",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/bogle-vineyards-essential-red/p5944",
+    "name": "Bogle Vineyards Essential Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

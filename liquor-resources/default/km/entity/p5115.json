@@ -1,0 +1,18 @@
+{
+  "$id": "p5115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.79",
+    "c_numberReviews": "28",
+    "c_priceRange": "$7.79 - $29.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "India Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/india-pale-lager/jacks-abby-hoponius-union/p5115",
+    "name": "Jack\u0027s Abby Hoponius Union"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

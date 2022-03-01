@@ -1,0 +1,17 @@
+{
+  "$id": "p14103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "371",
+    "c_priceRange": "$3.29 - $40.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/elysian-space-dust-ipa/p14103",
+    "name": "Elysian Space Dust IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

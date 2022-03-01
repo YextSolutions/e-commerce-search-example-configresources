@@ -1,0 +1,17 @@
+{
+  "$id": "p13139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "73.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "20",
+    "c_priceRange": "$8.79 - $73.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/tres-generaciones-reposado-tequila/p13139",
+    "name": "Tres Generaciones Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

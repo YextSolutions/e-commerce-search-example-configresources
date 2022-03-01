@@ -1,0 +1,44 @@
+{
+  "$id": "p113961",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "30",
+    "c_priceRange": "$9.98 - $38.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/flying-embers-sweet-and-heat-variety-pack-hard-seltzer/p113961",
+    "name": "Flying Embers Sweet \u0026 Heat Variety Pack Hard Seltzer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-flying-embers-sweet-heat-hard-seltzer-variety-pack-717bca2921571ec6.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hnhkWuag8gwVYYK-9ifbu1ptysDsQvPyyVa4_fQ4V2A/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hnhkWuag8gwVYYK-9ifbu1ptysDsQvPyyVa4_fQ4V2A/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hnhkWuag8gwVYYK-9ifbu1ptysDsQvPyyVa4_fQ4V2A/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hnhkWuag8gwVYYK-9ifbu1ptysDsQvPyyVa4_fQ4V2A/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

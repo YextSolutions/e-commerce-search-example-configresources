@@ -1,0 +1,17 @@
+{
+  "$id": "p82273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "1.69",
+    "c_numberReviews": "9",
+    "c_priceRange": "$1.69 - $13.19",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/union-craft-brewing-skip-jack-pilsner/p82273",
+    "name": "Union Craft Brewing Skip Jack Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

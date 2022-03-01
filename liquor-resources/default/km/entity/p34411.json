@@ -1,0 +1,17 @@
+{
+  "$id": "p34411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "8.63",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.63 - $16.49",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/rondiaz-white-rum/p34411",
+    "name": "Rondiaz White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

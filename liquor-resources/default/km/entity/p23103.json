@@ -1,0 +1,17 @@
+{
+  "$id": "p23103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "29.95",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "68",
+    "c_priceRange": "$5.99 - $29.95",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/hakutsuru-sayuri-junmai-nigori/p23103",
+    "name": "Hakutsuru Sayuri Junmai Nigori"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

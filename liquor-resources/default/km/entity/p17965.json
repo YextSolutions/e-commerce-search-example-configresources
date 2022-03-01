@@ -1,0 +1,17 @@
+{
+  "$id": "p17965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "10.89",
+    "c_numberReviews": "12",
+    "c_priceRange": "$10.89 - $49.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/markham-merlot/p17965",
+    "name": "Markham Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

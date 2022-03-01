@@ -1,0 +1,44 @@
+{
+  "$id": "p1892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "472.99",
+    "c_minPrice": "48.99",
+    "c_numberReviews": "57",
+    "c_priceRange": "$48.99 - $472.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/bookers-kentucky-straight-bourbon-whiskey/p1892",
+    "name": "Booker\u0027s Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-bookers-kentucky-straight-bourbon-whiskey-84172c106adb7b83.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/bl2V_jdPUlTJHwpxZ-NQUIw2rmFincRoPb__La5Slng/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bl2V_jdPUlTJHwpxZ-NQUIw2rmFincRoPb__La5Slng/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/bl2V_jdPUlTJHwpxZ-NQUIw2rmFincRoPb__La5Slng/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bl2V_jdPUlTJHwpxZ-NQUIw2rmFincRoPb__La5Slng/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

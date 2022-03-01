@@ -1,0 +1,16 @@
+{
+  "$id": "p101075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$9.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/canteen-lime-vodka-soda/p101075",
+    "name": "Canteen Lime Vodka Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

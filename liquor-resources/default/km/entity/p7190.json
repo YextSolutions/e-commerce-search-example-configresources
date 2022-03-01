@@ -1,0 +1,44 @@
+{
+  "$id": "p7190",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "183.49",
+    "c_minPrice": "28.24",
+    "c_numberReviews": "2",
+    "c_priceRange": "$28.24 - $183.49",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/camus-vsop-borderies-single-cru/p7190",
+    "name": "Camus VSOP Borderies Single Cru",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-camus-vsop-borderies-29e119951b6396f4.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPdG_Pwa0JCmLfqnhueANOZ0gGeGbNPDq4SvroADrwc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPdG_Pwa0JCmLfqnhueANOZ0gGeGbNPDq4SvroADrwc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/sPdG_Pwa0JCmLfqnhueANOZ0gGeGbNPDq4SvroADrwc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sPdG_Pwa0JCmLfqnhueANOZ0gGeGbNPDq4SvroADrwc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

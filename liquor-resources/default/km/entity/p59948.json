@@ -1,0 +1,17 @@
+{
+  "$id": "p59948",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$14.99 - $35.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/josh-cellars-reserve-paso-robles-cabernet-sauvignon/p59948",
+    "name": "Josh Cellars Reserve Paso Robles Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

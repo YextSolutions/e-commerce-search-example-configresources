@@ -1,0 +1,17 @@
+{
+  "$id": "p103435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "49.95",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "85",
+    "c_priceRange": "$8.99 - $49.95",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/kona-spiked-island-seltzer-variety/p103435",
+    "name": "Kona Spiked Island Seltzer Variety"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

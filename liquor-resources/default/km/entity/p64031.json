@@ -1,0 +1,18 @@
+{
+  "$id": "p64031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "32.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $32.00",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/einstock-wee-heavy/p64031",
+    "name": "Einstok Icelandic Wee Heavy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

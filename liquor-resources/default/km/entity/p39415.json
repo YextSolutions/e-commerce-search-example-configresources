@@ -1,0 +1,17 @@
+{
+  "$id": "p39415",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$3.99 - $299.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/love-noir-pinot-noir-red-wine/p39415",
+    "name": "Love Noir Pinot Noir Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

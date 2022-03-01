@@ -1,0 +1,17 @@
+{
+  "$id": "p105491",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.99 - $59.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/campo-bravo-plata/p105491",
+    "name": "Campo Bravo Plata"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

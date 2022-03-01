@@ -1,0 +1,18 @@
+{
+  "$id": "p14639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.39",
+    "c_minPrice": "9.95",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.95 - $18.39",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/avery-tweak/p14639",
+    "name": "Avery Tweak"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

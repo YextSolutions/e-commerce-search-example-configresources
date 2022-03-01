@@ -1,0 +1,17 @@
+{
+  "$id": "p3814",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$6.99 - $12.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/paulaner-premium-pils/p3814",
+    "name": "Paulaner Premium Pils"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

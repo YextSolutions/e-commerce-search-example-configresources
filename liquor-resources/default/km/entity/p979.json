@@ -1,0 +1,17 @@
+{
+  "$id": "p979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.76",
+    "c_minPrice": "15.98",
+    "c_numberReviews": "182",
+    "c_priceRange": "$15.98 - $32.76",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/black-box-malbec/p979",
+    "name": "Black Box Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

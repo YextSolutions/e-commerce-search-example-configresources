@@ -1,0 +1,18 @@
+{
+  "$id": "p27466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$6.99 - $32.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/kokanee/p27466",
+    "name": "Kokanee Pale Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

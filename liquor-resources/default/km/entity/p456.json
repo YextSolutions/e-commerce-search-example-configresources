@@ -1,0 +1,17 @@
+{
+  "$id": "p456",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "17",
+    "c_priceRange": "$9.98 - $24.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/valdo-prosecco/p456",
+    "name": "Valdo Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

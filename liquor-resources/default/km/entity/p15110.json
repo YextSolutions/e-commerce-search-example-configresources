@@ -1,0 +1,17 @@
+{
+  "$id": "p15110",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "4.80",
+    "c_numberReviews": "20",
+    "c_priceRange": "$4.80 - $40.99",
+    "c_subCategory": "Grenache",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/grenache/borsao-garnacha/p15110",
+    "name": "Borsao Garnacha"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

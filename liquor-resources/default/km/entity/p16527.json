@@ -1,0 +1,17 @@
+{
+  "$id": "p16527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.13",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.13 - $19.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/the-show-organic-malbec-red-wine/p16527",
+    "name": "The Show  Organic Malbec Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p10042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "60",
+    "c_priceRange": "$1.49 - $9.99",
+    "c_subCategory": "Non Alcoholic Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/non-alcoholic-wine/martinellis-sparkling-cider-non-alcoholic/p10042",
+    "name": "Martinelli\u0027s Sparkling Cider (Non Alcoholic)"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

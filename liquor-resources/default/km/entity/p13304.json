@@ -1,0 +1,17 @@
+{
+  "$id": "p13304",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "73.49",
+    "c_minPrice": "28.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$28.99 - $73.49",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/pierre-ferrand-1840-grand-champagne/p13304",
+    "name": "Pierre Ferrand 1840 Grand Champagne"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

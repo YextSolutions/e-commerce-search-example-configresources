@@ -1,0 +1,18 @@
+{
+  "$id": "p15954",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.49",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$2.99 - $31.49",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/bells-hopslam-ale-dipa/p15954",
+    "name": "Bell\u0027s Hopslam Ale DIPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

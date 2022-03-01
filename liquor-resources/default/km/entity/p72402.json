@@ -1,0 +1,16 @@
+{
+  "$id": "p72402",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$5.99 - $14.29",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/brotherhood-holiday-spiced-wine/p72402",
+    "name": "Brotherhood Holiday Spiced Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

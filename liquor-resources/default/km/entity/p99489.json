@@ -1,0 +1,17 @@
+{
+  "$id": "p99489",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "599.99",
+    "c_minPrice": "199.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$199.99 - $599.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/bcs-line-15-year-bourbon-1st-bottling/p99489",
+    "name": "BCS Line 15 Year Bourbon (1st bottling)"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

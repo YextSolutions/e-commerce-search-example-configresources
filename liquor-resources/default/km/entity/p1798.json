@@ -1,0 +1,17 @@
+{
+  "$id": "p1798",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "1388",
+    "c_priceRange": "$15.99 - $35.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/absolut-raspberri/p1798",
+    "name": "Absolut Raspberri"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

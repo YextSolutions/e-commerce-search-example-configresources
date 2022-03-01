@@ -1,0 +1,17 @@
+{
+  "$id": "p15667",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.98 - $11.99",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/elevation-8-second-kolsch/p15667",
+    "name": "Elevation 8 Second Kölsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

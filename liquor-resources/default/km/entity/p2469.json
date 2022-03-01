@@ -1,0 +1,17 @@
+{
+  "$id": "p2469",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "350.00",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "186",
+    "c_priceRange": "$17.99 - $350.00",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/caymus-napa-valley-cabernet-sauvignon/p2469",
+    "name": "Caymus Napa Valley Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

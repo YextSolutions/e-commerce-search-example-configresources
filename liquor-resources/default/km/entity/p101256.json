@@ -1,0 +1,17 @@
+{
+  "$id": "p101256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "243",
+    "c_priceRange": "$5.99 - $32.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/blue-moon-light-sky-citrus-wheat-craft-beer/p101256",
+    "name": "Blue Moon Light Sky Citrus Wheat Craft Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

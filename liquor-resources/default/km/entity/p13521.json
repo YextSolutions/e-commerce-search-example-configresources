@@ -1,0 +1,17 @@
+{
+  "$id": "p13521",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.54",
+    "c_minPrice": "7.87",
+    "c_numberReviews": "17",
+    "c_priceRange": "$7.87 - $17.54",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/2020-nicolas-pinot-noir/p13521",
+    "name": "2020 Nicolas Pinot Noir,"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p138398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.49 - $16.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/creature-comforts-bibo-pilsner/p138398",
+    "name": "Creature Comforts Bibo Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

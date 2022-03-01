@@ -1,0 +1,16 @@
+{
+  "$id": "p16719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.24 - $22.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/potters-vodka/p16719",
+    "name": "Potter\u0027s Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

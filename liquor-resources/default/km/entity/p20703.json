@@ -1,0 +1,16 @@
+{
+  "$id": "p20703",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "28.89",
+    "c_minPrice": "12.59",
+    "c_numberReviews": "145",
+    "c_priceRange": "$12.59 - $28.89",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/finca-wolffer-rose/p20703",
+    "name": "Finca Wölffer Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

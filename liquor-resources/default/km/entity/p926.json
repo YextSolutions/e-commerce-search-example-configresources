@@ -1,0 +1,17 @@
+{
+  "$id": "p926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$17.99 - $49.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/benton-lane-estate-pinot-noir/p926",
+    "name": "Benton-Lane Estate Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

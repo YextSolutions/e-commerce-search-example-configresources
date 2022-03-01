@@ -1,0 +1,17 @@
+{
+  "$id": "p143514",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.98 - $99.99",
+    "c_subCategory": "Tennessee Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/tennessee-whiskey/jack-daniels-black-label-tennessee-whiskey/p143514",
+    "name": "Jack Daniels Black Label Tennessee Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

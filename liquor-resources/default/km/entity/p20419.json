@@ -1,0 +1,16 @@
+{
+  "$id": "p20419",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "26.49",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$6.99 - $26.49",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/aime-roquesante-cotes-de-provence-rose/p20419",
+    "name": "Aime Roquesante Cotes de Provence Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

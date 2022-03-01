@@ -1,0 +1,17 @@
+{
+  "$id": "p49125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "39.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$39.98 - $65.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/oddero-barolo/p49125",
+    "name": "Oddero Barolo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

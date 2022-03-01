@@ -1,0 +1,17 @@
+{
+  "$id": "p69295",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "55",
+    "c_priceRange": "$6.99 - $24.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/noilly-prat-extra-dry-vermouth/p69295",
+    "name": "Noilly Prat Extra Dry Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

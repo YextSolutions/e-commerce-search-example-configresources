@@ -1,0 +1,44 @@
+{
+  "$id": "p91414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "11.11",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "16",
+    "c_priceRange": "$3.49 - $11.11",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/gallo-family-vineyards-sweet-grape/p91414",
+    "name": "Gallo Family Vineyards Sweet Grape",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-gallo-family-vineyards-sweet-grape-002d0ab8794952e7.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RWswxH4QnjCNa3eoC1JXYUiO5pb5LQV_e6hvE8YuM58/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RWswxH4QnjCNa3eoC1JXYUiO5pb5LQV_e6hvE8YuM58/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/RWswxH4QnjCNa3eoC1JXYUiO5pb5LQV_e6hvE8YuM58/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RWswxH4QnjCNa3eoC1JXYUiO5pb5LQV_e6hvE8YuM58/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

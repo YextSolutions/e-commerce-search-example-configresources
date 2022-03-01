@@ -1,0 +1,17 @@
+{
+  "$id": "p22455",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "82.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$39.99 - $82.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/champagne-delamotte-brut/p22455",
+    "name": "Champagne Delamotte Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

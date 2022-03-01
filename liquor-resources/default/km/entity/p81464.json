@@ -1,0 +1,17 @@
+{
+  "$id": "p81464",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "279.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$279.99 - $999.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-blue-label-ghost-and-rare/p81464",
+    "name": "Johnnie Walker Blue Label Ghost \u0026 Rare"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

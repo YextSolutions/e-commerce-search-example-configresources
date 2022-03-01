@@ -1,0 +1,17 @@
+{
+  "$id": "p129081",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "419.99",
+    "c_minPrice": "61.19",
+    "c_numberReviews": "7",
+    "c_priceRange": "$61.19 - $419.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/alberta-premium-cask-strength-rye/p129081",
+    "name": "Alberta Premium Cask Strength Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

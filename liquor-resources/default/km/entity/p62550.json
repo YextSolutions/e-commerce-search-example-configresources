@@ -1,0 +1,17 @@
+{
+  "$id": "p62550",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "15.55",
+    "c_minPrice": "2.15",
+    "c_numberReviews": "30",
+    "c_priceRange": "$2.15 - $15.55",
+    "c_subCategory": "Hard Lemonade",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-lemonade/mikes-harder-strawberry-lemonade/p62550",
+    "name": "Mike\u0027s Harder Strawberry Lemonade"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

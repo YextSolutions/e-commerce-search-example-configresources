@@ -1,0 +1,17 @@
+{
+  "$id": "p17918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.53",
+    "c_numberReviews": "37",
+    "c_priceRange": "$9.53 - $39.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/fonseca-bin-27-porto/p17918",
+    "name": "Fonseca Bin #27 Porto"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

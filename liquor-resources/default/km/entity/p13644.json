@@ -1,0 +1,17 @@
+{
+  "$id": "p13644",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "1.69",
+    "c_numberReviews": "15",
+    "c_priceRange": "$1.69 - $14.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/union-anthem/p13644",
+    "name": "Union Anthem"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

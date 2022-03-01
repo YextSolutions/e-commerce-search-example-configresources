@@ -1,0 +1,17 @@
+{
+  "$id": "p8292",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.39",
+    "c_minPrice": "3.25",
+    "c_numberReviews": "91",
+    "c_priceRange": "$3.25 - $15.39",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/frontera-cabernetmerlot/p8292",
+    "name": "Frontera Cabernet/Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

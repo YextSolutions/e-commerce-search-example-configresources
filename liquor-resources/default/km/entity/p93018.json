@@ -1,0 +1,17 @@
+{
+  "$id": "p93018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "35.49",
+    "c_numberReviews": "7",
+    "c_priceRange": "$35.49 - $76.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/new-riff-kentucky-straight-bourbon-whiskey/p93018",
+    "name": "New Riff Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p8779",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "55.00",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.99 - $55.00",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/90-cellars-barolo-lot-26/p8779",
+    "name": "90+ Cellars Barolo Lot 26"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

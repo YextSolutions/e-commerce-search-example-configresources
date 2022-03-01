@@ -1,0 +1,17 @@
+{
+  "$id": "p5265",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "599.99",
+    "c_minPrice": "99.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$99.99 - $599.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenfiddich-21-year/p5265",
+    "name": "Glenfiddich 21 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

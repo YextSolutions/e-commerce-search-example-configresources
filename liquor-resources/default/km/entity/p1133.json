@@ -1,0 +1,17 @@
+{
+  "$id": "p1133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.04",
+    "c_minPrice": "6.15",
+    "c_numberReviews": "29",
+    "c_priceRange": "$6.15 - $17.04",
+    "c_subCategory": "Hard Lemonade",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-lemonade/mikes-hard-raspberry-lemonade/p1133",
+    "name": "Mike\u0027s Hard Raspberry Lemonade"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

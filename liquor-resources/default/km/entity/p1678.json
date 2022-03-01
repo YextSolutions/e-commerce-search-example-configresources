@@ -1,0 +1,16 @@
+{
+  "$id": "p1678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "200",
+    "c_priceRange": "$14.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/chateau-miraval-cotes-de-provence-rose/p1678",
+    "name": "Château Miraval Côtes de Provence Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

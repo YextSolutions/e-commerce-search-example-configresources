@@ -1,0 +1,16 @@
+{
+  "$id": "p21495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.99 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/arrow-super-peppermint-schnapps/p21495",
+    "name": "Arrow Super Peppermint Schnapps"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

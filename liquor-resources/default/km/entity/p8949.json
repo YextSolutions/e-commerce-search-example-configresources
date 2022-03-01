@@ -1,0 +1,17 @@
+{
+  "$id": "p8949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$13.99 - $26.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/aviary-cabernet-sauvignon/p8949",
+    "name": "Aviary Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

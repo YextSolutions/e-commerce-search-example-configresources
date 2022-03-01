@@ -1,0 +1,18 @@
+{
+  "$id": "p1057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "1.94",
+    "c_numberReviews": "167",
+    "c_priceRange": "$1.94 - $30.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/landshark-lager/p1057",
+    "name": "Landshark Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

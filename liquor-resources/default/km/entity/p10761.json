@@ -1,0 +1,17 @@
+{
+  "$id": "p10761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "8.15",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.15 - $27.49",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/dr-mcgillicuddys-raw-vanilla-liqueur/p10761",
+    "name": "Dr. McGillicuddy\u0027s Raw Vanilla Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

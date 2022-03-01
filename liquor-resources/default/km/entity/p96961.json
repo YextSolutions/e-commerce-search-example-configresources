@@ -1,0 +1,16 @@
+{
+  "$id": "p96961",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "1.84",
+    "c_numberReviews": "29",
+    "c_priceRange": "$1.84 - $12.99",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/barefoot-pink-moscato-spritzer/p96961",
+    "name": "Barefoot Pink Moscato Spritzer"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

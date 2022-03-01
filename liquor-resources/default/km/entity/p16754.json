@@ -1,0 +1,44 @@
+{
+  "$id": "p16754",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "74",
+    "c_priceRange": "$9.99 - $30.79",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/black-box-red-blend/p16754",
+    "name": "Black Box Red Blend",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-black-box-red-elegance-ec256a3c40dd2f23.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/oNg1mYIBZz5_fCq0McnYIWi6Kw8NRaL5ssyhQ_cMoYo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oNg1mYIBZz5_fCq0McnYIWi6Kw8NRaL5ssyhQ_cMoYo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/oNg1mYIBZz5_fCq0McnYIWi6Kw8NRaL5ssyhQ_cMoYo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oNg1mYIBZz5_fCq0McnYIWi6Kw8NRaL5ssyhQ_cMoYo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p48179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "363",
+    "c_priceRange": "$5.99 - $27.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/robert-mondavi-bourbon-barrel-aged-cabernet-sauvignon-private-selection/p48179",
+    "name": "Robert Mondavi Bourbon Barrel Aged Cabernet Sauvignon Private Selection"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

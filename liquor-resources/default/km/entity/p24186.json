@@ -1,0 +1,17 @@
+{
+  "$id": "p24186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "28.07",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$8.99 - $28.07",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/peter-vella-delicious-red/p24186",
+    "name": "Peter Vella Delicious Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

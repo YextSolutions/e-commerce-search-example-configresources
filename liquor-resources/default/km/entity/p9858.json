@@ -1,0 +1,44 @@
+{
+  "$id": "p9858",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "8.02",
+    "c_numberReviews": "131",
+    "c_priceRange": "$8.02 - $13.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/kentucky-gentleman-bourbon/p9858",
+    "name": "Kentucky Gentleman Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-kentucky-gentleman-bourbon-983c93668722ed36.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/-maI4wLcP55VYYmyjrRj9b-1pwlmNi56thGnn8JRamQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-maI4wLcP55VYYmyjrRj9b-1pwlmNi56thGnn8JRamQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-maI4wLcP55VYYmyjrRj9b-1pwlmNi56thGnn8JRamQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-maI4wLcP55VYYmyjrRj9b-1pwlmNi56thGnn8JRamQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

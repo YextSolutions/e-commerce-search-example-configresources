@@ -1,0 +1,17 @@
+{
+  "$id": "p7561",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.99 - $36.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/victory-dirtwolf-double-ipa/p7561",
+    "name": "Victory DirtWolf Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

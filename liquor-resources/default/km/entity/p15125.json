@@ -1,0 +1,44 @@
+{
+  "$id": "p15125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "39.98",
+    "c_numberReviews": "18",
+    "c_priceRange": "$39.98 - $199.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/oban-little-bay-single-malt-scotch-whisky/p15125",
+    "name": "Oban Little Bay Single Malt Scotch Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-oban-little-bay-small-cask-single-malt-scotch-whisky-b347cfc1b3b010fd.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/AVWwQgljbzihuP7JFGFkaeJJkKv1Vv9Xv4mI8YsijqM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/AVWwQgljbzihuP7JFGFkaeJJkKv1Vv9Xv4mI8YsijqM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/AVWwQgljbzihuP7JFGFkaeJJkKv1Vv9Xv4mI8YsijqM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AVWwQgljbzihuP7JFGFkaeJJkKv1Vv9Xv4mI8YsijqM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p3395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "3.52",
+    "c_numberReviews": "112",
+    "c_priceRange": "$3.52 - $49.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/founders-breakfast-stout/p3395",
+    "name": "Founders Breakfast Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-founders-breakfast-stout-73092f5e99d60fb4.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/vo7KZTM2rVi5FA0ZPEzNW-J4mew4V1Tnp8DvY54vboY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vo7KZTM2rVi5FA0ZPEzNW-J4mew4V1Tnp8DvY54vboY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/vo7KZTM2rVi5FA0ZPEzNW-J4mew4V1Tnp8DvY54vboY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vo7KZTM2rVi5FA0ZPEzNW-J4mew4V1Tnp8DvY54vboY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

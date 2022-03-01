@@ -1,0 +1,16 @@
+{
+  "$id": "p18182",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "54.33",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$19.99 - $54.33",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chappellet-mountain-cuvee-napa-bordeaux-blend/p18182",
+    "name": "Chappellet Mountain Cuvée Napa Bordeaux Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

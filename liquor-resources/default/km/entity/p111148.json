@@ -1,0 +1,45 @@
+{
+  "$id": "p111148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$13.99 - $16.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/diamondback-brewing-green-machine-ipa/p111148",
+    "name": "Diamondback Brewing Green Machine IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-diamond-back-brewing-green-machine-5f116d0ddd7a1fad.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPORy-EWLgaZjleb-7JZFypv5_4SeqVTXNxOI6tNrJc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPORy-EWLgaZjleb-7JZFypv5_4SeqVTXNxOI6tNrJc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yPORy-EWLgaZjleb-7JZFypv5_4SeqVTXNxOI6tNrJc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yPORy-EWLgaZjleb-7JZFypv5_4SeqVTXNxOI6tNrJc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

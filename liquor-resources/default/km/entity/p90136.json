@@ -1,0 +1,17 @@
+{
+  "$id": "p90136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "10.49",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$4.99 - $10.49",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/miyozakura-junmai-panda-cup/p90136",
+    "name": "Miyozakura Junmai Panda Cup"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

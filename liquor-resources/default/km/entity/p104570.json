@@ -1,0 +1,16 @@
+{
+  "$id": "p104570",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "4.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "72",
+    "c_priceRange": "$2.99 - $4.99",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/buzzballz-chillers-peach-chiller/p104570",
+    "name": "BuzzBallz Chillers Peach Chiller"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

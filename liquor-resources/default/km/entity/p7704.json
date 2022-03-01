@@ -1,0 +1,17 @@
+{
+  "$id": "p7704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$19.99 - $45.99",
+    "c_subCategory": "Anise Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/anise-liqueur/molinari-sambuca/p7704",
+    "name": "Molinari Sambuca"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

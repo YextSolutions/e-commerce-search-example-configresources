@@ -1,0 +1,17 @@
+{
+  "$id": "p7285",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$8.99 - $12.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/heaven-hill-old-style-bourbon/p7285",
+    "name": "Heaven Hill Old Style Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

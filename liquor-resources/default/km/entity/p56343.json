@@ -1,0 +1,17 @@
+{
+  "$id": "p56343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.29",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.79 - $16.29",
+    "c_subCategory": "Muscadine",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/muscadine/san-sebastian-vinters-red/p56343",
+    "name": "San Sebastian Vinters Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

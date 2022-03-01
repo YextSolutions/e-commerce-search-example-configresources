@@ -1,0 +1,17 @@
+{
+  "$id": "p102927",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.49",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.99 - $19.49",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/duclaw-regular-beer-lager/p102927",
+    "name": "DuClaw Regular Beer lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

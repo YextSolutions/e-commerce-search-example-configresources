@@ -1,0 +1,16 @@
+{
+  "$id": "p977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "735",
+    "c_priceRange": "$20.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/black-box-cabernet-sauvignon/p977",
+    "name": "Black Box Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

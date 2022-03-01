@@ -1,0 +1,16 @@
+{
+  "$id": "p129767",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Liquor",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "1.07",
+    "c_numberReviews": "4",
+    "c_priceRange": "$1.07 - $13.99",
+    "landingPageUrl": "https://drizly.com/liquor/variety-pack-liquor/99-brand-party-pack/p129767",
+    "name": "99 Brand Party Pack"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

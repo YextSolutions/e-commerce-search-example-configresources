@@ -1,0 +1,17 @@
+{
+  "$id": "p105626",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "12.00",
+    "c_numberReviews": "20",
+    "c_priceRange": "$12.00 - $38.99",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/strainge-beast-passion-fruit-hops-and-blood-orange-hard-kombucha/p105626",
+    "name": "Strainge Beast Passion Fruit, Hops \u0026 Blood Orange Hard Kombucha"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

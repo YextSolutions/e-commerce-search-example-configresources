@@ -1,0 +1,16 @@
+{
+  "$id": "p14271",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.99 - $20.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/tomaiolo-reserva-chianti/p14271",
+    "name": "Tomaiolo Reserva Chianti"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

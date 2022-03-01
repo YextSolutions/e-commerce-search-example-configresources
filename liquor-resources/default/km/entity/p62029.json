@@ -1,0 +1,17 @@
+{
+  "$id": "p62029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "205",
+    "c_priceRange": "$5.99 - $37.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/golden-road-brewing-mango-cart/p62029",
+    "name": "Golden Road Brewing Mango Cart"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

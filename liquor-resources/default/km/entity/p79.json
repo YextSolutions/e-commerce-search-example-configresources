@@ -1,0 +1,18 @@
+{
+  "$id": "p79",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "5.33",
+    "c_numberReviews": "11",
+    "c_priceRange": "$5.33 - $25.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Helles Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/helles-lager/surly-hell/p79",
+    "name": "Surly Hell Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

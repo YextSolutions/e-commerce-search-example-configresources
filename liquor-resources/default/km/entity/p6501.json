@@ -1,0 +1,17 @@
+{
+  "$id": "p6501",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "45.57",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$14.99 - $45.57",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/boodles-gin/p6501",
+    "name": "Boodles Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p157090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$49.99",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/modelo-chelada-pina-picante-mexican-import-flavored-beer/p157090",
+    "name": "Modelo Chelada Pina Picante Mexican Import Flavored Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

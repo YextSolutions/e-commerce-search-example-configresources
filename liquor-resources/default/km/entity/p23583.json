@@ -1,0 +1,17 @@
+{
+  "$id": "p23583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "6",
+    "c_priceRange": "$4.39 - $17.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/lindemans-bin-95-sauvignon-blanc/p23583",
+    "name": "Lindemans Bin 95 Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

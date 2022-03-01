@@ -1,0 +1,16 @@
+{
+  "$id": "p97014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.42",
+    "c_numberReviews": "50",
+    "c_priceRange": "$9.42 - $19.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/stella-rosa-ruby-rose-grapefruit/p97014",
+    "name": "Stella Rosa Ruby Rosé Grapefruit"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p60572",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$18.99 - $44.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/jack-daniels-tennessee-honey-gift-pack/p60572",
+    "name": "Jack Daniel\u0027s Tennessee Honey Gift Pack"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

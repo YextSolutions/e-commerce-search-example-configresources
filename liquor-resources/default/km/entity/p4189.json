@@ -1,0 +1,17 @@
+{
+  "$id": "p4189",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "125.95",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$29.99 - $125.95",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/ridge-estate-zinfandel-lytton-springs/p4189",
+    "name": "Ridge Estate Zinfandel Lytton Springs"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

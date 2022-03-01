@@ -1,0 +1,16 @@
+{
+  "$id": "p106134",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "78",
+    "c_priceRange": "$14.99 - $34.49",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/maison-no-9-rose-a-post-malone-project/p106134",
+    "name": "Maison No. 9 Rose - A Post Malone project"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

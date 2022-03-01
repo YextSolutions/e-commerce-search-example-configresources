@@ -1,0 +1,17 @@
+{
+  "$id": "p3107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "399.99",
+    "c_minPrice": "47.99",
+    "c_numberReviews": "1134",
+    "c_priceRange": "$47.99 - $399.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/don-julio-1942/p3107",
+    "name": "Don Julio 1942"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

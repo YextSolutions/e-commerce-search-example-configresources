@@ -1,0 +1,17 @@
+{
+  "$id": "p160792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "699.99",
+    "c_minPrice": "108.49",
+    "c_numberReviews": "18",
+    "c_priceRange": "$108.49 - $699.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/don-julio-primavera-tequila/p160792",
+    "name": "Don Julio Primavera Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

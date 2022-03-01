@@ -1,0 +1,16 @@
+{
+  "$id": "p60800",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "401.99",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$20.99 - $401.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/grey-goose-martini-glass-gift-set/p60800",
+    "name": "Grey Goose Martini Glass Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

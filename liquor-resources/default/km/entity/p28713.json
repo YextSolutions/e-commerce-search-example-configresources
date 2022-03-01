@@ -1,0 +1,17 @@
+{
+  "$id": "p28713",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$32.99 - $79.99",
+    "c_subCategory": "Corvina",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/corvina/cesari-amarone-del-valpol-class/p28713",
+    "name": "Cesari Amarone Del Valpol Class"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

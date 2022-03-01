@@ -1,0 +1,18 @@
+{
+  "$id": "p16742",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "10.99",
+    "c_minPrice": "3.25",
+    "c_numberReviews": "47",
+    "c_priceRange": "$3.25 - $10.99",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/arbor-mist-sangria-zinfandel-sweet-wine/p16742",
+    "name": "Arbor Mist Sangria Zinfandel Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

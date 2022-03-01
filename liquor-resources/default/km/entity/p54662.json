@@ -1,0 +1,16 @@
+{
+  "$id": "p54662",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "16.98",
+    "c_numberReviews": "22",
+    "c_priceRange": "$16.98 - $24.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/upslope-mix-box/p54662",
+    "name": "Upslope Mix Box"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p16463",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.99 - $34.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/caravella-orangecello/p16463",
+    "name": "Caravella Orangecello"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

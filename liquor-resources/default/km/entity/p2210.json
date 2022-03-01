@@ -1,0 +1,17 @@
+{
+  "$id": "p2210",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "3.90",
+    "c_numberReviews": "151",
+    "c_priceRange": "$3.90 - $14.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/-yellow-tail-pinot-noir/p2210",
+    "name": "[ yellow tail ]  Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

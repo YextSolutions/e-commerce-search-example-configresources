@@ -1,0 +1,17 @@
+{
+  "$id": "p99520",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$19.99 - $49.99",
+    "c_subCategory": "Other Red",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/other-red/cooper-and-thief-brandy-barrel-aged-pinot-noir-red-wine/p99520",
+    "name": "Cooper and Thief Brandy Barrel Aged Pinot Noir Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

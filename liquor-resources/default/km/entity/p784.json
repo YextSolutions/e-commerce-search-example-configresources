@@ -1,0 +1,17 @@
+{
+  "$id": "p784",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "314.99",
+    "c_minPrice": "36.29",
+    "c_numberReviews": "55",
+    "c_priceRange": "$36.29 - $314.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/avion-reserva-44-extra-anejo-tequila/p784",
+    "name": "Avión Reserva 44 Extra Añejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

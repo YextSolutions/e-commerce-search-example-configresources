@@ -1,0 +1,18 @@
+{
+  "$id": "p101377",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "14.19",
+    "c_numberReviews": "4",
+    "c_priceRange": "$14.19 - $23.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/bearded-iris-ddh-ever-clever/p101377",
+    "name": "Bearded Iris DDH Ever Clever"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

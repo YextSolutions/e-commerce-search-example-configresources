@@ -1,0 +1,17 @@
+{
+  "$id": "p91865",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$10.99 - $19.99",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/estrella-jalisco-golden-road-brewing-mango-michelada/p91865",
+    "name": "Estrella Jalisco / Golden Road Brewing Mango Michelada"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

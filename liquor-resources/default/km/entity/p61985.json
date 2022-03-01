@@ -1,0 +1,18 @@
+{
+  "$id": "p61985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$6.99 - $8.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/taxman-exemption-tripel/p61985",
+    "name": "Taxman Exemption Tripel"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

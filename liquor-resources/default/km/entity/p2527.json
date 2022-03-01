@@ -1,0 +1,17 @@
+{
+  "$id": "p2527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "147.77",
+    "c_minPrice": "36.25",
+    "c_numberReviews": "117",
+    "c_priceRange": "$36.25 - $147.77",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/chartreuse-green-liqueur/p2527",
+    "name": "Chartreuse Green Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

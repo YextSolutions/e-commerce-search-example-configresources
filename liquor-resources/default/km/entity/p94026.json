@@ -1,0 +1,17 @@
+{
+  "$id": "p94026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.99 - $11.99",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/prost-kolsch/p94026",
+    "name": "Prost Kölsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

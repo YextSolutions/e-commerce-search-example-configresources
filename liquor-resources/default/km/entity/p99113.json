@@ -1,0 +1,17 @@
+{
+  "$id": "p99113",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "329.99",
+    "c_minPrice": "70.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$70.99 - $329.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/lagavulin-offerman-edition-11-year-old-islay-single-malt-scotch-whisky/p99113",
+    "name": "Lagavulin Offerman Edition 11 Year Old Islay Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

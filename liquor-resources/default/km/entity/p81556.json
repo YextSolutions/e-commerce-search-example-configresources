@@ -1,0 +1,17 @@
+{
+  "$id": "p81556",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "95.95",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$14.99 - $95.95",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/shackleton-blended-malt-scotch-whisky/p81556",
+    "name": "Shackleton Blended Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

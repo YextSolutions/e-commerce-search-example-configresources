@@ -1,0 +1,17 @@
+{
+  "$id": "p99252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "15.00",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$7.99 - $15.00",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/smirnoff-sourced-strawberry-kiwi/p99252",
+    "name": "Smirnoff Sourced Strawberry Kiwi"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p12608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.64",
+    "c_minPrice": "8.15",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.15 - $25.64",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/dr-mcgillicuddys-wild-grape-liqueur/p12608",
+    "name": "Dr. McGillicuddy\u0027s Wild Grape Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-dr-mcgillicuddys-wild-grape-921f0e3cb9eef2f3.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EBMb8371pPRfpr72ADhNqa2eXYDwJobe-3g9OW9u2eY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EBMb8371pPRfpr72ADhNqa2eXYDwJobe-3g9OW9u2eY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EBMb8371pPRfpr72ADhNqa2eXYDwJobe-3g9OW9u2eY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EBMb8371pPRfpr72ADhNqa2eXYDwJobe-3g9OW9u2eY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

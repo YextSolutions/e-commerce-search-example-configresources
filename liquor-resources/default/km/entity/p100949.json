@@ -1,0 +1,17 @@
+{
+  "$id": "p100949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.67",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$4.99 - $26.67",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/altered-dimension-cabernet-sauvignon/p100949",
+    "name": "Altered Dimension Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

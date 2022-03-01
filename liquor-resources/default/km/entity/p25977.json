@@ -1,0 +1,17 @@
+{
+  "$id": "p25977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "8",
+    "c_priceRange": "$7.49 - $47.99",
+    "c_subCategory": "Hard Soda",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-soda/crabbies-scottish-raspberry-alcoholic-ginger-beer/p25977",
+    "name": "Crabbie\u0027s Scottish Raspberry Alcoholic Ginger Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

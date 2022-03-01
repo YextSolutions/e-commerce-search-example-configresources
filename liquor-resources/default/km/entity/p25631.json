@@ -1,0 +1,18 @@
+{
+  "$id": "p25631",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "8.17",
+    "c_numberReviews": "18",
+    "c_priceRange": "$8.17 - $16.49",
+    "c_subCategory": "Porter",
+    "c_type": "Imperial Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/imperial-porter/coconut-hiwa-porter/p25631",
+    "name": "Coconut Hiwa Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

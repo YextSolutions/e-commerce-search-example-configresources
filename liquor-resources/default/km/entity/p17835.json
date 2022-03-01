@@ -1,0 +1,44 @@
+{
+  "$id": "p17835",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "1.69",
+    "c_numberReviews": "2",
+    "c_priceRange": "$1.69 - $14.29",
+    "c_subCategory": "Brown Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/brown-ale/3-stars-southern-belle/p17835",
+    "name": "3 Stars Southern Belle",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-3-stars-southern-belle-69f6dba9ce4cbdef.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/P3-peFntwxC8AemIRCyjnz5kd6JehfJQ2NK8vGwskCY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/P3-peFntwxC8AemIRCyjnz5kd6JehfJQ2NK8vGwskCY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/P3-peFntwxC8AemIRCyjnz5kd6JehfJQ2NK8vGwskCY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P3-peFntwxC8AemIRCyjnz5kd6JehfJQ2NK8vGwskCY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

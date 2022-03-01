@@ -1,0 +1,44 @@
+{
+  "$id": "p4147",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "52.49",
+    "c_minPrice": "18.98",
+    "c_numberReviews": "213",
+    "c_priceRange": "$18.98 - $52.49",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/redemption-straight-rye-whiskey/p4147",
+    "name": "Redemption Straight Rye Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-redemption-rye-8facab63d26d8f7b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/oq9FkEkK4nuT6uvGScSZngwUOBSzDrOzn9PJJJj43O4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oq9FkEkK4nuT6uvGScSZngwUOBSzDrOzn9PJJJj43O4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/oq9FkEkK4nuT6uvGScSZngwUOBSzDrOzn9PJJJj43O4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oq9FkEkK4nuT6uvGScSZngwUOBSzDrOzn9PJJJj43O4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

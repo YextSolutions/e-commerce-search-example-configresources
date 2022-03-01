@@ -1,0 +1,45 @@
+{
+  "$id": "p104900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "22.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.99 - $22.00",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/ommegang-neon-lights/p104900",
+    "name": "Ommegang Neon Lights",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-ommegang-neon-lights-cfd0f2413c61c14a.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/3XxNwyhfKpV5xBq3JaMEQFSC2cZFFDAz_a0g-0Cwdww/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3XxNwyhfKpV5xBq3JaMEQFSC2cZFFDAz_a0g-0Cwdww/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3XxNwyhfKpV5xBq3JaMEQFSC2cZFFDAz_a0g-0Cwdww/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3XxNwyhfKpV5xBq3JaMEQFSC2cZFFDAz_a0g-0Cwdww/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

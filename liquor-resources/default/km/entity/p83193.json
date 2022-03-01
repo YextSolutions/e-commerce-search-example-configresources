@@ -1,0 +1,44 @@
+{
+  "$id": "p83193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "294",
+    "c_priceRange": "$17.99 - $109.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/empress-1908-gin/p83193",
+    "name": "Empress 1908 Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-empress-1908-gin-b7d1374c7dd8c87a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/0DWPO4PXfBPORuQaXiBeBp4ixEfZuZysI6q0De4-3Zs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/0DWPO4PXfBPORuQaXiBeBp4ixEfZuZysI6q0De4-3Zs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/0DWPO4PXfBPORuQaXiBeBp4ixEfZuZysI6q0De4-3Zs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/0DWPO4PXfBPORuQaXiBeBp4ixEfZuZysI6q0De4-3Zs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

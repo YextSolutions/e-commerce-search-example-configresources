@@ -1,0 +1,17 @@
+{
+  "$id": "p11571",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "30",
+    "c_priceRange": "$2.00 - $12.99",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/gallo-family-vineyards-white-zinfandel/p11571",
+    "name": "Gallo Family Vineyards White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

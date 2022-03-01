@@ -1,0 +1,19 @@
+{
+  "$id": "p8584",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "64",
+    "c_priceRange": "$4.99 - $18.99",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/yago-red-sangria/p8584",
+    "name": "Yago Red Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

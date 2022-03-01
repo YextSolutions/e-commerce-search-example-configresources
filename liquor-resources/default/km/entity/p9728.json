@@ -1,0 +1,17 @@
+{
+  "$id": "p9728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "305.99",
+    "c_minPrice": "29.92",
+    "c_numberReviews": "116",
+    "c_priceRange": "$29.92 - $305.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/willett-pot-still-reserve-bourbon/p9728",
+    "name": "Willett Pot Still Reserve Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

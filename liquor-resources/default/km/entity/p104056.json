@@ -1,0 +1,17 @@
+{
+  "$id": "p104056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$25.99 - $249.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/smoke-wagon-straight-bourbon-whiskey/p104056",
+    "name": "Smoke Wagon Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

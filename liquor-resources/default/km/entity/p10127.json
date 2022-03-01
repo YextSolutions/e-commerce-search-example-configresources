@@ -1,0 +1,17 @@
+{
+  "$id": "p10127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "14.49",
+    "c_numberReviews": "3",
+    "c_priceRange": "$14.49 - $19.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/113-cava-brut/p10127",
+    "name": "1+1\u003d3 Cava Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

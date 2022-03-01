@@ -1,0 +1,45 @@
+{
+  "$id": "p4920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "56.99",
+    "c_minPrice": "3.39",
+    "c_numberReviews": "517",
+    "c_priceRange": "$3.39 - $56.99",
+    "c_subCategory": "Stout",
+    "c_type": "Dry Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/dry-stout/guinness-extra-stout/p4920",
+    "name": "Guinness Extra Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-guinness-extra-stout-2abc388ce9c3bb61.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ht2vVacp82MoZkuj8MU_Jp9qgXQRW9kXK07ypKBTAlc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ht2vVacp82MoZkuj8MU_Jp9qgXQRW9kXK07ypKBTAlc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ht2vVacp82MoZkuj8MU_Jp9qgXQRW9kXK07ypKBTAlc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ht2vVacp82MoZkuj8MU_Jp9qgXQRW9kXK07ypKBTAlc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

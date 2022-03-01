@@ -1,0 +1,44 @@
+{
+  "$id": "p47328",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "241.81",
+    "c_numberReviews": "6",
+    "c_priceRange": "$241.81 - $299.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/tears-of-llorona-extra-anejo-tequila/p47328",
+    "name": "Tears Of Llorona Extra Anejo Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-tears-of-llorona-extra-anejo-4ba93dc552b18ee3.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHtsnAi8l5kX74RY_5WGhrqvhT5l8bDshcSWJ1K98Uc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHtsnAi8l5kX74RY_5WGhrqvhT5l8bDshcSWJ1K98Uc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/eHtsnAi8l5kX74RY_5WGhrqvhT5l8bDshcSWJ1K98Uc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eHtsnAi8l5kX74RY_5WGhrqvhT5l8bDshcSWJ1K98Uc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

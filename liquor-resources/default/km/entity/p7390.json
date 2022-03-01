@@ -1,0 +1,16 @@
+{
+  "$id": "p7390",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "34.79",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "11",
+    "c_priceRange": "$15.39 - $34.79",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/ponche-cream-kuba/p7390",
+    "name": "Ponche Cream Kuba"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

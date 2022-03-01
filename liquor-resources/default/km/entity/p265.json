@@ -1,0 +1,18 @@
+{
+  "$id": "p265",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/3-floyds-brewing-alpha-king-pale-ale/p265",
+    "name": "3 Floyds Brewing Alpha King Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

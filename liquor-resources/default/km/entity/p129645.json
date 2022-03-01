@@ -1,0 +1,44 @@
+{
+  "$id": "p129645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "9.44",
+    "c_numberReviews": "557",
+    "c_priceRange": "$9.44 - $32.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-iced-tea-variety-pack-spiked-and-sparkling-water/p129645",
+    "name": "TRULY Hard Seltzer Iced Tea Variety Pack, Spiked \u0026 Sparkling Water",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-truly-hard-seltzer-iced-tea-mix-pack-25437843ac2849e6.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/oiNrkEoIAUgBw-l2_EpoVNWZ9lXPfKt6TS4wgocJ7b8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oiNrkEoIAUgBw-l2_EpoVNWZ9lXPfKt6TS4wgocJ7b8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/oiNrkEoIAUgBw-l2_EpoVNWZ9lXPfKt6TS4wgocJ7b8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oiNrkEoIAUgBw-l2_EpoVNWZ9lXPfKt6TS4wgocJ7b8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p7066",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "23.00",
+    "c_minPrice": "13.88",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.88 - $23.00",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/raynal-brandy-vsop-napoleon/p7066",
+    "name": "Raynal Brandy VSOP Napoleon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

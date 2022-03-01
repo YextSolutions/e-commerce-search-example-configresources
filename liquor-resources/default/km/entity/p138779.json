@@ -1,0 +1,17 @@
+{
+  "$id": "p138779",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "9.68",
+    "c_numberReviews": "33",
+    "c_priceRange": "$9.68 - $18.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/new-belgium-dominga-mimosa-sour/p138779",
+    "name": "New Belgium Dominga Mimosa Sour"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

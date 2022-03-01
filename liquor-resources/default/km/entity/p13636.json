@@ -1,0 +1,17 @@
+{
+  "$id": "p13636",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "52.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$27.99 - $52.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/frank-family-napa-valley-zinfandel/p13636",
+    "name": "Frank Family Napa Valley Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1303",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "508",
+    "c_priceRange": "$8.99 - $26.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/korbel-extra-dry-california-champagne/p1303",
+    "name": "Korbel Extra Dry California Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

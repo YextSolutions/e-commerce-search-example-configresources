@@ -1,0 +1,17 @@
+{
+  "$id": "p18040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "1100.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "165",
+    "c_priceRange": "$9.99 - $1100.00",
+    "c_subCategory": "Nuts Amaretto Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/nuts-amaretto-liqueur/amaretto-di-amore/p18040",
+    "name": "Amaretto di Amore"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

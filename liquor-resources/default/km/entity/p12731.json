@@ -1,0 +1,17 @@
+{
+  "$id": "p12731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "899.99",
+    "c_minPrice": "226.08",
+    "c_numberReviews": "18",
+    "c_priceRange": "$226.08 - $899.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-rare-cask-single-malt-scotch-whisky/p12731",
+    "name": "The Macallan Rare Cask Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

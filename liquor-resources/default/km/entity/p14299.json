@@ -1,0 +1,44 @@
+{
+  "$id": "p14299",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "9.12",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.12 - $22.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/new-amsterdam-citron-vodka/p14299",
+    "name": "New Amsterdam Citron Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-new-amsterdam-citron-8a4f4e22b7c8efe7.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iYmpWFh-O_juv4NUkn4XkuaxbiRhDFL_EScWZbpBaM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iYmpWFh-O_juv4NUkn4XkuaxbiRhDFL_EScWZbpBaM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/9iYmpWFh-O_juv4NUkn4XkuaxbiRhDFL_EScWZbpBaM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9iYmpWFh-O_juv4NUkn4XkuaxbiRhDFL_EScWZbpBaM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p86911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "12.98",
+    "c_numberReviews": "15",
+    "c_priceRange": "$12.98 - $14.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/station-26-bang-bang-double-ipa/p86911",
+    "name": "Station 26 Bang Bang Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

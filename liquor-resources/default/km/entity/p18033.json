@@ -1,0 +1,17 @@
+{
+  "$id": "p18033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "23.89",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$9.99 - $23.89",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/mia-dolcea-moscato-dasti/p18033",
+    "name": "Mia Dolcea Moscato D\u0027Asti"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

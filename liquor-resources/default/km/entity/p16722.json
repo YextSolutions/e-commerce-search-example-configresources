@@ -1,0 +1,17 @@
+{
+  "$id": "p16722",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.42",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.42 - $22.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/black-velvet-toasted-caramel-canadian-whisky/p16722",
+    "name": "Black Velvet Toasted Caramel Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p12342",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "17",
+    "c_priceRange": "$3.29 - $31.99",
+    "c_subCategory": "Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/ginjo/tozai-well-of-wisdom-sake/p12342",
+    "name": "Tozai Well of Wisdom Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

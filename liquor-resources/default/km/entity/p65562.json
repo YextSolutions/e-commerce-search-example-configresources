@@ -1,0 +1,44 @@
+{
+  "$id": "p65562",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "2.50",
+    "c_numberReviews": "20",
+    "c_priceRange": "$2.50 - $37.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/house-wine-pinot-noir/p65562",
+    "name": "House Wine Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-original-house-wine-pinot-noir-c8c07c077e1851d0.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1q2LCaTikjBGlDTO04kNC9MeY1DJl323qJrc4tDwA0s/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1q2LCaTikjBGlDTO04kNC9MeY1DJl323qJrc4tDwA0s/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1q2LCaTikjBGlDTO04kNC9MeY1DJl323qJrc4tDwA0s/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1q2LCaTikjBGlDTO04kNC9MeY1DJl323qJrc4tDwA0s/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

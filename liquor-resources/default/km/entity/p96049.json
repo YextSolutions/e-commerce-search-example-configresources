@@ -1,0 +1,16 @@
+{
+  "$id": "p96049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "22.50",
+    "c_minPrice": "15.98",
+    "c_numberReviews": "8",
+    "c_priceRange": "$15.98 - $22.50",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/station-26-mixed-pack/p96049",
+    "name": "Station 26 Mixed Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

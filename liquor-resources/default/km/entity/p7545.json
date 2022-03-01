@@ -1,0 +1,16 @@
+{
+  "$id": "p7545",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "1.00",
+    "c_numberReviews": "27",
+    "c_priceRange": "$1.00 - $20.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/casal-garcia-vinho-verde-rose/p7545",
+    "name": "Casal Garcia Vinho Verde Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

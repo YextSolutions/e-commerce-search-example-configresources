@@ -1,0 +1,17 @@
+{
+  "$id": "p26959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "13.08",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$5.99 - $13.08",
+    "c_subCategory": "Albarino",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/albarino/seaside-cellars-vinho-verde/p26959",
+    "name": "Seaside Cellars Vinho Verde"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p121297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.99 - $28.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/firestone-walker-805-cerveza/p121297",
+    "name": "Firestone Walker 805 Cerveza"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

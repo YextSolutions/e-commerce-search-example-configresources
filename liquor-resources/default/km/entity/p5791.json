@@ -1,0 +1,17 @@
+{
+  "$id": "p5791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "225.99",
+    "c_minPrice": "64.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$64.99 - $225.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/zacapa-xo/p5791",
+    "name": "Zacapa XO"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

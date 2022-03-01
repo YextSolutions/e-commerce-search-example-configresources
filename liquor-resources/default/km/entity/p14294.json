@@ -1,0 +1,17 @@
+{
+  "$id": "p14294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.99 - $46.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/big-gin-london-dry/p14294",
+    "name": "Big Gin London Dry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

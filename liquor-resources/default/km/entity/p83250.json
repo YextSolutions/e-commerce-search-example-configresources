@@ -1,0 +1,17 @@
+{
+  "$id": "p83250",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "11.39",
+    "c_numberReviews": "32",
+    "c_priceRange": "$11.39 - $26.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/western-son-lime-vodka/p83250",
+    "name": "Western Son Lime Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

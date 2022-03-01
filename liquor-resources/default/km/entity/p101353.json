@@ -1,0 +1,17 @@
+{
+  "$id": "p101353",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.39",
+    "c_numberReviews": "10",
+    "c_priceRange": "$6.39 - $23.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/malibu-splash-lime-and-coconut-sparkling-malt-beverage/p101353",
+    "name": "Malibu Splash Lime \u0026 Coconut Sparkling Malt Beverage"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

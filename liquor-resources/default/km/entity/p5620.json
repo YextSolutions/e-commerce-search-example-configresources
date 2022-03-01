@@ -1,0 +1,16 @@
+{
+  "$id": "p5620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "30.23",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.99 - $30.23",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/deschutes-variety-pack/p5620",
+    "name": "Deschutes Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

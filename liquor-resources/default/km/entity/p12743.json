@@ -1,0 +1,17 @@
+{
+  "$id": "p12743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1060.00",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "35",
+    "c_priceRange": "$49.99 - $1060.00",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/high-west-a-midwinter-nights-dram-whiskey/p12743",
+    "name": "High West A Midwinter Night\u0027s Dram Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

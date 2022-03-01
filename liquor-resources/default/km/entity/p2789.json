@@ -1,0 +1,17 @@
+{
+  "$id": "p2789",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.79",
+    "c_minPrice": "7.29",
+    "c_numberReviews": "11",
+    "c_priceRange": "$7.29 - $16.79",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/conquista-malbec/p2789",
+    "name": "Conquista Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

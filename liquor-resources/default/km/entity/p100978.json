@@ -1,0 +1,44 @@
+{
+  "$id": "p100978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "1.13",
+    "c_numberReviews": "47",
+    "c_priceRange": "$1.13 - $18.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/fireball-carrier/p100978",
+    "name": "Fireball Carrier",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-fireball-carrier-68387019d3bde97d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1sjcPKS60rZaS_evJ7dYsOHazFOpX3-TUKEM5UWCB7w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1sjcPKS60rZaS_evJ7dYsOHazFOpX3-TUKEM5UWCB7w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1sjcPKS60rZaS_evJ7dYsOHazFOpX3-TUKEM5UWCB7w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1sjcPKS60rZaS_evJ7dYsOHazFOpX3-TUKEM5UWCB7w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

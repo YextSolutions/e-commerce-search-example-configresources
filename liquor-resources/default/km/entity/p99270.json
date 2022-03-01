@@ -1,0 +1,17 @@
+{
+  "$id": "p99270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$20.99 - $49.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/familia-camarena-anejo-tequila/p99270",
+    "name": "Familia Camarena Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

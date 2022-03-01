@@ -1,0 +1,17 @@
+{
+  "$id": "p15042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$10.99 - $44.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/segura-viudas-reserva-heredad/p15042",
+    "name": "Segura Viudas Reserva Heredad"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

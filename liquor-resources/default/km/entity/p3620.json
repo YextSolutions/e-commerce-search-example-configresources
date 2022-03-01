@@ -1,0 +1,44 @@
+{
+  "$id": "p3620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "674",
+    "c_priceRange": "$5.49 - $41.99",
+    "c_subCategory": "Red Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/new-belgium-fat-tire-amber-ale/p3620",
+    "name": "New Belgium Fat Tire Amber Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-new-belgium-fat-tire-a8742c33f98d4519.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RDc0JQUEhS9HVLioYCNdjx6hPlAFxa0UzFG8xi2MYY4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RDc0JQUEhS9HVLioYCNdjx6hPlAFxa0UzFG8xi2MYY4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/RDc0JQUEhS9HVLioYCNdjx6hPlAFxa0UzFG8xi2MYY4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RDc0JQUEhS9HVLioYCNdjx6hPlAFxa0UzFG8xi2MYY4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

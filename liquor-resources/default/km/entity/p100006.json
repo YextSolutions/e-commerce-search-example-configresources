@@ -1,0 +1,16 @@
+{
+  "$id": "p100006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "2.98",
+    "c_numberReviews": "19",
+    "c_priceRange": "$2.98 - $8.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/crafters-union-bubbles-brut-rose-wine-can/p100006",
+    "name": "Crafters Union Bubbles Brut Rose Wine Can"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

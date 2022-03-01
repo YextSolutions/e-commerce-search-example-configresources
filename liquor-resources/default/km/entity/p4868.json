@@ -1,0 +1,16 @@
+{
+  "$id": "p4868",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "98.95",
+    "c_minPrice": "2.20",
+    "c_numberReviews": "2072",
+    "c_priceRange": "$2.20 - $98.95",
+    "landingPageUrl": "https://drizly.com/beer/lager/stella-artois/p4868",
+    "name": "Stella Artois"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

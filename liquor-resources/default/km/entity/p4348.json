@@ -1,0 +1,17 @@
+{
+  "$id": "p4348",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "219.99",
+    "c_minPrice": "62.94",
+    "c_numberReviews": "50",
+    "c_priceRange": "$62.94 - $219.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/ruinart-blanc-de-blancs-champagne/p4348",
+    "name": "Ruinart Blanc de Blancs Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

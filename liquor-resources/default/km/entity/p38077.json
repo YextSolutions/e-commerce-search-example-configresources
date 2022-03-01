@@ -1,0 +1,16 @@
+{
+  "$id": "p38077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "2.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.49 - $14.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/okocim-ok-beer/p38077",
+    "name": "Okocim O.K. Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

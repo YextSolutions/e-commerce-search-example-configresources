@@ -1,0 +1,16 @@
+{
+  "$id": "p1588",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rioja Blend",
+    "c_maxPrice": "36.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "63",
+    "c_priceRange": "$9.99 - $36.00",
+    "landingPageUrl": "https://drizly.com/wine/rioja-blend/marques-de-riscal-reserva-rioja/p1588",
+    "name": "Marques De Riscal Reserva Rioja"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

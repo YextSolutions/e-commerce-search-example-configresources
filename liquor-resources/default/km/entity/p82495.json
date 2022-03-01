@@ -1,0 +1,16 @@
+{
+  "$id": "p82495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "12.59",
+    "c_minPrice": "8.31",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.31 - $12.59",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/charles-regnier-peach-schnapps/p82495",
+    "name": "Charles Regnier Peach Schnapps"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

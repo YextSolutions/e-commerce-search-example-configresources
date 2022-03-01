@@ -1,0 +1,17 @@
+{
+  "$id": "p17336",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "399.99",
+    "c_minPrice": "49.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$49.49 - $399.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glendronach-single-malt-scotch-whisky-revival-aged-15-years/p17336",
+    "name": "The GlenDronach Single Malt Scotch Whisky Revival Aged 15 Years"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

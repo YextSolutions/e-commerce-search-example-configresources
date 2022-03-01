@@ -1,0 +1,17 @@
+{
+  "$id": "p18347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "7.41",
+    "c_numberReviews": "45",
+    "c_priceRange": "$7.41 - $18.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/seaglass-pinot-grigio/p18347",
+    "name": "SeaGlass Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

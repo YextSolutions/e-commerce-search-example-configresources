@@ -1,0 +1,17 @@
+{
+  "$id": "p28364",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$12.99 - $35.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/luigi-bosca-malbec-doc/p28364",
+    "name": "Luigi Bosca Malbec DOC"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

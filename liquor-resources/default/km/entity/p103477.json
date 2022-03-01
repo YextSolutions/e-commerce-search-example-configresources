@@ -1,0 +1,17 @@
+{
+  "$id": "p103477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.00",
+    "c_minPrice": "12.93",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.93 - $59.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wolf-moon-bourbon/p103477",
+    "name": "Wolf Moon Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

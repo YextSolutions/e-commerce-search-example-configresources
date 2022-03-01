@@ -1,0 +1,16 @@
+{
+  "$id": "p17454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "56",
+    "c_priceRange": "$6.49 - $21.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/underwood-rose/p17454",
+    "name": "Underwood Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p14990",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "1100.00",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$24.99 - $1100.00",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/deleon-platinum-tequila/p14990",
+    "name": "DeLeon Platinum Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

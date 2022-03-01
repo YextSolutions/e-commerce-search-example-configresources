@@ -1,0 +1,17 @@
+{
+  "$id": "p155044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "27.77",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$6.99 - $27.77",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/stone-enjoy-by-103121-hazy-ipa/p155044",
+    "name": "Stone Enjoy By 10.31.21 Hazy IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

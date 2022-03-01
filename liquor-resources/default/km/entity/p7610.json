@@ -1,0 +1,19 @@
+{
+  "$id": "p7610",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "8.29",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.29 - $32.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/kirin-light/p7610",
+    "name": "Kirin Light"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

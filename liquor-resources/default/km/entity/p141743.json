@@ -1,0 +1,17 @@
+{
+  "$id": "p141743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$16.99 - $32.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/two-robbers-chapter-2-variety-pack/p141743",
+    "name": "Two Robbers Chapter 2 Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

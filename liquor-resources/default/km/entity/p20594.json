@@ -1,0 +1,17 @@
+{
+  "$id": "p20594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "17",
+    "c_priceRange": "$11.49 - $29.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/bonterra-organic-pinot-noir/p20594",
+    "name": "Bonterra Organic Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

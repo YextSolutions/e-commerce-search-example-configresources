@@ -1,0 +1,17 @@
+{
+  "$id": "p72014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$16.99 - $40.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/averaen-willamette-valley-pinot-noir/p72014",
+    "name": "Averaen Willamette Valley Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

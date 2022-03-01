@@ -1,0 +1,44 @@
+{
+  "$id": "p106882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.83",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.98 - $16.83",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/illuminati-riparosso-montepulciano-dabruzzo/p106882",
+    "name": "Illuminati Riparosso Montepulciano d\u0027Abruzzo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-illuminati-riparosso-montepulciano-dabruzzo-b6f71156df196ad3.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIgcLyLkIrQDuArB_Q0FmkKsu-53vrb6iMoc0gD5-io/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIgcLyLkIrQDuArB_Q0FmkKsu-53vrb6iMoc0gD5-io/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HIgcLyLkIrQDuArB_Q0FmkKsu-53vrb6iMoc0gD5-io/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HIgcLyLkIrQDuArB_Q0FmkKsu-53vrb6iMoc0gD5-io/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

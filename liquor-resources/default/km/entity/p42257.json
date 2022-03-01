@@ -1,0 +1,17 @@
+{
+  "$id": "p42257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.98 - $24.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/stella-rosa-imperiale-prosecco/p42257",
+    "name": "Stella Rosa Imperiale Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p12612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "28.79",
+    "c_minPrice": "15.74",
+    "c_numberReviews": "4",
+    "c_priceRange": "$15.74 - $28.79",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/goose-bay-sauvignon-blanc/p12612",
+    "name": "Goose Bay Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

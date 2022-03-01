@@ -1,0 +1,17 @@
+{
+  "$id": "p7091",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "23.09",
+    "c_numberReviews": "14",
+    "c_priceRange": "$23.09 - $59.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/junipero-gin/p7091",
+    "name": "Junipero Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

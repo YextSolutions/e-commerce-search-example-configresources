@@ -1,0 +1,16 @@
+{
+  "$id": "p3478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "96",
+    "c_priceRange": "$8.00 - $14.29",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/georgi-vodka/p3478",
+    "name": "Georgi Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

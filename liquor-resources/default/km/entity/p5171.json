@@ -1,0 +1,44 @@
+{
+  "$id": "p5171",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "85.79",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "128",
+    "c_priceRange": "$29.99 - $85.79",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-double-black-label-blended-scotch-whisky/p5171",
+    "name": "Johnnie Walker Double Black Label Blended Scotch Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-johnnie-walker-double-black-label-b5cd812c81603400.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyMFuwGnpe_h9QkFRIwsm4XL_T9G0jr9Aa6NWCVOVRk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyMFuwGnpe_h9QkFRIwsm4XL_T9G0jr9Aa6NWCVOVRk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cyMFuwGnpe_h9QkFRIwsm4XL_T9G0jr9Aa6NWCVOVRk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cyMFuwGnpe_h9QkFRIwsm4XL_T9G0jr9Aa6NWCVOVRk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

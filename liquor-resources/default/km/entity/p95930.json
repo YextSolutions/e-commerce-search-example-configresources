@@ -1,0 +1,16 @@
+{
+  "$id": "p95930",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$7.99 - $17.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/the-little-sheep-rose/p95930",
+    "name": "The Little Sheep Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

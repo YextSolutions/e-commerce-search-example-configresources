@@ -1,0 +1,17 @@
+{
+  "$id": "p6857",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "57.77",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "105",
+    "c_priceRange": "$9.89 - $57.77",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/licor-43/p6857",
+    "name": "Licor 43"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

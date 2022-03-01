@@ -1,0 +1,17 @@
+{
+  "$id": "p28523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$7.99 - $22.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/cavicchioli-1928-prosecco/p28523",
+    "name": "Cavicchioli 1928 Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

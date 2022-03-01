@@ -1,0 +1,17 @@
+{
+  "$id": "p62797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.99 - $15.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/jacobs-creek-classic-shiraz/p62797",
+    "name": "Jacob\u0027s Creek Classic Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

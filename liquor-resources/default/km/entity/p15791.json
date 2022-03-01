@@ -1,0 +1,17 @@
+{
+  "$id": "p15791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "6.91",
+    "c_numberReviews": "5",
+    "c_priceRange": "$6.91 - $30.79",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/predator-cabernet-sauvignon/p15791",
+    "name": "Predator Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

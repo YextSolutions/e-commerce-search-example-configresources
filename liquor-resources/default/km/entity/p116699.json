@@ -1,0 +1,17 @@
+{
+  "$id": "p116699",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "15.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$15.98 - $30.79",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/maison-noir-in-sheep-clothing-cabernet-sauvignon/p116699",
+    "name": "Maison Noir In Sheep Clothing Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

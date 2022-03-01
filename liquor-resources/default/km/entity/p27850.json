@@ -1,0 +1,17 @@
+{
+  "$id": "p27850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "3149.99",
+    "c_minPrice": "313.49",
+    "c_numberReviews": "1",
+    "c_priceRange": "$313.49 - $3149.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/hibiki-japanese-whisky-21-yr/p27850",
+    "name": "Hibiki 21 Year Old Japanese Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

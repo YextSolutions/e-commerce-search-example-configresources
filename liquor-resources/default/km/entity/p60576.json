@@ -1,0 +1,18 @@
+{
+  "$id": "p60576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.99 - $13.49",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/ohb-freaky-deaky-belgian-tripel/p60576",
+    "name": "OHB Freaky Deaky Belgian Tripel"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

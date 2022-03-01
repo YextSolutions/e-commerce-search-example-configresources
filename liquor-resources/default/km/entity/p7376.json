@@ -1,0 +1,16 @@
+{
+  "$id": "p7376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Aguardiente",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "12.71",
+    "c_numberReviews": "17",
+    "c_priceRange": "$12.71 - $37.99",
+    "landingPageUrl": "https://drizly.com/liquor/aguardiente/antioqueno-aguardiente/p7376",
+    "name": "Antioqueno Aguardiente"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

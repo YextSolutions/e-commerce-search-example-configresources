@@ -1,0 +1,17 @@
+{
+  "$id": "p38129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$12.99 - $39.99",
+    "c_subCategory": "Valpolicella Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/valpolicella-blend/cesari-mara-risso-valpolicella/p38129",
+    "name": "Cesari Mara Risso Valpolicella"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p29090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "4.77",
+    "c_numberReviews": "2",
+    "c_priceRange": "$4.77 - $12.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/twisted-merlot/p29090",
+    "name": "Twisted Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.39",
+    "c_minPrice": "2.85",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.85 - $15.39",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/belhaven-black-scottish-stout/p7935",
+    "name": "Belhaven Black Scottish Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

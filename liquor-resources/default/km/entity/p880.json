@@ -1,0 +1,17 @@
+{
+  "$id": "p880",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "69",
+    "c_priceRange": "$3.99 - $43.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/bear-republic-racer-5-ipa/p880",
+    "name": "Bear Republic Racer 5 IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

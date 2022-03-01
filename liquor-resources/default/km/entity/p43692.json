@@ -1,0 +1,17 @@
+{
+  "$id": "p43692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.79",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "4",
+    "c_priceRange": "$7.00 - $16.79",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/horny-goat-chocolate-peanut-butter-porter/p43692",
+    "name": "Horny Goat Chocolate Peanut Butter Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

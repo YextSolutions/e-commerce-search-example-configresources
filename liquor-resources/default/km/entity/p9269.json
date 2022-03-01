@@ -1,0 +1,17 @@
+{
+  "$id": "p9269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "41.90",
+    "c_minPrice": "8.25",
+    "c_numberReviews": "16",
+    "c_priceRange": "$8.25 - $41.90",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/uv-vodka-cake/p9269",
+    "name": "UV Cake Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p7072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$8.99 - $20.89",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/hiram-walker-creme-de-menthe-green-liqueur/p7072",
+    "name": "Hiram Walker Creme de Menthe Green Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15424",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.99 - $13.99",
+    "c_subCategory": "California Common",
+    "landingPageUrl": "https://drizly.com/beer/lager/california-common/atlas-district-common/p15424",
+    "name": "Atlas District Common"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

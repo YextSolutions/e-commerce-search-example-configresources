@@ -1,0 +1,16 @@
+{
+  "$id": "p68581",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "14.95",
+    "c_numberReviews": "1",
+    "c_priceRange": "$14.95 - $47.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/flowers-pinot-noir-rose/p68581",
+    "name": "Flowers Pinot Noir Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

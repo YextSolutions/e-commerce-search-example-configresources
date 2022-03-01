@@ -1,0 +1,17 @@
+{
+  "$id": "p167690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "356.39",
+    "c_minPrice": "37.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$37.99 - $356.39",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/basil-hayden-toast-bourbon-whiskey/p167690",
+    "name": "Basil Hayden Toast Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

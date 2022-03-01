@@ -1,0 +1,16 @@
+{
+  "$id": "p3412",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "272",
+    "c_priceRange": "$9.99 - $32.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/francis-coppola-diamond-collection-claret/p3412",
+    "name": "Francis Coppola Diamond Collection Claret"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

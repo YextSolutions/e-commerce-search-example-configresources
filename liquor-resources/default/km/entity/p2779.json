@@ -1,0 +1,17 @@
+{
+  "$id": "p2779",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "3.50",
+    "c_numberReviews": "49",
+    "c_priceRange": "$3.50 - $16.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/frontera-chardonnay/p2779",
+    "name": "Frontera Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p71642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "93.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "69",
+    "c_priceRange": "$14.99 - $93.49",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-french-vanilla-vodka/p71642",
+    "name": "Ciroc French Vanilla Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

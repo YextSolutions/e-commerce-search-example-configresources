@@ -1,0 +1,44 @@
+{
+  "$id": "p9737",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "6.03",
+    "c_numberReviews": "66",
+    "c_priceRange": "$6.03 - $28.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/cinzano-rosso-sweet-vermouth/p9737",
+    "name": "Cinzano Rosso Sweet Vermouth",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-cinzano-rosso-sweet-vermouth-f63660953216126d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/BeWU1jNmmxiez7NhrvtU0WS7ynb0Tu09HdaX6ZHwMcc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BeWU1jNmmxiez7NhrvtU0WS7ynb0Tu09HdaX6ZHwMcc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/BeWU1jNmmxiez7NhrvtU0WS7ynb0Tu09HdaX6ZHwMcc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BeWU1jNmmxiez7NhrvtU0WS7ynb0Tu09HdaX6ZHwMcc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

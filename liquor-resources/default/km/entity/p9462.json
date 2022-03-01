@@ -1,0 +1,17 @@
+{
+  "$id": "p9462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "23.09",
+    "c_minPrice": "8.25",
+    "c_numberReviews": "69",
+    "c_priceRange": "$8.25 - $23.09",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/ronrico-silver-rum/p9462",
+    "name": "Ronrico Silver Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

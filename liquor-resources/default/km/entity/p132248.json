@@ -1,0 +1,17 @@
+{
+  "$id": "p132248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.99 - $49.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/whicked-pickle-spicy-pickle-flavored-whiskey/p132248",
+    "name": "Whicked Pickle Spicy Pickle Flavored Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

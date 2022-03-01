@@ -1,0 +1,18 @@
+{
+  "$id": "p401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $17.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Biere De Garde",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/biere-de-garde/two-brothers-domaine-dupage-french-country-ale/p401",
+    "name": "Two Brothers Domaine Dupage French Country Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p82243",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$9.99 - $34.99",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/california-lager/p82243",
+    "name": "California Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

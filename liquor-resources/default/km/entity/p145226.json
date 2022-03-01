@@ -1,0 +1,17 @@
+{
+  "$id": "p145226",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "1",
+    "c_priceRange": "$8.49 - $15.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/oskar-blues-guava-rodeo-sour/p145226",
+    "name": "Oskar Blues Guava Rodeo Sour"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

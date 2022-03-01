@@ -1,0 +1,17 @@
+{
+  "$id": "p62983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "5.24",
+    "c_numberReviews": "10",
+    "c_priceRange": "$5.24 - $65.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-golden-grapefruit-margarita/p62983",
+    "name": "Jose Cuervo Golden Grapefruit Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

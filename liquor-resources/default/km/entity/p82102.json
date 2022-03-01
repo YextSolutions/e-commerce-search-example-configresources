@@ -1,0 +1,17 @@
+{
+  "$id": "p82102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.99 - $15.99",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/fat-heads-holly-jolly/p82102",
+    "name": "Fat Head\u0027s Holly Jolly"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

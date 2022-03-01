@@ -1,0 +1,17 @@
+{
+  "$id": "p12084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "9.19",
+    "c_minPrice": "2.92",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.92 - $9.19",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/fish-eye-pinot-noir-box/p12084",
+    "name": "Fish Eye Pinot Noir Box"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

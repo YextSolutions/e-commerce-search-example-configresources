@@ -1,0 +1,17 @@
+{
+  "$id": "p9942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "12.59",
+    "c_numberReviews": "10",
+    "c_priceRange": "$12.59 - $31.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/felino-malbec/p9942",
+    "name": "Felino Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

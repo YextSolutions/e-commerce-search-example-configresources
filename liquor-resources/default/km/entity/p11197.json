@@ -1,0 +1,17 @@
+{
+  "$id": "p11197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "14.38",
+    "c_numberReviews": "10",
+    "c_priceRange": "$14.38 - $38.99",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/la-rioja-alta-vina-alberdi-reserva/p11197",
+    "name": "La Rioja Alta Vina Alberdi Reserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

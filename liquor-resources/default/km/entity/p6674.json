@@ -1,0 +1,17 @@
+{
+  "$id": "p6674",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "13",
+    "c_priceRange": "$12.09 - $34.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/three-olives-triple-shot-espresso-vodka/p6674",
+    "name": "Three Olives Triple Shot Espresso Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p34133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "4.75",
+    "c_numberReviews": "21",
+    "c_priceRange": "$4.75 - $20.99",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/grain-belt-nordeast/p34133",
+    "name": "Grain Belt Nordeast",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-grain-belt-nordeast-335c5b4a2bab4d41.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/X7RxzA-etQNyeGPjTGr0FoYWcfznpjWS_pb_F86RpZM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/X7RxzA-etQNyeGPjTGr0FoYWcfznpjWS_pb_F86RpZM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/X7RxzA-etQNyeGPjTGr0FoYWcfznpjWS_pb_F86RpZM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X7RxzA-etQNyeGPjTGr0FoYWcfznpjWS_pb_F86RpZM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

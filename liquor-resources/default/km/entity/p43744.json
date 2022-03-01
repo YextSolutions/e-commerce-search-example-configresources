@@ -1,0 +1,17 @@
+{
+  "$id": "p43744",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "63.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$21.99 - $63.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/pendleton-midnight-canadian-whisky/p43744",
+    "name": "Pendleton Midnight Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

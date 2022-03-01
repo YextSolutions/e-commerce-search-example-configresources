@@ -1,0 +1,17 @@
+{
+  "$id": "p13157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "44.00",
+    "c_minPrice": "18.97",
+    "c_numberReviews": "20",
+    "c_priceRange": "$18.97 - $44.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-famous-grouse-smoky-black-scotch-whisky/p13157",
+    "name": "The Famous Grouse Smoky Black Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

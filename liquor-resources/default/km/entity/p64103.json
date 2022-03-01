@@ -1,0 +1,17 @@
+{
+  "$id": "p64103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$2.99 - $18.99",
+    "c_subCategory": "Cosmopolitan Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/cosmopolitan-ready-to-drink/joia-spirit-sparkling-cosmopolitan/p64103",
+    "name": "Joia Spirit Sparkling Cosmopolitan"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

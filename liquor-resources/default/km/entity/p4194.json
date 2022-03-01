@@ -1,0 +1,17 @@
+{
+  "$id": "p4194",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "87.99",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "181",
+    "c_priceRange": "$18.69 - $87.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/1792-small-batch-kentucky-straight-bourbon-whiskey/p4194",
+    "name": "1792 Small Batch Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p37791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$12.99 - $32.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/catena-la-consulta-malbec/p37791",
+    "name": "Catena La Consulta Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

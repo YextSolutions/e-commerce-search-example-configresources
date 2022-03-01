@@ -1,0 +1,16 @@
+{
+  "$id": "p20850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$14.99 - $21.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/denver-beer-co-exploration-pack/p20850",
+    "name": "Denver Beer Co. Exploration Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

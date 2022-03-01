@@ -1,0 +1,44 @@
+{
+  "$id": "p123432",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $16.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/flybird-prickly-pear-margarita/p123432",
+    "name": "Flybird Prickly Pear Margarita",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-flybird-prickly-pear-margarita-946e4c52acc7c087.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXSCsnZz_9hBmgf9oSUuehfo4l77V8cY0nOPnANVRHM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXSCsnZz_9hBmgf9oSUuehfo4l77V8cY0nOPnANVRHM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kXSCsnZz_9hBmgf9oSUuehfo4l77V8cY0nOPnANVRHM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kXSCsnZz_9hBmgf9oSUuehfo4l77V8cY0nOPnANVRHM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

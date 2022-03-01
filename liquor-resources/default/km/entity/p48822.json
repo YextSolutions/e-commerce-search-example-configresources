@@ -1,0 +1,17 @@
+{
+  "$id": "p48822",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "8.19",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.19 - $32.99",
+    "c_subCategory": "Fruit Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/fruit-brandy/christian-brothers-apple-brandy/p48822",
+    "name": "Christian Brothers Apple Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

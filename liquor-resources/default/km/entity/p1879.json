@@ -1,0 +1,17 @@
+{
+  "$id": "p1879",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "157",
+    "c_priceRange": "$7.00 - $21.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/bogle-pinot-noir/p1879",
+    "name": "Bogle Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

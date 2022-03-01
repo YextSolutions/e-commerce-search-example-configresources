@@ -1,0 +1,16 @@
+{
+  "$id": "p104059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "16.79",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "65",
+    "c_priceRange": "$12.99 - $16.79",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/ranch-rider-ranch-water/p104059",
+    "name": "Ranch Rider Ranch Water"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

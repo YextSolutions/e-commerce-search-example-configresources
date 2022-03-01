@@ -1,0 +1,17 @@
+{
+  "$id": "p9275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "40.16",
+    "c_minPrice": "6.15",
+    "c_numberReviews": "286",
+    "c_priceRange": "$6.15 - $40.16",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/cayman-jack-margarita/p9275",
+    "name": "Cayman Jack Margarita"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

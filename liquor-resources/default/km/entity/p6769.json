@@ -1,0 +1,16 @@
+{
+  "$id": "p6769",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "11.54",
+    "c_numberReviews": "15",
+    "c_priceRange": "$11.54 - $69.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/barenjager-honey-and-pear-liqueur/p6769",
+    "name": "Barenjager Honey \u0026 Pear Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

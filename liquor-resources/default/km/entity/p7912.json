@@ -1,0 +1,43 @@
+{
+  "$id": "p7912",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "25.00",
+    "c_minPrice": "5.18",
+    "c_numberReviews": "4",
+    "c_priceRange": "$5.18 - $25.00",
+    "landingPageUrl": "https://drizly.com/beer/lager/carta-blanca/p7912",
+    "name": "Carta Blanca",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-carta-blanca-82f2b5c443a3e2ca.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/UuobYb6jWeo2VBBwITJBRNI6JpLX3knm1tDG6pz7gXU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UuobYb6jWeo2VBBwITJBRNI6JpLX3knm1tDG6pz7gXU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/UuobYb6jWeo2VBBwITJBRNI6JpLX3knm1tDG6pz7gXU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UuobYb6jWeo2VBBwITJBRNI6JpLX3knm1tDG6pz7gXU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

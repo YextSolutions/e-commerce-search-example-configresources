@@ -1,0 +1,17 @@
+{
+  "$id": "p24187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "28.07",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$10.99 - $28.07",
+    "c_subCategory": "White Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/peter-vella-crisp-white/p24187",
+    "name": "Peter Vella Crisp White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

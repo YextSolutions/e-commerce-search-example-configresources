@@ -1,0 +1,17 @@
+{
+  "$id": "p41792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$29.99 - $99.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/iwai-japanese-whisky/p41792",
+    "name": "Iwai Japanese Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

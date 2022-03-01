@@ -1,0 +1,17 @@
+{
+  "$id": "p66791",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "68.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "13",
+    "c_priceRange": "$4.39 - $68.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/mikkeller-windy-hill-ipa/p66791",
+    "name": "Mikkeller Windy Hill IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

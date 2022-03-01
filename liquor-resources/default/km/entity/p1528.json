@@ -1,0 +1,17 @@
+{
+  "$id": "p1528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$12.99 - $36.99",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/lustau-dry-amontillado-los-arcos-sherry/p1528",
+    "name": "Lustau Dry Amontillado Los Arcos Sherry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

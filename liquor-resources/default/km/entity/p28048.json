@@ -1,0 +1,17 @@
+{
+  "$id": "p28048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "17.77",
+    "c_minPrice": "5.24",
+    "c_numberReviews": "64",
+    "c_priceRange": "$5.24 - $17.77",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/rashi-claret-california/p28048",
+    "name": "Rashi Claret California"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

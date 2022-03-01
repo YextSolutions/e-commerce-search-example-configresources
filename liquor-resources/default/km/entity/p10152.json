@@ -1,0 +1,44 @@
+{
+  "$id": "p10152",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "23.50",
+    "c_numberReviews": "21",
+    "c_priceRange": "$23.50 - $69.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/frank-family-vineyards-carneros-chardonnay/p10152",
+    "name": "Frank Family Vineyards Carneros Chardonnay",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-frank-family-vineyards-carneros-chardonnay-87f3bbf783cf37b4.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/qYCREg4x3H8EkTukahL933XFzW9_cT3jJEO4EDs49Eo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qYCREg4x3H8EkTukahL933XFzW9_cT3jJEO4EDs49Eo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/qYCREg4x3H8EkTukahL933XFzW9_cT3jJEO4EDs49Eo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qYCREg4x3H8EkTukahL933XFzW9_cT3jJEO4EDs49Eo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

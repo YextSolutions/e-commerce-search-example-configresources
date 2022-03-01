@@ -1,0 +1,16 @@
+{
+  "$id": "p18049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rioja Blend",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$14.99 - $31.99",
+    "landingPageUrl": "https://drizly.com/wine/rioja-blend/marques-de-caceres-reserva-rioja/p18049",
+    "name": "Marqués de Cáceres Reserva Rioja"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

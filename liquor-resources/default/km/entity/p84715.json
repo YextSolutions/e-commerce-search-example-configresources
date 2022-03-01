@@ -1,0 +1,17 @@
+{
+  "$id": "p84715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "2.47",
+    "c_numberReviews": "40",
+    "c_priceRange": "$2.47 - $26.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/yuengling-golden-pilsner/p84715",
+    "name": "Yuengling Golden Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

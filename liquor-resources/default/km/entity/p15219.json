@@ -1,0 +1,18 @@
+{
+  "$id": "p15219",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "14.28",
+    "c_numberReviews": "4",
+    "c_priceRange": "$14.28 - $49.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/sierra-nevada-barrel-aged-narwhal/p15219",
+    "name": "Sierra Nevada Barrel Aged Narwhal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

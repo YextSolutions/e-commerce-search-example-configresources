@@ -1,0 +1,17 @@
+{
+  "$id": "p12464",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$1.99 - $99.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/barefoot-bubbly-peach/p12464",
+    "name": "Barefoot Bubbly Peach"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

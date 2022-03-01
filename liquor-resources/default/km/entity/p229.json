@@ -1,0 +1,17 @@
+{
+  "$id": "p229",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "674",
+    "c_priceRange": "$12.99 - $39.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/the-kraken-black-spiced-rum-94-proof/p229",
+    "name": "The Kraken Black Spiced Rum 94 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

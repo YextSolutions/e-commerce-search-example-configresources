@@ -1,0 +1,17 @@
+{
+  "$id": "p1114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.69",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.69 - $14.99",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/mayflower-porter/p1114",
+    "name": "Mayflower Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

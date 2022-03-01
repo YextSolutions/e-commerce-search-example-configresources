@@ -1,0 +1,16 @@
+{
+  "$id": "p3554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "26",
+    "c_priceRange": "$8.00 - $43.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/gordons-vodka/p3554",
+    "name": "Gordon\u0027s Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

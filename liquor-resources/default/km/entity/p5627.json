@@ -1,0 +1,17 @@
+{
+  "$id": "p5627",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$11.99 - $49.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/george-dickel-rye-whisky/p5627",
+    "name": "George Dickel Rye Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

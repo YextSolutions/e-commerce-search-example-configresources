@@ -1,0 +1,17 @@
+{
+  "$id": "p2971",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.29",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "513",
+    "c_priceRange": "$8.24 - $25.29",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/dekuyper-triple-sec-liqueur/p2971",
+    "name": "Dekuyper Triple Sec Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

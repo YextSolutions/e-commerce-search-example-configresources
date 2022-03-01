@@ -1,0 +1,17 @@
+{
+  "$id": "p85626",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "10.12",
+    "c_numberReviews": "17",
+    "c_priceRange": "$10.12 - $21.99",
+    "c_subCategory": "Brachetto",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/brachetto/bartenura-brachetto/p85626",
+    "name": "Bartenura Brachetto"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

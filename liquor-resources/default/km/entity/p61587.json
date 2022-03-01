@@ -1,0 +1,18 @@
+{
+  "$id": "p61587",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.99 - $12.09",
+    "c_subCategory": "Dark Lager",
+    "c_type": "Dunkel",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/dunkel/prost-dunkel/p61587",
+    "name": "Prost Dunkel"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

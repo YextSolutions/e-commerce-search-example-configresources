@@ -1,0 +1,16 @@
+{
+  "$id": "p3236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Meritage",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "5.39",
+    "c_numberReviews": "1",
+    "c_priceRange": "$5.39 - $49.99",
+    "landingPageUrl": "https://drizly.com/wine/meritage/estancia-paso-robles-meritage/p3236",
+    "name": "Estancia Paso Robles Meritage"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

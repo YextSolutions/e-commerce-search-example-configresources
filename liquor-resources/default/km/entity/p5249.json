@@ -1,0 +1,44 @@
+{
+  "$id": "p5249",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "252",
+    "c_priceRange": "$16.99 - $99.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ketel-one-citroen/p5249",
+    "name": "Ketel One Citroen",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-ketel-one-citroen-5615e747b2912668.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/P7L_u1k227jiPsSn9dWhL8OKo675gYlCxrGRjQKxv2c/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/P7L_u1k227jiPsSn9dWhL8OKo675gYlCxrGRjQKxv2c/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/P7L_u1k227jiPsSn9dWhL8OKo675gYlCxrGRjQKxv2c/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/P7L_u1k227jiPsSn9dWhL8OKo675gYlCxrGRjQKxv2c/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

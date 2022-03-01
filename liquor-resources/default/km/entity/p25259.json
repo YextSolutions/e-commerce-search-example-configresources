@@ -1,0 +1,17 @@
+{
+  "$id": "p25259",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.83",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.83 - $19.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/villa-wolf-pinot-noir-rose/p25259",
+    "name": "Villa Wolf Pinot Noir Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

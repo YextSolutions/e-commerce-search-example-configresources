@@ -1,0 +1,16 @@
+{
+  "$id": "p21336",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.99 - $35.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/twenty-grand-vodka-infused-peach-cognac/p21336",
+    "name": "Twenty Grand Vodka Infused Peach Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

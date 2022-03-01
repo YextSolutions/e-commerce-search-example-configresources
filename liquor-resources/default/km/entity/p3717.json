@@ -1,0 +1,17 @@
+{
+  "$id": "p3717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "47.29",
+    "c_minPrice": "19.98",
+    "c_numberReviews": "7",
+    "c_priceRange": "$19.98 - $47.29",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/olivier-leflaive-bourgogne-blanc-les-setilles/p3717",
+    "name": "Olivier Leflaive Bourgogne Blanc Les Setilles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

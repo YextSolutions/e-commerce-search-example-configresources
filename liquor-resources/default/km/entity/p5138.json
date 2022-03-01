@@ -1,0 +1,17 @@
+{
+  "$id": "p5138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "53.89",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "9811",
+    "c_priceRange": "$10.99 - $53.89",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/jameson-irish-whiskey/p5138",
+    "name": "Jameson Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

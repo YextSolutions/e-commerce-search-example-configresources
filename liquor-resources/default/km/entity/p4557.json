@@ -1,0 +1,17 @@
+{
+  "$id": "p4557",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "155",
+    "c_priceRange": "$7.00 - $26.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/segura-viudas-brut/p4557",
+    "name": "Segura Viudas Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

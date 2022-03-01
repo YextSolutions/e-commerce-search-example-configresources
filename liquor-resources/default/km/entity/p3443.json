@@ -1,0 +1,19 @@
+{
+  "$id": "p3443",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$5.99 - $33.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/full-sail-session-premium-lager/p3443",
+    "name": "Full Sail Session Premium Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

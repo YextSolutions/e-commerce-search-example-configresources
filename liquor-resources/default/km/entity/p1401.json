@@ -1,0 +1,17 @@
+{
+  "$id": "p1401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "122.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "50",
+    "c_priceRange": "$15.39 - $122.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/champagne-laurent-perrier-la-cuvee/p1401",
+    "name": "Champagne Laurent-Perrier La Cuvée"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p27824",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "35.19",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.97 - $35.19",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/cruzan-blueberry-lemonade-rum/p27824",
+    "name": "Cruzan Blueberry Lemonade Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

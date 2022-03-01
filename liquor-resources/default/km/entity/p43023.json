@@ -1,0 +1,17 @@
+{
+  "$id": "p43023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "75.99",
+    "c_minPrice": "29.69",
+    "c_numberReviews": "27",
+    "c_priceRange": "$29.69 - $75.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/writers-tears-pot-still-irish-whiskey/p43023",
+    "name": "Writers Tears Pot Still Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p118881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$5.99 - $9.99",
+    "c_subCategory": "Non Alcoholic Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/non-alcoholic-wine/chateau-diana-zero-alcohol-white/p118881",
+    "name": "Chateau Diana Zero Alcohol White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

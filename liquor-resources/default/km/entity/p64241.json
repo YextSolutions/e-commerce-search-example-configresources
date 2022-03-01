@@ -1,0 +1,44 @@
+{
+  "$id": "p64241",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "10.98",
+    "c_minPrice": "1.51",
+    "c_numberReviews": "41",
+    "c_priceRange": "$1.51 - $10.98",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/seagrams-escapes-bahama-mama/p64241",
+    "name": "Seagram\u0027s Escapes Bahama Mama",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-seagrams-escapes-bahama-mama-sing-13a354658438a915.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUnmdt_9osybUsOTkAeGb0fSRMXLdvxZvZn7KW8w16c/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUnmdt_9osybUsOTkAeGb0fSRMXLdvxZvZn7KW8w16c/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HUnmdt_9osybUsOTkAeGb0fSRMXLdvxZvZn7KW8w16c/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HUnmdt_9osybUsOTkAeGb0fSRMXLdvxZvZn7KW8w16c/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

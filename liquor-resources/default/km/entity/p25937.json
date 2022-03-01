@@ -1,0 +1,17 @@
+{
+  "$id": "p25937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "Nuts Amaretto Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/nuts-amaretto-liqueur/dekuyper-amaretto-liqueur/p25937",
+    "name": "DeKuyper Amaretto Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

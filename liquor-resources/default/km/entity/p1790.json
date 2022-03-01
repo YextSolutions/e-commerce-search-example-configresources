@@ -1,0 +1,17 @@
+{
+  "$id": "p1790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "11.00",
+    "c_numberReviews": "551",
+    "c_priceRange": "$11.00 - $44.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/absolut-apeach-vodka/p1790",
+    "name": "Absolut Apeach Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p6160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "26.83",
+    "c_numberReviews": "17",
+    "c_priceRange": "$26.83 - $129.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/the-singleton-of-glendullan-single-malt-12-year/p6160",
+    "name": "The Singleton of Glendullan Single Malt 12 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-the-singleton-of-glendullan-single-malt-12-year-d361e7dbeb07cf1f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/IS2nyCK2RPoRq-xbHpodQH-JsJsWav8BOc30hn-0lqc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/IS2nyCK2RPoRq-xbHpodQH-JsJsWav8BOc30hn-0lqc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/IS2nyCK2RPoRq-xbHpodQH-JsJsWav8BOc30hn-0lqc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/IS2nyCK2RPoRq-xbHpodQH-JsJsWav8BOc30hn-0lqc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

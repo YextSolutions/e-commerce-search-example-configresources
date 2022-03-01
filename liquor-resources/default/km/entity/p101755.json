@@ -1,0 +1,18 @@
+{
+  "$id": "p101755",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "7.50",
+    "c_numberReviews": "57",
+    "c_priceRange": "$7.50 - $34.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/bells-light-hearted-ale-lo-cal-ipa/p101755",
+    "name": "Bell’s Light Hearted Ale Lo-Cal IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

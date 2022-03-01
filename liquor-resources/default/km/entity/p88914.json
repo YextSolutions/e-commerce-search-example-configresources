@@ -1,0 +1,17 @@
+{
+  "$id": "p88914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.25",
+    "c_minPrice": "14.79",
+    "c_numberReviews": "13",
+    "c_priceRange": "$14.79 - $19.25",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/mighty-squirrel-mango-lassi/p88914",
+    "name": "Mighty Squirrel Mango Lassi"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

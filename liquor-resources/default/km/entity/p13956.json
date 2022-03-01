@@ -1,0 +1,17 @@
+{
+  "$id": "p13956",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$3.99 - $24.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/clos-du-bois-pinot-noir/p13956",
+    "name": "Clos du Bois Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

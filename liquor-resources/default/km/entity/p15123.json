@@ -1,0 +1,17 @@
+{
+  "$id": "p15123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "13.90",
+    "c_numberReviews": "10",
+    "c_priceRange": "$13.90 - $39.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/100-anos-blanco-tequila/p15123",
+    "name": "100 Anos Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

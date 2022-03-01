@@ -1,0 +1,17 @@
+{
+  "$id": "p84892",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "56.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$56.99 - $499.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-masters-collection-batch-proof-bourbon-whiskey/p84892",
+    "name": "Woodford Reserve Master\u0027s Collection Batch Proof Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

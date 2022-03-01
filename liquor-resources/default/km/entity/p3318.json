@@ -1,0 +1,16 @@
+{
+  "$id": "p3318",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "14.73",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.73 - $69.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/r-jelinek-fernet/p3318",
+    "name": "R. Jelinek Fernet"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

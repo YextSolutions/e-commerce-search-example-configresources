@@ -1,0 +1,17 @@
+{
+  "$id": "p2162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "3.84",
+    "c_numberReviews": "228",
+    "c_priceRange": "$3.84 - $21.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/woodbridge-pinot-noir-by-robert-mondavi/p2162",
+    "name": "Woodbridge Pinot Noir by Robert Mondavi"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

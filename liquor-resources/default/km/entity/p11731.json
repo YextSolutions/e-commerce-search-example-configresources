@@ -1,0 +1,17 @@
+{
+  "$id": "p11731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "1.59",
+    "c_numberReviews": "67",
+    "c_priceRange": "$1.59 - $21.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/heavy-seas-loose-cannon/p11731",
+    "name": "Heavy Seas Loose Cannon"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

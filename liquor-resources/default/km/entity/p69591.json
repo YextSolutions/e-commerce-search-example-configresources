@@ -1,0 +1,17 @@
+{
+  "$id": "p69591",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "160.49",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$29.99 - $160.49",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/h-by-hine-vsop-cognac/p69591",
+    "name": "H by Hine VSOP Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

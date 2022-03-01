@@ -1,0 +1,16 @@
+{
+  "$id": "p65645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "57",
+    "c_priceRange": "$9.97 - $44.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/lvov-vodka/p65645",
+    "name": "LVOV Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

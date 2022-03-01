@@ -1,0 +1,17 @@
+{
+  "$id": "p59276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "12.73",
+    "c_numberReviews": "36",
+    "c_priceRange": "$12.73 - $32.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/freakshow-red-blend/p59276",
+    "name": "Freakshow Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

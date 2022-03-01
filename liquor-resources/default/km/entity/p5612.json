@@ -1,0 +1,44 @@
+{
+  "$id": "p5612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$32.99 - $89.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/siete-leguas-tequila-blanco/p5612",
+    "name": "Siete Leguas Tequila Blanco",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-siete-leguas-tequila-blanco-36639d31f844b586.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/39CEyFcf4FzaHG-dYXUdBlv8ZUv5HNU5JdKAGajsi7Y/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/39CEyFcf4FzaHG-dYXUdBlv8ZUv5HNU5JdKAGajsi7Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/39CEyFcf4FzaHG-dYXUdBlv8ZUv5HNU5JdKAGajsi7Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/39CEyFcf4FzaHG-dYXUdBlv8ZUv5HNU5JdKAGajsi7Y/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

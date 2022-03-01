@@ -1,0 +1,17 @@
+{
+  "$id": "p97234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "197.99",
+    "c_minPrice": "54.05",
+    "c_numberReviews": "20",
+    "c_priceRange": "$54.05 - $197.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/cincoro-blanco/p97234",
+    "name": "Cincoro Blanco"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

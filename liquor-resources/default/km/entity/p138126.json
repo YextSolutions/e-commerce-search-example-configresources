@@ -1,0 +1,17 @@
+{
+  "$id": "p138126",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "530.99",
+    "c_minPrice": "79.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$79.99 - $530.99",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/master-blenders-selection-4-cognac/p138126",
+    "name": "Master Blender\u0027s Selection 4 Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

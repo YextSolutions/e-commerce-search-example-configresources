@@ -1,0 +1,18 @@
+{
+  "$id": "p50038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.67",
+    "c_numberReviews": "15",
+    "c_priceRange": "$9.67 - $24.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/oskar-blues-ten-fidy-imperial-stout/p50038",
+    "name": "Oskar Blues Ten Fidy Imperial Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

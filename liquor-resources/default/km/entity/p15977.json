@@ -1,0 +1,17 @@
+{
+  "$id": "p15977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "10.56",
+    "c_numberReviews": "21",
+    "c_priceRange": "$10.56 - $21.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/daredevil-liftoff/p15977",
+    "name": "Daredevil Lift Off IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

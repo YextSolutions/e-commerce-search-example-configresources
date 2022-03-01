@@ -1,0 +1,17 @@
+{
+  "$id": "p679",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.26",
+    "c_numberReviews": "6",
+    "c_priceRange": "$6.26 - $23.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/angeline-california-cabernet-sauvignon/p679",
+    "name": "Angeline California Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

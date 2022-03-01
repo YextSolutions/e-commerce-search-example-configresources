@@ -1,0 +1,43 @@
+{
+  "$id": "p4989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "5499.00",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "3392",
+    "c_priceRange": "$19.99 - $5499.00",
+    "landingPageUrl": "https://drizly.com/liquor/gin/hendricks-gin/p4989",
+    "name": "Hendrick\u0027s Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-hendricks-gin-7270fa521eb29536.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/BouzL5R9HIlJIfSLazDNxNWtsVHvcjGSldtrdhnOH3w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BouzL5R9HIlJIfSLazDNxNWtsVHvcjGSldtrdhnOH3w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/BouzL5R9HIlJIfSLazDNxNWtsVHvcjGSldtrdhnOH3w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BouzL5R9HIlJIfSLazDNxNWtsVHvcjGSldtrdhnOH3w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p81591",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$6.99 - $14.29",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/luscious-cabernet-sauvignon/p81591",
+    "name": "Luscious Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

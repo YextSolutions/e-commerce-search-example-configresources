@@ -1,0 +1,17 @@
+{
+  "$id": "p3037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "238",
+    "c_priceRange": "$7.99 - $39.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/dolin-dry-vermouth-de-chambery/p3037",
+    "name": "Dolin Dry Vermouth de Chambery"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

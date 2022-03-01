@@ -1,0 +1,17 @@
+{
+  "$id": "p3512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "65.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$65.99 - $249.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenfiddich-18-year/p3512",
+    "name": "Glenfiddich 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "p122910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.49",
+    "c_minPrice": "9.69",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.69 - $15.49",
+    "c_subCategory": "Pilsner",
+    "c_type": "Imperial Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/imperial-pilsner/flying-dog-family-drama-imperial-pilsner/p122910",
+    "name": "Flying Dog Family Drama Imperial Pilsner",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-flying-dog-family-drama-imperial-pilsner-a96d68e2046655f2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wISptwy4OIfz5cfsK5GD0J4iZ1zQ6xcEPlQQ0PXVT0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wISptwy4OIfz5cfsK5GD0J4iZ1zQ6xcEPlQQ0PXVT0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7wISptwy4OIfz5cfsK5GD0J4iZ1zQ6xcEPlQQ0PXVT0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7wISptwy4OIfz5cfsK5GD0J4iZ1zQ6xcEPlQQ0PXVT0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

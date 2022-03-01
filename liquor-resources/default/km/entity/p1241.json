@@ -1,0 +1,17 @@
+{
+  "$id": "p1241",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "7.48",
+    "c_numberReviews": "30",
+    "c_priceRange": "$7.48 - $20.89",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/martini-and-rossi-bianco-vermouth/p1241",
+    "name": "Martini \u0026 Rossi Bianco Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

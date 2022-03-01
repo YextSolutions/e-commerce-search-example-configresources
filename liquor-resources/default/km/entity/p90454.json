@@ -1,0 +1,17 @@
+{
+  "$id": "p90454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$11.99 - $28.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/threes-brewing-vliet-pilsner/p90454",
+    "name": "Threes Brewing Vliet Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

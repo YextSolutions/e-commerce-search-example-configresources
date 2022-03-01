@@ -1,0 +1,17 @@
+{
+  "$id": "p28197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "6.00",
+    "c_minPrice": "2.89",
+    "c_numberReviews": "125",
+    "c_priceRange": "$2.89 - $6.00",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/buzzballz-peachballz/p28197",
+    "name": "BuzzBallz Peachballz"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

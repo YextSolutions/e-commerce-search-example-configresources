@@ -1,0 +1,16 @@
+{
+  "$id": "p5262",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$15.99 - $34.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/21st-amendment-variety-pack/p5262",
+    "name": "21st Amendment Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

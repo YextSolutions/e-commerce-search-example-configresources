@@ -1,0 +1,17 @@
+{
+  "$id": "p8877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "58.00",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "201",
+    "c_priceRange": "$1.99 - $58.00",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/ritas-straw-ber-rita/p8877",
+    "name": "RITAS Straw-Ber-Rita"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

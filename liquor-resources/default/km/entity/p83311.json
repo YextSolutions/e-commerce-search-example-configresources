@@ -1,0 +1,16 @@
+{
+  "$id": "p83311",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "31.77",
+    "c_minPrice": "11.80",
+    "c_numberReviews": "31",
+    "c_priceRange": "$11.80 - $31.77",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/kona-island-hopper-variety-pack/p83311",
+    "name": "Kona Island Hopper Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

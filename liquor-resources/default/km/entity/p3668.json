@@ -1,0 +1,18 @@
+{
+  "$id": "p3668",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$10.99 - $26.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/north-coast-old-rasputin/p3668",
+    "name": "North Coast Old Rasputin"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

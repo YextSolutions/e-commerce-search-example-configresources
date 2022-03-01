@@ -1,0 +1,44 @@
+{
+  "$id": "p20704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "85",
+    "c_priceRange": "$8.99 - $31.99",
+    "c_subCategory": "Junmai Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-ginjo/hakutsuru-superior-junmai-ginjo-sake/p20704",
+    "name": "Hakutsuru Superior Junmai Ginjo Sake",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-hakutsuro-superior-junmai-ginjo-sake-333ec21f3b69ad04.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3MbkdX8iUkKdNBHAGwvciUI-312gmeEZuUB4P0NMos/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3MbkdX8iUkKdNBHAGwvciUI-312gmeEZuUB4P0NMos/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/z3MbkdX8iUkKdNBHAGwvciUI-312gmeEZuUB4P0NMos/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z3MbkdX8iUkKdNBHAGwvciUI-312gmeEZuUB4P0NMos/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "23.49",
+    "c_minPrice": "6.83",
+    "c_numberReviews": "201",
+    "c_priceRange": "$6.83 - $23.49",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/joel-gott-sauvignon-blanc-white-wine-750ml-wine-bottle/p5166",
+    "name": "Joel Gott Sauvignon Blanc White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

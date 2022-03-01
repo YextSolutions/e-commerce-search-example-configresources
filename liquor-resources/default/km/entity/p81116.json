@@ -1,0 +1,17 @@
+{
+  "$id": "p81116",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$7.99 - $20.99",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/leinenkugels-snowdrift-vanilla-porter-beer/p81116",
+    "name": "Leinenkugel\u0027s Snowdrift Vanilla Porter Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

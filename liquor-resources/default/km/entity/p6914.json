@@ -1,0 +1,44 @@
+{
+  "$id": "p6914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "60.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "95",
+    "c_priceRange": "$14.29 - $60.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/sipsmith-london-dry-gin/p6914",
+    "name": "Sipsmith London Dry Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-sipsmith-london-dry-gin-2f890663a5450f0b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/PIxeoBRiX9FXMW2CdSey4CqU6yu2VgLRtJlbSEuMnjo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/PIxeoBRiX9FXMW2CdSey4CqU6yu2VgLRtJlbSEuMnjo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/PIxeoBRiX9FXMW2CdSey4CqU6yu2VgLRtJlbSEuMnjo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/PIxeoBRiX9FXMW2CdSey4CqU6yu2VgLRtJlbSEuMnjo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p104532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$27.99 - $47.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/coopers-craft-barrel-reserve-100-proof-bourbon/p104532",
+    "name": "Coopers\u0027 Craft Barrel Reserve 100 Proof Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

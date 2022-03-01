@@ -1,0 +1,17 @@
+{
+  "$id": "p26209",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "369.99",
+    "c_minPrice": "37.00",
+    "c_numberReviews": "6",
+    "c_priceRange": "$37.00 - $369.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/1792-sweet-wheat-kentucky-straight-bourbon-whiskey/p26209",
+    "name": "1792 Sweet Wheat Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

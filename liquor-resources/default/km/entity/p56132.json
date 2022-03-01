@@ -1,0 +1,43 @@
+{
+  "$id": "p56132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "250.93",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "231",
+    "c_priceRange": "$10.99 - $250.93",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/ruffino-riserva-ducale-chianti-classico/p56132",
+    "name": "Ruffino Riserva Ducale Chianti Classico",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-ruffino-ducale-chianti-cls-reserve-tan-009b2343e954b8fe.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wx67lma0U-nnuNHz-1vmz6cUdHqs1rj3PZxwXL6ceTQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wx67lma0U-nnuNHz-1vmz6cUdHqs1rj3PZxwXL6ceTQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wx67lma0U-nnuNHz-1vmz6cUdHqs1rj3PZxwXL6ceTQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wx67lma0U-nnuNHz-1vmz6cUdHqs1rj3PZxwXL6ceTQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

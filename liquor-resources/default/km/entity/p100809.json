@@ -1,0 +1,17 @@
+{
+  "$id": "p100809",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "26.74",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.49 - $26.74",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/parrot-bay-strawberry-rum/p100809",
+    "name": "Parrot Bay Strawberry Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

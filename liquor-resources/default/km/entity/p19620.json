@@ -1,0 +1,17 @@
+{
+  "$id": "p19620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "6.73",
+    "c_numberReviews": "44",
+    "c_priceRange": "$6.73 - $45.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/william-hill-north-coast-chardonnay/p19620",
+    "name": "William Hill North Coast Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

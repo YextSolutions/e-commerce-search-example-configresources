@@ -1,0 +1,18 @@
+{
+  "$id": "p3846",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "459",
+    "c_priceRange": "$5.99 - $37.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Dortmunder",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/dortmunder/peroni-nastro-azzurro-import-lager-beer/p3846",
+    "name": "Peroni Nastro Azzurro Import Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

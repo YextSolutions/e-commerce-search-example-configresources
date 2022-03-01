@@ -1,0 +1,18 @@
+{
+  "$id": "p1854",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "44.51",
+    "c_minPrice": "3.51",
+    "c_numberReviews": "1426",
+    "c_priceRange": "$3.51 - $44.51",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Witbier",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/witbier/blue-moon-belgian-white-wheat-craft-beer/p1854",
+    "name": "Blue Moon Belgian White Wheat Craft Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1191",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "137.50",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$24.99 - $137.50",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/kirk-and-sweeney-12-reserva/p1191",
+    "name": "Kirk and Sweeney 12 Reserva"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

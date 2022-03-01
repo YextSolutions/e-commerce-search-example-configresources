@@ -1,0 +1,17 @@
+{
+  "$id": "p10240",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "10.24",
+    "c_numberReviews": "222",
+    "c_priceRange": "$10.24 - $30.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/josh-cellars-legacy-red-blend/p10240",
+    "name": "Josh Cellars Legacy Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

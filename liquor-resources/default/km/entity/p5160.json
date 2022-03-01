@@ -1,0 +1,17 @@
+{
+  "$id": "p5160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "11.21",
+    "c_numberReviews": "443",
+    "c_priceRange": "$11.21 - $65.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jim-beam-black-bourbon-whiskey/p5160",
+    "name": "Jim Beam Black Extra Aged Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

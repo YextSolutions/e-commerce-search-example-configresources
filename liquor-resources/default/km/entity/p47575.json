@@ -1,0 +1,17 @@
+{
+  "$id": "p47575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "75.00",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "84",
+    "c_priceRange": "$2.99 - $75.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-authentic-margarita-pink-lemonade/p47575",
+    "name": "Jose Cuervo Authentic Margarita Pink Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

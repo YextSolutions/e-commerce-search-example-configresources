@@ -1,0 +1,17 @@
+{
+  "$id": "p5454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "160.00",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$39.99 - $160.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wild-turkey-kentucky-spirit/p5454",
+    "name": "Wild Turkey Kentucky Spirit"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

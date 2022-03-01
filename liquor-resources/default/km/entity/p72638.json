@@ -1,0 +1,17 @@
+{
+  "$id": "p72638",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "23.19",
+    "c_minPrice": "8.08",
+    "c_numberReviews": "33",
+    "c_priceRange": "$8.08 - $23.19",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/paul-masson-grande-amber-brandy-mango/p72638",
+    "name": "Paul Masson Grande Amber Brandy Mango"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,43 @@
+{
+  "$id": "p72757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "67.99",
+    "c_minPrice": "16.54",
+    "c_numberReviews": "61",
+    "c_priceRange": "$16.54 - $67.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/luc-belaire-gold-brut-cuvee/p72757",
+    "name": "Luc Belaire Gold Brut Cuvée",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-luc-belaire-gold-brut-4b5b25619374ddf8.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/eupQp0cq9GCp7KWzAhms81yACtje4b2JxtMag9W00mo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eupQp0cq9GCp7KWzAhms81yACtje4b2JxtMag9W00mo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/eupQp0cq9GCp7KWzAhms81yACtje4b2JxtMag9W00mo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eupQp0cq9GCp7KWzAhms81yACtje4b2JxtMag9W00mo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

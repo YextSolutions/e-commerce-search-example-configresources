@@ -1,0 +1,17 @@
+{
+  "$id": "p86595",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "9.60",
+    "c_numberReviews": "62",
+    "c_priceRange": "$9.60 - $37.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-smash-peach-mango/p86595",
+    "name": "Smirnoff Ice Smash Peach + Mango"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

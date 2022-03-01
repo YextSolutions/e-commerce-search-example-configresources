@@ -1,0 +1,17 @@
+{
+  "$id": "p73369",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "100.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$10.99 - $100.00",
+    "c_subCategory": "Sparkling Red Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-red-wine/roscato-sparkling-sweet-red/p73369",
+    "name": "Roscato Sparkling Sweet Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

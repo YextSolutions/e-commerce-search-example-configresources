@@ -1,0 +1,17 @@
+{
+  "$id": "p3438",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$21.99 - $54.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/frogs-leap-chardonnay/p3438",
+    "name": "Frog\u0027s Leap Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

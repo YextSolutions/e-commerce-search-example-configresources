@@ -1,0 +1,17 @@
+{
+  "$id": "p149275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "576",
+    "c_priceRange": "$9.99 - $34.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-punch-variety-pack-spiked-and-sparkling-water/p149275",
+    "name": "TRULY Hard Seltzer Punch Variety Pack, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

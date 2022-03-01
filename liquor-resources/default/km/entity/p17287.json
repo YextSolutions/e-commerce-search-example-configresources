@@ -1,0 +1,18 @@
+{
+  "$id": "p17287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$9.99 - $40.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/karbach-brewing-co-rodeo-clown-double-ipa/p17287",
+    "name": "Karbach Brewing Co. Rodeo Clown Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15815",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "5.70",
+    "c_numberReviews": "130",
+    "c_priceRange": "$5.70 - $35.99",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/michelob-ultra-infusions-lime-and-prickly-pear-cactus/p15815",
+    "name": "Michelob Ultra Infusions Lime \u0026 Prickly Pear Cactus"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

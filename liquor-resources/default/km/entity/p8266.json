@@ -1,0 +1,44 @@
+{
+  "$id": "p8266",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$13.99 - $69.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/buffalo-trace-white-dog-mash-1/p8266",
+    "name": "Buffalo Trace White Dog Mash #1",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-buffalo-trace-white-dog-mash-1-10eec881a66c41ab.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/F29_Tftf9nBUohWuEAe_wBs2Kj9Vng7KVAVkbafJd5I/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F29_Tftf9nBUohWuEAe_wBs2Kj9Vng7KVAVkbafJd5I/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/F29_Tftf9nBUohWuEAe_wBs2Kj9Vng7KVAVkbafJd5I/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F29_Tftf9nBUohWuEAe_wBs2Kj9Vng7KVAVkbafJd5I/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

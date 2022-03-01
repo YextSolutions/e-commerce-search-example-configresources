@@ -1,0 +1,17 @@
+{
+  "$id": "p58465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "139.99",
+    "c_minPrice": "54.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$54.99 - $139.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/veuve-clicquot-rich-champagne/p58465",
+    "name": "Veuve Clicquot Rich Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "p5245",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "71",
+    "c_priceRange": "$9.99 - $24.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "English Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/english-strong-ale/kentucky-bourbon-barrel-ale/p5245",
+    "name": "Kentucky Bourbon Barrel Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-alltech-kentucky-bourbon-barrel-ale-333471e554e5abb3.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/OuzRtO9FBsVSn62Lve-XjA_OGLE7hTwEPbixokFs-Ak/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/OuzRtO9FBsVSn62Lve-XjA_OGLE7hTwEPbixokFs-Ak/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/OuzRtO9FBsVSn62Lve-XjA_OGLE7hTwEPbixokFs-Ak/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OuzRtO9FBsVSn62Lve-XjA_OGLE7hTwEPbixokFs-Ak/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

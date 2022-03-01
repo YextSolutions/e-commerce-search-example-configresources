@@ -1,0 +1,16 @@
+{
+  "$id": "p97004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "25",
+    "c_priceRange": "$14.29 - $32.99",
+    "landingPageUrl": "https://drizly.com/liquor/rum/kraken-black-roast-coffee-rum/p97004",
+    "name": "Kraken Black Roast Coffee Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

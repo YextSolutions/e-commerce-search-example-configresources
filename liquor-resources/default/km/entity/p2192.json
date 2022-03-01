@@ -1,0 +1,17 @@
+{
+  "$id": "p2192",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$14.99 - $27.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/xavier-flouret-la-pilar/p2192",
+    "name": "Xavier Flouret La Pilar"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

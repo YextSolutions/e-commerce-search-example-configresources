@@ -1,0 +1,17 @@
+{
+  "$id": "p109064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$9.99 - $17.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/two-roots-new-west-non-alcoholic-hazy-ipa/p109064",
+    "name": "Two Roots New West - Non-Alcoholic Hazy IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

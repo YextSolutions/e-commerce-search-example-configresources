@@ -1,0 +1,17 @@
+{
+  "$id": "p12257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "699.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$59.99 - $699.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/talisker-distillers-edition/p12257",
+    "name": "Talisker Distiller\u0027s Edition"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

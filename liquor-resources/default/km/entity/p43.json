@@ -1,0 +1,17 @@
+{
+  "$id": "p43",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "9.80",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.80 - $34.49",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/stoli-citros/p43",
+    "name": "Stoli® Citros"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

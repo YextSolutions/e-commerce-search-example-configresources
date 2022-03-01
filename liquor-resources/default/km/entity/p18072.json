@@ -1,0 +1,17 @@
+{
+  "$id": "p18072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "13.98",
+    "c_numberReviews": "48",
+    "c_priceRange": "$13.98 - $39.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/saint-cosme-cotes-du-rhone/p18072",
+    "name": "Saint Cosme Cotes du Rhone Rouge"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

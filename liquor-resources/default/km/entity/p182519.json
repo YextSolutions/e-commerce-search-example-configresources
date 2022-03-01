@@ -1,0 +1,17 @@
+{
+  "$id": "p182519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "53.95",
+    "c_numberReviews": "4",
+    "c_priceRange": "$53.95 - $199.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/patron-sherry-cask-aged-anejo/p182519",
+    "name": "Patrón Sherry Cask Aged Añejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

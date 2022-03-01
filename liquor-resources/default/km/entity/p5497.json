@@ -1,0 +1,17 @@
+{
+  "$id": "p5497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$10.99 - $30.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/cruzan-black-strap-rum/p5497",
+    "name": "Cruzan Black Strap Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

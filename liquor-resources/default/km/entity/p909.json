@@ -1,0 +1,45 @@
+{
+  "$id": "p909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "3.45",
+    "c_numberReviews": "519",
+    "c_priceRange": "$3.45 - $59.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/bells-two-hearted-ale-ipa/p909",
+    "name": "Bell\u0027s Two Hearted Ale IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bells-two-hearted-ale-20b8ae55fe2a9b12.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/mgCetZXqNQFPPYMgFKp2NeoTJCmwuHPLnUcr-tRGdNU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/mgCetZXqNQFPPYMgFKp2NeoTJCmwuHPLnUcr-tRGdNU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/mgCetZXqNQFPPYMgFKp2NeoTJCmwuHPLnUcr-tRGdNU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/mgCetZXqNQFPPYMgFKp2NeoTJCmwuHPLnUcr-tRGdNU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

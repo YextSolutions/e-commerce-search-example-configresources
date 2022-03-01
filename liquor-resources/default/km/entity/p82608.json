@@ -1,0 +1,17 @@
+{
+  "$id": "p82608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "77",
+    "c_priceRange": "$10.99 - $79.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/industrial-arts-wrench-ipa/p82608",
+    "name": "Industrial Arts Wrench IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

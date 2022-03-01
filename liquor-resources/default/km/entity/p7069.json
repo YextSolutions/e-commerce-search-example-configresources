@@ -1,0 +1,17 @@
+{
+  "$id": "p7069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "175.19",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "189",
+    "c_priceRange": "$17.99 - $175.19",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/wray-and-nephew-white-overproof-rum/p7069",
+    "name": "Wray \u0026 Nephew White Overproof Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

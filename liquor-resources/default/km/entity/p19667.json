@@ -1,0 +1,16 @@
+{
+  "$id": "p19667",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "23.00",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.00 - $23.00",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/chloe-red-no-249/p19667",
+    "name": "Chloe Red No. 249"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

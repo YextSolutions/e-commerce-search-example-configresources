@@ -1,0 +1,17 @@
+{
+  "$id": "p5045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "115.49",
+    "c_minPrice": "23.31",
+    "c_numberReviews": "17",
+    "c_priceRange": "$23.31 - $115.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/honig-cabernet-sauvignon/p5045",
+    "name": "Honig Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

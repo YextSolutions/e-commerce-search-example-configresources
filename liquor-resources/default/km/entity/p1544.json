@@ -1,0 +1,17 @@
+{
+  "$id": "p1544",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$3.99 - $17.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/maipe-malbec/p1544",
+    "name": "Maipe Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

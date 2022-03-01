@@ -1,0 +1,44 @@
+{
+  "$id": "p12376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.68",
+    "c_numberReviews": "1",
+    "c_priceRange": "$7.68 - $29.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/j-lohr-estates-flume-crossing-sauvignon-blanc/p12376",
+    "name": "J. Lohr Estates Flume Crossing Sauvignon Blanc",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-j-lohr-sauvignon-blanc-dc35b69b2f3a541b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB3jRD8FLleOBzrS872t4ZT3iwI7oIYQZEsQ2zw2wzw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB3jRD8FLleOBzrS872t4ZT3iwI7oIYQZEsQ2zw2wzw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EB3jRD8FLleOBzrS872t4ZT3iwI7oIYQZEsQ2zw2wzw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EB3jRD8FLleOBzrS872t4ZT3iwI7oIYQZEsQ2zw2wzw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

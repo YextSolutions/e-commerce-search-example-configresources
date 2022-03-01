@@ -1,0 +1,16 @@
+{
+  "$id": "p43527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "50.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$19.99 - $50.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/brancamenta/p43527",
+    "name": "Brancamenta"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

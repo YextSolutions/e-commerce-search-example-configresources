@@ -1,0 +1,44 @@
+{
+  "$id": "p3280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.49",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$8.99 - $20.49",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/fantine-farnese-montepulciano/p3280",
+    "name": "Fantine Farnese Montepulciano",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-fantine-farnese-montepulciano-06bcb4dd47036568.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/7507k8WJHrhTpkuqIbbbZTK08HxtEyCRpJErd_f_nog/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7507k8WJHrhTpkuqIbbbZTK08HxtEyCRpJErd_f_nog/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7507k8WJHrhTpkuqIbbbZTK08HxtEyCRpJErd_f_nog/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7507k8WJHrhTpkuqIbbbZTK08HxtEyCRpJErd_f_nog/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

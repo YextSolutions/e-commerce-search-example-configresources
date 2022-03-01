@@ -1,0 +1,16 @@
+{
+  "$id": "p41465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "22.22",
+    "c_numberReviews": "20",
+    "c_priceRange": "$22.22 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/alberta-pure-vodka/p41465",
+    "name": "Alberta Pure Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

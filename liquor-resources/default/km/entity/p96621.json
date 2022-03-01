@@ -1,0 +1,17 @@
+{
+  "$id": "p96621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "83.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$23.99 - $83.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/foursquare-rum-probitas-rum/p96621",
+    "name": "Foursquare Rum Probitas Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

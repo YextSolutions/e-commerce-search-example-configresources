@@ -1,0 +1,17 @@
+{
+  "$id": "p5129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "47.77",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "650",
+    "c_priceRange": "$9.99 - $47.77",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/jagermeister/p5129",
+    "name": "Jägermeister"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

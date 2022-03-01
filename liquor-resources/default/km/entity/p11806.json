@@ -1,0 +1,17 @@
+{
+  "$id": "p11806",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "55.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.99 - $55.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/au-contraire-pinot-noir-sonoma-coast/p11806",
+    "name": "Au Contraire Pinot Noir - Sonoma Coast"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

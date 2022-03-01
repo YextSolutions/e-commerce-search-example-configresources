@@ -1,0 +1,16 @@
+{
+  "$id": "p145477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "29.09",
+    "c_numberReviews": "2",
+    "c_priceRange": "$29.09 - $65.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/belvedere-organic-infusions-lemon-and-basil-vodka/p145477",
+    "name": "Belvedere Organic Infusions Lemon \u0026 Basil Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

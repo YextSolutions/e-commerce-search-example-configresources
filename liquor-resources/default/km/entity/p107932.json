@@ -1,0 +1,17 @@
+{
+  "$id": "p107932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "26.44",
+    "c_minPrice": "16.77",
+    "c_numberReviews": "13",
+    "c_priceRange": "$16.77 - $26.44",
+    "c_subCategory": "White Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/avaline-white-blend/p107932",
+    "name": "Avaline White Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

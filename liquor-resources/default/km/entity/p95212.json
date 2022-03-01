@@ -1,0 +1,17 @@
+{
+  "$id": "p95212",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "38.81",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$10.99 - $38.81",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/montauk-pilsner/p95212",
+    "name": "Montauk Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

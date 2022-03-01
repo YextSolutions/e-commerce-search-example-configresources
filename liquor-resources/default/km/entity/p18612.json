@@ -1,0 +1,16 @@
+{
+  "$id": "p18612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.99 - $9.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/zelko-vodka/p18612",
+    "name": "Zelko Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

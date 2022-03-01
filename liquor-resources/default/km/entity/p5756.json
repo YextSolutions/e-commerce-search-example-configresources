@@ -1,0 +1,17 @@
+{
+  "$id": "p5756",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "62.69",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "242",
+    "c_priceRange": "$10.00 - $62.69",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/1800-reserva-coconut-tequila/p5756",
+    "name": "1800 Reserva Coconut Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

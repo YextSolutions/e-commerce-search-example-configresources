@@ -1,0 +1,17 @@
+{
+  "$id": "p122768",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "14",
+    "c_priceRange": "$9.89 - $29.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/cigar-city-jai-low-ipa/p122768",
+    "name": "Cigar City Jai Low IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

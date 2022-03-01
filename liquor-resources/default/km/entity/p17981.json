@@ -1,0 +1,17 @@
+{
+  "$id": "p17981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "22.75",
+    "c_minPrice": "8.42",
+    "c_numberReviews": "48",
+    "c_priceRange": "$8.42 - $22.75",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/windsor-canadian-blended-whiskey/p17981",
+    "name": "Windsor Canadian Blended Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

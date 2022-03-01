@@ -1,0 +1,44 @@
+{
+  "$id": "p3193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "169.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "269",
+    "c_priceRange": "$8.79 - $169.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/el-jimador-reposado-tequila/p3193",
+    "name": "El Jimador Reposado Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-el-jimador-reposado-cb19dc4c2e1e2711.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/QwXyOR76Dg0oE_-_Saq63AiqLoKKYn6KyD6O_HMvNjE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/QwXyOR76Dg0oE_-_Saq63AiqLoKKYn6KyD6O_HMvNjE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/QwXyOR76Dg0oE_-_Saq63AiqLoKKYn6KyD6O_HMvNjE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QwXyOR76Dg0oE_-_Saq63AiqLoKKYn6KyD6O_HMvNjE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p18386",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "4",
+    "c_priceRange": "$12.09 - $35.99",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/gloria-ferrer-blanc-de-noir-rose/p18386",
+    "name": "Gloria Ferrer Blanc de Noir Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

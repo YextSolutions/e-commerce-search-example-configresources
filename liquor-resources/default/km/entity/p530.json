@@ -1,0 +1,17 @@
+{
+  "$id": "p530",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "90.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$49.99 - $90.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/123-organic-anejo-tequila-tres/p530",
+    "name": "123 Organic Añejo Tequila (Tres)"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

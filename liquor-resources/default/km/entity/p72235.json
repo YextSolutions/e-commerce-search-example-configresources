@@ -1,0 +1,44 @@
+{
+  "$id": "p72235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "44.63",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$12.99 - $44.63",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/black-button-bespoke-bourbon-cream/p72235",
+    "name": "Black Button Bespoke Bourbon Cream",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-black-button-bespoke-bourbon-cream-dd5ecdd7f8a626c5.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/UlXjGWaf15_v9YIVFooviexJ4Ovzu4eZgFXEaS3YUeI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UlXjGWaf15_v9YIVFooviexJ4Ovzu4eZgFXEaS3YUeI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/UlXjGWaf15_v9YIVFooviexJ4Ovzu4eZgFXEaS3YUeI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UlXjGWaf15_v9YIVFooviexJ4Ovzu4eZgFXEaS3YUeI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

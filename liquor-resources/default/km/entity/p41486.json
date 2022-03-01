@@ -1,0 +1,17 @@
+{
+  "$id": "p41486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.90",
+    "c_numberReviews": "15",
+    "c_priceRange": "$10.90 - $19.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/pfriem-ipa/p41486",
+    "name": "pFriem IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

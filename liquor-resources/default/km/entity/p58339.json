@@ -1,0 +1,44 @@
+{
+  "$id": "p58339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$4.99 - $12.99",
+    "c_subCategory": "Marsala",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/marsala/opici-marsala/p58339",
+    "name": "Opici Marsala",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-opici-marsala-01222126717083b5.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/6eB2N4xLMhYA5iyTXh7xJ56MP0VZ6Z7GIXC1e7W4QXA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6eB2N4xLMhYA5iyTXh7xJ56MP0VZ6Z7GIXC1e7W4QXA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6eB2N4xLMhYA5iyTXh7xJ56MP0VZ6Z7GIXC1e7W4QXA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6eB2N4xLMhYA5iyTXh7xJ56MP0VZ6Z7GIXC1e7W4QXA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

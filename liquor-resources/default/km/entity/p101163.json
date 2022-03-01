@@ -1,0 +1,17 @@
+{
+  "$id": "p101163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "21.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $21.49",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/gemma-di-luna-prosecco/p101163",
+    "name": "Gemma Di Luna Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

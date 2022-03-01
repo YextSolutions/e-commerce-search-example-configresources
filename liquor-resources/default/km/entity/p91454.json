@@ -1,0 +1,16 @@
+{
+  "$id": "p91454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$8.99 - $18.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/garys-good-vodka/p91454",
+    "name": "Gary\u0027s Good Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p11611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$5.99 - $27.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/wente-vineyards-morning-fog-chardonnay/p11611",
+    "name": "Wente Vineyards Morning Fog Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

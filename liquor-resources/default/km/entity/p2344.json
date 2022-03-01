@@ -1,0 +1,43 @@
+{
+  "$id": "p2344",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rioja Blend",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "264",
+    "c_priceRange": "$5.99 - $29.99",
+    "landingPageUrl": "https://drizly.com/wine/rioja-blend/campo-viejo-tempranillo/p2344",
+    "name": "Campo Viejo Tempranillo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-campo-viejo-rioja-e2c10fa575997e80.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/7x57dCFyTXqWGmepygaYgvooIJB4M3cW_p4Wb0LdJ2M/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7x57dCFyTXqWGmepygaYgvooIJB4M3cW_p4Wb0LdJ2M/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7x57dCFyTXqWGmepygaYgvooIJB4M3cW_p4Wb0LdJ2M/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7x57dCFyTXqWGmepygaYgvooIJB4M3cW_p4Wb0LdJ2M/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

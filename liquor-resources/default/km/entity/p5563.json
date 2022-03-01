@@ -1,0 +1,16 @@
+{
+  "$id": "p5563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "16.49",
+    "c_numberReviews": "26",
+    "c_priceRange": "$16.49 - $45.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/hangar-1-vodka/p5563",
+    "name": "Hangar 1 Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

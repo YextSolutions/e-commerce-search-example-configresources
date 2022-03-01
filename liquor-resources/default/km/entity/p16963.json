@@ -1,0 +1,17 @@
+{
+  "$id": "p16963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.85",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$3.99 - $24.85",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/ruffino-docg-moscato-dasti-italian-white-wine/p16963",
+    "name": "Ruffino DOCG Moscato d\u0027Asti Italian White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

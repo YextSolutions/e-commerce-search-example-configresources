@@ -1,0 +1,17 @@
+{
+  "$id": "p87347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$3.99 - $32.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/sweetwater-420-g13-strain-ipa/p87347",
+    "name": "SweetWater 420 G13 Strain IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p128075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "223",
+    "c_priceRange": "$12.99 - $34.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/la-marca-prosecco-rose-doc/p128075",
+    "name": "La Marca Prosecco Rosé D.O.C."
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

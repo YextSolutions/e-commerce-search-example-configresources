@@ -1,0 +1,17 @@
+{
+  "$id": "p47869",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.50",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$6.99 - $16.50",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/vigneti-sole-montepulciano-dabruzzo/p47869",
+    "name": "Vigneti Sole Montepulciano D\u0027abruzzo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

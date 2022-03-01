@@ -1,0 +1,16 @@
+{
+  "$id": "p103958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "153",
+    "c_priceRange": "$5.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/stella-rosa-watermelon/p103958",
+    "name": "Stella Rosa Watermelon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

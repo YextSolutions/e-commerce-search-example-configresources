@@ -1,0 +1,44 @@
+{
+  "$id": "p5838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "320.99",
+    "c_minPrice": "68.19",
+    "c_numberReviews": "11",
+    "c_priceRange": "$68.19 - $320.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/jose-cuervo-reserva-de-la-familia-extra-anejo/p5838",
+    "name": "Jose Cuervo Reserva De La Familia Extra Anejo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-jose-cuervo-reserva-de-la-familia-extra-anejo-3c51c7a401800b1f.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/z7PDEKCUDu2h93K5XuTAeeE9RJqUHER4jXj71K9Fl0Q/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/z7PDEKCUDu2h93K5XuTAeeE9RJqUHER4jXj71K9Fl0Q/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/z7PDEKCUDu2h93K5XuTAeeE9RJqUHER4jXj71K9Fl0Q/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/z7PDEKCUDu2h93K5XuTAeeE9RJqUHER4jXj71K9Fl0Q/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p4855",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "1.41",
+    "c_numberReviews": "25",
+    "c_priceRange": "$1.41 - $35.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/st-pauli-girl-non-alcoholic/p4855",
+    "name": "St. Pauli Girl Non-Alcoholic"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

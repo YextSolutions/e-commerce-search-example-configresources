@@ -1,0 +1,17 @@
+{
+  "$id": "p3749",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "44",
+    "c_priceRange": "$5.49 - $30.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/oskar-blues-mamas-little-yella-pils/p3749",
+    "name": "Oskar Blues Mama\u0027s Little Yella Pils"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

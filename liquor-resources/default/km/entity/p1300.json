@@ -1,0 +1,44 @@
+{
+  "$id": "p1300",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "9.19",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.19 - $21.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/penfolds-koonunga-hill-shiraz-cabernet/p1300",
+    "name": "Penfolds Koonunga Hill Shiraz Cabernet",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-penfolds-koonunga-hill-shiraz-cabernet-6c1235db0a239265.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/guK3vDRQEhqwi9aBeyo7VUfiJub-RHK_RsOJw1Cr3MA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/guK3vDRQEhqwi9aBeyo7VUfiJub-RHK_RsOJw1Cr3MA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/guK3vDRQEhqwi9aBeyo7VUfiJub-RHK_RsOJw1Cr3MA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/guK3vDRQEhqwi9aBeyo7VUfiJub-RHK_RsOJw1Cr3MA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

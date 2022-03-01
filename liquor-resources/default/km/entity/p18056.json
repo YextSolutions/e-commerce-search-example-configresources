@@ -1,0 +1,17 @@
+{
+  "$id": "p18056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "39.95",
+    "c_minPrice": "12.13",
+    "c_numberReviews": "4",
+    "c_priceRange": "$12.13 - $39.95",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/locations-i-by-dave-phinney-italian-red-blend/p18056",
+    "name": "Locations I by Dave Phinney – Italian Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

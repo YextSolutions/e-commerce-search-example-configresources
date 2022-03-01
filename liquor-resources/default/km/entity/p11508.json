@@ -1,0 +1,44 @@
+{
+  "$id": "p11508",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.09",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$5.99 - $23.09",
+    "c_subCategory": "Pais",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pais/carlo-rossi-paisano/p11508",
+    "name": "Carlo Rossi Paisano",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-carlo-rossi-paisano-69dd42557f8a4478.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeMfyRHs7MJ4yguA37brCRO3jv1DA_n7Xnu1ZgYWjTc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeMfyRHs7MJ4yguA37brCRO3jv1DA_n7Xnu1ZgYWjTc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/aeMfyRHs7MJ4yguA37brCRO3jv1DA_n7Xnu1ZgYWjTc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/aeMfyRHs7MJ4yguA37brCRO3jv1DA_n7Xnu1ZgYWjTc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

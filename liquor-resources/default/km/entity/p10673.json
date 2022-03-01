@@ -1,0 +1,17 @@
+{
+  "$id": "p10673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.98 - $13.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/natale-verga-prosecco/p10673",
+    "name": "Natale Verga Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

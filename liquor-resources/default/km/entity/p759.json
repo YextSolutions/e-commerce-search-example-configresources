@@ -1,0 +1,17 @@
+{
+  "$id": "p759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "119.88",
+    "c_minPrice": "36.26",
+    "c_numberReviews": "13",
+    "c_priceRange": "$36.26 - $119.88",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/auchentoshan-12-year-lowland-single-malt-scotch/p759",
+    "name": "Auchentoshan 12 Year Lowland Single Malt Scotch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p3598",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.00",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.99 - $13.00",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/great-divide-denver-pale-ale/p3598",
+    "name": "Great Divide Denver Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

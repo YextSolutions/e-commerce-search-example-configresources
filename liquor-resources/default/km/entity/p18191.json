@@ -1,0 +1,43 @@
+{
+  "$id": "p18191",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "96",
+    "c_priceRange": "$14.99 - $65.00",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/1800-ultimate-pineapple-margarita/p18191",
+    "name": "1800 Ultimate Pineapple Margarita",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-1800-ultimate-pineapple-margarita-31920bae3bb9f3f7.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/bWGHAzoNF3N7qW48j95NJahDlDD0L1nKegmCl9I-vyQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/bWGHAzoNF3N7qW48j95NJahDlDD0L1nKegmCl9I-vyQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/bWGHAzoNF3N7qW48j95NJahDlDD0L1nKegmCl9I-vyQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bWGHAzoNF3N7qW48j95NJahDlDD0L1nKegmCl9I-vyQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

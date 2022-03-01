@@ -1,0 +1,16 @@
+{
+  "$id": "p23594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "17.97",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$2.99 - $17.97",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/liqs-vodka-kamikaze/p23594",
+    "name": "LIQS Vodka Kamikaze"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

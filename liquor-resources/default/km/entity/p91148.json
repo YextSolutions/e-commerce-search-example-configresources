@@ -1,0 +1,17 @@
+{
+  "$id": "p91148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "19.98",
+    "c_numberReviews": "3",
+    "c_priceRange": "$19.98 - $76.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/mer-soleil-reserve-santa-lucia-highlands-pinot-noir/p91148",
+    "name": "Mer Soleil Reserve Santa Lucia Highlands Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

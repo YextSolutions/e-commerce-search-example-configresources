@@ -1,0 +1,17 @@
+{
+  "$id": "p70715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "83.15",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$24.99 - $83.15",
+    "c_subCategory": "Blended Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/blended-whiskey/copper-dog-speyside-blended-scotch-whisky/p70715",
+    "name": "Copper Dog Speyside Blended Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

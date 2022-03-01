@@ -1,0 +1,17 @@
+{
+  "$id": "p85095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "12.64",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$5.99 - $12.64",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/papi-moscato-demi-sec/p85095",
+    "name": "Papi Moscato Demi-Sec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

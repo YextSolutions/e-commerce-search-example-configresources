@@ -1,0 +1,17 @@
+{
+  "$id": "p6712",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$18.99 - $76.99",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/la-pinta-pomegranate-tequila/p6712",
+    "name": "La Pinta Pomegranate Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

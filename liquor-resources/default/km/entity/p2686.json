@@ -1,0 +1,45 @@
+{
+  "$id": "p2686",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$8.99 - $34.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Witbier",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/witbier/cisco-brewers-grey-lady-wheat-ale/p2686",
+    "name": "Cisco Brewers Grey Lady Wheat Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-cisco-grey-lady-b48e1ed599b744eb.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EU6rXvWIrFF_Kgg6MkQqy_yrz6tWIW5OFgSHatNNv-U/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EU6rXvWIrFF_Kgg6MkQqy_yrz6tWIW5OFgSHatNNv-U/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EU6rXvWIrFF_Kgg6MkQqy_yrz6tWIW5OFgSHatNNv-U/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EU6rXvWIrFF_Kgg6MkQqy_yrz6tWIW5OFgSHatNNv-U/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

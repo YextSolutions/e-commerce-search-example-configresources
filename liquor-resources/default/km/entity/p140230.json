@@ -1,0 +1,18 @@
+{
+  "$id": "p140230",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "2.50",
+    "c_numberReviews": "14",
+    "c_priceRange": "$2.50 - $15.99",
+    "c_subCategory": "Fruit Beer",
+    "c_type": "Shandy",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/shandy/goose-island-312-lemonade-shandy/p140230",
+    "name": "Goose Island 312 Lemonade Shandy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

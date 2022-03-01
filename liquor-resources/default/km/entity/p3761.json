@@ -1,0 +1,18 @@
+{
+  "$id": "p3761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "55.77",
+    "c_minPrice": "2.08",
+    "c_numberReviews": "679",
+    "c_priceRange": "$2.08 - $55.77",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/pabst-blue-ribbon/p3761",
+    "name": "Pabst Blue Ribbon"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

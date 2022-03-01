@@ -1,0 +1,17 @@
+{
+  "$id": "p134199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "57.77",
+    "c_minPrice": "20.89",
+    "c_numberReviews": "231",
+    "c_priceRange": "$20.89 - $57.77",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-limited-edition-summer-citrus/p134199",
+    "name": "CIROC Limited Edition Summer Citrus"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

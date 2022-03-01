@@ -1,0 +1,16 @@
+{
+  "$id": "p62474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$8.99",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/bud-light-chelada-extra-lime-with-clamato/p62474",
+    "name": "Bud Light Chelada Extra Lime with Clamato"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

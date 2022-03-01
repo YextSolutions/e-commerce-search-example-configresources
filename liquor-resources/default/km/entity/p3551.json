@@ -1,0 +1,18 @@
+{
+  "$id": "p3551",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.79 - $26.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Saison",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/saison/goose-island-sofie/p3551",
+    "name": "Goose Island Sofie Farmhouse Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

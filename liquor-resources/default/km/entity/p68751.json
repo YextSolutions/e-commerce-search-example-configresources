@@ -1,0 +1,44 @@
+{
+  "$id": "p68751",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.99 - $36.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/drakes-best-coast-ipa/p68751",
+    "name": "Drake\u0027s Best Coast IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-drakes-ipa-2fd0f94e4b1357dd.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/G4GESE_bgxdcVroVhTl38jTM0y_gzkewcvBfX7_ayaM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/G4GESE_bgxdcVroVhTl38jTM0y_gzkewcvBfX7_ayaM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/G4GESE_bgxdcVroVhTl38jTM0y_gzkewcvBfX7_ayaM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/G4GESE_bgxdcVroVhTl38jTM0y_gzkewcvBfX7_ayaM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

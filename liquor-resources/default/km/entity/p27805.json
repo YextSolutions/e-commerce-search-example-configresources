@@ -1,0 +1,17 @@
+{
+  "$id": "p27805",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.89",
+    "c_numberReviews": "1",
+    "c_priceRange": "$8.89 - $15.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/canadian-hunter-canadian-whiskey/p27805",
+    "name": "Canadian Hunter Canadian Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

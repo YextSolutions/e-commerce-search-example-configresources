@@ -1,0 +1,17 @@
+{
+  "$id": "p71783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "13.95",
+    "c_numberReviews": "7",
+    "c_priceRange": "$13.95 - $22.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/gd-vajra-langhe-rosso/p71783",
+    "name": "G.D. Vajra Langhe Rosso"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

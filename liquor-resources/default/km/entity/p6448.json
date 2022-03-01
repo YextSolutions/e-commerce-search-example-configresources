@@ -1,0 +1,17 @@
+{
+  "$id": "p6448",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "50.59",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "59",
+    "c_priceRange": "$9.99 - $50.59",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/rhum-barbancourt-5-star-8-year/p6448",
+    "name": "Rhum Barbancourt 5 star 8 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

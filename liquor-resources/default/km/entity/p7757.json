@@ -1,0 +1,16 @@
+{
+  "$id": "p7757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "8.55",
+    "c_numberReviews": "195",
+    "c_priceRange": "$8.55 - $30.79",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/seagrams-vodka-extra-smooth/p7757",
+    "name": "Seagram\u0027s Vodka Extra Smooth"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

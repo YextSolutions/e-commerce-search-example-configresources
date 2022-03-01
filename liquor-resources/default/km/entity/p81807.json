@@ -1,0 +1,18 @@
+{
+  "$id": "p81807",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "20.79",
+    "c_numberReviews": "1",
+    "c_priceRange": "$20.79 - $39.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/revolution-deths-tar-barrel-aged-imperial-oatmeal-stout/p81807",
+    "name": "Revolution Deth\u0027s Tar Barrel-Aged Imperial Oatmeal Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

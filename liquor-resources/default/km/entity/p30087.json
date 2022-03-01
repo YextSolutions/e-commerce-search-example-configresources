@@ -1,0 +1,17 @@
+{
+  "$id": "p30087",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "1.88",
+    "c_numberReviews": "88",
+    "c_priceRange": "$1.88 - $11.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/dailys-ready-to-drink-peach-on-the-beach-frozen-cocktail/p30087",
+    "name": "Daily\u0027s Ready-To-Drink Peach On The Beach Frozen Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

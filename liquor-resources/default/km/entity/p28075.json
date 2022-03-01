@@ -1,0 +1,17 @@
+{
+  "$id": "p28075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.99 - $45.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/diora-la-petite-grace-pinot-noir/p28075",
+    "name": "Diora La Petite Grace Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

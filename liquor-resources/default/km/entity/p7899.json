@@ -1,0 +1,17 @@
+{
+  "$id": "p7899",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "34.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$34.49 - $89.99",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/taylor-fladgate-20-year-tawny/p7899",
+    "name": "Taylor Fladgate 20 Year Tawny"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

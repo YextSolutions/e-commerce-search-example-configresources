@@ -1,0 +1,45 @@
+{
+  "$id": "p16150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.96",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.79 - $18.96",
+    "c_subCategory": "Stout",
+    "c_type": "Milk Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/milk-stout/odell-lugene-chocolate-milk-stout/p16150",
+    "name": "Odell Lugene Chocolate Milk Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-odell-lugene-chocolate-milk-stout-8a2ed992d30a1427.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/61ms_XPy1VdZhHHVYPZ2Rr0KpvsIYnQqjnUOPGs8F-k/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/61ms_XPy1VdZhHHVYPZ2Rr0KpvsIYnQqjnUOPGs8F-k/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/61ms_XPy1VdZhHHVYPZ2Rr0KpvsIYnQqjnUOPGs8F-k/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/61ms_XPy1VdZhHHVYPZ2Rr0KpvsIYnQqjnUOPGs8F-k/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

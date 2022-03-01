@@ -1,0 +1,17 @@
+{
+  "$id": "p5306",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "6",
+    "c_priceRange": "$14.29 - $32.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/stoli-salted-karamel/p5306",
+    "name": "Stoli® Salted Karamel"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

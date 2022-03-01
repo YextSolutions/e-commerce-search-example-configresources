@@ -1,0 +1,17 @@
+{
+  "$id": "p11512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "52",
+    "c_priceRange": "$5.49 - $18.99",
+    "c_subCategory": "Valpolicella Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/valpolicella-blend/bolla-valpolicella/p11512",
+    "name": "Bolla Valpolicella"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

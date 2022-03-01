@@ -1,0 +1,17 @@
+{
+  "$id": "p60442",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "134",
+    "c_priceRange": "$14.99 - $49.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/cooper-and-thief-bourbon-barrel-aged-red-blend-red-wine/p60442",
+    "name": "Cooper and Thief Bourbon Barrel Aged Red Blend Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

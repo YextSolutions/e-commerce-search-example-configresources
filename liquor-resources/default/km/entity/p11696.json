@@ -1,0 +1,17 @@
+{
+  "$id": "p11696",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "11.20",
+    "c_numberReviews": "47",
+    "c_priceRange": "$11.20 - $37.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/kendall-jackson-vintners-reserve-merlot/p11696",
+    "name": "Kendall-Jackson Vintner\u0027s Reserve Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

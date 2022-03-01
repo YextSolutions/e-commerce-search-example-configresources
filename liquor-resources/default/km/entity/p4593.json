@@ -1,0 +1,17 @@
+{
+  "$id": "p4593",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "4.31",
+    "c_numberReviews": "148",
+    "c_priceRange": "$4.31 - $31.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/shock-top-belgian-white/p4593",
+    "name": "Shock Top Belgian White"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

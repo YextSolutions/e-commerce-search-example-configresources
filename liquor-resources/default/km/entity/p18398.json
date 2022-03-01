@@ -1,0 +1,17 @@
+{
+  "$id": "p18398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "10",
+    "c_priceRange": "$12.09 - $34.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/prairie-organic-cucumber-flavored-vodka/p18398",
+    "name": "Prairie Organic Cucumber Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

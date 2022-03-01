@@ -1,0 +1,17 @@
+{
+  "$id": "p18768",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "13.97",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.97 - $49.99",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/cruzan-estate-diamond-dark-rum/p18768",
+    "name": "Cruzan Estate Diamond Dark Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

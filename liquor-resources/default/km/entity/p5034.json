@@ -1,0 +1,16 @@
+{
+  "$id": "p5034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "25",
+    "c_priceRange": "$8.79 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/hiram-walker-peach-schnapps/p5034",
+    "name": "Hiram Walker Peach Schnapps"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

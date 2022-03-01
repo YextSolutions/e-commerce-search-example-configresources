@@ -1,0 +1,17 @@
+{
+  "$id": "p1193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "439.99",
+    "c_minPrice": "22.58",
+    "c_numberReviews": "849",
+    "c_priceRange": "$22.58 - $439.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/knob-creek-kentucky-straight-bourbon-whiskey/p1193",
+    "name": "Knob Creek Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

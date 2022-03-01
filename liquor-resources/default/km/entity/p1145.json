@@ -1,0 +1,45 @@
+{
+  "$id": "p1145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "5.41",
+    "c_numberReviews": "61",
+    "c_priceRange": "$5.41 - $32.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/molson-canadian/p1145",
+    "name": "Molson Canadian",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-molson-canadian-c8a7a4bf83563d02.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqbUDww_XAIdArH2owX9Y3HMqgrV5BzCSHuwqyN0GJE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqbUDww_XAIdArH2owX9Y3HMqgrV5BzCSHuwqyN0GJE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yqbUDww_XAIdArH2owX9Y3HMqgrV5BzCSHuwqyN0GJE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yqbUDww_XAIdArH2owX9Y3HMqgrV5BzCSHuwqyN0GJE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

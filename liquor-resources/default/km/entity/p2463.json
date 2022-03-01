@@ -1,0 +1,17 @@
+{
+  "$id": "p2463",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.89 - $24.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/cave-de-lugny-macon-villages-la-cote-blanche-chardonnay/p2463",
+    "name": "Cave de Lugny Macon-Villages \u0027La Cote Blanche\u0027 Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "5.94",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.94 - $14.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/los-dos-red-blend/p1488",
+    "name": "Los Dos Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

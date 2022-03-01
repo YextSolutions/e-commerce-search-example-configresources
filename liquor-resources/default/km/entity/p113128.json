@@ -1,0 +1,17 @@
+{
+  "$id": "p113128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.98 - $17.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/prophecy-butter-chardonnay/p113128",
+    "name": "Prophecy Butter Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

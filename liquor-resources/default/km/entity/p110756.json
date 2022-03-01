@@ -1,0 +1,17 @@
+{
+  "$id": "p110756",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.77",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "92",
+    "c_priceRange": "$11.99 - $32.77",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/bud-light-seltzer-remix-edition/p110756",
+    "name": "Bud Light Seltzer Remix Edition"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

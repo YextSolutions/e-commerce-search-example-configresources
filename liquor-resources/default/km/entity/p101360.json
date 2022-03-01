@@ -1,0 +1,16 @@
+{
+  "$id": "p101360",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "55.96",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "47",
+    "c_priceRange": "$1.99 - $55.96",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/long-drink-zero-citrus-soda-real-liquor/p101360",
+    "name": "Long Drink Zero - Citrus soda. Real liquor."
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p93341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$19.99 - $69.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/balcones-texas-pot-still-bourbon/p93341",
+    "name": "Balcones Texas Pot Still Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

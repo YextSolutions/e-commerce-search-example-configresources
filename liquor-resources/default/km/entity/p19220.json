@@ -1,0 +1,17 @@
+{
+  "$id": "p19220",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "26.69",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$9.99 - $26.69",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/joel-gott-oregon-pinot-gris-white-wine-750ml-wine-bottle/p19220",
+    "name": "Joel Gott Oregon Pinot Gris White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p12438",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.99 - $27.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/pinnacle-peach-vodka/p12438",
+    "name": "Pinnacle Peach Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-pinnacle-peach-flavored-vodka-81ccebf7e5c7477c.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7KN9XKgaFrl-v52VYXjiHu2PCxGfeZ4kapZyp7LJjA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7KN9XKgaFrl-v52VYXjiHu2PCxGfeZ4kapZyp7LJjA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/N7KN9XKgaFrl-v52VYXjiHu2PCxGfeZ4kapZyp7LJjA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/N7KN9XKgaFrl-v52VYXjiHu2PCxGfeZ4kapZyp7LJjA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

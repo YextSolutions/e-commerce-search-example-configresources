@@ -1,0 +1,17 @@
+{
+  "$id": "p2881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.70",
+    "c_numberReviews": "1122",
+    "c_priceRange": "$9.70 - $39.99",
+    "c_subCategory": "Gold Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/gold-tequila/jose-cuervo-especial-gold/p2881",
+    "name": "Jose Cuervo Especial Gold"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

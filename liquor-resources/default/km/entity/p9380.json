@@ -1,0 +1,18 @@
+{
+  "$id": "p9380",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "Bitter Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/bitter-ale/fullers-london-pride/p9380",
+    "name": "Fuller\u0027s London Pride"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "17",
+    "c_priceRange": "$9.89 - $29.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/talbott-kali-hart-chardonnay/p7131",
+    "name": "Talbott Kali Hart Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

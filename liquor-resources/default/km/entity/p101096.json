@@ -1,0 +1,46 @@
+{
+  "$id": "p101096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "18.00",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "66",
+    "c_priceRange": "$8.99 - $18.00",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "White Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/white-sangria/barefoot-fruitscato-apple-sweet-wine/p101096",
+    "name": "Barefoot Fruitscato Apple Sweet Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-barefoot-fruitscato-apple-41467e4bdf75b734.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/_1akssM9MG6z8vWd0NRQx4SkrqexK16Mb3Tq2XNZU8U/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/_1akssM9MG6z8vWd0NRQx4SkrqexK16Mb3Tq2XNZU8U/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/_1akssM9MG6z8vWd0NRQx4SkrqexK16Mb3Tq2XNZU8U/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_1akssM9MG6z8vWd0NRQx4SkrqexK16Mb3Tq2XNZU8U/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

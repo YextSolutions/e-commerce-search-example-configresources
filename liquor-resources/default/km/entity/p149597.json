@@ -1,0 +1,17 @@
+{
+  "$id": "p149597",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$29.99 - $65.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/belvedere-organic-infusions-blackberry-and-lemongrass/p149597",
+    "name": "Belvedere Organic Infusions Blackberry \u0026 Lemongrass"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

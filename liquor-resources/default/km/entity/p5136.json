@@ -1,0 +1,17 @@
+{
+  "$id": "p5136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "220.00",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$19.99 - $220.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/james-e-pepper-1776-straight-bourbon-whiskey/p5136",
+    "name": "James E. Pepper 1776 Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

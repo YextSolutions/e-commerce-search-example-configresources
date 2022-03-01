@@ -1,0 +1,16 @@
+{
+  "$id": "p96111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$16.99 - $19.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/colorado-native-trail-pack-variety-pack/p96111",
+    "name": "Colorado Native Trail Pack Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p5033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "8.81",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.81 - $29.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/hiram-walker-kirschwasser/p5033",
+    "name": "Hiram Walker Kirschwasser"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

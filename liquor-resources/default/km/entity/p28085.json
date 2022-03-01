@@ -1,0 +1,17 @@
+{
+  "$id": "p28085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "9.49",
+    "c_minPrice": "3.00",
+    "c_numberReviews": "72",
+    "c_priceRange": "$3.00 - $9.49",
+    "c_subCategory": "Shots Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/shots-ready-to-drink/twisted-shotz-sex-on-the-beach/p28085",
+    "name": "Twisted Shotz Sex On the Beach"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

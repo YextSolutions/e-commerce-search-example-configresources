@@ -1,0 +1,16 @@
+{
+  "$id": "p72725",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$17.99",
+    "c_subCategory": "Coffee Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/coffee-liqueur/frappachata-original-iced-coffee/p72725",
+    "name": "FrappaChata Original Iced Coffee"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p13438",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "12.62",
+    "c_numberReviews": "48",
+    "c_priceRange": "$12.62 - $47.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/effen-vodka/p13438",
+    "name": "EFFEN Original Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

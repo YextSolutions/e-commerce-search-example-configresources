@@ -1,0 +1,17 @@
+{
+  "$id": "p1279",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "84.95",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "157",
+    "c_priceRange": "$16.99 - $84.95",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/milagro-reposado-tequila/p1279",
+    "name": "Milagro Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15687",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "28.07",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$5.99 - $28.07",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/carlo-rossi-merlot/p15687",
+    "name": "Carlo Rossi Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p115843",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "6422.00",
+    "c_minPrice": "39.59",
+    "c_numberReviews": "3",
+    "c_priceRange": "$39.59 - $6422.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/pinhook-20-vertical-series-bourbon-bourbon-war/p115843",
+    "name": "Pinhook 20 Vertical Series Bourbon | \"Bourbon War\""
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

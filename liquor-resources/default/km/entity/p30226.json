@@ -1,0 +1,17 @@
+{
+  "$id": "p30226",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "5.99",
+    "c_minPrice": "2.19",
+    "c_numberReviews": "73",
+    "c_priceRange": "$2.19 - $5.99",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/mikes-harder-strawberry-pineapple/p30226",
+    "name": "Mike\u0027s Harder Strawberry Pineapple"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

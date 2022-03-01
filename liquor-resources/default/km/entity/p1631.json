@@ -1,0 +1,17 @@
+{
+  "$id": "p1631",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$5.49 - $19.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/menage-a-trois-moscato-white-wine-750ml-wine-bottle/p1631",
+    "name": "Menage a Trois Moscato White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

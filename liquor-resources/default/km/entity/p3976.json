@@ -1,0 +1,17 @@
+{
+  "$id": "p3976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$25.99 - $109.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/pol-roger-brut-reserve/p3976",
+    "name": "Pol Roger Brut Réserve"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

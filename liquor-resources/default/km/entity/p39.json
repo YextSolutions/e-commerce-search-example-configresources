@@ -1,0 +1,17 @@
+{
+  "$id": "p39",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "15.81",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$4.99 - $15.81",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/stock-sweet-vermouth/p39",
+    "name": "Stock Sweet Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

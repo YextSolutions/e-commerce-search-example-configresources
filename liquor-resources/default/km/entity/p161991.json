@@ -1,0 +1,17 @@
+{
+  "$id": "p161991",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "153.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$49.99 - $153.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistlepig-roadstock-rye-whiskey/p161991",
+    "name": "Whistlepig Roadstock Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

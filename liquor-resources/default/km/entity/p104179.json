@@ -1,0 +1,44 @@
+{
+  "$id": "p104179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "69.29",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "98",
+    "c_priceRange": "$10.99 - $69.29",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/malibu-strawberry-rum/p104179",
+    "name": "Malibu Strawberry Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-malibu-strawberry-rum-f4c279b8e9e64b58.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/sXyTgJ_O0VF2yDFzu4p9sYO-BN99N4gZRe1o-OQawvg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/sXyTgJ_O0VF2yDFzu4p9sYO-BN99N4gZRe1o-OQawvg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/sXyTgJ_O0VF2yDFzu4p9sYO-BN99N4gZRe1o-OQawvg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/sXyTgJ_O0VF2yDFzu4p9sYO-BN99N4gZRe1o-OQawvg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

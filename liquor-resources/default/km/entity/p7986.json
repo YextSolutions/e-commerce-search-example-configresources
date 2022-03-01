@@ -1,0 +1,16 @@
+{
+  "$id": "p7986",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.09",
+    "c_numberReviews": "260",
+    "c_priceRange": "$8.09 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/evan-williams-original-southern-egg-nog/p7986",
+    "name": "Evan Williams Original Southern Egg Nog"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "115.00",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "394",
+    "c_priceRange": "$24.99 - $115.00",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/herradura-silver-tequila/p5006",
+    "name": "Herradura Silver Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

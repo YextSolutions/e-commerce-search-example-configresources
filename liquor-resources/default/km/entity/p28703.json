@@ -1,0 +1,17 @@
+{
+  "$id": "p28703",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "63",
+    "c_priceRange": "$8.04 - $16.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/calypso-spiced-rum/p28703",
+    "name": "Calypso Spiced Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

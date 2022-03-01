@@ -1,0 +1,16 @@
+{
+  "$id": "p1797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "12.95",
+    "c_numberReviews": "328",
+    "c_priceRange": "$12.95 - $34.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/absolut-peppar/p1797",
+    "name": "Absolut Peppar"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

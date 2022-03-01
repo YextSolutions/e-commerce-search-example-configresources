@@ -1,0 +1,17 @@
+{
+  "$id": "p86503",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$1.99 - $19.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-blueberry-and-acai-spiked-and-sparkling-water/p86503",
+    "name": "TRULY Hard Seltzer Blueberry \u0026 Acai, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

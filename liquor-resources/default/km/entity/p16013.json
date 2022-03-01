@@ -1,0 +1,17 @@
+{
+  "$id": "p16013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.04 - $15.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/burnetts-peach-vodka/p16013",
+    "name": "Burnett\u0027s Peach Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "3",
+    "c_priceRange": "$6.59 - $16.49",
+    "c_subCategory": "Petite Sirah",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/petite-sirah/cupcake-vineyards-petite-sirah-red-wine/p2893",
+    "name": "Cupcake® Vineyards Petite Sirah Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

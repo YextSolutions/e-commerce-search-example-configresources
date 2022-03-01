@@ -1,0 +1,17 @@
+{
+  "$id": "p736",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.99 - $27.99",
+    "c_subCategory": "Rolle",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/rolle/argiolas-vermentino-di-sardegna-costamolino/p736",
+    "name": "Argiolas Vermentino di Sardegna Costamolino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

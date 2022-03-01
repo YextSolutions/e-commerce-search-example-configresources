@@ -1,0 +1,18 @@
+{
+  "$id": "p102600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "10.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.99 - $10.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/dry-dock-brewing-seasonal/p102600",
+    "name": "Dry Dock Brewing Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

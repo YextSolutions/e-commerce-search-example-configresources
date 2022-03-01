@@ -1,0 +1,17 @@
+{
+  "$id": "p23740",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "25.28",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "56",
+    "c_priceRange": "$8.79 - $25.28",
+    "c_subCategory": "Gold Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/gold-tequila/margaritaville-tequila-gold/p23740",
+    "name": "Margaritaville Tequila Gold"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

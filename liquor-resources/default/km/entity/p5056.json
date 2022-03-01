@@ -1,0 +1,17 @@
+{
+  "$id": "p5056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.69",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.99 - $14.69",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/house-wine-cabernet-sauvignon/p5056",
+    "name": "House Wine Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

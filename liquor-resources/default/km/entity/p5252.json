@@ -1,0 +1,17 @@
+{
+  "$id": "p5252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "29.49",
+    "c_minPrice": "2.85",
+    "c_numberReviews": "46",
+    "c_priceRange": "$2.85 - $29.49",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/keystone-ice/p5252",
+    "name": "Keystone Ice"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

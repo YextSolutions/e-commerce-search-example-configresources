@@ -1,0 +1,17 @@
+{
+  "$id": "p4010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "87.99",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "48",
+    "c_priceRange": "$18.69 - $87.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/powers-gold-label/p4010",
+    "name": "Powers Gold Label"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p3537",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "67",
+    "c_priceRange": "$18.99 - $59.99",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/godiva-white-chocolate-liqueur/p3537",
+    "name": "Godiva White Chocolate Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

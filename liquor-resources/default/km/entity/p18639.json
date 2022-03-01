@@ -1,0 +1,17 @@
+{
+  "$id": "p18639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "119.99",
+    "c_minPrice": "44.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$44.99 - $119.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/ramey-cabernet-sauvignon/p18639",
+    "name": "Ramey Napa Valley Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

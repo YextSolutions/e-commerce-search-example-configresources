@@ -1,0 +1,17 @@
+{
+  "$id": "p63431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "1.99",
+    "c_minPrice": "0.79",
+    "c_numberReviews": "4",
+    "c_priceRange": "$0.79 - $1.99",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/99-peach-brandy/p63431",
+    "name": "99 Peach Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

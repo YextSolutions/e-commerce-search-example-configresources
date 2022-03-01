@@ -1,0 +1,17 @@
+{
+  "$id": "p18411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "10.69",
+    "c_numberReviews": "17",
+    "c_priceRange": "$10.69 - $25.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/cockburns-fine-ruby-port/p18411",
+    "name": "Cockburn\u0027s Fine Ruby Port"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p132906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.00",
+    "c_minPrice": "5.74",
+    "c_numberReviews": "14",
+    "c_priceRange": "$5.74 - $16.00",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/blue-moon-honey-daze-wheat-ale-beer/p132906",
+    "name": "Blue Moon Honey Daze Wheat Ale Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

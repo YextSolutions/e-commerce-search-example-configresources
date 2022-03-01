@@ -1,0 +1,17 @@
+{
+  "$id": "p108721",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "77.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$24.99 - $77.99",
+    "c_subCategory": "Shots Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/shots-ready-to-drink/high-west-old-fashioned-barrel-finished-ready-made-cocktail-whiskey/p108721",
+    "name": "High West Old Fashioned Barrel Finished Ready Made Cocktail Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

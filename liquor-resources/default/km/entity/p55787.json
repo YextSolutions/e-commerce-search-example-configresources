@@ -1,0 +1,17 @@
+{
+  "$id": "p55787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "48.99",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "30",
+    "c_priceRange": "$18.69 - $48.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/malfy-gin-con-limone/p55787",
+    "name": "Malfy Gin Con Limone"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

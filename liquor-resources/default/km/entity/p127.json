@@ -1,0 +1,17 @@
+{
+  "$id": "p127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "93",
+    "c_priceRange": "$29.99 - $99.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/taittinger-brut-la-francaise/p127",
+    "name": "Taittinger Brut La Francaise"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

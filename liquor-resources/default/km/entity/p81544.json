@@ -1,0 +1,17 @@
+{
+  "$id": "p81544",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$17.99 - $39.99",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/dulce-vida-real-pineapple-jalapeno-tequila/p81544",
+    "name": "Dulce Vida Real Pineapple Jalapeno Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p99148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.99 - $12.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/new-england-brewing-sea-hag/p99148",
+    "name": "New England Brewing Sea Hag"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

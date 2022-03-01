@@ -1,0 +1,17 @@
+{
+  "$id": "p18174",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.05",
+    "c_minPrice": "9.44",
+    "c_numberReviews": "32",
+    "c_priceRange": "$9.44 - $27.05",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/alamos-malbec-seleccion/p18174",
+    "name": "Alamos Malbec Seleccion"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

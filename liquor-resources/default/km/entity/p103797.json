@@ -1,0 +1,16 @@
+{
+  "$id": "p103797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.99 - $99.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/handy-and-schiller-barreled-manhattan/p103797",
+    "name": "Handy \u0026 Schiller Barreled Manhattan"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

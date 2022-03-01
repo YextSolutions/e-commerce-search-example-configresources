@@ -1,0 +1,17 @@
+{
+  "$id": "p120938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "41.18",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "14",
+    "c_priceRange": "$10.49 - $41.18",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/victory-merry-monkey/p120938",
+    "name": "Victory Merry Monkey"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

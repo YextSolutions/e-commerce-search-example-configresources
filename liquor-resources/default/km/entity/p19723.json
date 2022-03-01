@@ -1,0 +1,17 @@
+{
+  "$id": "p19723",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "58",
+    "c_priceRange": "$8.79 - $14.99",
+    "c_subCategory": "Mudslide Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mudslide-ready-to-drink/chi-chis-mexican-mudslide/p19723",
+    "name": "Chi Chi\u0027s Mexican Mudslide"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

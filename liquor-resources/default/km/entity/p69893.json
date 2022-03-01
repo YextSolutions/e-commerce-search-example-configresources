@@ -1,0 +1,17 @@
+{
+  "$id": "p69893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "7.80",
+    "c_numberReviews": "19",
+    "c_priceRange": "$7.80 - $12.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/markovic-estates-merlot-semi-sweet/p69893",
+    "name": "Markovic Estates Merlot Semi Sweet"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

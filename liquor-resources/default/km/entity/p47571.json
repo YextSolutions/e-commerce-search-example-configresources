@@ -1,0 +1,17 @@
+{
+  "$id": "p47571",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "32.14",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "68",
+    "c_priceRange": "$11.99 - $32.14",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/rum-haven-coconut/p47571",
+    "name": "RumHaven Caribbean Rum with Coconut Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p142164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "15.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$15.00 - $27.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/karbach-ranch-water-hard-seltzer-variety/p142164",
+    "name": "Karbach Ranch Water Hard Seltzer Variety"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

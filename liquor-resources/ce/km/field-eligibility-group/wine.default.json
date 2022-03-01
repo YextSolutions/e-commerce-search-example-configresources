@@ -1,0 +1,19 @@
+{
+  "$id": "ce_wine.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Wine-default",
+  "entityType": "ce_wine",
+  "fields": [
+    "c_category",
+    "c_maxPrice",
+    "c_minPrice",
+    "c_numberReviews",
+    "c_priceRange",
+    "c_subCategory",
+    "c_subType",
+    "c_type",
+    "landingPageUrl",
+    "photoGallery"
+  ],
+  "required": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "p25692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$6.99 - $14.99",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/90-cellars-mija-red-sangria/p25692",
+    "name": "90+ Cellars Mija Red Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

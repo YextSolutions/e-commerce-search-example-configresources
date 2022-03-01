@@ -1,0 +1,17 @@
+{
+  "$id": "p3426",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "36.98",
+    "c_minPrice": "16.01",
+    "c_numberReviews": "13",
+    "c_priceRange": "$16.01 - $36.98",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/frei-brothers-pinot-noir/p3426",
+    "name": "Frei Brothers Russian River Valley Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

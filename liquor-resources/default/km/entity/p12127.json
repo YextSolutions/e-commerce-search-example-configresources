@@ -1,0 +1,17 @@
+{
+  "$id": "p12127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "67.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "45",
+    "c_priceRange": "$19.99 - $67.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/la-crema-williamette-valley-pinot-noir/p12127",
+    "name": "La Crema Williamette Valley Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

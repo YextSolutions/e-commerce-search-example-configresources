@@ -1,0 +1,17 @@
+{
+  "$id": "p7049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$49.99 - $249.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/willett-family-estate-bottled-rye-4-year/p7049",
+    "name": "Willett Family Estate Bottled Rye 4 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

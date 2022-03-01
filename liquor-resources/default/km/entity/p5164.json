@@ -1,0 +1,17 @@
+{
+  "$id": "p5164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.99 - $26.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/joel-gott-chardonnay-white-wine-750ml-wine-bottle/p5164",
+    "name": "Joel Gott Chardonnay White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

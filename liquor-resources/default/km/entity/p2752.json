@@ -1,0 +1,17 @@
+{
+  "$id": "p2752",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "16.26",
+    "c_numberReviews": "31",
+    "c_priceRange": "$16.26 - $38.49",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/cocchi-americano-bianco/p2752",
+    "name": "Cocchi Americano Bianco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

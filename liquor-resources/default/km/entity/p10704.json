@@ -1,0 +1,16 @@
+{
+  "$id": "p10704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.49 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-cremes-de-cassis/p10704",
+    "name": "DeKuyper Creme de Cassis Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

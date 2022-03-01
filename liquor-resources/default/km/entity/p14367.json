@@ -1,0 +1,17 @@
+{
+  "$id": "p14367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "81.39",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "7372",
+    "c_priceRange": "$17.99 - $81.39",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/crown-royal-regal-apple-flavored-whisky/p14367",
+    "name": "Crown Royal Regal Apple Flavored Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

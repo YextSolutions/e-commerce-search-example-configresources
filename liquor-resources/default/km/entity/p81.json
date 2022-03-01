@@ -1,0 +1,17 @@
+{
+  "$id": "p81",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "42.79",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "103",
+    "c_priceRange": "$4.39 - $42.79",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/sutter-home-cabernet-sauvignon/p81",
+    "name": "Sutter Home Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

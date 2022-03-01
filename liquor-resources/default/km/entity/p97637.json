@@ -1,0 +1,17 @@
+{
+  "$id": "p97637",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "58",
+    "c_priceRange": "$15.99 - $99.99",
+    "c_subCategory": "Moonshine",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/moonshine/ole-smoky-butter-pecan-moonshine/p97637",
+    "name": "Ole Smoky Butter Pecan Moonshine"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

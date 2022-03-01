@@ -1,0 +1,16 @@
+{
+  "$id": "p2975",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "227.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$34.99 - $227.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/del-maguey-chichicapa-mezcal/p2975",
+    "name": "Del Maguey Chichicapa Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

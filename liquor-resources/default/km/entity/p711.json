@@ -1,0 +1,44 @@
+{
+  "$id": "p711",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "29.69",
+    "c_numberReviews": "300",
+    "c_priceRange": "$29.69 - $54.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/carpano-antica-formula-vermouth/p711",
+    "name": "Carpano Antica Formula Vermouth",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-carpano-antica-formula-vermouth-50d7e2e8a55a777a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HqnxGZ2uamm63UX2dd0pynU-aXBttdXUjmidEroXeF8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HqnxGZ2uamm63UX2dd0pynU-aXBttdXUjmidEroXeF8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HqnxGZ2uamm63UX2dd0pynU-aXBttdXUjmidEroXeF8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HqnxGZ2uamm63UX2dd0pynU-aXBttdXUjmidEroXeF8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

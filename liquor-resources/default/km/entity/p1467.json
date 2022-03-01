@@ -1,0 +1,17 @@
+{
+  "$id": "p1467",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "13.08",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$3.99 - $13.08",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/little-penguin-cabernet-sauvignon/p1467",
+    "name": "Little Penguin Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

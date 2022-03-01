@@ -1,0 +1,17 @@
+{
+  "$id": "p15151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "83",
+    "c_priceRange": "$32.99 - $299.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jeffersons-ocean-aged-at-sea-bourbon/p15151",
+    "name": "Jefferson\u0027s Ocean Aged at Sea Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

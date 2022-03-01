@@ -1,0 +1,18 @@
+{
+  "$id": "p7373",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.70",
+    "c_minPrice": "7.48",
+    "c_numberReviews": "7",
+    "c_priceRange": "$7.48 - $19.70",
+    "c_subCategory": "Dark Lager",
+    "c_type": "Schwarzbier",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/schwarzbier/shiner-bohemian-black-lager/p7373",
+    "name": "Shiner Bohemian Black Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

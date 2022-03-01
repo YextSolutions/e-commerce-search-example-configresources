@@ -1,0 +1,17 @@
+{
+  "$id": "p20841",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.00",
+    "c_minPrice": "8.69",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.69 - $15.00",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/becker-chardonnay/p20841",
+    "name": "Becker Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

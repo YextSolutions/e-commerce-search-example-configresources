@@ -1,0 +1,18 @@
+{
+  "$id": "p62720",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "13.80",
+    "c_numberReviews": "12",
+    "c_priceRange": "$13.80 - $20.99",
+    "c_subCategory": "Stout",
+    "c_type": "Oatmeal Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/oatmeal-stout/night-shift-bennington-oatmeal-stout/p62720",
+    "name": "Night Shift Bennington Oatmeal Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

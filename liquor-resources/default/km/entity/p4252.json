@@ -1,0 +1,18 @@
+{
+  "$id": "p4252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.04",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$4.99 - $11.04",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Quadrupel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/quadrupel/rochefort-10/p4252",
+    "name": "Rochefort 10"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

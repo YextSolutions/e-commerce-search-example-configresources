@@ -1,0 +1,17 @@
+{
+  "$id": "p99166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.99 - $18.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/holidaily-brewing-favorite-gluten-free-blonde-ale/p99166",
+    "name": "Holidaily Brewing Favorite Gluten Free Blonde Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

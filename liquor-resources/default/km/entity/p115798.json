@@ -1,0 +1,17 @@
+{
+  "$id": "p115798",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$4.99 - $22.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/stella-rosa-royale-rosso/p115798",
+    "name": "Stella Rosa Royale Rosso"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

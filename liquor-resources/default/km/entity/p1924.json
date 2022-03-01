@@ -1,0 +1,18 @@
+{
+  "$id": "p1924",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "109",
+    "c_priceRange": "$5.99 - $42.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Saison",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/saison/boulevard-tank-7-american-saison/p1924",
+    "name": "Boulevard Tank 7 American Saison"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

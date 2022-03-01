@@ -1,0 +1,17 @@
+{
+  "$id": "p20882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$8.99 - $22.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-sours-green-apple/p20882",
+    "name": "Smirnoff Sours Green Apple"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

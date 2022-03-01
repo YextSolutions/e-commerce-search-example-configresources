@@ -1,0 +1,17 @@
+{
+  "$id": "p14078",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "98.99",
+    "c_minPrice": "15.00",
+    "c_numberReviews": "25",
+    "c_priceRange": "$15.00 - $98.99",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/graham-20-year-tawny-port/p14078",
+    "name": "Graham 20 Year Tawny Port"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

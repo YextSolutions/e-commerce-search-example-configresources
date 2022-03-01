@@ -1,0 +1,17 @@
+{
+  "$id": "p11920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $21.99",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/savory-and-james-amontillado/p11920",
+    "name": "Savory \u0026 James Amontillado"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

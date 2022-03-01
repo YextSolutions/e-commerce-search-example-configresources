@@ -1,0 +1,17 @@
+{
+  "$id": "p101821",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "269.99",
+    "c_minPrice": "43.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$43.99 - $269.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/1800-cristalino-anejo/p101821",
+    "name": "1800 Cristalino Añejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

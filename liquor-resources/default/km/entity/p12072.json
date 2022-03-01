@@ -1,0 +1,17 @@
+{
+  "$id": "p12072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.64",
+    "c_numberReviews": "13",
+    "c_priceRange": "$6.64 - $24.99",
+    "c_subCategory": "Plum Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/plum-wine/gekkeikan-plum-wine/p12072",
+    "name": "Gekkeikan Plum Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p62778",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "229.99",
+    "c_minPrice": "86.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$86.99 - $229.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-balvenie-15-year-old-sherry-cask-single-barrel-scotch-whisky/p62778",
+    "name": "The Balvenie 15 Year Old Sherry Cask Single Barrel Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

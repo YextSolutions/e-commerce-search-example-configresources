@@ -1,0 +1,17 @@
+{
+  "$id": "p146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "16.31",
+    "c_numberReviews": "4553",
+    "c_priceRange": "$16.31 - $49.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/tanqueray-london-dry-gin-946-proof/p146",
+    "name": "Tanqueray London Dry Gin, (94.6 Proof)"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

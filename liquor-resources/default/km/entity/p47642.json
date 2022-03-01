@@ -1,0 +1,16 @@
+{
+  "$id": "p47642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$8.99 - $13.19",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mule-20-moscow-mule/p47642",
+    "name": "Mule 2.0 Moscow Mule"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

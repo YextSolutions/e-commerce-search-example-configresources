@@ -1,0 +1,17 @@
+{
+  "$id": "p9264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$9.99 - $32.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/blue-chair-bay-coconut-rum/p9264",
+    "name": "Blue Chair Bay Coconut Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

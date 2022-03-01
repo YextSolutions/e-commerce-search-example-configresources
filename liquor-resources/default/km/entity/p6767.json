@@ -1,0 +1,17 @@
+{
+  "$id": "p6767",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "34.98",
+    "c_minPrice": "7.91",
+    "c_numberReviews": "24",
+    "c_priceRange": "$7.91 - $34.98",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/estrella-damm-lager-beer/p6767",
+    "name": "Estrella Damm Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "p13307",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "4.94",
+    "c_numberReviews": "24",
+    "c_priceRange": "$4.94 - $28.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Barleywine",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/barleywine/founders-backwoods-bastard/p13307",
+    "name": "Founders Backwoods Bastard",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-founders-backwoods-bastard-c235e0961865568c.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/lYriPg72FI4cGHHih1qZJYmCpI9irdzv7d25hNjB4HU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lYriPg72FI4cGHHih1qZJYmCpI9irdzv7d25hNjB4HU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/lYriPg72FI4cGHHih1qZJYmCpI9irdzv7d25hNjB4HU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lYriPg72FI4cGHHih1qZJYmCpI9irdzv7d25hNjB4HU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

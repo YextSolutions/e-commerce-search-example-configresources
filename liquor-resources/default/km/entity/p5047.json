@@ -1,0 +1,17 @@
+{
+  "$id": "p5047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "75.50",
+    "c_minPrice": "5.63",
+    "c_numberReviews": "9",
+    "c_priceRange": "$5.63 - $75.50",
+    "c_subCategory": "Mourvedre",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/mourvedre/honoro-vera-monastrell/p5047",
+    "name": "Honoro Vera Monastrell"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

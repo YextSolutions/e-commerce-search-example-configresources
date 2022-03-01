@@ -1,0 +1,17 @@
+{
+  "$id": "p12423",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "188",
+    "c_priceRange": "$9.97 - $26.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/evan-williams-honey/p12423",
+    "name": "Evan Williams Honey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

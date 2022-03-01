@@ -1,0 +1,18 @@
+{
+  "$id": "p112052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "16.84",
+    "c_numberReviews": "7",
+    "c_priceRange": "$16.84 - $20.89",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/real-ale-devils-backbone-belgian-tripel/p112052",
+    "name": "Real Ale Devil\u0027s Backbone Belgian Tripel"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

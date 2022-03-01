@@ -1,0 +1,17 @@
+{
+  "$id": "p88861",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "45.00",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$29.99 - $45.00",
+    "c_subCategory": "Junmai Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-ginjo/heavensake-junmai-ginjo/p88861",
+    "name": "HEAVENSAKE Junmai Ginjo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p25545",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.00",
+    "c_minPrice": "7.13",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.13 - $29.00",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/louis-latour-valmoissine/p25545",
+    "name": "Louis Latour Valmoissine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

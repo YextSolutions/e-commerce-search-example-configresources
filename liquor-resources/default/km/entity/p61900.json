@@ -1,0 +1,16 @@
+{
+  "$id": "p61900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "32.00",
+    "c_minPrice": "2.20",
+    "c_numberReviews": "112",
+    "c_priceRange": "$2.20 - $32.00",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/black-box-rose/p61900",
+    "name": "Black Box Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

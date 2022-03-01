@@ -1,0 +1,17 @@
+{
+  "$id": "p86127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "223.49",
+    "c_minPrice": "21.78",
+    "c_numberReviews": "19",
+    "c_priceRange": "$21.78 - $223.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/stillhouse-black-bourbon/p86127",
+    "name": "Stillhouse Black Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

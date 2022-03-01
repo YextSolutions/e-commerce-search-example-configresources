@@ -1,0 +1,17 @@
+{
+  "$id": "p98598",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "229.99",
+    "c_minPrice": "57.23",
+    "c_numberReviews": "5",
+    "c_priceRange": "$57.23 - $229.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/peerless-kentucky-straight-bourbon/p98598",
+    "name": "Peerless Kentucky Straight Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

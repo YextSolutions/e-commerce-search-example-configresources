@@ -1,0 +1,44 @@
+{
+  "$id": "p1283",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "74.24",
+    "c_minPrice": "22.73",
+    "c_numberReviews": "397",
+    "c_priceRange": "$22.73 - $74.24",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/monkey-shoulder-blended-scotch/p1283",
+    "name": "Monkey Shoulder Blended Scotch",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-monkey-shoulder-blended-scotch-4171ca3927963cf7.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JPadkOHLR4J66q9NknKY1l7iK2mpInUM7vATcHfOR4s/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JPadkOHLR4J66q9NknKY1l7iK2mpInUM7vATcHfOR4s/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JPadkOHLR4J66q9NknKY1l7iK2mpInUM7vATcHfOR4s/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JPadkOHLR4J66q9NknKY1l7iK2mpInUM7vATcHfOR4s/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

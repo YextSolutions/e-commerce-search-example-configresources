@@ -1,0 +1,16 @@
+{
+  "$id": "p2973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "247",
+    "c_priceRange": "$18.99 - $89.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/del-maguey-vida-mezcal/p2973",
+    "name": "Del Maguey Vida Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

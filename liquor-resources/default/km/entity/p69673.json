@@ -1,0 +1,17 @@
+{
+  "$id": "p69673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.51",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$10.99 - $14.51",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/motorworks-pulp-friction-grapefruit-ipa/p69673",
+    "name": "Motorworks Pulp Friction Grapefruit IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

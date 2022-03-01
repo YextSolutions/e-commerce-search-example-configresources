@@ -1,0 +1,17 @@
+{
+  "$id": "p576",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "36.23",
+    "c_numberReviews": "57",
+    "c_priceRange": "$36.23 - $129.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/aberlour-12-year/p576",
+    "name": "Aberlour 12 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

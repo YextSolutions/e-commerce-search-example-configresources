@@ -1,0 +1,16 @@
+{
+  "$id": "p127726",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "8.63",
+    "c_numberReviews": "21",
+    "c_priceRange": "$8.63 - $28.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/michelob-ultra-pure-gold-and-infusions-light-beer-variety-pack/p127726",
+    "name": "Michelob Ultra Pure Gold \u0026 Infusions Light Beer Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

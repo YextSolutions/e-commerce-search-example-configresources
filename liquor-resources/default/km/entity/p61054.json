@@ -1,0 +1,17 @@
+{
+  "$id": "p61054",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "73",
+    "c_priceRange": "$8.99 - $36.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/brooklyn-bel-air-sour-ale/p61054",
+    "name": "Brooklyn Bel Air Sour Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

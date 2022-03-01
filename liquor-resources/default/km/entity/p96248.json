@@ -1,0 +1,17 @@
+{
+  "$id": "p96248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "23",
+    "c_priceRange": "$3.29 - $11.49",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/five-drinks-co-margarita/p96248",
+    "name": "Five Drinks Co. Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

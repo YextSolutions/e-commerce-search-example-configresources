@@ -1,0 +1,17 @@
+{
+  "$id": "p17851",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.14",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "114",
+    "c_priceRange": "$8.79 - $24.14",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/revolver-brewing-blood-and-honey/p17851",
+    "name": "Revolver Brewing Blood and Honey"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

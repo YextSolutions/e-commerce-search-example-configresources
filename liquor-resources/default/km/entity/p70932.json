@@ -1,0 +1,17 @@
+{
+  "$id": "p70932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "23.49",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "2",
+    "c_priceRange": "$15.39 - $23.49",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/calypso-gold-151/p70932",
+    "name": "Calypso Gold 151"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

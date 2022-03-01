@@ -1,0 +1,17 @@
+{
+  "$id": "p1315",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "99.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$99.99 - $499.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/krug-grande-cuvee-champagne-169th-edition/p1315",
+    "name": "Krug Grande Cuvée Champagne 169th Edition"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

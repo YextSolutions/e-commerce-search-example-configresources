@@ -1,0 +1,16 @@
+{
+  "$id": "p2977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "169.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$32.99 - $169.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/del-maguey-san-luis-del-rio-mezcal/p2977",
+    "name": "Del Maguey San Luis del Rio Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

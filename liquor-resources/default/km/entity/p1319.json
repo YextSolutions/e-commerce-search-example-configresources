@@ -1,0 +1,17 @@
+{
+  "$id": "p1319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "14",
+    "c_priceRange": "$15.39 - $34.99",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/kurosawa-junmai-kimoto/p1319",
+    "name": "Kurosawa Junmai Kimoto"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

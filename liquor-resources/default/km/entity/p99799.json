@@ -1,0 +1,18 @@
+{
+  "$id": "p99799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.99 - $44.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/goose-island-bourbon-county-brand-cafe-de-olla-stout/p99799",
+    "name": "Goose Island Bourbon County Brand Café de Olla Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p20431",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "90.19",
+    "c_minPrice": "28.37",
+    "c_numberReviews": "25",
+    "c_priceRange": "$28.37 - $90.19",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/orin-swift-machete-red/p20431",
+    "name": "Orin Swift Machete Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

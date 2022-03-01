@@ -1,0 +1,17 @@
+{
+  "$id": "p87390",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.99 - $16.99",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/river-horse-belgian-freeze/p87390",
+    "name": "River Horse Belgian Freeze"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "799.95",
+    "c_minPrice": "74.74",
+    "c_numberReviews": "2",
+    "c_priceRange": "$74.74 - $799.95",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/black-maple-hill-oregon-bourbon-whiskey/p987",
+    "name": "Black Maple Hill Oregon Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

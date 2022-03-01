@@ -1,0 +1,17 @@
+{
+  "$id": "p103342",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.88",
+    "c_minPrice": "2.75",
+    "c_numberReviews": "30",
+    "c_priceRange": "$2.75 - $19.88",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/bacardl-ready-to-drink-limon-and-lemonade/p103342",
+    "name": "BACARDĺ Ready to Drink Límon \u0026 Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

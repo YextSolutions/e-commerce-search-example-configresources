@@ -1,0 +1,17 @@
+{
+  "$id": "p116566",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "30.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$30.99 - $89.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/stranahans-blue-peak/p116566",
+    "name": "Stranahan\u0027s® Blue Peak"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

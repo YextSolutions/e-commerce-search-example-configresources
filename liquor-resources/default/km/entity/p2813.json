@@ -1,0 +1,17 @@
+{
+  "$id": "p2813",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "36",
+    "c_priceRange": "$3.49 - $26.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/francis-coppola-sofia-mini-blanc-de-blancs/p2813",
+    "name": "Francis Coppola Sofia Mini Blanc de Blancs"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

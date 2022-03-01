@@ -1,0 +1,17 @@
+{
+  "$id": "p108429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "110.00",
+    "c_numberReviews": "18",
+    "c_priceRange": "$110.00 - $299.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-double-cask-15-year-old-single-malt-scotch-whisky/p108429",
+    "name": "The Macallan Double Cask 15 Year Old Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

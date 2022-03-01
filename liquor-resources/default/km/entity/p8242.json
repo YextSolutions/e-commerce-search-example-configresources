@@ -1,0 +1,16 @@
+{
+  "$id": "p8242",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "38.39",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "55",
+    "c_priceRange": "$13.99 - $38.39",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/wolffer-estate-rose/p8242",
+    "name": "Wölffer Estate Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

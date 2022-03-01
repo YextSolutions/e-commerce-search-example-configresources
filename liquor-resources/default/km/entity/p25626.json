@@ -1,0 +1,17 @@
+{
+  "$id": "p25626",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$11.99 - $32.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/fortnight-cabernet-sauvignon-napa-valley/p25626",
+    "name": "Fortnight Cabernet Sauvignon Napa Valley"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

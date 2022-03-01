@@ -1,0 +1,17 @@
+{
+  "$id": "p65306",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$19.99 - $32.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/siesta-key-toasted-coconut-rum/p65306",
+    "name": "Siesta Key Toasted Coconut Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

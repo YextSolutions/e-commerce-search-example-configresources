@@ -1,0 +1,17 @@
+{
+  "$id": "p1201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "217.77",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "168",
+    "c_priceRange": "$29.99 - $217.77",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/lagavulin-16-year/p1201",
+    "name": "Lagavulin 16 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

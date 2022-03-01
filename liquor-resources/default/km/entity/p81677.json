@@ -1,0 +1,17 @@
+{
+  "$id": "p81677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "15.07",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$5.99 - $15.07",
+    "c_subCategory": "Punch Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/punch-ready-to-drink/jack-daniels-country-cocktails-berry-punch/p81677",
+    "name": "Jack Daniel\u0027s Country Cocktails Berry Punch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p17376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "182",
+    "c_priceRange": "$6.99 - $36.99",
+    "c_subCategory": "Hard Soda",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-soda/not-your-fathers-root-beer/p17376",
+    "name": "Not Your Father\u0027s Root Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

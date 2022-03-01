@@ -1,0 +1,17 @@
+{
+  "$id": "p26057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.49",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "21",
+    "c_priceRange": "$10.98 - $15.49",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/orange-blossom-pilsner/p26057",
+    "name": "Orange Blossom Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

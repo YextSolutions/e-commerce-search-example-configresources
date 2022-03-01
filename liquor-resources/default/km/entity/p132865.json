@@ -1,0 +1,17 @@
+{
+  "$id": "p132865",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.99 - $12.99",
+    "c_subCategory": "Cream Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/cream-ale/metazoa-nap-in-the-hammock/p132865",
+    "name": "Metazoa Nap In the Hammock"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

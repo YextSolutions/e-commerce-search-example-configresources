@@ -1,0 +1,17 @@
+{
+  "$id": "p28171",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "11.19",
+    "c_numberReviews": "84",
+    "c_priceRange": "$11.19 - $39.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/smith-and-hook-cabernet-sauvignon-central-coast/p28171",
+    "name": "Smith \u0026 Hook Cabernet Sauvignon Central Coast"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

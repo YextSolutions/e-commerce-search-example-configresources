@@ -1,0 +1,44 @@
+{
+  "$id": "p2307",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "84.99",
+    "c_minPrice": "28.83",
+    "c_numberReviews": "9",
+    "c_priceRange": "$28.83 - $84.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/cabo-wabo-anejo/p2307",
+    "name": "Cabo Wabo Añejo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-cabo-wabo-anejo-ab64e1078c1cf6a9.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ubwG7TXNAFKQLQCH1i6znlSB0C6vb1Qemt4R7mx-JI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ubwG7TXNAFKQLQCH1i6znlSB0C6vb1Qemt4R7mx-JI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1ubwG7TXNAFKQLQCH1i6znlSB0C6vb1Qemt4R7mx-JI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1ubwG7TXNAFKQLQCH1i6znlSB0C6vb1Qemt4R7mx-JI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

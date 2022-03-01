@@ -1,0 +1,16 @@
+{
+  "$id": "p83719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.15",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "69",
+    "c_priceRange": "$7.99 - $20.15",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/recipe-21-premium-vodka/p83719",
+    "name": "Recipe 21 Premium Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

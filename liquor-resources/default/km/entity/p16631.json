@@ -1,0 +1,17 @@
+{
+  "$id": "p16631",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "95.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$29.99 - $95.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/el-tesoro-reposado-tequila/p16631",
+    "name": "El Tesoro Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

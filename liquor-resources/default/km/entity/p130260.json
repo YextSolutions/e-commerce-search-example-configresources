@@ -1,0 +1,17 @@
+{
+  "$id": "p130260",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "23.49",
+    "c_numberReviews": "2",
+    "c_priceRange": "$23.49 - $54.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/treaty-oak-day-drinker-texas-bourbon-whiskey/p130260",
+    "name": "Treaty Oak Day Drinker Texas Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

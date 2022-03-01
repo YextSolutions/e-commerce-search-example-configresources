@@ -1,0 +1,44 @@
+{
+  "$id": "p2780",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "3.50",
+    "c_numberReviews": "71",
+    "c_priceRange": "$3.50 - $12.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/frontera-malbec/p2780",
+    "name": "Frontera Malbec",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-frontera-malbec-bd80e6e01f2ea664.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDoOxB2HHwMC_ecb0prbW5VJIjfEVuV8HQlI8h00VEg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDoOxB2HHwMC_ecb0prbW5VJIjfEVuV8HQlI8h00VEg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDoOxB2HHwMC_ecb0prbW5VJIjfEVuV8HQlI8h00VEg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JDoOxB2HHwMC_ecb0prbW5VJIjfEVuV8HQlI8h00VEg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

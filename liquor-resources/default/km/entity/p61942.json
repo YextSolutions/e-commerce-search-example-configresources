@@ -1,0 +1,43 @@
+{
+  "$id": "p61942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "29.69",
+    "c_minPrice": "18.00",
+    "c_numberReviews": "24",
+    "c_priceRange": "$18.00 - $29.69",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/revolution-league-of-heroes-ipa-variety-pack/p61942",
+    "name": "Revolution League Of Heroes IPA Variety Pack",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-revolution-league-of-heroes-ea3993d03b8d1bee.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPAp2mVKbgnxDD5XQ_6NjvHv8DqfTRamZSJedHRBHSM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPAp2mVKbgnxDD5XQ_6NjvHv8DqfTRamZSJedHRBHSM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/NPAp2mVKbgnxDD5XQ_6NjvHv8DqfTRamZSJedHRBHSM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NPAp2mVKbgnxDD5XQ_6NjvHv8DqfTRamZSJedHRBHSM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

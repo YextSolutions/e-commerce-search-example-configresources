@@ -1,0 +1,16 @@
+{
+  "$id": "p48169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "19.32",
+    "c_numberReviews": "3",
+    "c_priceRange": "$19.32 - $65.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/yobo-soju/p48169",
+    "name": "Yobo Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p104039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.69",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$11.99 - $29.69",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/lifevine-cabernet-sauvignon/p104039",
+    "name": "Lifevine Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p25337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "225.30",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.99 - $225.30",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/wente-vineyards-riva-ranch-pinot-noir/p25337",
+    "name": "Wente Vineyards Riva Ranch Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

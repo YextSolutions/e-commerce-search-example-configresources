@@ -1,0 +1,16 @@
+{
+  "$id": "p102843",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "25.66",
+    "c_numberReviews": "3",
+    "c_priceRange": "$25.66 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/belvedere-heritage-176/p102843",
+    "name": "Belvedere Heritage 176"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

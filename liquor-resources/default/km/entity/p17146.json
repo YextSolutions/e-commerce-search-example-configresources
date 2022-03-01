@@ -1,0 +1,17 @@
+{
+  "$id": "p17146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "159.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$26.99 - $159.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/chappellet-signature-cabernet-sauvignon/p17146",
+    "name": "Chappellet Signature Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "p62426",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "1.69",
+    "c_numberReviews": "40",
+    "c_priceRange": "$1.69 - $32.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/cigar-city-brewing-guayabera-citra-pale-ale/p62426",
+    "name": "Cigar City Brewing Guayabera Citra Pale Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-cigar-city-guayabera-citra-pale-ale-2cdd9afed95e0a5c.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/68f7hzrHsfq4PjwS8_L7wN309WBZ1zarMvBB30b6d5w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/68f7hzrHsfq4PjwS8_L7wN309WBZ1zarMvBB30b6d5w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/68f7hzrHsfq4PjwS8_L7wN309WBZ1zarMvBB30b6d5w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/68f7hzrHsfq4PjwS8_L7wN309WBZ1zarMvBB30b6d5w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

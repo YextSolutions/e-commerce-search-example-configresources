@@ -1,0 +1,17 @@
+{
+  "$id": "p512",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "37.77",
+    "c_minPrice": "1.88",
+    "c_numberReviews": "75",
+    "c_priceRange": "$1.88 - $37.77",
+    "c_subCategory": "Amber Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/amber-lager/victoria-mexican-lager-beer/p512",
+    "name": "Victoria Mexican Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

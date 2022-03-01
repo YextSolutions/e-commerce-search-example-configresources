@@ -1,0 +1,17 @@
+{
+  "$id": "p97647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "103.49",
+    "c_minPrice": "65.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$65.99 - $103.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/laws-four-grain-straight-bourbon-6-year-bonded/p97647",
+    "name": "Laws Four Grain Straight Bourbon 6 Year Bonded"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

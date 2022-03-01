@@ -1,0 +1,17 @@
+{
+  "$id": "p26270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "35.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "63",
+    "c_priceRange": "$9.99 - $35.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/funky-buddha-hop-gun-ipa/p26270",
+    "name": "Funky Buddha Hop Gun IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

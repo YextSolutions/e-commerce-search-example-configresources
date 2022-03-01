@@ -1,0 +1,44 @@
+{
+  "$id": "p201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "335.99",
+    "c_minPrice": "84.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$84.99 - $335.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-balvenie-17-year-old-doublewood-single-malt-scotch-whisky/p201",
+    "name": "The Balvenie 17 Year Old DoubleWood Single Malt Scotch Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-the-balvenie-doublewood-17-year-c5309c0c39d27f4f.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/WmnNfSMOS99vHKWwLqg8M1awJmKokkd57AhHU2YI6bU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/WmnNfSMOS99vHKWwLqg8M1awJmKokkd57AhHU2YI6bU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/WmnNfSMOS99vHKWwLqg8M1awJmKokkd57AhHU2YI6bU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/WmnNfSMOS99vHKWwLqg8M1awJmKokkd57AhHU2YI6bU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

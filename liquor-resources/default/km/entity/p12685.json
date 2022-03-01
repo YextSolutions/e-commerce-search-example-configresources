@@ -1,0 +1,44 @@
+{
+  "$id": "p12685",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "7.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.98 - $11.49",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/crazy-mountain-livin-pale-ale/p12685",
+    "name": "Crazy Mountain Livin\u0027 Pale Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-crazy-mountain-livin-pale-ale-baba0fa31fce770c.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wq0e8lpZEy8IhD68DT6tAvK7e2R4GtMP0utlNKLGI68/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wq0e8lpZEy8IhD68DT6tAvK7e2R4GtMP0utlNKLGI68/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wq0e8lpZEy8IhD68DT6tAvK7e2R4GtMP0utlNKLGI68/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wq0e8lpZEy8IhD68DT6tAvK7e2R4GtMP0utlNKLGI68/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p14219",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "75.99",
+    "c_minPrice": "24.15",
+    "c_numberReviews": "8",
+    "c_priceRange": "$24.15 - $75.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-12-year-gift-set/p14219",
+    "name": "The Glenlivet 12 Year Gift Set"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

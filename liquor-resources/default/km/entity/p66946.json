@@ -1,0 +1,17 @@
+{
+  "$id": "p66946",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "30.44",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "22",
+    "c_priceRange": "$6.49 - $30.44",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/cinzano-prosecco/p66946",
+    "name": "Cinzano Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

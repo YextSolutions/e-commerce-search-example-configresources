@@ -1,0 +1,17 @@
+{
+  "$id": "p69258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.99 - $13.99",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/black-raven-coco-jones-coconut-porter/p69258",
+    "name": "Black Raven Coco Jones Coconut Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

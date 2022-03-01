@@ -1,0 +1,43 @@
+{
+  "$id": "p92856",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Liquor",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$10.99 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/variety-pack-liquor/bravazzi-hard-italian-soda-variety-pack/p92856",
+    "name": "Bravazzi Hard Italian Soda Variety Pack",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bravazzi-hard-italian-soda-variety-pack-db2924ee0a43854d.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hgk-rbVgcfp2LBrxmook7yrVKXpfXDxySEGFH8uohQA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hgk-rbVgcfp2LBrxmook7yrVKXpfXDxySEGFH8uohQA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Hgk-rbVgcfp2LBrxmook7yrVKXpfXDxySEGFH8uohQA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Hgk-rbVgcfp2LBrxmook7yrVKXpfXDxySEGFH8uohQA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

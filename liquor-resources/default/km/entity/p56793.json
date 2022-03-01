@@ -1,0 +1,17 @@
+{
+  "$id": "p56793",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "53.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$53.99 - $149.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/beaux-freres-pinot-noir-2013/p56793",
+    "name": "Beaux Freres Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

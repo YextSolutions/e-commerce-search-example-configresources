@@ -1,0 +1,17 @@
+{
+  "$id": "p1805",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "31.89",
+    "c_minPrice": "9.34",
+    "c_numberReviews": "846",
+    "c_priceRange": "$9.34 - $31.89",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/bacardi-gold-rum/p1805",
+    "name": "BACARDÍ Gold Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

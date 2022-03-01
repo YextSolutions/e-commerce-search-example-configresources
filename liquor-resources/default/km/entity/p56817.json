@@ -1,0 +1,17 @@
+{
+  "$id": "p56817",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.49",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.99 - $16.49",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/wiseacre-ananda-ipa/p56817",
+    "name": "Wiseacre Ananda IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

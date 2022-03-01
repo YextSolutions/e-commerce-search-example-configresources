@@ -1,0 +1,17 @@
+{
+  "$id": "p5206",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "583",
+    "c_priceRange": "$9.99 - $35.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/josh-cellars-pinot-noir/p5206",
+    "name": "Josh Cellars Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p23361",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "93.99",
+    "c_minPrice": "1.69",
+    "c_numberReviews": "196",
+    "c_priceRange": "$1.69 - $93.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/kahlua-white-russian/p23361",
+    "name": "Kahlua White Russian"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

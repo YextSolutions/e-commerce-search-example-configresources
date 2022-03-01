@@ -1,0 +1,17 @@
+{
+  "$id": "p2436",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "5.71",
+    "c_numberReviews": "144",
+    "c_priceRange": "$5.71 - $19.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/concha-y-toro-casillero-del-diablo-malbec/p2436",
+    "name": "Concha Y Toro Casillero del Diablo Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

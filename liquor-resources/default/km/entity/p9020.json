@@ -1,0 +1,17 @@
+{
+  "$id": "p9020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.30",
+    "c_numberReviews": "30",
+    "c_priceRange": "$8.30 - $20.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/palo-viejo-white-rum/p9020",
+    "name": "Palo Viejo White"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

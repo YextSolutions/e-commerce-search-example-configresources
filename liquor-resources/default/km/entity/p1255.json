@@ -1,0 +1,44 @@
+{
+  "$id": "p1255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "89.77",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "316",
+    "c_priceRange": "$27.99 - $89.77",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/makers-46-bourbon-whisky/p1255",
+    "name": "Maker\u0027s 46 Bourbon Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-makers-46-bourbon-whiskey-bd68129f72c9d028.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ai4j-9PrP_zmcazlwfKqJ-yGB0uEmxWLaURu3NUOxNs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ai4j-9PrP_zmcazlwfKqJ-yGB0uEmxWLaURu3NUOxNs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Ai4j-9PrP_zmcazlwfKqJ-yGB0uEmxWLaURu3NUOxNs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Ai4j-9PrP_zmcazlwfKqJ-yGB0uEmxWLaURu3NUOxNs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

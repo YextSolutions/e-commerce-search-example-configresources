@@ -1,0 +1,16 @@
+{
+  "$id": "p104256",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$11.99 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/two-chicks-sparkling-apple-gimlet/p104256",
+    "name": "Two Chicks Sparkling Apple Gimlet"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p3965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "116",
+    "c_priceRange": "$9.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/plymouth-gin/p3965",
+    "name": "Plymouth Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

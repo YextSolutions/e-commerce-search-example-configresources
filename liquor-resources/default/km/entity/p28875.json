@@ -1,0 +1,17 @@
+{
+  "$id": "p28875",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "8.01",
+    "c_numberReviews": "51",
+    "c_priceRange": "$8.01 - $27.49",
+    "c_subCategory": "American Blend",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-blend/kentucky-deluxe-blend/p28875",
+    "name": "Kentucky Deluxe Blend"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p16203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "27.94",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$8.99 - $27.94",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/khor-platinum-vodka/p16203",
+    "name": "Khor Platinum Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p88962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "17.59",
+    "c_minPrice": "5.03",
+    "c_numberReviews": "12",
+    "c_priceRange": "$5.03 - $17.59",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/ava-grace-vineyards-pinot-grigio-white-wine/p88962",
+    "name": "AVA Grace Vineyards Pinot Grigio White Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-ava-grace-vineyards-pinot-grigio-61912aa0d57f43b1.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/97EPME3HBRj1t0hIOKGWjqnDXF6FaXu8NS4qggh2ziY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/97EPME3HBRj1t0hIOKGWjqnDXF6FaXu8NS4qggh2ziY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/97EPME3HBRj1t0hIOKGWjqnDXF6FaXu8NS4qggh2ziY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/97EPME3HBRj1t0hIOKGWjqnDXF6FaXu8NS4qggh2ziY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

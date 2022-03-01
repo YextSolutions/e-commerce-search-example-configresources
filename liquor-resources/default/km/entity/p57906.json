@@ -1,0 +1,17 @@
+{
+  "$id": "p57906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$34.99 - $299.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/1792-full-proof-kentucky-straight-bourbon-whiskey/p57906",
+    "name": "1792 Full Proof Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p23115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.42",
+    "c_numberReviews": "15",
+    "c_priceRange": "$10.42 - $19.99",
+    "landingPageUrl": "https://drizly.com/wine/sake/hana-lychee-sake/p23115",
+    "name": "Hana Lychee Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

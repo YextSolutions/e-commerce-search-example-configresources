@@ -1,0 +1,44 @@
+{
+  "$id": "p29266",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "11.54",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.04 - $11.54",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/northern-light-canadian-whisky/p29266",
+    "name": "Northern Light Canadian Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-northern-light-canadian-whisky-dbc3f4fd0bb5fdf9.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/UGCJW9QS5eJvL20v02kWQJeOiLJqAXILPQCZ18lNPgg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/UGCJW9QS5eJvL20v02kWQJeOiLJqAXILPQCZ18lNPgg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/UGCJW9QS5eJvL20v02kWQJeOiLJqAXILPQCZ18lNPgg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/UGCJW9QS5eJvL20v02kWQJeOiLJqAXILPQCZ18lNPgg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

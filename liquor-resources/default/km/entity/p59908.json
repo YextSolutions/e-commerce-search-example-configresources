@@ -1,0 +1,18 @@
+{
+  "$id": "p59908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "26.39",
+    "c_minPrice": "6.40",
+    "c_numberReviews": "14",
+    "c_priceRange": "$6.40 - $26.39",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/molson-xxx/p59908",
+    "name": "Molson XXX"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

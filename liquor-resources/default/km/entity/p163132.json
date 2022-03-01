@@ -1,0 +1,17 @@
+{
+  "$id": "p163132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "151.99",
+    "c_minPrice": "55.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$55.99 - $151.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/calirosa-anejo-tequila/p163132",
+    "name": "Calirosa Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

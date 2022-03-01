@@ -1,0 +1,17 @@
+{
+  "$id": "p66653",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$10.99 - $29.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/luca-paretti-prosecco-brut/p66653",
+    "name": "Luca Paretti Prosecco Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

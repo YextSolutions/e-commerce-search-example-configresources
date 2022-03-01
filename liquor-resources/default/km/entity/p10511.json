@@ -1,0 +1,17 @@
+{
+  "$id": "p10511",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "66.00",
+    "c_minPrice": "27.98",
+    "c_numberReviews": "4",
+    "c_priceRange": "$27.98 - $66.00",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/jacquart-champagne-brut/p10511",
+    "name": "Jacquart Champagne Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

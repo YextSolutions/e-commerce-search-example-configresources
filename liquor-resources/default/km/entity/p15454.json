@@ -1,0 +1,17 @@
+{
+  "$id": "p15454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "6.82",
+    "c_numberReviews": "12",
+    "c_priceRange": "$6.82 - $43.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/taylor-fladgate-fine-ruby-porto/p15454",
+    "name": "Taylor Fladgate Fine Ruby Porto"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

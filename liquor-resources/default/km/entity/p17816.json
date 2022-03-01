@@ -1,0 +1,17 @@
+{
+  "$id": "p17816",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "329.99",
+    "c_minPrice": "42.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$42.99 - $329.99",
+    "c_subCategory": "American Blend",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-blend/high-west-bourye-whiskey/p17816",
+    "name": "High West Bourye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

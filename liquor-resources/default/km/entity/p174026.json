@@ -1,0 +1,17 @@
+{
+  "$id": "p174026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "60.99",
+    "c_minPrice": "25.29",
+    "c_numberReviews": "73",
+    "c_priceRange": "$25.29 - $60.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-limited-edition-pomegranate-750-ml-made-with-vodka-infused-with-natural-flavors/p174026",
+    "name": "CIROC Limited Edition Pomegranate, 750 mL (Made with Vodka Infused with Natural Flavors)"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

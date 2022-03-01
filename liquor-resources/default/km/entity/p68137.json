@@ -1,0 +1,17 @@
+{
+  "$id": "p68137",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "16",
+    "c_priceRange": "$15.39 - $59.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/diplomatico-planas-rum/p68137",
+    "name": "Diplomatico Planas Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

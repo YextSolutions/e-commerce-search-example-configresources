@@ -1,0 +1,17 @@
+{
+  "$id": "p90878",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "14.95",
+    "c_minPrice": "2.49",
+    "c_numberReviews": "15",
+    "c_priceRange": "$2.49 - $14.95",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/bollicini-sparkling-rose/p90878",
+    "name": "Bollicini Sparkling Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

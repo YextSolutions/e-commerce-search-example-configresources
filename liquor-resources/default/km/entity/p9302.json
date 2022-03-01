@@ -1,0 +1,43 @@
+{
+  "$id": "p9302",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "52.79",
+    "c_minPrice": "8.01",
+    "c_numberReviews": "233",
+    "c_priceRange": "$8.01 - $52.79",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/burnetts-vodka/p9302",
+    "name": "Burnett\u0027s Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-burnetts-vodka-bd400471065462a0.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tx4l2fTzp86SVkExV5CBCVdq5jcH9aSUby-enI4ElwA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tx4l2fTzp86SVkExV5CBCVdq5jcH9aSUby-enI4ElwA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Tx4l2fTzp86SVkExV5CBCVdq5jcH9aSUby-enI4ElwA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Tx4l2fTzp86SVkExV5CBCVdq5jcH9aSUby-enI4ElwA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

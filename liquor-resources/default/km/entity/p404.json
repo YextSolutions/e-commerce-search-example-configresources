@@ -1,0 +1,17 @@
+{
+  "$id": "p404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.99 - $31.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/two-brothers-prairie-path-ale/p404",
+    "name": "Two Brothers Prairie Path Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

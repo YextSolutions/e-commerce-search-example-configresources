@@ -1,0 +1,17 @@
+{
+  "$id": "p23611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.99 - $9.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/livingston-red-rose/p23611",
+    "name": "Livingston Red Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

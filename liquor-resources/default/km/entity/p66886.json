@@ -1,0 +1,17 @@
+{
+  "$id": "p66886",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "13.98",
+    "c_numberReviews": "3",
+    "c_priceRange": "$13.98 - $27.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/mr-syltbar-premium-prosecco/p66886",
+    "name": "Mr. SYLTBAR Premium Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

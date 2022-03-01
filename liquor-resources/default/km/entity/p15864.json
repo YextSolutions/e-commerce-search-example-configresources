@@ -1,0 +1,17 @@
+{
+  "$id": "p15864",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.69",
+    "c_minPrice": "4.59",
+    "c_numberReviews": "5",
+    "c_priceRange": "$4.59 - $22.69",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/mcmanis-merlot-red-wine-750ml-lodi-california/p15864",
+    "name": "McManis Merlot Red Wine - 750ml, Lodi, California"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

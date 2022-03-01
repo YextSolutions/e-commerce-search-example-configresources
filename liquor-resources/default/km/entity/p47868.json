@@ -1,0 +1,44 @@
+{
+  "$id": "p47868",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.69",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$17.99 - $29.69",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/raventos-i-blanc-lhereu/p47868",
+    "name": "Raventos i Blanc L\u0027hereu",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-raventos-i-blanc-lhereu-9b65f42c624d6232.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/qpxOrAdav6yJ2DUMzLUhfd29yDFXlwGGH0cljL1gweo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qpxOrAdav6yJ2DUMzLUhfd29yDFXlwGGH0cljL1gweo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/qpxOrAdav6yJ2DUMzLUhfd29yDFXlwGGH0cljL1gweo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qpxOrAdav6yJ2DUMzLUhfd29yDFXlwGGH0cljL1gweo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

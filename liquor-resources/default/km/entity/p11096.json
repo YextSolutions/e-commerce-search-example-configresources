@@ -1,0 +1,16 @@
+{
+  "$id": "p11096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "23.00",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.79 - $23.00",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/ruffino-il-leo-chianti-superiore-docg-red-blend-italian-red-wine/p11096",
+    "name": "Ruffino Il Leo Chianti Superiore DOCG  Red Blend Italian Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

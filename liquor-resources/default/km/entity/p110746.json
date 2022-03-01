@@ -1,0 +1,17 @@
+{
+  "$id": "p110746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "289",
+    "c_priceRange": "$3.49 - $38.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/bud-light-platinum-seltzer-variety-pack/p110746",
+    "name": "Bud Light Platinum Seltzer Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

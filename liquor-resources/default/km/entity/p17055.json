@@ -1,0 +1,17 @@
+{
+  "$id": "p17055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$7.49 - $27.49",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/momokawa-pearl-nigori/p17055",
+    "name": "Momokawa Pearl Nigori"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

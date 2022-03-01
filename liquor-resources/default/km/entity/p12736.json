@@ -1,0 +1,17 @@
+{
+  "$id": "p12736",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.49",
+    "c_minPrice": "5.23",
+    "c_numberReviews": "270",
+    "c_priceRange": "$5.23 - $19.49",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/cooks-california-champagne-extra-dry/p12736",
+    "name": "Cook\u0027s California Champagne Extra Dry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

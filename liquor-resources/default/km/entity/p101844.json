@@ -1,0 +1,17 @@
+{
+  "$id": "p101844",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$14.99 - $42.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/cotton-and-reed-allspice-dram/p101844",
+    "name": "Cotton \u0026 Reed Allspice Dram"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

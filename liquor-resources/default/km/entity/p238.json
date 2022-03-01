@@ -1,0 +1,17 @@
+{
+  "$id": "p238",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "26.33",
+    "c_numberReviews": "46",
+    "c_priceRange": "$26.33 - $99.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/the-prisoner-cuttings-cabernet-sauvignon/p238",
+    "name": "The Prisoner Cuttings Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

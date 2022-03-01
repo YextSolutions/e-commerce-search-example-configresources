@@ -1,0 +1,16 @@
+{
+  "$id": "p104531",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "21.81",
+    "c_minPrice": "10.25",
+    "c_numberReviews": "11",
+    "c_priceRange": "$10.25 - $21.81",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/maison-marcel-rose-jgoldcrown-edition/p104531",
+    "name": "Maison Marcel Rosé JGoldcrown Edition"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

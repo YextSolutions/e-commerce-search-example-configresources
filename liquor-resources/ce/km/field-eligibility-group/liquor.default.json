@@ -1,0 +1,19 @@
+{
+  "$id": "ce_liquor.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Liquor-default",
+  "entityType": "ce_liquor",
+  "fields": [
+    "c_category",
+    "c_maxPrice",
+    "c_minPrice",
+    "c_numberReviews",
+    "c_priceRange",
+    "c_subCategory",
+    "c_subType",
+    "c_type",
+    "landingPageUrl",
+    "photoGallery"
+  ],
+  "required": []
+}

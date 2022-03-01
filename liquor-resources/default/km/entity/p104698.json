@@ -1,0 +1,16 @@
+{
+  "$id": "p104698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.29 - $39.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/le-roi-des-pierres-sancerre-rose/p104698",
+    "name": "Le Roi des Pierres Sancerre Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

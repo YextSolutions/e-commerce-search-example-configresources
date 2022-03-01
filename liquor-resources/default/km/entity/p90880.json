@@ -1,0 +1,17 @@
+{
+  "$id": "p90880",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.49 - $15.99",
+    "c_subCategory": "Gamay",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/gamay/90-cellars-beaujolais-lot-158/p90880",
+    "name": "90+ Cellars Beaujolais Lot 158"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

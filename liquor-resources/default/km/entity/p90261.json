@@ -1,0 +1,17 @@
+{
+  "$id": "p90261",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$34.99 - $76.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/oak-and-eden-rye-and-spire/p90261",
+    "name": "Oak \u0026 Eden Rye \u0026 Spire"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

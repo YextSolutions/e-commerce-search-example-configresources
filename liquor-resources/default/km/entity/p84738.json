@@ -1,0 +1,17 @@
+{
+  "$id": "p84738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$19.99 - $59.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/the-prisoner-the-snitch-chardonnay/p84738",
+    "name": "The Prisoner The Snitch Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

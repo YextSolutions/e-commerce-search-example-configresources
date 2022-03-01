@@ -1,0 +1,16 @@
+{
+  "$id": "p93510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "6.48",
+    "c_numberReviews": "1",
+    "c_priceRange": "$6.48 - $20.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/calidad-beer-classic-mexican-style-lager/p93510",
+    "name": "Calidad Beer \"Classic\" Mexican-Style Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

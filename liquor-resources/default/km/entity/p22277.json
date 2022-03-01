@@ -1,0 +1,17 @@
+{
+  "$id": "p22277",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "92.39",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$12.99 - $92.39",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/clyde-mays-straight-bourbon-whiskey/p22277",
+    "name": "Clyde May\u0027s Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

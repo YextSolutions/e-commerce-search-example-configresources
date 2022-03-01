@@ -1,0 +1,17 @@
+{
+  "$id": "p22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "10.19",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.19 - $39.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/sterling-napa-valley-merlot/p22",
+    "name": "Sterling Napa Valley Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

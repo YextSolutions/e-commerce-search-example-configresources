@@ -1,0 +1,18 @@
+{
+  "$id": "p1870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "48.99",
+    "c_minPrice": "2.49",
+    "c_numberReviews": "60",
+    "c_priceRange": "$2.49 - $48.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "Bitter Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/bitter-ale/boddingtons-pub-ale/p1870",
+    "name": "Boddingtons Pub Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

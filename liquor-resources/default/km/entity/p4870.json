@@ -1,0 +1,18 @@
+{
+  "$id": "p4870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "21.98",
+    "c_minPrice": "7.03",
+    "c_numberReviews": "17",
+    "c_priceRange": "$7.03 - $21.98",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Dortmunder",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/dortmunder/great-lakes-dortmunder-gold-lager/p4870",
+    "name": "Great Lakes Dortmunder Gold Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

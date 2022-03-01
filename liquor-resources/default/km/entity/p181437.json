@@ -1,0 +1,17 @@
+{
+  "$id": "p181437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.96",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.96 - $21.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/matua-lighter-sauvignon-blanc/p181437",
+    "name": "Matua Lighter Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

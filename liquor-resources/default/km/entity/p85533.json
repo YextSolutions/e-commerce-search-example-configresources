@@ -1,0 +1,17 @@
+{
+  "$id": "p85533",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "2144.63",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$9.99 - $2144.63",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/kinky-aloha-liqueur/p85533",
+    "name": "Kinky Aloha Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

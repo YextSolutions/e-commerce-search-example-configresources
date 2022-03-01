@@ -1,0 +1,17 @@
+{
+  "$id": "p96872",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "4.59",
+    "c_numberReviews": "96",
+    "c_priceRange": "$4.59 - $19.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-pineapple-spiked-and-sparkling-water/p96872",
+    "name": "TRULY Hard Seltzer Pineapple, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

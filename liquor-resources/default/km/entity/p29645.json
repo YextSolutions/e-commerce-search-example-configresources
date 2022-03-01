@@ -1,0 +1,17 @@
+{
+  "$id": "p29645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.99 - $9.99",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/md-2020-banana-red/p29645",
+    "name": "Md 20/20 Banana Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

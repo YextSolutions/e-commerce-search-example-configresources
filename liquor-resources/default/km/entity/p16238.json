@@ -1,0 +1,17 @@
+{
+  "$id": "p16238",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.43",
+    "c_minPrice": "5.24",
+    "c_numberReviews": "43",
+    "c_priceRange": "$5.24 - $15.43",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/schmitt-sohne-riesling/p16238",
+    "name": "Schmitt Sohne Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

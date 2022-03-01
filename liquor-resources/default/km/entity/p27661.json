@@ -1,0 +1,17 @@
+{
+  "$id": "p27661",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "11.24",
+    "c_numberReviews": "51",
+    "c_priceRange": "$11.24 - $30.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/raeburn-chardonnay/p27661",
+    "name": "Raeburn Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p59718",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.90",
+    "c_numberReviews": "10",
+    "c_priceRange": "$9.90 - $12.99",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/big-rock-alberta-genuine-draft/p59718",
+    "name": "Big Rock Alberta Genuine Draft",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-big-rock-alberta-genuine-draft-5d651d3e62ca76cb.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EznGaAooybR3pmAuzf-RkfD1couddlNTsFsDNDhG56g/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EznGaAooybR3pmAuzf-RkfD1couddlNTsFsDNDhG56g/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EznGaAooybR3pmAuzf-RkfD1couddlNTsFsDNDhG56g/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EznGaAooybR3pmAuzf-RkfD1couddlNTsFsDNDhG56g/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

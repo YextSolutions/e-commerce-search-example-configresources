@@ -1,0 +1,15 @@
+{
+  "$id": "minibar",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "MiniBar",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://minibardelivery.com/store/category/liquor"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://minibardelivery.com/store/product/*"
+  ]
+}

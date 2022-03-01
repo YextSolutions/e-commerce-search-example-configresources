@@ -1,0 +1,17 @@
+{
+  "$id": "p97897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "24.98",
+    "c_numberReviews": "1",
+    "c_priceRange": "$24.98 - $46.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/hubert-brochard-sancerre-tradition/p97897",
+    "name": "Hubert Brochard Sancerre Tradition"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

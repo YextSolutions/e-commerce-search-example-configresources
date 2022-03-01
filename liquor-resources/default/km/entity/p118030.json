@@ -1,0 +1,17 @@
+{
+  "$id": "p118030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.08",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "282",
+    "c_priceRange": "$6.49 - $24.08",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/campo-viejo-the-red-blend/p118030",
+    "name": "Campo Viejo The Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

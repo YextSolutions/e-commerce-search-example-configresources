@@ -1,0 +1,17 @@
+{
+  "$id": "p144679",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "2.10",
+    "c_numberReviews": "9",
+    "c_priceRange": "$2.10 - $9.99",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sutter-home-fruit-infusions-wild-berry-white-wine-750ml-wine-bottle/p144679",
+    "name": "Sutter Home Fruit Infusions Wild Berry White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

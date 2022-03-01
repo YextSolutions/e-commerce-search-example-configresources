@@ -1,0 +1,17 @@
+{
+  "$id": "p11059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.29",
+    "c_minPrice": "10.39",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.39 - $15.29",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/newburyport-plum-island-belgian-white/p11059",
+    "name": "Newburyport Plum Island Belgian White"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

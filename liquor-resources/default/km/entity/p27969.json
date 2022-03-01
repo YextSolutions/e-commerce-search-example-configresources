@@ -1,0 +1,17 @@
+{
+  "$id": "p27969",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "31.89",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "66",
+    "c_priceRange": "$8.49 - $31.89",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/rich-and-rare-reserve-canadian-whisky/p27969",
+    "name": "Rich \u0026 Rare Reserve Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

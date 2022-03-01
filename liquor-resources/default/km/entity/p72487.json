@@ -1,0 +1,44 @@
+{
+  "$id": "p72487",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "78",
+    "c_priceRange": "$14.29 - $99.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/ole-smoky-salty-caramel-whiskey/p72487",
+    "name": "Ole Smoky Salty Caramel Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-ole-smoky-salty-caramel-whiskey-0375d14a80bc003d.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/U9KM1W43orqNrrT1mlfXvNXyWB0XZyRyGUNelTxFxno/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/U9KM1W43orqNrrT1mlfXvNXyWB0XZyRyGUNelTxFxno/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/U9KM1W43orqNrrT1mlfXvNXyWB0XZyRyGUNelTxFxno/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/U9KM1W43orqNrrT1mlfXvNXyWB0XZyRyGUNelTxFxno/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p28144",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "26.44",
+    "c_minPrice": "11.48",
+    "c_numberReviews": "67",
+    "c_priceRange": "$11.48 - $26.44",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/franzia-dark-red-blend-red-wine/p28144",
+    "name": "Franzia® Dark Red Blend Red Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-franzia-dark-red-blend-eb3f7b9bbe0e1adc.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/BujulIVLnX37cy8s2-dUxUqVUHVunv9cyIPH93SkiMU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BujulIVLnX37cy8s2-dUxUqVUHVunv9cyIPH93SkiMU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/BujulIVLnX37cy8s2-dUxUqVUHVunv9cyIPH93SkiMU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BujulIVLnX37cy8s2-dUxUqVUHVunv9cyIPH93SkiMU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

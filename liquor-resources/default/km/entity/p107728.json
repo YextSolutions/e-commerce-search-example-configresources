@@ -1,0 +1,17 @@
+{
+  "$id": "p107728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "24.98",
+    "c_minPrice": "24.95",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.95 - $24.98",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/souffle-sparkling-demi-sec-champagne/p107728",
+    "name": "Souffle Sparkling Demi Sec Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

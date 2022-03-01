@@ -1,0 +1,17 @@
+{
+  "$id": "p108725",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "43",
+    "c_priceRange": "$12.99 - $42.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/meiomi-cabernet-sauvignon-red-wine/p108725",
+    "name": "Meiomi Cabernet Sauvignon Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

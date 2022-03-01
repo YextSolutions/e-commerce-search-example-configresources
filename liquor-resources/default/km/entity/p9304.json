@@ -1,0 +1,17 @@
+{
+  "$id": "p9304",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.15",
+    "c_numberReviews": "26",
+    "c_priceRange": "$8.15 - $19.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/burnetts-london-dry-gin/p9304",
+    "name": "Burnett\u0027s London Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p4077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "15.98",
+    "c_numberReviews": "5",
+    "c_priceRange": "$15.98 - $76.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/qupe-syrah/p4077",
+    "name": "Qupe Syrah"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

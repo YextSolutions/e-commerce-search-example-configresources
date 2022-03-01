@@ -1,0 +1,17 @@
+{
+  "$id": "p12436",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "22",
+    "c_priceRange": "$8.49 - $20.89",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/pinnacle-pineapple-vodka/p12436",
+    "name": "Pinnacle Pineapple Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

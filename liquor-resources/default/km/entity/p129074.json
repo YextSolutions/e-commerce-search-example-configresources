@@ -1,0 +1,17 @@
+{
+  "$id": "p129074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "41.02",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$23.99 - $41.02",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/decoy-limited-sonoma-coast-chardonnay/p129074",
+    "name": "Decoy Limited Sonoma Coast Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

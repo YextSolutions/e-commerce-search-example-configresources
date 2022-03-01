@@ -1,0 +1,17 @@
+{
+  "$id": "p13958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.47",
+    "c_numberReviews": "17",
+    "c_priceRange": "$6.47 - $18.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/gnarly-head-pinot-noir/p13958",
+    "name": "Gnarly Head Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "12.15",
+    "c_numberReviews": "21",
+    "c_priceRange": "$12.15 - $32.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/blue-chair-bay-banana-rum/p18037",
+    "name": "Blue Chair Bay Banana Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p3436",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "98.09",
+    "c_minPrice": "31.79",
+    "c_numberReviews": "2",
+    "c_priceRange": "$31.79 - $98.09",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/frogs-leap-cabernet-sauvignon/p3436",
+    "name": "Frog\u0027s Leap Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

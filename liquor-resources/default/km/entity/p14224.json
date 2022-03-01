@@ -1,0 +1,44 @@
+{
+  "$id": "p14224",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "14.05",
+    "c_numberReviews": "15",
+    "c_priceRange": "$14.05 - $44.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/gloria-ferrer-sonoma-brut/p14224",
+    "name": "Gloria Ferrer Sonoma Brut",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-gloria-ferrer-sonoma-brut-03f8816eed37ca6e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/VuX9P84cj_Vx-D9U1NHdBakJjCrcPHA8y1m-vzaPhc4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/VuX9P84cj_Vx-D9U1NHdBakJjCrcPHA8y1m-vzaPhc4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/VuX9P84cj_Vx-D9U1NHdBakJjCrcPHA8y1m-vzaPhc4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VuX9P84cj_Vx-D9U1NHdBakJjCrcPHA8y1m-vzaPhc4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

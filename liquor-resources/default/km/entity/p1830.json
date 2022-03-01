@@ -1,0 +1,17 @@
+{
+  "$id": "p1830",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "3.47",
+    "c_numberReviews": "251",
+    "c_priceRange": "$3.47 - $99.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/barefoot-cabernet-sauvignon/p1830",
+    "name": "Barefoot Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p101458",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "3.79",
+    "c_numberReviews": "56",
+    "c_priceRange": "$3.79 - $11.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/jinro-chamisul-plum-soju/p101458",
+    "name": "Jinro Chamisul Plum Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

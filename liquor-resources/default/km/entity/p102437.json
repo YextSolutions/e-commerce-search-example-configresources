@@ -1,0 +1,18 @@
+{
+  "$id": "p102437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.62",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.99 - $18.62",
+    "c_subCategory": "Red Ale",
+    "c_type": "Irish Red",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/irish-red/samuel-adams-boston-brick-red/p102437",
+    "name": "Samuel Adams Boston Brick Red"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

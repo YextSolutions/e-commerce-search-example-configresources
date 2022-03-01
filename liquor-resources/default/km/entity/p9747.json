@@ -1,0 +1,17 @@
+{
+  "$id": "p9747",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "77",
+    "c_priceRange": "$15.99 - $59.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/pendleton-canadian-whisky/p9747",
+    "name": "Pendleton Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

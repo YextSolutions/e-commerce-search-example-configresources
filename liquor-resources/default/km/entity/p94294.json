@@ -1,0 +1,16 @@
+{
+  "$id": "p94294",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "61.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "253",
+    "c_priceRange": "$1.99 - $61.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/high-noon-grapefruit-hard-seltzer/p94294",
+    "name": "High Noon Grapefruit Hard Seltzer"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

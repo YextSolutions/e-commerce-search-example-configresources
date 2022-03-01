@@ -1,0 +1,17 @@
+{
+  "$id": "p2633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "6.97",
+    "c_numberReviews": "545",
+    "c_priceRange": "$6.97 - $99.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/chateau-ste-michelle-sauvignon-blanc/p2633",
+    "name": "Chateau Ste. Michelle Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

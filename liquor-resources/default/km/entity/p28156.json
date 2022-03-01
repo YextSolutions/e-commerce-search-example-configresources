@@ -1,0 +1,17 @@
+{
+  "$id": "p28156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$13.99 - $37.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/house-wine-malbec-3l-box/p28156",
+    "name": "House Wine Malbec 3L Box"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p95693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "12.79",
+    "c_numberReviews": "5",
+    "c_priceRange": "$12.79 - $16.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/mighty-squirrel-velvet-moon-mocha-stout/p95693",
+    "name": "Mighty Squirrel Velvet Moon Mocha Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-mighty-squirrel-velvet-moon-mocha-stout-180c69b5caa44c99.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZn07owcz-Ws5bUP7-BTjnwnEMHPu_eE7nNwTvJL0wk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZn07owcz-Ws5bUP7-BTjnwnEMHPu_eE7nNwTvJL0wk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JZn07owcz-Ws5bUP7-BTjnwnEMHPu_eE7nNwTvJL0wk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JZn07owcz-Ws5bUP7-BTjnwnEMHPu_eE7nNwTvJL0wk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

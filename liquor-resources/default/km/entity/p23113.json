@@ -1,0 +1,17 @@
+{
+  "$id": "p23113",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "9.01",
+    "c_numberReviews": "20",
+    "c_priceRange": "$9.01 - $21.99",
+    "c_subCategory": "Futsushu",
+    "landingPageUrl": "https://drizly.com/wine/sake/futsushu/hana-fuji-apple-sake/p23113",
+    "name": "Hana Fuji Apple Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

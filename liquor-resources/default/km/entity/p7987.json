@@ -1,0 +1,17 @@
+{
+  "$id": "p7987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "20.52",
+    "c_numberReviews": "47",
+    "c_priceRange": "$20.52 - $199.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/evan-williams-single-barrel/p7987",
+    "name": "Evan Williams Single Barrel"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

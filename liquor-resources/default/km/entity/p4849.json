@@ -1,0 +1,43 @@
+{
+  "$id": "p4849",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Absinthe",
+    "c_maxPrice": "96.99",
+    "c_minPrice": "30.79",
+    "c_numberReviews": "36",
+    "c_priceRange": "$30.79 - $96.99",
+    "landingPageUrl": "https://drizly.com/liquor/absinthe/st-george-absinthe-verte/p4849",
+    "name": "St. George Absinthe Verte",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-st-george-absinthe-54f965375c18a66e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/QXzc3fhtrd6ehP4HitztE7ksXGKqI1Ci_LAdzxwO4Qo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/QXzc3fhtrd6ehP4HitztE7ksXGKqI1Ci_LAdzxwO4Qo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/QXzc3fhtrd6ehP4HitztE7ksXGKqI1Ci_LAdzxwO4Qo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QXzc3fhtrd6ehP4HitztE7ksXGKqI1Ci_LAdzxwO4Qo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

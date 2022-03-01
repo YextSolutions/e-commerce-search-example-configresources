@@ -1,0 +1,17 @@
+{
+  "$id": "p122493",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$8.99 - $15.99",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/90-montepulciano-dabruzzo-lot-188/p122493",
+    "name": "90+ Montepulciano D\u0027Abruzzo Lot 188"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

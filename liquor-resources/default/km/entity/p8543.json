@@ -1,0 +1,18 @@
+{
+  "$id": "p8543",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "79",
+    "c_priceRange": "$3.49 - $89.99",
+    "c_subCategory": "Stout",
+    "c_type": "Milk Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/milk-stout/samuel-smith-organic-chocolate-stout/p8543",
+    "name": "Samuel Smith Organic Chocolate Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p95893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "94",
+    "c_priceRange": "$12.09 - $24.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/upslope-snow-melt-variety-pack-spiked-seltzer/p95893",
+    "name": "Upslope Snow Melt Variety Pack - Spiked Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

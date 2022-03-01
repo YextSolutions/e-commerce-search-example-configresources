@@ -1,0 +1,16 @@
+{
+  "$id": "p494",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.79 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/vesica-vodka/p494",
+    "name": "Vesica Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

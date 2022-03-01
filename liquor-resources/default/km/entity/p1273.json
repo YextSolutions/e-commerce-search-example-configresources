@@ -1,0 +1,17 @@
+{
+  "$id": "p1273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "145",
+    "c_priceRange": "$34.99 - $149.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/michters-us1-kentucky-straight-rye/p1273",
+    "name": "Michter’s US★1 Kentucky Straight Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

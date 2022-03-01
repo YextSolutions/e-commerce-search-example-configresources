@@ -1,0 +1,17 @@
+{
+  "$id": "p98453",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$14.99 - $54.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/rebel-yell-100-proof-bourbon/p98453",
+    "name": "Rebel Yell 100 Proof Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

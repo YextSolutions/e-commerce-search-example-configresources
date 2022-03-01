@@ -1,0 +1,44 @@
+{
+  "$id": "p9746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "6.91",
+    "c_numberReviews": "37",
+    "c_priceRange": "$6.91 - $15.99",
+    "c_subCategory": "Brown Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/brown-ale/new-belgium-1554-enlightened-dark-ale/p9746",
+    "name": "New Belgium 1554 Enlightened Dark Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-new-belgium-1554-black-lager-975d1a2cbd1ee644.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/vk1orsW6wqO-7WeZe8hjD90GaWV6VK7WaFFw9hmXosc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vk1orsW6wqO-7WeZe8hjD90GaWV6VK7WaFFw9hmXosc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/vk1orsW6wqO-7WeZe8hjD90GaWV6VK7WaFFw9hmXosc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vk1orsW6wqO-7WeZe8hjD90GaWV6VK7WaFFw9hmXosc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

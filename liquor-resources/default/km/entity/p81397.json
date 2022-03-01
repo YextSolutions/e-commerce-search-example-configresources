@@ -1,0 +1,17 @@
+{
+  "$id": "p81397",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "88",
+    "c_priceRange": "$21.99 - $65.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/jameson-caskmates-ipa-edition/p81397",
+    "name": "Jameson Caskmates IPA Edition"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

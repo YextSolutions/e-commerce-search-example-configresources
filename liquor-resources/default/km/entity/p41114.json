@@ -1,0 +1,17 @@
+{
+  "$id": "p41114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$5.99 - $17.99",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/collegiata-montepulciano-dabruzzo/p41114",
+    "name": "Collegiata Montepulciano d\u0027Abruzzo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

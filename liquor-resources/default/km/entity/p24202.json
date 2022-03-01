@@ -1,0 +1,44 @@
+{
+  "$id": "p24202",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "10.17",
+    "c_numberReviews": "10",
+    "c_priceRange": "$10.17 - $25.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/piattelli-malbec-premium-reserve-2013/p24202",
+    "name": "Piattelli Malbec Premium Reserve",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-piattelli-malbec-premium-reserve-2013-ae9dc6e09dc39404.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/KYyzwo4d1ElAhD-y4VefRElsayqa8C6q0BYbpfWVPog/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KYyzwo4d1ElAhD-y4VefRElsayqa8C6q0BYbpfWVPog/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/KYyzwo4d1ElAhD-y4VefRElsayqa8C6q0BYbpfWVPog/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KYyzwo4d1ElAhD-y4VefRElsayqa8C6q0BYbpfWVPog/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

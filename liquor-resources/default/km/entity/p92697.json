@@ -1,0 +1,16 @@
+{
+  "$id": "p92697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$16.99 - $33.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/cigar-city-brewing-mixed-pack/p92697",
+    "name": "Cigar City Brewing Mixed Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

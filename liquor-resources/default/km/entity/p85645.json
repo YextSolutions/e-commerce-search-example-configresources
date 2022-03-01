@@ -1,0 +1,44 @@
+{
+  "$id": "p85645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "100.79",
+    "c_minPrice": "26.00",
+    "c_numberReviews": "32",
+    "c_priceRange": "$26.00 - $100.79",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/bacardi-gran-reserva-diez-rum/p85645",
+    "name": "BACARDÍ Gran Reserva Diez Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bacardi-gran-reserva-diez-extra-rare-gold-10-year-rum-e01dc8a81ef13a8d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ONDHBfwqc3p_s1_bxB331XSug-uuRozTszAfT2jiNNU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ONDHBfwqc3p_s1_bxB331XSug-uuRozTszAfT2jiNNU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ONDHBfwqc3p_s1_bxB331XSug-uuRozTszAfT2jiNNU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ONDHBfwqc3p_s1_bxB331XSug-uuRozTszAfT2jiNNU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

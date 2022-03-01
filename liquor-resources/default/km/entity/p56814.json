@@ -1,0 +1,17 @@
+{
+  "$id": "p56814",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "22.49",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "44",
+    "c_priceRange": "$8.98 - $22.49",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/wiseacre-tiny-bomb-pilsner/p56814",
+    "name": "Wiseacre Tiny Bomb Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

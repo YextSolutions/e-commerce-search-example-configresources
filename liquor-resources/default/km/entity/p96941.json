@@ -1,0 +1,17 @@
+{
+  "$id": "p96941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.13",
+    "c_numberReviews": "89",
+    "c_priceRange": "$7.13 - $29.99",
+    "c_subCategory": "Sparkling Red Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-red-wine/apothic-sparkling-red/p96941",
+    "name": "Apothic Sparkling Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

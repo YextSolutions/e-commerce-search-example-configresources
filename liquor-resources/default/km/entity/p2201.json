@@ -1,0 +1,44 @@
+{
+  "$id": "p2201",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "3495.21",
+    "c_minPrice": "185.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$185.99 - $3495.21",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/the-yamazaki-single-malt-18-year/p2201",
+    "name": "Yamazaki 18 Year Old Single Malt Japanese Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-the-yamazaki-single-malt-18-year-179bf3380dcfca8b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/rCkwqKtAyu0Juladc9SBKxBlF5aQjdhSRh0i5W4gqpY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rCkwqKtAyu0Juladc9SBKxBlF5aQjdhSRh0i5W4gqpY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/rCkwqKtAyu0Juladc9SBKxBlF5aQjdhSRh0i5W4gqpY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rCkwqKtAyu0Juladc9SBKxBlF5aQjdhSRh0i5W4gqpY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

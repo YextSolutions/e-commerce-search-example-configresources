@@ -1,0 +1,17 @@
+{
+  "$id": "p68935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "1.96",
+    "c_numberReviews": "145",
+    "c_priceRange": "$1.96 - $30.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-seasonal-red-white-and-berry-game-day-punch/p68935",
+    "name": "Smirnoff Ice Seasonal: Red, White, \u0026 Berry / Game Day Punch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

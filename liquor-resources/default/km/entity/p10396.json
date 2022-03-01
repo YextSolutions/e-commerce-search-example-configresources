@@ -1,0 +1,17 @@
+{
+  "$id": "p10396",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.49",
+    "c_minPrice": "9.47",
+    "c_numberReviews": "15",
+    "c_priceRange": "$9.47 - $25.49",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/trapiche-broquel-malbec/p10396",
+    "name": "Trapiche Broquel Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

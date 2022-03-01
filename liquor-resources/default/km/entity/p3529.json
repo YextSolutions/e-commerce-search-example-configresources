@@ -1,0 +1,18 @@
+{
+  "$id": "p3529",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.97",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.97 - $19.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/glutenberg-pale-ale/p3529",
+    "name": "Glutenberg Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p6142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "19.97",
+    "c_numberReviews": "40",
+    "c_priceRange": "$19.97 - $65.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/dulce-vida-organic-blanco-tequila/p6142",
+    "name": "Dulce Vida Organic Blanco Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-dulce-vida-blanco-tequila-52b39c42ed510fe0.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jt3qYF7Rf6a0RXia0qG2OBZ0n2M1BQK4lGIUGHkbxuo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jt3qYF7Rf6a0RXia0qG2OBZ0n2M1BQK4lGIUGHkbxuo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jt3qYF7Rf6a0RXia0qG2OBZ0n2M1BQK4lGIUGHkbxuo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jt3qYF7Rf6a0RXia0qG2OBZ0n2M1BQK4lGIUGHkbxuo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p72210",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "89",
+    "c_priceRange": "$14.99 - $299.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/drumshanbo-gunpowder-irish-gin/p72210",
+    "name": "Drumshanbo Gunpowder Irish Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

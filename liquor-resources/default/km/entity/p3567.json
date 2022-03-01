@@ -1,0 +1,17 @@
+{
+  "$id": "p3567",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$7.99 - $26.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/graffigna-malbec/p3567",
+    "name": "Graffigna Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

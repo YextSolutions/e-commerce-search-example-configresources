@@ -1,0 +1,17 @@
+{
+  "$id": "p13633",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.49",
+    "c_minPrice": "8.80",
+    "c_numberReviews": "21",
+    "c_priceRange": "$8.80 - $25.49",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/firesteed-pinot-noir/p13633",
+    "name": "Firesteed Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p86573",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "101.04",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "37",
+    "c_priceRange": "$25.99 - $101.04",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/heavens-door-straight-bourbon-whiskey/p86573",
+    "name": "Heaven\u0027s Door Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

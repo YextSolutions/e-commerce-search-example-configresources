@@ -1,0 +1,16 @@
+{
+  "$id": "p18076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$23.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/dows-porto-tawny-10-year/p18076",
+    "name": "Dow\u0027s Porto Tawny 10 Year"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

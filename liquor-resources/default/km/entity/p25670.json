@@ -1,0 +1,43 @@
+{
+  "$id": "p25670",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.44",
+    "c_numberReviews": "39",
+    "c_priceRange": "$6.44 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/relax-pink-rose/p25670",
+    "name": "Relax Pink Rosé",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-relax-pink-riesling-b9fe08cb271f6b84.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDvGCPm_Ye8AYTpjhvLA4nuswqT_PFZpgyM-H8rw2Oc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDvGCPm_Ye8AYTpjhvLA4nuswqT_PFZpgyM-H8rw2Oc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JDvGCPm_Ye8AYTpjhvLA4nuswqT_PFZpgyM-H8rw2Oc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JDvGCPm_Ye8AYTpjhvLA4nuswqT_PFZpgyM-H8rw2Oc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

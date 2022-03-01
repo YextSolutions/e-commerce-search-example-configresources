@@ -1,0 +1,17 @@
+{
+  "$id": "p3452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "5.48",
+    "c_numberReviews": "7",
+    "c_priceRange": "$5.48 - $24.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/gabbiano-pinot-grigio/p3452",
+    "name": "Gabbiano Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

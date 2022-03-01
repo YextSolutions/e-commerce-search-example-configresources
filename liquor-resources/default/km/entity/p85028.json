@@ -1,0 +1,17 @@
+{
+  "$id": "p85028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "607",
+    "c_priceRange": "$15.39 - $99.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ketel-one-botanical-cucumber-and-mint/p85028",
+    "name": "Ketel One Botanical Cucumber and Mint"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

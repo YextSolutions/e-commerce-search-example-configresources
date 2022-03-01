@@ -1,0 +1,17 @@
+{
+  "$id": "p114192",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.99 - $13.19",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/martin-house-true-love-raspberry-sour/p114192",
+    "name": "Martin House True Love Raspberry Sour"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

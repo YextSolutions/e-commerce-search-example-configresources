@@ -1,0 +1,44 @@
+{
+  "$id": "p98981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "949.97",
+    "c_minPrice": "179.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$179.99 - $949.97",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-blue-label-california-edition/p98981",
+    "name": "Johnnie Walker Blue Label California Edition",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-johnnie-walker-blue-label-california-edition-6eb0a545d4bac52f.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbWKbz5p1_IVLQTewaFe21vUB0eQsU9AMS02Lyd6PVk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbWKbz5p1_IVLQTewaFe21vUB0eQsU9AMS02Lyd6PVk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HbWKbz5p1_IVLQTewaFe21vUB0eQsU9AMS02Lyd6PVk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HbWKbz5p1_IVLQTewaFe21vUB0eQsU9AMS02Lyd6PVk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

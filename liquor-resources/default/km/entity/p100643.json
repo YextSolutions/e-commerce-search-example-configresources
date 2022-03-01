@@ -1,0 +1,16 @@
+{
+  "$id": "p100643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "16.09",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "23",
+    "c_priceRange": "$3.49 - $16.09",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/loyal-9-cocktails-mixed-berry-lemonade/p100643",
+    "name": "Loyal 9 Cocktails - Mixed Berry Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

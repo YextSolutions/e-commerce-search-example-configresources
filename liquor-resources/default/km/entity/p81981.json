@@ -1,0 +1,17 @@
+{
+  "$id": "p81981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$8.99 - $12.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/4-noses-brewing-company-perfect-drift-pilsner/p81981",
+    "name": "4 Noses Brewing Company Perfect Drift Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

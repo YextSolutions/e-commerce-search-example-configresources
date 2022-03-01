@@ -1,0 +1,15 @@
+{
+  "$id": "p90783",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$20.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/golden-road-brewing-fruit-cart-mixer/p90783",
+    "name": "Golden Road Brewing Fruit Cart Mixer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p20851",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "156",
+    "c_priceRange": "$8.49 - $17.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/montebello-long-island-iced-tea/p20851",
+    "name": "Montebello Long Island Iced Tea"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

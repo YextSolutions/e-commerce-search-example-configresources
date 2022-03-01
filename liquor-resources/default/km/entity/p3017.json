@@ -1,0 +1,17 @@
+{
+  "$id": "p3017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "53.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "296",
+    "c_priceRange": "$3.49 - $53.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/dogfish-head-90-minute-ipa/p3017",
+    "name": "Dogfish Head 90-Minute IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

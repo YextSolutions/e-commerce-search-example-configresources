@@ -1,0 +1,18 @@
+{
+  "$id": "p99797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$18.99 - $39.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/goose-island-bourbon-county-brand-mon-cheri-stout/p99797",
+    "name": "Goose Island Bourbon County Brand Mon Cheri Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

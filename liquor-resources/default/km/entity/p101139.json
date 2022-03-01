@@ -1,0 +1,17 @@
+{
+  "$id": "p101139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$11.99 - $26.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/barefoot-on-tap-red-blend/p101139",
+    "name": "Barefoot On Tap Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

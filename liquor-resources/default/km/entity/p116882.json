@@ -1,0 +1,17 @@
+{
+  "$id": "p116882",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "20",
+    "c_priceRange": "$9.89 - $19.99",
+    "c_subCategory": "Sparkling Red Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-red-wine/roscato-gold/p116882",
+    "name": "Roscato Gold"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

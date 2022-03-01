@@ -1,0 +1,17 @@
+{
+  "$id": "p99693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "2",
+    "c_priceRange": "$3.49 - $18.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/prairie-artisan-ales-seasick-crocodile/p99693",
+    "name": "Prairie Artisan Ales Seasick Crocodile"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

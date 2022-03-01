@@ -1,0 +1,17 @@
+{
+  "$id": "p832",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$10.99 - $20.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/barista-pinotage/p832",
+    "name": "Barista Pinotage"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

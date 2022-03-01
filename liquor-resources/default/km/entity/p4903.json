@@ -1,0 +1,17 @@
+{
+  "$id": "p4903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "22.68",
+    "c_numberReviews": "2086",
+    "c_priceRange": "$22.68 - $49.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/grey-goose-la-poire-flavored-vodka/p4903",
+    "name": "GREY GOOSE La Poire Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

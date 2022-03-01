@@ -1,0 +1,17 @@
+{
+  "$id": "p10217",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "18",
+    "c_priceRange": "$6.59 - $18.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/seaglass-riesling/p10217",
+    "name": "SeaGlass Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

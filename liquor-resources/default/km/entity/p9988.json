@@ -1,0 +1,17 @@
+{
+  "$id": "p9988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "34.88",
+    "c_numberReviews": "2",
+    "c_priceRange": "$34.88 - $69.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/aubry-brut-champagne/p9988",
+    "name": "Aubry Brut Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

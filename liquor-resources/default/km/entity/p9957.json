@@ -1,0 +1,17 @@
+{
+  "$id": "p9957",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$7.99 - $20.99",
+    "c_subCategory": "Picpoul",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/picpoul/caves-de-pomerols-picpoul-de-pinet/p9957",
+    "name": "Caves De Pomerols Picpoul De Pinet"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

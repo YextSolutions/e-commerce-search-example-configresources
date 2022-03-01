@@ -1,0 +1,18 @@
+{
+  "$id": "p100019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.99 - $18.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/funky-buddha-chant-session-ipa/p100019",
+    "name": "Funky Buddha Chant Session IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

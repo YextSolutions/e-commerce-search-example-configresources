@@ -1,0 +1,44 @@
+{
+  "$id": "p86212",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "179",
+    "c_priceRange": "$2.99 - $22.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/cutwater-tequila-paloma/p86212",
+    "name": "Cutwater Tequila Paloma",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-cutwater-grapefruit-tequila-paloma-c3d8aae0e30b0736.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/6PJuIx_Ya7wexaGC8faIAJBrye8hqwoNPL5nQqby0k8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6PJuIx_Ya7wexaGC8faIAJBrye8hqwoNPL5nQqby0k8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6PJuIx_Ya7wexaGC8faIAJBrye8hqwoNPL5nQqby0k8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6PJuIx_Ya7wexaGC8faIAJBrye8hqwoNPL5nQqby0k8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

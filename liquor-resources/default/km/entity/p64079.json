@@ -1,0 +1,17 @@
+{
+  "$id": "p64079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$18.99 - $41.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/amaro-sfumato-rabarbaro/p64079",
+    "name": "Amaro Sfumato Rabarbaro"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

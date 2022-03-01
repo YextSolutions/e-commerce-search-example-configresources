@@ -1,0 +1,17 @@
+{
+  "$id": "p11239",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$5.99 - $18.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/robert-mondavi-heritage-red-private-selection/p11239",
+    "name": "Robert Mondavi Heritage Red Private Selection"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

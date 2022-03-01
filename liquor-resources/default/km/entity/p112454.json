@@ -1,0 +1,17 @@
+{
+  "$id": "p112454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "42.19",
+    "c_numberReviews": "20",
+    "c_priceRange": "$42.19 - $999.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/elijah-craig-toasted-barrel/p112454",
+    "name": "Elijah Craig Toasted Barrel"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

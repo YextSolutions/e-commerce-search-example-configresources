@@ -1,0 +1,17 @@
+{
+  "$id": "p28167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.55",
+    "c_numberReviews": "21",
+    "c_priceRange": "$7.55 - $29.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/gancia-prosecco-doc-brut/p28167",
+    "name": "Gancia Prosecco DOC Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

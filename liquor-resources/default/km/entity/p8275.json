@@ -1,0 +1,17 @@
+{
+  "$id": "p8275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$17.99 - $38.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/cimarron-blanco-tequila/p8275",
+    "name": "Cimarron Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

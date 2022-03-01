@@ -1,0 +1,17 @@
+{
+  "$id": "p1209",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "60.49",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "377",
+    "c_priceRange": "$17.99 - $60.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/larceny-small-batch-bourbon/p1209",
+    "name": "Larceny Small Batch Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

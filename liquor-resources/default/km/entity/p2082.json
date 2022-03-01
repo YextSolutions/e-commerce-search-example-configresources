@@ -1,0 +1,17 @@
+{
+  "$id": "p2082",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$15.99 - $18.99",
+    "c_subCategory": "Gruner Veltliner",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/gruner-veltliner/weingut-berger-gruner-veltliner/p2082",
+    "name": "Weingut Berger Gruner Veltliner"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p103225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$6.99 - $27.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/altamont-maui-waui-ipa/p103225",
+    "name": "Altamont Maui Waui IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p44401",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$5.99 - $19.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/seaglass-rose/p44401",
+    "name": "Seaglass Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

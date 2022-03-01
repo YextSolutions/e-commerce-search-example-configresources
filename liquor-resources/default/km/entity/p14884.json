@@ -1,0 +1,44 @@
+{
+  "$id": "p14884",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.99 - $18.99",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/anciano-tempranillo/p14884",
+    "name": "Anciano Tempranillo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-anciano-tempranillo-623ce4634e93d002.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PND-ZBXg736WbCVVOimk4oSG2INPUrpO9wIMecZil0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PND-ZBXg736WbCVVOimk4oSG2INPUrpO9wIMecZil0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/4PND-ZBXg736WbCVVOimk4oSG2INPUrpO9wIMecZil0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/4PND-ZBXg736WbCVVOimk4oSG2INPUrpO9wIMecZil0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

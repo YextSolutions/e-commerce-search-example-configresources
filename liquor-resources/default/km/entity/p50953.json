@@ -1,0 +1,17 @@
+{
+  "$id": "p50953",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "99.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$9.99 - $99.00",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/z-alexander-brown-uncaged-red-blend/p50953",
+    "name": "Z Alexander Brown Uncaged Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

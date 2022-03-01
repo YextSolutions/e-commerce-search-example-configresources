@@ -1,0 +1,44 @@
+{
+  "$id": "p58904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "222.99",
+    "c_minPrice": "87.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$87.99 - $222.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/laphroaig-lore/p58904",
+    "name": "Laphroaig Lore Islay Single Malt Scotch Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-laphroaig-lore-99fb2817247b5196.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/riaU4WEYqKofFcaB_2dY_ZhjxZ372_xGEtBzn8g2xz4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/riaU4WEYqKofFcaB_2dY_ZhjxZ372_xGEtBzn8g2xz4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/riaU4WEYqKofFcaB_2dY_ZhjxZ372_xGEtBzn8g2xz4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/riaU4WEYqKofFcaB_2dY_ZhjxZ372_xGEtBzn8g2xz4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

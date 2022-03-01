@@ -1,0 +1,17 @@
+{
+  "$id": "p795",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "42",
+    "c_priceRange": "$26.99 - $62.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/bandb-liqueur/p795",
+    "name": "B\u0026B Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

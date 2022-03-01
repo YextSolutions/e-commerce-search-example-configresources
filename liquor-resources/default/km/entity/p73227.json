@@ -1,0 +1,17 @@
+{
+  "$id": "p73227",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$14.99 - $21.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/hardywood-bourbon-barrel-gingerbread-stout/p73227",
+    "name": "Hardywood Bourbon Barrel Gingerbread Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p143522",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$26.99 - $54.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/bumbu-creme/p143522",
+    "name": "Bumbu Créme"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p90199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$16.99 - $30.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/canarchy-multi-brewery-variety-pacvk/p90199",
+    "name": "CANarchy Multi Brewery Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

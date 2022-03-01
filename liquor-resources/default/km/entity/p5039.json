@@ -1,0 +1,18 @@
+{
+  "$id": "p5039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "18.49",
+    "c_numberReviews": "15",
+    "c_priceRange": "$18.49 - $31.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Witbier",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/witbier/hitachino-nest-white-ale/p5039",
+    "name": "Hitachino Nest White Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p27568",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$13.99 - $14.99",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/giorgi-costarosa-sangue-di-giuda/p27568",
+    "name": "Giorgi Costarosa Sangue di Giuda"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

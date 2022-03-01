@@ -1,0 +1,17 @@
+{
+  "$id": "p132477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "18.77",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$7.99 - $18.77",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-spicy-tamarind/p132477",
+    "name": "Smirnoff Ice Spicy Tamarind"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

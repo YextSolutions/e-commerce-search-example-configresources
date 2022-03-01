@@ -1,0 +1,44 @@
+{
+  "$id": "p4707",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "133.19",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "1807",
+    "c_priceRange": "$8.79 - $133.19",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-orange/p4707",
+    "name": "Smirnoff Orange",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-smirnoff-orange-2c7b29ca2b20f175.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKHC2nugtGnu_en_lFaV_x238Oqzcawj0VGzRt2t_Is/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKHC2nugtGnu_en_lFaV_x238Oqzcawj0VGzRt2t_Is/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/YKHC2nugtGnu_en_lFaV_x238Oqzcawj0VGzRt2t_Is/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YKHC2nugtGnu_en_lFaV_x238Oqzcawj0VGzRt2t_Is/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

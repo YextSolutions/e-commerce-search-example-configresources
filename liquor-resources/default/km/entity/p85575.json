@@ -1,0 +1,17 @@
+{
+  "$id": "p85575",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$24.99 - $49.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/cantina-terre-del-barolo/p85575",
+    "name": "Cantina Terre Del Barolo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

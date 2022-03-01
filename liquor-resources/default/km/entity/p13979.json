@@ -1,0 +1,17 @@
+{
+  "$id": "p13979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "9.03",
+    "c_numberReviews": "47",
+    "c_priceRange": "$9.03 - $25.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/menage-a-trois-prosecco-sparkling-white-wine/p13979",
+    "name": "Menage a Trois Prosecco Sparkling White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

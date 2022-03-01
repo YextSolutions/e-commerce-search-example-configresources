@@ -1,0 +1,17 @@
+{
+  "$id": "p87700",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$7.99 - $41.99",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/oliver-apple-pie/p87700",
+    "name": "Oliver Apple Pie"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p13220",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "36.97",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "62",
+    "c_priceRange": "$7.99 - $36.97",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/tyku-junmai-sake/p13220",
+    "name": "TYKU Junmai Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

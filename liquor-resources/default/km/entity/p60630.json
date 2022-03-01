@@ -1,0 +1,18 @@
+{
+  "$id": "p60630",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.99 - $27.49",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/weyerbacher-sunday-morning-stout/p60630",
+    "name": "Weyerbacher Sunday Morning Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

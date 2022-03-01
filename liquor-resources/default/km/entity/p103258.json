@@ -1,0 +1,17 @@
+{
+  "$id": "p103258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "17.61",
+    "c_numberReviews": "11",
+    "c_priceRange": "$17.61 - $23.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/karbach-brewing-co-ipa-variety-pack/p103258",
+    "name": "Karbach Brewing Co. IPA Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

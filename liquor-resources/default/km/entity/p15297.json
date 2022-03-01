@@ -1,0 +1,17 @@
+{
+  "$id": "p15297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "175.00",
+    "c_minPrice": "26.50",
+    "c_numberReviews": "17",
+    "c_priceRange": "$26.50 - $175.00",
+    "c_subCategory": "Mead",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/mead/danks-mjod-vikingerner-mjod/p15297",
+    "name": "Danks Mjod Vikingerner Mjod"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

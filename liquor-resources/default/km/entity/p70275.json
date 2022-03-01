@@ -1,0 +1,17 @@
+{
+  "$id": "p70275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.50",
+    "c_minPrice": "7.39",
+    "c_numberReviews": "43",
+    "c_priceRange": "$7.39 - $14.50",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/culitos-merlot-2016/p70275",
+    "name": "Culitos Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

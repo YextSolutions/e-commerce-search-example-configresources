@@ -1,0 +1,17 @@
+{
+  "$id": "p62238",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "30.44",
+    "c_numberReviews": "19",
+    "c_priceRange": "$30.44 - $99.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/bulleit-barrel-strength-bourbon/p62238",
+    "name": "Bulleit Barrel Strength Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

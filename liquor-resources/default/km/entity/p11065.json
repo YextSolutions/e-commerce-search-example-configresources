@@ -1,0 +1,44 @@
+{
+  "$id": "p11065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "7",
+    "c_priceRange": "$11.49 - $49.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/j-vineyards-and-winery-cuvee-20/p11065",
+    "name": "J Vineyards \u0026 Winery Cuvée 20",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-j-vineyards-cuvee-20-918d6470101ef1fd.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wf-foUgFSWPijjePJo-tzMDyuPWv6oPZWpArn5zY_jM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wf-foUgFSWPijjePJo-tzMDyuPWv6oPZWpArn5zY_jM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wf-foUgFSWPijjePJo-tzMDyuPWv6oPZWpArn5zY_jM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wf-foUgFSWPijjePJo-tzMDyuPWv6oPZWpArn5zY_jM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

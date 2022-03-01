@@ -1,0 +1,17 @@
+{
+  "$id": "p7417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "20.97",
+    "c_numberReviews": "26",
+    "c_priceRange": "$20.97 - $59.99",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/godiva-dark-chocolate-liqueur/p7417",
+    "name": "Godiva Dark Chocolate Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

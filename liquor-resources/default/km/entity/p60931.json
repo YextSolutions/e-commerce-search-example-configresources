@@ -1,0 +1,19 @@
+{
+  "$id": "p60931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "147",
+    "c_priceRange": "$5.99 - $34.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/night-shift-nite-lite-craft-light-lager/p60931",
+    "name": "Night Shift Nite Lite Craft Light Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

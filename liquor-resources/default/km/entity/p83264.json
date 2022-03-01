@@ -1,0 +1,17 @@
+{
+  "$id": "p83264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "342.49",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.99 - $342.49",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/orin-swift-slander-pinot-noir/p83264",
+    "name": "Orin Swift Slander Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

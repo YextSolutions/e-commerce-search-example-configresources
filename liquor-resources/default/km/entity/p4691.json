@@ -1,0 +1,16 @@
+{
+  "$id": "p4691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "15",
+    "c_priceRange": "$9.97 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/smirnoff-coconut/p4691",
+    "name": "Smirnoff Coconut"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

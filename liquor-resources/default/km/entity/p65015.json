@@ -1,0 +1,16 @@
+{
+  "$id": "p65015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Moscato",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "80",
+    "c_priceRange": "$4.39 - $8.99",
+    "landingPageUrl": "https://drizly.com/wine/pink-moscato/arbor-mist-pink-moscato-pineapple-strawberry-sweet-wine/p65015",
+    "name": "Arbor Mist Pink Moscato Pineapple Strawberry Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2282",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.00 - $65.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/bushmills-black-bush-irish-whiskey/p2282",
+    "name": "Bushmills Black Bush Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

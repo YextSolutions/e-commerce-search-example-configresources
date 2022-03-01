@@ -1,0 +1,44 @@
+{
+  "$id": "p13362",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "7.50",
+    "c_numberReviews": "619",
+    "c_priceRange": "$7.50 - $22.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/roscato-rosso-dolce/p13362",
+    "name": "Roscato Rosso Dolce",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-roscato-rosso-dolce-sparkling-c967c854fec8e813.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/XumAoIwOpldRaVLIa2peiRuXFffvhNQ1zEF3zEABouQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/XumAoIwOpldRaVLIa2peiRuXFffvhNQ1zEF3zEABouQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/XumAoIwOpldRaVLIa2peiRuXFffvhNQ1zEF3zEABouQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/XumAoIwOpldRaVLIa2peiRuXFffvhNQ1zEF3zEABouQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

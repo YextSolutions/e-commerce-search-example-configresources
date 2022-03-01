@@ -1,0 +1,18 @@
+{
+  "$id": "846968125",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Entities with Photos",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "photoGallery.image.url",
+        "text": {
+          "search": [
+            "h"
+          ],
+          "type": "CONTAINS"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2317",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "359.00",
+    "c_minPrice": "27.95",
+    "c_numberReviews": "18",
+    "c_priceRange": "$27.95 - $359.00",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/cakebread-cellars-cabernet-sauvignon/p2317",
+    "name": "Cakebread Cellars Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

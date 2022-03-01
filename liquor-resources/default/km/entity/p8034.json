@@ -1,0 +1,17 @@
+{
+  "$id": "p8034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$5.99 - $32.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/blue-point-summer-ale/p8034",
+    "name": "Blue Point Summer Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

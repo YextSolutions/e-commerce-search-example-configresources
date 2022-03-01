@@ -1,0 +1,16 @@
+{
+  "$id": "p33287",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "12.96",
+    "c_numberReviews": "19",
+    "c_priceRange": "$12.96 - $17.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/kirkland-signature-american-vodka/p33287",
+    "name": "Kirkland Signature American Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

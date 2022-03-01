@@ -1,0 +1,17 @@
+{
+  "$id": "p1246",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "147",
+    "c_priceRange": "$29.99 - $199.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-sherry-oak-12-year-old-single-malt-scotch-whisky/p1246",
+    "name": "The Macallan Sherry Oak 12 Year Old Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

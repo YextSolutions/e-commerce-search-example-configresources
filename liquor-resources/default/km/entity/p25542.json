@@ -1,0 +1,16 @@
+{
+  "$id": "p25542",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "33.16",
+    "c_minPrice": "13.76",
+    "c_numberReviews": "14",
+    "c_priceRange": "$13.76 - $33.16",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/il-tramonto-limoncelo/p25542",
+    "name": "Il Tramonto Limoncelo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

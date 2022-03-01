@@ -1,0 +1,17 @@
+{
+  "$id": "p16818",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "18.64",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$4.99 - $18.64",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/hogue-late-harvest-riesling/p16818",
+    "name": "Hogue Late Harvest Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

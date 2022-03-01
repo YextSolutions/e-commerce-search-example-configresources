@@ -1,0 +1,17 @@
+{
+  "$id": "p61928",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "31.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$31.99 - $199.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/1792-single-barrel-kentucky-straight-bourbon-whiskey/p61928",
+    "name": "1792 Single Barrel Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

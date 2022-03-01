@@ -1,0 +1,17 @@
+{
+  "$id": "p25233",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "52.88",
+    "c_numberReviews": "120",
+    "c_priceRange": "$52.88 - $149.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/veuve-clicquot-yellow-label-gift-box-champagne/p25233",
+    "name": "Veuve Clicquot Yellow Label Gift Box Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

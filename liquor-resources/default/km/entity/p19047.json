@@ -1,0 +1,17 @@
+{
+  "$id": "p19047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.99 - $22.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/francis-coppola-diamond-collection-syrah-shiraz/p19047",
+    "name": "Francis Coppola Diamond Collection Syrah-Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

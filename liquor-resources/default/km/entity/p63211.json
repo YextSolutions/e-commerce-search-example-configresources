@@ -1,0 +1,16 @@
+{
+  "$id": "p63211",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "65",
+    "c_priceRange": "$8.79 - $22.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/jinro-chamisul-fresh-soju/p63211",
+    "name": "Jinro Chamisul Fresh Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

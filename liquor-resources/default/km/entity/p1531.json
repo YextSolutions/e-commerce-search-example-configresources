@@ -1,0 +1,17 @@
+{
+  "$id": "p1531",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "40.69",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$20.99 - $40.69",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/lustau-pedro-ximenez-sherry/p1531",
+    "name": "Lustau Pedro Ximenez Sherry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

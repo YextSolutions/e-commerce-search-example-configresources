@@ -1,0 +1,17 @@
+{
+  "$id": "p27552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "5.52",
+    "c_numberReviews": "16",
+    "c_priceRange": "$5.52 - $49.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/cupcake-vineyards-black-forest-red-wine/p27552",
+    "name": "Cupcake® Vineyards Black Forest Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

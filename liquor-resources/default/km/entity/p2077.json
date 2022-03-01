@@ -1,0 +1,17 @@
+{
+  "$id": "p2077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$9.99 - $39.99",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/weihenstephaner-original/p2077",
+    "name": "Weihenstephaner Original"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

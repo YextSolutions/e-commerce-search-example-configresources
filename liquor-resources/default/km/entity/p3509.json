@@ -1,0 +1,17 @@
+{
+  "$id": "p3509",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.95",
+    "c_minPrice": "38.48",
+    "c_numberReviews": "25",
+    "c_priceRange": "$38.48 - $149.95",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glendronach-single-malt-scotch-whisky-original-aged-12-years/p3509",
+    "name": "The GlenDronach Single Malt Scotch Whisky Original Aged 12 Years"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

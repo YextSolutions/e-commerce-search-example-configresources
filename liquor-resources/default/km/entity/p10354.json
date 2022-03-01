@@ -1,0 +1,17 @@
+{
+  "$id": "p10354",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "71.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$15.99 - $71.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/banshee-cabernet-sauvignon-napa-valley/p10354",
+    "name": "Banshee Cabernet Sauvignon Napa Valley"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p6319",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "179.99",
+    "c_minPrice": "47.00",
+    "c_numberReviews": "8",
+    "c_priceRange": "$47.00 - $179.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/bruichladdich-islay-barley/p6319",
+    "name": "Bruichladdich Islay Barley Rockside Farm"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

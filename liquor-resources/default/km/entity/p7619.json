@@ -1,0 +1,17 @@
+{
+  "$id": "p7619",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.19",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "28",
+    "c_priceRange": "$6.49 - $32.19",
+    "c_subCategory": "Dark Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/hofbrau-dunkel/p7619",
+    "name": "Hofbrau Dunkel"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

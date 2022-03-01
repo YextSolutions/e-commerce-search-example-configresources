@@ -1,0 +1,16 @@
+{
+  "$id": "p142128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$16.99 - $30.79",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/canteen-spirits-variety-vodka-soda/p142128",
+    "name": "Canteen Spirits Variety Vodka Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

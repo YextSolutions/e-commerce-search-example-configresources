@@ -1,0 +1,17 @@
+{
+  "$id": "p98516",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.98",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$11.99 - $29.98",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/hardywood-gingerbread-stout/p98516",
+    "name": "Hardywood Gingerbread Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p6227",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.49 - $17.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/inver-house-scotch-whiskey/p6227",
+    "name": "Inver House Scotch Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p748",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.99 - $21.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/aruma-malbec/p748",
+    "name": "Aruma Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

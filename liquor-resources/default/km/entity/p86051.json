@@ -1,0 +1,17 @@
+{
+  "$id": "p86051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "4.99",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "17",
+    "c_priceRange": "$2.00 - $4.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/monaco-cocktails-cranberry/p86051",
+    "name": "Monaco Cocktails Cranberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

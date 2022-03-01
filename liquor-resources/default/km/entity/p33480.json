@@ -1,0 +1,17 @@
+{
+  "$id": "p33480",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "14",
+    "c_priceRange": "$11.49 - $49.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/lunazul-anejo-tequila/p33480",
+    "name": "Lunazul Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

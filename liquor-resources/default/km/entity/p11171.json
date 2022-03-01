@@ -1,0 +1,17 @@
+{
+  "$id": "p11171",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "7.72",
+    "c_numberReviews": "15",
+    "c_priceRange": "$7.72 - $25.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/robert-mondavi-malbec-private-selection/p11171",
+    "name": "Robert Mondavi Malbec Private Selection"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

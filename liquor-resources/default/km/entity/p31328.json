@@ -1,0 +1,17 @@
+{
+  "$id": "p31328",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.58",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$6.99 - $35.58",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/redds-wicked-apple-ale/p31328",
+    "name": "Redd\u0027s Wicked Apple Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

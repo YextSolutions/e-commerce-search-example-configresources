@@ -1,0 +1,18 @@
+{
+  "$id": "p85725",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "9.59",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.59 - $15.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/monday-night-drafty-kilt-scotch-ale/p85725",
+    "name": "Monday Night Drafty Kilt Scotch Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

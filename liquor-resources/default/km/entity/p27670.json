@@ -1,0 +1,16 @@
+{
+  "$id": "p27670",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.79",
+    "c_numberReviews": "32",
+    "c_priceRange": "$9.79 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/roscato-bianco-dolce/p27670",
+    "name": "Roscato Bianco Dolce"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

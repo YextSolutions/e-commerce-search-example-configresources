@@ -1,0 +1,44 @@
+{
+  "$id": "p60019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "21.87",
+    "c_numberReviews": "9",
+    "c_priceRange": "$21.87 - $37.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/jack-daniels-black-with-coke/p60019",
+    "name": "Jack Daniel\u0027s Black With Coke",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-jack-daniels-black-with-coke-e5ea994dd3b9a4cf.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/YJCqeaaw8kF-w3oE8krUXH0gy3J9Gxviu8mMEOx7JxI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YJCqeaaw8kF-w3oE8krUXH0gy3J9Gxviu8mMEOx7JxI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/YJCqeaaw8kF-w3oE8krUXH0gy3J9Gxviu8mMEOx7JxI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YJCqeaaw8kF-w3oE8krUXH0gy3J9Gxviu8mMEOx7JxI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

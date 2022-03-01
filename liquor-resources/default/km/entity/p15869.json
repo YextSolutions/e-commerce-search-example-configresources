@@ -1,0 +1,17 @@
+{
+  "$id": "p15869",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "23.75",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "175",
+    "c_priceRange": "$6.99 - $23.75",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/campo-viejo-cava-rose/p15869",
+    "name": "Campo Viejo Cava Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

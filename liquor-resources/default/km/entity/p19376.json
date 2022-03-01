@@ -1,0 +1,17 @@
+{
+  "$id": "p19376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "1",
+    "c_priceRange": "$6.59 - $37.99",
+    "c_subCategory": "Garganega",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/garganega/pieropan-soave-class-superiore/p19376",
+    "name": "Pieropan Soave Class Superiore"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

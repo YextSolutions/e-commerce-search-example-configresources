@@ -1,0 +1,17 @@
+{
+  "$id": "p24185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$12.99 - $19.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/peter-vella-cabernet-sauvignon/p24185",
+    "name": "Peter Vella Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

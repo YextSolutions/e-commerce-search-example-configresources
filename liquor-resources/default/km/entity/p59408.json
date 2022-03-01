@@ -1,0 +1,17 @@
+{
+  "$id": "p59408",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "343.89",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "52",
+    "c_priceRange": "$29.99 - $343.89",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/sagamore-spirit-rye-whiskey/p59408",
+    "name": "Sagamore Spirit Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

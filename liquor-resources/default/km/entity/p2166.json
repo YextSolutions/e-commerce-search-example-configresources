@@ -1,0 +1,44 @@
+{
+  "$id": "p2166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "16.79",
+    "c_minPrice": "3.16",
+    "c_numberReviews": "124",
+    "c_priceRange": "$3.16 - $16.79",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/woodbridge-white-zinfandel-by-robert-mondavi/p2166",
+    "name": "Woodbridge White Zinfandel by Robert Mondavi",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-woodbridge-white-zinfandel-1ada685b019ed8d6.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hfN4rzsTRxK0ycsVc5Vysh7wg227m4vo-AA_Pw9o2n4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hfN4rzsTRxK0ycsVc5Vysh7wg227m4vo-AA_Pw9o2n4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hfN4rzsTRxK0ycsVc5Vysh7wg227m4vo-AA_Pw9o2n4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hfN4rzsTRxK0ycsVc5Vysh7wg227m4vo-AA_Pw9o2n4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

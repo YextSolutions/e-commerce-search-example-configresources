@@ -1,0 +1,16 @@
+{
+  "$id": "p51547",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$6.99 - $15.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/prestige-beer/p51547",
+    "name": "Prestige Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

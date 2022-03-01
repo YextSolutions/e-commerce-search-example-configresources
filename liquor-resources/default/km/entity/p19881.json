@@ -1,0 +1,44 @@
+{
+  "$id": "p19881",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "169.99",
+    "c_minPrice": "44.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$44.99 - $169.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/stranahans-diamond-peak-whiskey/p19881",
+    "name": "Stranahan\u0027s Diamond Peak Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-stranahans-diamond-peak-whiskey-57a75acc7b1a221b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/_cNx6vAy8KdJaqItMqwKpqB6KnA5Qa5nz6K4qEt2ssw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/_cNx6vAy8KdJaqItMqwKpqB6KnA5Qa5nz6K4qEt2ssw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/_cNx6vAy8KdJaqItMqwKpqB6KnA5Qa5nz6K4qEt2ssw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/_cNx6vAy8KdJaqItMqwKpqB6KnA5Qa5nz6K4qEt2ssw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

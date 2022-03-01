@@ -1,0 +1,17 @@
+{
+  "$id": "p3111",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "117",
+    "c_priceRange": "$8.79 - $27.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/don-miguel-gascon-malbec/p3111",
+    "name": "Don Miguel Gascon Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

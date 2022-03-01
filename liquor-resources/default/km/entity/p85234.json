@@ -1,0 +1,17 @@
+{
+  "$id": "p85234",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.00",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "59",
+    "c_priceRange": "$6.99 - $65.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-light-margarita-white-peach/p85234",
+    "name": "Jose Cuervo Light Margarita White Peach"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

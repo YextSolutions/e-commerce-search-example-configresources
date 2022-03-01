@@ -1,0 +1,44 @@
+{
+  "$id": "p59587",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "23.09",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$8.99 - $23.09",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/paul-masson-grande-amber-pineapple-brandy/p59587",
+    "name": "Paul Masson Grande Amber Pineapple Brandy",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-paul-masson-grande-amber-pineapple-brandy-582005d62c84bf6f.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/zIQr8r3sfG-5_ExCo8MzjMU8QgGOIf8p1hnr59_P8ho/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/zIQr8r3sfG-5_ExCo8MzjMU8QgGOIf8p1hnr59_P8ho/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/zIQr8r3sfG-5_ExCo8MzjMU8QgGOIf8p1hnr59_P8ho/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zIQr8r3sfG-5_ExCo8MzjMU8QgGOIf8p1hnr59_P8ho/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

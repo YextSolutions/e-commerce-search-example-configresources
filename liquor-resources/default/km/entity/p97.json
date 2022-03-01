@@ -1,0 +1,17 @@
+{
+  "$id": "p97",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "65",
+    "c_priceRange": "$8.79 - $23.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/svedka-clementine-flavored-vodka/p97",
+    "name": "SVEDKA Clementine Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p99421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$8.99 - $14.29",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/odell-good-behavior-crushable-ipa/p99421",
+    "name": "Odell Good Behavior Crushable IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-odell-good-behavior-session-ipa-01476cc38cd33616.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hSc-xZwAiqZjsduhuocu3I0IHWSPdq5hj_2UH9H2O5o/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hSc-xZwAiqZjsduhuocu3I0IHWSPdq5hj_2UH9H2O5o/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hSc-xZwAiqZjsduhuocu3I0IHWSPdq5hj_2UH9H2O5o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hSc-xZwAiqZjsduhuocu3I0IHWSPdq5hj_2UH9H2O5o/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

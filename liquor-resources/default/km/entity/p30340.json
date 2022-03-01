@@ -1,0 +1,43 @@
+{
+  "$id": "p30340",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "899.99",
+    "c_minPrice": "214.60",
+    "c_numberReviews": "5",
+    "c_priceRange": "$214.60 - $899.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/clase-azul-mezcal/p30340",
+    "name": "Clase Azul Mezcal",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-clase-azul-mezcal-a2717805b949c0e3.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/F1eY8HG0d8pJiPEMnNgOyyaxSnl1Cq73OfDMkmk_5Tk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F1eY8HG0d8pJiPEMnNgOyyaxSnl1Cq73OfDMkmk_5Tk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/F1eY8HG0d8pJiPEMnNgOyyaxSnl1Cq73OfDMkmk_5Tk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F1eY8HG0d8pJiPEMnNgOyyaxSnl1Cq73OfDMkmk_5Tk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

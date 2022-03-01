@@ -1,0 +1,16 @@
+{
+  "$id": "p85295",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "360",
+    "c_priceRange": "$9.99 - $32.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/the-palm-by-whispering-angel-rose/p85295",
+    "name": "The Palm by Whispering Angel Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p118973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.72",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.72 - $19.99",
+    "c_subCategory": "Non Alcoholic Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/non-alcoholic-wine/stella-rosa-naturals-red/p118973",
+    "name": "Stella Rosa Naturals Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p16243",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.07",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$2.99 - $18.07",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/deep-ellum-brewing-co-dream-crusher-double-ipa/p16243",
+    "name": "Deep Ellum Brewing Co. Dream Crusher Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

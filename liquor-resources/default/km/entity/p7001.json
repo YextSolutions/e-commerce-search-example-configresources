@@ -1,0 +1,17 @@
+{
+  "$id": "p7001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "20.02",
+    "c_numberReviews": "6",
+    "c_priceRange": "$20.02 - $46.99",
+    "c_subCategory": "Fruit Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/fruit-brandy/r-jelinek-5-year-old-slivovitz-plum-brandy/p7001",
+    "name": "R. Jelinek 5 Year Old Slivovitz - Plum Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p25978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$5.99 - $16.99",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/protocolo-tinto/p25978",
+    "name": "Protocolo Tinto",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-protocolo-tinto-02d68f8296a08488.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cxhikGPg-cqEzuFzvI9kbedK97WtFNMVm4J2SRtq_oo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cxhikGPg-cqEzuFzvI9kbedK97WtFNMVm4J2SRtq_oo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cxhikGPg-cqEzuFzvI9kbedK97WtFNMVm4J2SRtq_oo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cxhikGPg-cqEzuFzvI9kbedK97WtFNMVm4J2SRtq_oo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

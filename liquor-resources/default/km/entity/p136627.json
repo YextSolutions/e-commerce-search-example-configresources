@@ -1,0 +1,17 @@
+{
+  "$id": "p136627",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.60",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "35",
+    "c_priceRange": "$8.99 - $32.60",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/michelob-ultra-organic-seltzer-classic-collection-2nd-edition-variety-pack/p136627",
+    "name": "Michelob Ultra Organic Seltzer Classic Collection 2nd Edition Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

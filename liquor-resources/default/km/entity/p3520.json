@@ -1,0 +1,17 @@
+{
+  "$id": "p3520",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "29.15",
+    "c_numberReviews": "115",
+    "c_priceRange": "$29.15 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenmorangie-original-10-year-old-single-malt-whisky/p3520",
+    "name": "Glenmorangie Original 10 Year Old Single Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

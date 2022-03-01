@@ -1,0 +1,16 @@
+{
+  "$id": "p1267",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "34.95",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$13.99 - $34.95",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/meletti-amaro/p1267",
+    "name": "Meletti Amaro"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

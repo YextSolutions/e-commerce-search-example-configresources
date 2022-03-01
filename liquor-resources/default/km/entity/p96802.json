@@ -1,0 +1,16 @@
+{
+  "$id": "p96802",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$9.99 - $16.99",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/ohza-classic-mimosa/p96802",
+    "name": "Ohza Classic Mimosa"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

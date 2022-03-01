@@ -1,0 +1,17 @@
+{
+  "$id": "p20797",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.30",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.30 - $99.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/lucien-albrecht-cremant-dalsace-brut-rose/p20797",
+    "name": "Lucien Albrecht Cremant d\u0027Alsace Brut Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

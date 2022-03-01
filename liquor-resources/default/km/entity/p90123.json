@@ -1,0 +1,17 @@
+{
+  "$id": "p90123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "2.74",
+    "c_numberReviews": "1",
+    "c_priceRange": "$2.74 - $17.99",
+    "c_subCategory": "Lambrusco",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/lambrusco/scarpetta-frico-lambrusco/p90123",
+    "name": "Scarpetta Frico Lambrusco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

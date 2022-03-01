@@ -1,0 +1,17 @@
+{
+  "$id": "p135178",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "159.99",
+    "c_minPrice": "12.69",
+    "c_numberReviews": "5",
+    "c_priceRange": "$12.69 - $159.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/crook-and-marker-lime-margarita/p135178",
+    "name": "Crook \u0026 Marker Lime Margarita"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

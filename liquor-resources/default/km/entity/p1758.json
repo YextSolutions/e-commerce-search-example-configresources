@@ -1,0 +1,44 @@
+{
+  "$id": "p1758",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.99 - $39.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/napa-cellars-napa-valley-pinot-noir/p1758",
+    "name": "Napa Cellars Napa Valley Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-napa-cellars-pinot-noir-3ae4617f89952cf1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/-lfXG4PMfGD7ZZrFj795HtEu-ICarNGpyKLZWrZv2XA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-lfXG4PMfGD7ZZrFj795HtEu-ICarNGpyKLZWrZv2XA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-lfXG4PMfGD7ZZrFj795HtEu-ICarNGpyKLZWrZv2XA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-lfXG4PMfGD7ZZrFj795HtEu-ICarNGpyKLZWrZv2XA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

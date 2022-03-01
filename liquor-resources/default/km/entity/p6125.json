@@ -1,0 +1,17 @@
+{
+  "$id": "p6125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "31.94",
+    "c_minPrice": "6.78",
+    "c_numberReviews": "22",
+    "c_priceRange": "$6.78 - $31.94",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/firestone-walker-union-jack-ipa/p6125",
+    "name": "Firestone Walker Union Jack IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

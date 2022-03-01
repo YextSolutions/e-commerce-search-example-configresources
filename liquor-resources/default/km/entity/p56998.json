@@ -1,0 +1,17 @@
+{
+  "$id": "p56998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "77.77",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "1272",
+    "c_priceRange": "$1.99 - $77.77",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/white-claw-black-cherry-hard-seltzer/p56998",
+    "name": "White Claw Black Cherry Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

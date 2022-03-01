@@ -1,0 +1,16 @@
+{
+  "$id": "p35896",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "10.21",
+    "c_numberReviews": "22",
+    "c_priceRange": "$10.21 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/angels-and-cowboys-rose/p35896",
+    "name": "Angels \u0026 Cowboys Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

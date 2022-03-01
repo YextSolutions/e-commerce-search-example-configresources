@@ -1,0 +1,18 @@
+{
+  "$id": "p26127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.80",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "35",
+    "c_priceRange": "$3.49 - $18.80",
+    "c_subCategory": "Stout",
+    "c_type": "Milk Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/milk-stout/lakewood-brewing-the-temptress-imperial-milk-stout/p26127",
+    "name": "Lakewood Brewing The Temptress Imperial Milk Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

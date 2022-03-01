@@ -1,0 +1,17 @@
+{
+  "$id": "p8160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "6.80",
+    "c_numberReviews": "48",
+    "c_priceRange": "$6.80 - $20.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/souverain-sauvignon-blanc/p8160",
+    "name": "Chateau Souverain Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

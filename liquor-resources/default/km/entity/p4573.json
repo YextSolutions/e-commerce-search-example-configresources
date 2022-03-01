@@ -1,0 +1,17 @@
+{
+  "$id": "p4573",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.67",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.67 - $21.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/shannon-ridge-cabernet-sauvignon/p4573",
+    "name": "Shannon Ridge High Elevation Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

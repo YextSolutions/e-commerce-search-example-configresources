@@ -1,0 +1,17 @@
+{
+  "$id": "p171309",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$19.99 - $49.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/dewars-japanese-smooth/p171309",
+    "name": "Dewar\u0027s Japanese Smooth"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

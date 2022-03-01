@@ -1,0 +1,17 @@
+{
+  "$id": "p101932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$7.99 - $15.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/deschutes-wowza-lo-cal-hazy-pale/p101932",
+    "name": "Deschutes WOWZA! Lo-Cal Hazy Pale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

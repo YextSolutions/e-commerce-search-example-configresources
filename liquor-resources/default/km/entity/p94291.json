@@ -1,0 +1,17 @@
+{
+  "$id": "p94291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "2.20",
+    "c_numberReviews": "208",
+    "c_priceRange": "$2.20 - $15.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/high-noon-black-cherry-hard-seltzer/p94291",
+    "name": "High Noon Black Cherry Hard Seltzer"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

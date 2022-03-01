@@ -1,0 +1,17 @@
+{
+  "$id": "p58993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "4.40",
+    "c_minPrice": "1.59",
+    "c_numberReviews": "7",
+    "c_priceRange": "$1.59 - $4.40",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/steel-reserve-alloy-series-spiked-punch/p58993",
+    "name": "Steel Reserve Alloy Series Spiked Punch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

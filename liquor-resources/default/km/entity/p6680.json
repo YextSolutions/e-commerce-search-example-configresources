@@ -1,0 +1,16 @@
+{
+  "$id": "p6680",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "49",
+    "c_priceRange": "$8.49 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/hiram-walker-peppermint-schnapps-60-proof/p6680",
+    "name": "Hiram Walker Peppermint Schnapps 60 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

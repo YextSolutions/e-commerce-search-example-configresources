@@ -1,0 +1,17 @@
+{
+  "$id": "p8719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "14.15",
+    "c_numberReviews": "4",
+    "c_priceRange": "$14.15 - $29.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/75-wine-co-cabernet-sauvignon/p8719",
+    "name": "75 Wine Co. Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

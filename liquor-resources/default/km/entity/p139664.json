@@ -1,0 +1,17 @@
+{
+  "$id": "p139664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$17.99 - $25.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/other-half-brewing-company-double-dry-hopped-green-city/p139664",
+    "name": "Other Half Brewing Company Double Dry Hopped Green City"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

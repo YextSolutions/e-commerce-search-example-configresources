@@ -1,0 +1,44 @@
+{
+  "$id": "p61693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "47",
+    "c_priceRange": "$11.99 - $34.99",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/blue-chair-bay-key-lime-cream-rum/p61693",
+    "name": "Blue Chair Bay Key Lime Cream Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-blue-chair-bay-key-lime-cream-rum-49c2ba1f9d84d5dc.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/7d98VXuQljg69qTbdeWGMcDappn6z10ff_q2IpZaFLY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/7d98VXuQljg69qTbdeWGMcDappn6z10ff_q2IpZaFLY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/7d98VXuQljg69qTbdeWGMcDappn6z10ff_q2IpZaFLY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/7d98VXuQljg69qTbdeWGMcDappn6z10ff_q2IpZaFLY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p71676",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$12.99 - $29.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/the-federalist-bourbon-barrel-aged-zinfandel/p71676",
+    "name": "The Federalist Bourbon Barrel Aged Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "9",
+    "c_priceRange": "$5.00 - $24.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/banfi-centine-rosso/p18069",
+    "name": "Banfi Centine Rosso"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

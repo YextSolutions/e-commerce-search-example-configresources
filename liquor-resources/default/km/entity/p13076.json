@@ -1,0 +1,17 @@
+{
+  "$id": "p13076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.49 - $24.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/cruzan-estate-light-rum/p13076",
+    "name": "Cruzan Estate Diamond Light Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

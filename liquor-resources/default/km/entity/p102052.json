@@ -1,0 +1,16 @@
+{
+  "$id": "p102052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "1.84",
+    "c_numberReviews": "26",
+    "c_priceRange": "$1.84 - $14.99",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/barefoot-hard-seltzer-strawberry-and-guava/p102052",
+    "name": "Barefoot Hard Seltzer Strawberry \u0026 Guava"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

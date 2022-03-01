@@ -1,0 +1,16 @@
+{
+  "$id": "p4908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "2.96",
+    "c_numberReviews": "92",
+    "c_priceRange": "$2.96 - $41.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/grolsch-premium-lager/p4908",
+    "name": "Grolsch Premium Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p2654",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "6.41",
+    "c_numberReviews": "28",
+    "c_priceRange": "$6.41 - $46.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/chimay-tripel-cinq-cents/p2654",
+    "name": "Chimay Tripel / Cinq Cents"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

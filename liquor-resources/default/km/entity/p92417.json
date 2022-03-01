@@ -1,0 +1,17 @@
+{
+  "$id": "p92417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "9.75",
+    "c_numberReviews": "30",
+    "c_priceRange": "$9.75 - $32.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/arctic-chill-weekender-mix-pack/p92417",
+    "name": "Arctic Chill Weekender Mix Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

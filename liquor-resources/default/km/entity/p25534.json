@@ -1,0 +1,16 @@
+{
+  "$id": "p25534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "47",
+    "c_priceRange": "$18.99 - $34.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/sixpoint-higher-volume-variety-pack/p25534",
+    "name": "Sixpoint Higher Volume Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

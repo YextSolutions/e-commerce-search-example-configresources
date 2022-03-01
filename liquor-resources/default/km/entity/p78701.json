@@ -1,0 +1,44 @@
+{
+  "$id": "p78701",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "7.95",
+    "c_numberReviews": "18",
+    "c_priceRange": "$7.95 - $19.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/la-vostra-prosecco/p78701",
+    "name": "La Vostra Prosecco",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-la-vostra-prosecco-b40c82b1edd6dc65.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZVSDeTUXtyK95tPM8psdiHMwTfCqtMAzBkLknwWGQ1M/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZVSDeTUXtyK95tPM8psdiHMwTfCqtMAzBkLknwWGQ1M/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZVSDeTUXtyK95tPM8psdiHMwTfCqtMAzBkLknwWGQ1M/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZVSDeTUXtyK95tPM8psdiHMwTfCqtMAzBkLknwWGQ1M/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p50792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "8.91",
+    "c_numberReviews": "1",
+    "c_priceRange": "$8.91 - $13.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/cara-mia-prosecco/p50792",
+    "name": "Cara Mia Prosecco",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-cara-mia-prosecco-314894829be460f4.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/p0W8L0TzLVt2Q36Ke8PYiyyIOfDf_rnB_ZNDefLiky8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/p0W8L0TzLVt2Q36Ke8PYiyyIOfDf_rnB_ZNDefLiky8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/p0W8L0TzLVt2Q36Ke8PYiyyIOfDf_rnB_ZNDefLiky8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/p0W8L0TzLVt2Q36Ke8PYiyyIOfDf_rnB_ZNDefLiky8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

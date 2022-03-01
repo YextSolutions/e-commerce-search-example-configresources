@@ -1,0 +1,17 @@
+{
+  "$id": "p22411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "1.73",
+    "c_numberReviews": "86",
+    "c_priceRange": "$1.73 - $12.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/dailys-ready-to-drink-margarita-frozen-cocktail/p22411",
+    "name": "Daily\u0027s Ready-To-Drink Margarita Frozen Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

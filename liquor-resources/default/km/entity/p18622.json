@@ -1,0 +1,17 @@
+{
+  "$id": "p18622",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$5.99 - $29.99",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/tyku-cucumber-sake/p18622",
+    "name": "TYKU Cucumber Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

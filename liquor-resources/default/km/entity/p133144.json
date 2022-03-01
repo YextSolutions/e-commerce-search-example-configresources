@@ -1,0 +1,17 @@
+{
+  "$id": "p133144",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.99 - $33.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/hop-valley-cryo-stash-ipa/p133144",
+    "name": "Hop Valley Cryo Stash IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

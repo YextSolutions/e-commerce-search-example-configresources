@@ -1,0 +1,17 @@
+{
+  "$id": "p98254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "98.99",
+    "c_minPrice": "33.06",
+    "c_numberReviews": "140",
+    "c_priceRange": "$33.06 - $98.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/uncle-nearest-1884-small-batch-whiskey/p98254",
+    "name": "Uncle Nearest 1884 Small Batch Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

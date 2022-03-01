@@ -1,0 +1,17 @@
+{
+  "$id": "p4768",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "56.99",
+    "c_minPrice": "22.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$22.00 - $56.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/solerno-blood-orange-liqueur/p4768",
+    "name": "Solerno Blood Orange Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

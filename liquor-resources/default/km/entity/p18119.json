@@ -1,0 +1,17 @@
+{
+  "$id": "p18119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "8.17",
+    "c_numberReviews": "185",
+    "c_priceRange": "$8.17 - $27.99",
+    "c_subCategory": "Brachetto",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/brachetto/stella-rosa-rosso/p18119",
+    "name": "Stella Rosa Rosso"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

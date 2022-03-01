@@ -1,0 +1,17 @@
+{
+  "$id": "p55944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "1.29",
+    "c_numberReviews": "11",
+    "c_priceRange": "$1.29 - $19.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/four-loko-peach/p55944",
+    "name": "Four Loko Peach"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

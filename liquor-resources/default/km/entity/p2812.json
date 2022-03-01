@@ -1,0 +1,16 @@
+{
+  "$id": "p2812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "29.88",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "36",
+    "c_priceRange": "$8.99 - $29.88",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/francis-coppola-sofia-rose/p2812",
+    "name": "Francis Coppola Sofia Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

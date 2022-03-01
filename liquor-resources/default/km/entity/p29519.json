@@ -1,0 +1,16 @@
+{
+  "$id": "p29519",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "10.49",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "76",
+    "c_priceRange": "$8.79 - $10.49",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/chi-chi-pina-colada/p29519",
+    "name": "Chi Chi Pina Colada"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

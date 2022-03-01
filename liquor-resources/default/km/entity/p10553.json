@@ -1,0 +1,18 @@
+{
+  "$id": "p10553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$4.99 - $18.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Brown Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/brown-ale/new-belgium-la-folie/p10553",
+    "name": "New Belgium La Folie"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

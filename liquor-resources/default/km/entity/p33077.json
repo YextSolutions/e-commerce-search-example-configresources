@@ -1,0 +1,17 @@
+{
+  "$id": "p33077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "14.95",
+    "c_minPrice": "2.29",
+    "c_numberReviews": "32",
+    "c_priceRange": "$2.29 - $14.95",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-sparkling-lime-margarita/p33077",
+    "name": "Jose Cuervo Sparkling Lime Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

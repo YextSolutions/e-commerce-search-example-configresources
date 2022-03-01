@@ -1,0 +1,18 @@
+{
+  "$id": "p4405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "94.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$94.99 - $999.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "American Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/american-strong-ale/samuel-adams-utopias-beer/p4405",
+    "name": "Samuel Adams Utopias Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p20128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "71.49",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$18.99 - $71.49",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/plantation-stiggins-fancy-pineapple-rum/p20128",
+    "name": "Plantation Stiggins\u0027 Fancy Pineapple Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

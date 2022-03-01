@@ -1,0 +1,16 @@
+{
+  "$id": "p15387",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.99 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chateau-de-costis-bordeaux/p15387",
+    "name": "Chateau De Costis Bordeaux"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

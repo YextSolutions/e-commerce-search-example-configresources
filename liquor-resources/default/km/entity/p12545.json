@@ -1,0 +1,17 @@
+{
+  "$id": "p12545",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "43",
+    "c_priceRange": "$7.99 - $28.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/real-ale-firemans-4/p12545",
+    "name": "Real Ale Firemans #4"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "41.75",
+    "c_minPrice": "12.64",
+    "c_numberReviews": "29",
+    "c_priceRange": "$12.64 - $41.75",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/prairie-organic-gin/p18136",
+    "name": "Prairie Organic Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

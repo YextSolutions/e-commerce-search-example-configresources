@@ -1,0 +1,17 @@
+{
+  "$id": "p104906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "36.29",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$14.99 - $36.29",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/decoy-brut-cuvee-sparkling-wine/p104906",
+    "name": "Decoy Brut Cuvée Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

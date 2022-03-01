@@ -1,0 +1,17 @@
+{
+  "$id": "p111410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "11.11",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$3.49 - $11.11",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/gallo-family-vineyards-sweet-watermelon/p111410",
+    "name": "Gallo Family Vineyards Sweet Watermelon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

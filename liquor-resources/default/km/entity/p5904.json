@@ -1,0 +1,17 @@
+{
+  "$id": "p5904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "29.69",
+    "c_numberReviews": "4",
+    "c_priceRange": "$29.69 - $65.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/tyrconnell-original-single-malt-irish-whiskey/p5904",
+    "name": "Tyrconnell Original Single Malt Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

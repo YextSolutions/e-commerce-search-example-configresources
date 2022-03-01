@@ -1,0 +1,17 @@
+{
+  "$id": "p181959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "15.49",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.49 - $22.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/sonic-hard-seltzer-tropical-mix-pack/p181959",
+    "name": "SONIC Hard Seltzer Tropical Mix Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

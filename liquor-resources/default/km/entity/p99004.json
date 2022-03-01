@@ -1,0 +1,17 @@
+{
+  "$id": "p99004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "25.00",
+    "c_numberReviews": "6",
+    "c_priceRange": "$25.00 - $42.99",
+    "c_subCategory": "Gruner Veltliner",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/gruner-veltliner/schplink-gruner-veltliner/p99004",
+    "name": "Schplink Gruner Veltliner"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

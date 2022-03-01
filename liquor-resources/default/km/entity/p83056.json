@@ -1,0 +1,17 @@
+{
+  "$id": "p83056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.39",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$9.99 - $15.39",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/4-noses-brewing-company-bout-damn-time-ipa/p83056",
+    "name": "4 Noses Brewing Company \u0027Bout Damn Time IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

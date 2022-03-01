@@ -1,0 +1,17 @@
+{
+  "$id": "p22985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "126.99",
+    "c_minPrice": "32.79",
+    "c_numberReviews": "66",
+    "c_priceRange": "$32.79 - $126.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/glenfiddich-bourbon-barrel-reserve-14-year/p22985",
+    "name": "Glenfiddich Bourbon Barrel Reserve 14 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p58667",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$24.99 - $299.99",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/jack-daniels-no-27-gold/p58667",
+    "name": "Jack Daniel\u0027s No. 27 Gold"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

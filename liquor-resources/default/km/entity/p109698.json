@@ -1,0 +1,17 @@
+{
+  "$id": "p109698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "73.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$27.99 - $73.99",
+    "c_subCategory": "Other Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/other-liqueur/italicus-rosolio-di-bergamotto-italian-liqueur/p109698",
+    "name": "Italicus Rosolio di Bergamotto, Italian Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

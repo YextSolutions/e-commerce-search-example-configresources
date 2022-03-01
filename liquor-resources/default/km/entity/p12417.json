@@ -1,0 +1,17 @@
+{
+  "$id": "p12417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "53.89",
+    "c_minPrice": "8.90",
+    "c_numberReviews": "14",
+    "c_priceRange": "$8.90 - $53.89",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/black-velvet-reserve-canadian-whisky/p12417",
+    "name": "Black Velvet Reserve Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

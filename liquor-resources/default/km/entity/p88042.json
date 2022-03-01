@@ -1,0 +1,17 @@
+{
+  "$id": "p88042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "119.99",
+    "c_minPrice": "15.94",
+    "c_numberReviews": "38",
+    "c_priceRange": "$15.94 - $119.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-forester-1910-old-fine-whisky/p88042",
+    "name": "Old Forester 1910 Old Fine Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

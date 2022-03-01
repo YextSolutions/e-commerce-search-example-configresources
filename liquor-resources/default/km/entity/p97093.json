@@ -1,0 +1,43 @@
+{
+  "$id": "p97093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $12.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/kures-colorado-mule/p97093",
+    "name": "Kure\u0027s Colorado Mule",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-kures-colorado-mule-a10d10c298dbbee2.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/HKxda3ekF6BlDqD86mjBnMKEsguKD98yjhFc3ydu4_Y/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/HKxda3ekF6BlDqD86mjBnMKEsguKD98yjhFc3ydu4_Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/HKxda3ekF6BlDqD86mjBnMKEsguKD98yjhFc3ydu4_Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/HKxda3ekF6BlDqD86mjBnMKEsguKD98yjhFc3ydu4_Y/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

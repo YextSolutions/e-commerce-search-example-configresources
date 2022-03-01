@@ -1,0 +1,17 @@
+{
+  "$id": "p1415",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "6.24",
+    "c_numberReviews": "20",
+    "c_priceRange": "$6.24 - $21.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/le-grand-noir-pinot-noir/p1415",
+    "name": "Le Grand Noir Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

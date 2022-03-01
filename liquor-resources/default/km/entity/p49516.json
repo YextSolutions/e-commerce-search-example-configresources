@@ -1,0 +1,17 @@
+{
+  "$id": "p49516",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "6.60",
+    "c_minPrice": "2.29",
+    "c_numberReviews": "59",
+    "c_priceRange": "$2.29 - $6.60",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/budweiser-chelada-picante-with-clamato/p49516",
+    "name": "Budweiser Chelada Picante with Clamato"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

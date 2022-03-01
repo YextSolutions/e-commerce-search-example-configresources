@@ -1,0 +1,17 @@
+{
+  "$id": "p61960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $15.99",
+    "c_subCategory": "Gruner Veltliner",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/gruner-veltliner/lenz-moser-gruner-veltliner/p61960",
+    "name": "Lenz Moser Gruner Veltliner"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

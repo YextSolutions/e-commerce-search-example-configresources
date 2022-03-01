@@ -1,0 +1,18 @@
+{
+  "$id": "p95410",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$7.99 - $12.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/denver-beer-co-seasonal/p95410",
+    "name": "Denver Beer Co. Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

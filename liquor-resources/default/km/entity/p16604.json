@@ -1,0 +1,16 @@
+{
+  "$id": "p16604",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "322",
+    "c_priceRange": "$8.00 - $69.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/skol-vodka/p16604",
+    "name": "Skol Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

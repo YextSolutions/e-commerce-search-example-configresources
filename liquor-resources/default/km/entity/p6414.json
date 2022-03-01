@@ -1,0 +1,17 @@
+{
+  "$id": "p6414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.95",
+    "c_minPrice": "12.49",
+    "c_numberReviews": "2",
+    "c_priceRange": "$12.49 - $24.95",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/willamette-valley-vineyards-pinot-gris/p6414",
+    "name": "Willamette Valley Vineyards Pinot Gris"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.99 - $34.49",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/frederic-esmonin-bourgogne-pinot-noir/p5900",
+    "name": "Frederic Esmonin Bourgogne Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

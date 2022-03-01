@@ -1,0 +1,17 @@
+{
+  "$id": "p1007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "5.71",
+    "c_numberReviews": "16",
+    "c_priceRange": "$5.71 - $18.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/bodega-norton-1895-malbec/p1007",
+    "name": "Bodega Norton 1895 Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

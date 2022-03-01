@@ -1,0 +1,17 @@
+{
+  "$id": "p109291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "13.43",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$7.99 - $13.43",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/gruvi-non-alcoholic-ipa/p109291",
+    "name": "Gruvi Non-Alcoholic IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

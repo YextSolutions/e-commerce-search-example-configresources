@@ -1,0 +1,17 @@
+{
+  "$id": "p7112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$15.99 - $47.99",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/hornitos-lime-shot-tequila/p7112",
+    "name": "Hornitos Lime Shot Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

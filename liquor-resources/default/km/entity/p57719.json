@@ -1,0 +1,17 @@
+{
+  "$id": "p57719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.34",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.99 - $20.34",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/el-segundo-mayberry-ipa/p57719",
+    "name": "El Segundo Mayberry IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

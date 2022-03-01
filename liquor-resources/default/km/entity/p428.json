@@ -1,0 +1,17 @@
+{
+  "$id": "p428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "1499.00",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "218",
+    "c_priceRange": "$8.00 - $1499.00",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/underwood-cellars-pinot-noir/p428",
+    "name": "Underwood Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

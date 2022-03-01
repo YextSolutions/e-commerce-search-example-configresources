@@ -1,0 +1,17 @@
+{
+  "$id": "p109670",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$34.99 - $49.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/salcombe-gin-rose-sainte-marie/p109670",
+    "name": "Salcombe Gin \u0027Rosé Sainte Marie\u0027"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

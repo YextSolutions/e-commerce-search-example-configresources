@@ -1,0 +1,17 @@
+{
+  "$id": "p103271",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$10.99 - $18.69",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/cape-may-devils-reach/p103271",
+    "name": "Cape May Devil\u0027s Reach"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

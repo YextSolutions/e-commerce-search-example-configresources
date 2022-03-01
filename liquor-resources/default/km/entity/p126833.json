@@ -1,0 +1,44 @@
+{
+  "$id": "p126833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$9.99 - $18.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/athletic-brewing-company-all-out-non-alcoholic-extra-dark/p126833",
+    "name": "Athletic Brewing Company All Out Non-Alcoholic Extra Dark",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-athletic-brewing-company-all-out-stout-f8cd6ed0373542f8.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZtIEO1rxzwSytXZQQNNPCAmM7Vh6mKWMgucFDqJi1c/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZtIEO1rxzwSytXZQQNNPCAmM7Vh6mKWMgucFDqJi1c/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZtIEO1rxzwSytXZQQNNPCAmM7Vh6mKWMgucFDqJi1c/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AZtIEO1rxzwSytXZQQNNPCAmM7Vh6mKWMgucFDqJi1c/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

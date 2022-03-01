@@ -1,0 +1,16 @@
+{
+  "$id": "p6202",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "82.00",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$32.99 - $82.00",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/el-buho-mezcal-artesanal-espadin/p6202",
+    "name": "El Buho Mezcal Artesanal Espadin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

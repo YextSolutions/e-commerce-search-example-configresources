@@ -1,0 +1,18 @@
+{
+  "$id": "p101161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "1399.00",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$7.99 - $1399.00",
+    "c_subCategory": "Fruit Beer",
+    "c_type": "Shandy",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/shandy/stiegl-raspberry-radler/p101161",
+    "name": "Stiegl Raspberry Radler"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

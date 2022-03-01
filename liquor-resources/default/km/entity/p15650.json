@@ -1,0 +1,44 @@
+{
+  "$id": "p15650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$9.99 - $39.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/the-federalist-lodi-zinfandel/p15650",
+    "name": "The Federalist Lodi Zinfandel",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-the-federalist-lodi-zinfandel-0ff1c7954b679d6d.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/BNeswAEDVxuxjgij2xOX6n5p9Q7vnfW0GH_SCeBbsyQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/BNeswAEDVxuxjgij2xOX6n5p9Q7vnfW0GH_SCeBbsyQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/BNeswAEDVxuxjgij2xOX6n5p9Q7vnfW0GH_SCeBbsyQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/BNeswAEDVxuxjgij2xOX6n5p9Q7vnfW0GH_SCeBbsyQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15267",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "699.99",
+    "c_minPrice": "74.87",
+    "c_numberReviews": "3",
+    "c_priceRange": "$74.87 - $699.99",
+    "c_subCategory": "Grenache",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/grenache/chateau-de-beaucastel-chateauneuf-du-pape/p15267",
+    "name": "Chateau de Beaucastel Chateauneuf-du-Pape"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

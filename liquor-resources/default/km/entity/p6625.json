@@ -1,0 +1,16 @@
+{
+  "$id": "p6625",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "37.39",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$8.99 - $37.39",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/360-vodka/p6625",
+    "name": "360 Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

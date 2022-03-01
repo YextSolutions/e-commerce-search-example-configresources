@@ -1,0 +1,17 @@
+{
+  "$id": "p5964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "37.39",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "332",
+    "c_priceRange": "$9.99 - $37.39",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jim-beam-red-stag-black-cherry-bourbon-whiskey/p5964",
+    "name": "Jim Beam Red Stag Black Cherry Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

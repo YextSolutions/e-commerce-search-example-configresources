@@ -1,0 +1,17 @@
+{
+  "$id": "p5474",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "1100.00",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "199",
+    "c_priceRange": "$8.99 - $1100.00",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/bacardi-pineapple-flavored-white-rum/p5474",
+    "name": "BACARDÍ Pineapple Flavored White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

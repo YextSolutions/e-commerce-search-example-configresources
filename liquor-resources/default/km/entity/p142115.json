@@ -1,0 +1,16 @@
+{
+  "$id": "p142115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "41.24",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$19.99 - $41.24",
+    "landingPageUrl": "https://drizly.com/liquor/gin/bombay-bramble-gin/p142115",
+    "name": "BOMBAY Bramble Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,212 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "ecommerce-demo",
+  "name": "ecommerce-demo",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "beers": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_maxPrice",
+            "c_minPrice"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_beer"
+      ],
+      "name": "Beers",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_category": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_maxPrice": {
+          "sortable": true
+        },
+        "c_minPrice": {
+          "sortable": true
+        },
+        "c_numberReviews": {
+          "sortable": true
+        },
+        "c_priceRange": {},
+        "c_subCategory": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_subType": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_type": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "liquors": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_maxPrice",
+            "c_minPrice"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_liquor"
+      ],
+      "name": "Liquors",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_category": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_maxPrice": {
+          "sortable": true
+        },
+        "c_minPrice": {
+          "sortable": true
+        },
+        "c_numberReviews": {
+          "sortable": true
+        },
+        "c_priceRange": {},
+        "c_subCategory": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_subType": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_type": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "wines": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "c_maxPrice",
+            "c_minPrice"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "ce_wine"
+      ],
+      "name": "Wines",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_category": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_maxPrice": {
+          "sortable": true
+        },
+        "c_minPrice": {
+          "sortable": true
+        },
+        "c_numberReviews": {
+          "sortable": true
+        },
+        "c_priceRange": {},
+        "c_subCategory": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_subType": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_type": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "rules": [
+    {
+      "criteria": {
+        "searchTermMatchesRegex": "^*"
+      },
+      "actions": [
+        {
+          "actionType": "RETURN_PINNED_RESULT",
+          "verticals": [
+            {
+              "savedFilterId": "846968125",
+              "verticalKey": "beers"
+            },
+            {
+              "savedFilterId": "846968125",
+              "verticalKey": "liquors"
+            },
+            {
+              "savedFilterId": "846968125",
+              "verticalKey": "wins"
+            }
+          ]
+        }
+      ],
+      "name": "Promote Entities with Photos"
+    }
+  ],
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "What specialty wines do you have",
+      "Do you sell sangria",
+      "I\u0027d like to buy white claws"
+    ],
+    "verticalPrompts": {
+      "beers": [
+        "[[name]]"
+      ],
+      "liquors": [
+        "[[name]]"
+      ],
+      "wines": [
+        "[[name]]"
+      ]
+    }
+  }
+}

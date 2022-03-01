@@ -1,0 +1,17 @@
+{
+  "$id": "p104762",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "175.99",
+    "c_minPrice": "94.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$94.99 - $175.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/291-colorado-barrel-proof-single-barrel-bourbon-whiskey/p104762",
+    "name": "291 Colorado Barrel Proof Single Barrel  Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

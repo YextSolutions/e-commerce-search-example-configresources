@@ -1,0 +1,17 @@
+{
+  "$id": "p3476",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$3.99 - $20.99",
+    "c_subCategory": "Gamay",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/gamay/georges-duboeuf-beaujolais-villages/p3476",
+    "name": "Georges Duboeuf Beaujolais-Villages"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

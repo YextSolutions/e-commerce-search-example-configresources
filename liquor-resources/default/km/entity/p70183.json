@@ -1,0 +1,17 @@
+{
+  "$id": "p70183",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.90",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$16.99 - $34.90",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/the-alchemist-focal-banger-ipa/p70183",
+    "name": "The Alchemist Focal Banger IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

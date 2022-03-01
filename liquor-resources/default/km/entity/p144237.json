@@ -1,0 +1,17 @@
+{
+  "$id": "p144237",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "9.00",
+    "c_numberReviews": "22",
+    "c_priceRange": "$9.00 - $28.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/kendall-jackson-vintners-reserve-special-select-chardonnay-screwcap/p144237",
+    "name": "Kendall-Jackson Vintner\u0027s Reserve Special Select Chardonnay (Screwcap)"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

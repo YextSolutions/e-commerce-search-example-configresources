@@ -1,0 +1,17 @@
+{
+  "$id": "p118033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "24.20",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "66",
+    "c_priceRange": "$4.99 - $24.20",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/barefoot-fruitscato-blueberry-sweet-wine/p118033",
+    "name": "Barefoot Fruitscato Blueberry Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

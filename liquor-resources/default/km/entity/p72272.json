@@ -1,0 +1,17 @@
+{
+  "$id": "p72272",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "14",
+    "c_priceRange": "$7.69 - $13.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/culitos-red-blend/p72272",
+    "name": "Culitos Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

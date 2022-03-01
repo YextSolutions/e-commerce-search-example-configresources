@@ -1,0 +1,16 @@
+{
+  "$id": "p105420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "71.49",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$23.99 - $71.49",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/olympia-artesian-vodka/p105420",
+    "name": "Olympia Artesian Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

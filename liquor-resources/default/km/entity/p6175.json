@@ -1,0 +1,17 @@
+{
+  "$id": "p6175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "37",
+    "c_priceRange": "$8.79 - $22.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/old-crow-original/p6175",
+    "name": "Old Crow Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

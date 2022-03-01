@@ -1,0 +1,17 @@
+{
+  "$id": "p1761",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "28.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$28.99 - $79.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/1800-anejo-tequila/p1761",
+    "name": "1800 Añejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

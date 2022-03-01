@@ -1,0 +1,17 @@
+{
+  "$id": "p85510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.00",
+    "c_minPrice": "62.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$62.99 - $149.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-triple-cask-12-year-old-single-malt-scotch-whisky/p85510",
+    "name": "The Macallan Triple Cask 12 Year Old Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

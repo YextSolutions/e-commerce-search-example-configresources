@@ -1,0 +1,16 @@
+{
+  "$id": "p5102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.89 - $20.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/ivanabiitch-straight-vodka/p5102",
+    "name": "Ivanabiitch Straight Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

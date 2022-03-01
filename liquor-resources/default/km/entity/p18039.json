@@ -1,0 +1,17 @@
+{
+  "$id": "p18039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "11.97",
+    "c_numberReviews": "8",
+    "c_priceRange": "$11.97 - $29.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/charles-krug-sauvignon-blanc/p18039",
+    "name": "Charles Krug Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

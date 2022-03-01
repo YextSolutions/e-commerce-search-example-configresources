@@ -1,0 +1,17 @@
+{
+  "$id": "p15618",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "46.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$12.99 - $46.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/flor-de-cana-5-year-old-rum-anejo-clasico/p15618",
+    "name": "Flor de Caña 5 Year Old Rum Añejo Clásico"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

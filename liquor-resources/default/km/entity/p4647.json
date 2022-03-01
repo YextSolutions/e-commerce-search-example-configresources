@@ -1,0 +1,17 @@
+{
+  "$id": "p4647",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "37.84",
+    "c_minPrice": "9.26",
+    "c_numberReviews": "156",
+    "c_priceRange": "$9.26 - $37.84",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/sixpoint-the-crisp/p4647",
+    "name": "Sixpoint The Crisp"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

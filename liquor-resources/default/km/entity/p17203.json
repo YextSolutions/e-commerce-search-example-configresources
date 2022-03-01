@@ -1,0 +1,17 @@
+{
+  "$id": "p17203",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$2.99 - $13.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/easley-reggae-red/p17203",
+    "name": "Easley Reggae Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

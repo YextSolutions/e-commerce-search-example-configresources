@@ -1,0 +1,17 @@
+{
+  "$id": "p223",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "140.00",
+    "c_minPrice": "59.00",
+    "c_numberReviews": "1",
+    "c_priceRange": "$59.00 - $140.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-nadurra-oloroso/p223",
+    "name": "The Glenlivet Nadurra Oloroso"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

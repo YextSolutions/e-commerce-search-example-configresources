@@ -1,0 +1,17 @@
+{
+  "$id": "p58849",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "44",
+    "c_priceRange": "$15.39 - $40.99",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/dulce-vida-real-lime-tequila/p58849",
+    "name": "Dulce Vida Real Lime Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

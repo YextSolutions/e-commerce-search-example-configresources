@@ -1,0 +1,44 @@
+{
+  "$id": "p107503",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "68.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$34.99 - $68.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/chattanooga-straight-bourbon-whiskey-111-proof/p107503",
+    "name": "Chattanooga Straight Bourbon Whiskey 111 Proof",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-chattanooga-whiskey-cask-bourbon-111-proof-ee10e79cd49c6618.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/74Z93m82KoUu6D3vMPGFrPZhwnx67tAZK33hbL2DFRo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/74Z93m82KoUu6D3vMPGFrPZhwnx67tAZK33hbL2DFRo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/74Z93m82KoUu6D3vMPGFrPZhwnx67tAZK33hbL2DFRo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/74Z93m82KoUu6D3vMPGFrPZhwnx67tAZK33hbL2DFRo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

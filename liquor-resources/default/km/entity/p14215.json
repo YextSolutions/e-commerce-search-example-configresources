@@ -1,0 +1,17 @@
+{
+  "$id": "p14215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "6.60",
+    "c_numberReviews": "7",
+    "c_priceRange": "$6.60 - $19.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/ruta-22-malbec/p14215",
+    "name": "Ruta 22 Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

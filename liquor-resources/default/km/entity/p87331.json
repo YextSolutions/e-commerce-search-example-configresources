@@ -1,0 +1,16 @@
+{
+  "$id": "p87331",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "11",
+    "c_priceRange": "$1.49 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/clubtails-long-island-iced-tea/p87331",
+    "name": "Clubtails Long Island Iced Tea"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

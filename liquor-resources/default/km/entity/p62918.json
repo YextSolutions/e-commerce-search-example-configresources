@@ -1,0 +1,17 @@
+{
+  "$id": "p62918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$39.99 - $99.99",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hine-rare-vsop-fine-champagne-cognac/p62918",
+    "name": "Hine Rare VSOP Fine Champagne Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

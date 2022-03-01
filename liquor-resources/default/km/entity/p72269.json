@@ -1,0 +1,18 @@
+{
+  "$id": "p72269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$13.99 - $19.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/castle-island-hi-def-double-ipa/p72269",
+    "name": "Castle Island Hi-Def Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

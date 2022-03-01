@@ -1,0 +1,44 @@
+{
+  "$id": "p17042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "13.75",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$4.99 - $13.75",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/woodbridge-cabernet-merlot-by-robert-mondavi/p17042",
+    "name": "Woodbridge Cabernet Merlot by Robert Mondavi",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-woodbridge-cabernet-merlot-80d65e91d215f82f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/MfXoqLkLAc0LioyYHnmMgprK8GvasSVd_77oUdOI5gs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MfXoqLkLAc0LioyYHnmMgprK8GvasSVd_77oUdOI5gs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/MfXoqLkLAc0LioyYHnmMgprK8GvasSVd_77oUdOI5gs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MfXoqLkLAc0LioyYHnmMgprK8GvasSVd_77oUdOI5gs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

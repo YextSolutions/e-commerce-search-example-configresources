@@ -1,0 +1,16 @@
+{
+  "$id": "p66715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.39",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.39 - $17.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/charm-soju/p66715",
+    "name": "Charm Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

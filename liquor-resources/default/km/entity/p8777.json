@@ -1,0 +1,44 @@
+{
+  "$id": "p8777",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "701.99",
+    "c_minPrice": "4.98",
+    "c_numberReviews": "42",
+    "c_priceRange": "$4.98 - $701.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/14-hands-chardonnay/p8777",
+    "name": "14 Hands Chardonnay",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-14-hands-chardonnay-32f3f8b861664818.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXAbd_1L7CtI7zhqH3_mNkQojBkOqSIV68GIG-smX9M/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXAbd_1L7CtI7zhqH3_mNkQojBkOqSIV68GIG-smX9M/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXAbd_1L7CtI7zhqH3_mNkQojBkOqSIV68GIG-smX9M/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yXAbd_1L7CtI7zhqH3_mNkQojBkOqSIV68GIG-smX9M/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

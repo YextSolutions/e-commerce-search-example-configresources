@@ -1,0 +1,16 @@
+{
+  "$id": "p94260",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sotol",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "31.28",
+    "c_numberReviews": "12",
+    "c_priceRange": "$31.28 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/sotol/desert-door-original-texas-sotol/p94260",
+    "name": "Desert Door Original Texas Sotol"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

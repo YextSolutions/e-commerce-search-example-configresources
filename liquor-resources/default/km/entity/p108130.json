@@ -1,0 +1,17 @@
+{
+  "$id": "p108130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "162.79",
+    "c_minPrice": "62.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$62.99 - $162.79",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/jose-cuervo-reserva-de-la-familia-reposado/p108130",
+    "name": "Jose Cuervo Reserva De La Familia Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p83307",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "12.00",
+    "c_minPrice": "1.39",
+    "c_numberReviews": "92",
+    "c_priceRange": "$1.39 - $12.00",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/natty-daddy/p83307",
+    "name": "Natty Daddy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

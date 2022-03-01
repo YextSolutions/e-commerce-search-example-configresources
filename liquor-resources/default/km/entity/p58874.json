@@ -1,0 +1,17 @@
+{
+  "$id": "p58874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "7.15",
+    "c_numberReviews": "185",
+    "c_priceRange": "$7.15 - $24.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/19-crimes-the-banished/p58874",
+    "name": "19 Crimes The Banished"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

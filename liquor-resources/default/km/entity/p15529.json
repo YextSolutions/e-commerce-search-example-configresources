@@ -1,0 +1,17 @@
+{
+  "$id": "p15529",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "16",
+    "c_priceRange": "$4.39 - $18.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/-yellow-tail-pink-bubbles/p15529",
+    "name": "[ yellow tail] Pink Bubbles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

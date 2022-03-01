@@ -1,0 +1,19 @@
+{
+  "$id": "p62440",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$4.99 - $12.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/busch-ice/p62440",
+    "name": "Busch Ice"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

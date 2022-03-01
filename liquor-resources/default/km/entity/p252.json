@@ -1,0 +1,17 @@
+{
+  "$id": "p252",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$5.00 - $17.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/the-wolftrap-syrah/p252",
+    "name": "The Wolftrap Syrah"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

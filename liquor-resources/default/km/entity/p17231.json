@@ -1,0 +1,17 @@
+{
+  "$id": "p17231",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "7.63",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.63 - $28.99",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/rabble-red-blend/p17231",
+    "name": "Rabble Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

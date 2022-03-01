@@ -1,0 +1,18 @@
+{
+  "$id": "p83248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "66",
+    "c_priceRange": "$2.99 - $19.99",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/carlo-rossi-pink-moscato-sangria/p83248",
+    "name": "Carlo Rossi Pink Moscato Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

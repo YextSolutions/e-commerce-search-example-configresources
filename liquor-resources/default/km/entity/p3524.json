@@ -1,0 +1,16 @@
+{
+  "$id": "p3524",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "196.19",
+    "c_minPrice": "39.98",
+    "c_numberReviews": "41",
+    "c_priceRange": "$39.98 - $196.19",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/glenmorangie-12-year-old-sherry-cask-finish-lasanta-single-malt-whisky/p3524",
+    "name": "Glenmorangie 12 Year Old Sherry Cask Finish - Lasanta Single Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p108702",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$23.99 - $45.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/rainier-mountain-fresh-gin/p108702",
+    "name": "Rainier Mountain Fresh Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

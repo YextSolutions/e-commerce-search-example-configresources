@@ -1,0 +1,17 @@
+{
+  "$id": "p33730",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "35.19",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "4",
+    "c_priceRange": "$17.59 - $35.19",
+    "c_subCategory": "Moonshine",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/moonshine/midnight-moon-100-proof-moonshine/p33730",
+    "name": "Midnight Moon 100 Proof Moonshine"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

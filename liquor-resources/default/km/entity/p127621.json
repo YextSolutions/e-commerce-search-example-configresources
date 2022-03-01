@@ -1,0 +1,17 @@
+{
+  "$id": "p127621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "64",
+    "c_priceRange": "$10.99 - $27.49",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/josh-cellars-prosecco-rose/p127621",
+    "name": "Josh Cellars Prosecco Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

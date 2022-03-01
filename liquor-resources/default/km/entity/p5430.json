@@ -1,0 +1,17 @@
+{
+  "$id": "p5430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "42.89",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "176",
+    "c_priceRange": "$11.99 - $42.89",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/wild-turkey-american-honey/p5430",
+    "name": "Wild Turkey American Honey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

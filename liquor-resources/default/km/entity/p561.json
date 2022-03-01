@@ -1,0 +1,17 @@
+{
+  "$id": "p561",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "146",
+    "c_priceRange": "$8.79 - $31.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/7-deadly-zins-zinfandel/p561",
+    "name": "7 Deadly Zins Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

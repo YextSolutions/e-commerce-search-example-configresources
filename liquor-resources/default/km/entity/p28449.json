@@ -1,0 +1,17 @@
+{
+  "$id": "p28449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "53",
+    "c_priceRange": "$8.04 - $38.49",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/calypso-rum-silver/p28449",
+    "name": "Calypso Rum Silver"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

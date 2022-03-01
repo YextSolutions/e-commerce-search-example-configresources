@@ -1,0 +1,44 @@
+{
+  "$id": "p10178",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "58",
+    "c_priceRange": "$32.99 - $109.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/belle-glos-clark-and-telephone-pinot-noir/p10178",
+    "name": "Belle Glos Clark \u0026 Telephone Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-belle-glos-clark-telephone-vineyard-pinot-noir-77b2b9c2a301fbb2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/nxzYe9-vjxCK-SuSltfOU09rn5xbWGUL1SMaY9Z-Kv4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/nxzYe9-vjxCK-SuSltfOU09rn5xbWGUL1SMaY9Z-Kv4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/nxzYe9-vjxCK-SuSltfOU09rn5xbWGUL1SMaY9Z-Kv4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/nxzYe9-vjxCK-SuSltfOU09rn5xbWGUL1SMaY9Z-Kv4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

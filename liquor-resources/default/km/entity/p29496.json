@@ -1,0 +1,18 @@
+{
+  "$id": "p29496",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.99 - $19.99",
+    "c_subCategory": "Bock",
+    "c_type": "Doppelbock",
+    "landingPageUrl": "https://drizly.com/beer/lager/bock/doppelbock/ayinger-celebrator-dopplebock/p29496",
+    "name": "Ayinger Celebrator Dopplebock"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

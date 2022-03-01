@@ -1,0 +1,17 @@
+{
+  "$id": "p17157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.69",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.99 - $29.69",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/zin-phomaniac-old-vine-zinfandel/p17157",
+    "name": "Zin-phomaniac Old Vine Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p104657",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "33.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$33.99 - $59.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/woodford-reserve-straight-rye-barrel-select/p104657",
+    "name": "Woodford Reserve Straight Rye Barrel Select"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

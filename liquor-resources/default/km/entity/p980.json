@@ -1,0 +1,43 @@
+{
+  "$id": "p980",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "175",
+    "c_priceRange": "$19.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/black-box-merlot/p980",
+    "name": "Black Box Merlot",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-black-box-merlot-f6ce280e0a6a4077.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/LtpK-3lUR_28rtZRGiGh8Goc-tRMNkbs7xFXLGiT50U/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/LtpK-3lUR_28rtZRGiGh8Goc-tRMNkbs7xFXLGiT50U/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/LtpK-3lUR_28rtZRGiGh8Goc-tRMNkbs7xFXLGiT50U/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/LtpK-3lUR_28rtZRGiGh8Goc-tRMNkbs7xFXLGiT50U/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

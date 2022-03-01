@@ -1,0 +1,17 @@
+{
+  "$id": "p1825",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "650.00",
+    "c_minPrice": "142.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$142.99 - $650.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-balvenie-21-year-old-portwood-single-malt-scotch-whisky/p1825",
+    "name": "The Balvenie 21 Year Old Portwood Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p21099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.00",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$8.99 - $26.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/surly-todd-the-axe-man/p21099",
+    "name": "Surly Todd the Axe Man"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

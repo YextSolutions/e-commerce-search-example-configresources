@@ -1,0 +1,44 @@
+{
+  "$id": "p62395",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.00",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "23",
+    "c_priceRange": "$3.29 - $25.00",
+    "c_subCategory": "Rum Cola Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/rum-cola-ready-to-drink/cutwater-three-sheets-rum-and-cola/p62395",
+    "name": "Cutwater Three Sheets Rum \u0026 Cola",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-cutwater-rum-cola-5964e7e42058709b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/JoMMSs8ZP1Noph65sPF5VdoNAE0GxgT2hcUA9sla_xw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/JoMMSs8ZP1Noph65sPF5VdoNAE0GxgT2hcUA9sla_xw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/JoMMSs8ZP1Noph65sPF5VdoNAE0GxgT2hcUA9sla_xw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/JoMMSs8ZP1Noph65sPF5VdoNAE0GxgT2hcUA9sla_xw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

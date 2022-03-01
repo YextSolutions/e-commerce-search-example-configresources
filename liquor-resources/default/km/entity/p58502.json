@@ -1,0 +1,17 @@
+{
+  "$id": "p58502",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "120.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$49.99 - $120.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/russells-reserve-single-barrel-rye/p58502",
+    "name": "Russell\u0027s Reserve Single Barrel Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

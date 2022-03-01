@@ -1,0 +1,17 @@
+{
+  "$id": "p13510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "6.89",
+    "c_numberReviews": "17",
+    "c_priceRange": "$6.89 - $24.19",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/santa-julia-reserva-malbec/p13510",
+    "name": "Santa Julia Reserva Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

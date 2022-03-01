@@ -1,0 +1,17 @@
+{
+  "$id": "p87963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.60",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$5.99 - $17.60",
+    "c_subCategory": "Dornfelder",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/dornfelder/heimersheimer-rotenfels-dornfelder/p87963",
+    "name": "Heimersheimer Rotenfels Dornfelder"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

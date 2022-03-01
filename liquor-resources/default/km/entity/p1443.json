@@ -1,0 +1,17 @@
+{
+  "$id": "p1443",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.15",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "76",
+    "c_priceRange": "$2.99 - $14.15",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/liberty-creek-cabernet-sauvignon/p1443",
+    "name": "Liberty Creek Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

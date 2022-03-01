@@ -1,0 +1,17 @@
+{
+  "$id": "p1963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "4.39",
+    "c_numberReviews": "20",
+    "c_priceRange": "$4.39 - $36.99",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/brooklyn-brewery-seasonal/p1963",
+    "name": "Brooklyn Brewery Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

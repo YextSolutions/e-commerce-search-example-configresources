@@ -1,0 +1,18 @@
+{
+  "$id": "p62817",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "9.19",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.19 - $20.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Gose",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/gose/two-roads-seasonal/p62817",
+    "name": "Two Roads Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

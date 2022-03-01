@@ -1,0 +1,17 @@
+{
+  "$id": "p98851",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "101.04",
+    "c_minPrice": "37.75",
+    "c_numberReviews": "64",
+    "c_priceRange": "$37.75 - $101.04",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistlepig-piggyback-rye/p98851",
+    "name": "WhistlePig PiggyBack Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

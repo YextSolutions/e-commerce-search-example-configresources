@@ -1,0 +1,18 @@
+{
+  "$id": "p163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "3.75",
+    "c_numberReviews": "267",
+    "c_priceRange": "$3.75 - $59.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/tecate/p163",
+    "name": "Tecate"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p9688",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "43.19",
+    "c_minPrice": "9.13",
+    "c_numberReviews": "28",
+    "c_priceRange": "$9.13 - $43.19",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/yukon-jack-original/p9688",
+    "name": "Yukon Jack Original"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

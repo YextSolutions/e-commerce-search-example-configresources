@@ -1,0 +1,17 @@
+{
+  "$id": "p96871",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "103",
+    "c_priceRange": "$10.99 - $59.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-limited-edition-white-grape/p96871",
+    "name": "CIROC Limited Edition White Grape"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

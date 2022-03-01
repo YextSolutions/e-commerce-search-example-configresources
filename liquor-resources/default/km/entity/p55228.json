@@ -1,0 +1,17 @@
+{
+  "$id": "p55228",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "86",
+    "c_priceRange": "$8.49 - $20.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/rancho-la-gloria-margarita/p55228",
+    "name": "Rancho La Gloria Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

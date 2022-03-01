@@ -1,0 +1,17 @@
+{
+  "$id": "p95014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$59.99 - $129.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-balvenie-12-year-old-sweet-toast-of-american-oak-scotch-whisky/p95014",
+    "name": "The Balvenie 12 Year Old Sweet Toast of American Oak Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p31343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "48.39",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "21",
+    "c_priceRange": "$8.04 - $48.39",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/calypso-gold-rum/p31343",
+    "name": "Calypso Gold Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

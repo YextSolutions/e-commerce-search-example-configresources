@@ -1,0 +1,17 @@
+{
+  "$id": "p103185",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "549.99",
+    "c_minPrice": "79.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$79.99 - $549.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/bardstown-bourbon-company-collaboration-the-prisoner-wine-company/p103185",
+    "name": "Bardstown Bourbon Company Collaboration - The Prisoner Wine Company"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

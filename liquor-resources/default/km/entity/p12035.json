@@ -1,0 +1,43 @@
+{
+  "$id": "p12035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "29.11",
+    "c_minPrice": "2.69",
+    "c_numberReviews": "277",
+    "c_priceRange": "$2.69 - $29.11",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/franzia-sunset-blush-pink-wine/p12035",
+    "name": "Franzia® Sunset Blush Pink Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-franzia-sunset-blush-1f487969804c660e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/13ETlw_l-09HiNfG3dy5vx2xgMnTlS4kEUhC07kceX8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/13ETlw_l-09HiNfG3dy5vx2xgMnTlS4kEUhC07kceX8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/13ETlw_l-09HiNfG3dy5vx2xgMnTlS4kEUhC07kceX8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/13ETlw_l-09HiNfG3dy5vx2xgMnTlS4kEUhC07kceX8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

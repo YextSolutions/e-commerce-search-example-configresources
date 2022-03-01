@@ -1,0 +1,18 @@
+{
+  "$id": "p20722",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.55",
+    "c_minPrice": "8.89",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.89 - $13.55",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Berliner Weisse",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/berliner-weisse/independence-brewing-redbud-berliner-weisse/p20722",
+    "name": "Independence Brewing Redbud Berliner Weisse"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

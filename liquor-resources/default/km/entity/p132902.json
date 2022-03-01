@@ -1,0 +1,16 @@
+{
+  "$id": "p132902",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$7.49 - $23.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/coors-pure-organic-light-lager-beer/p132902",
+    "name": "Coors Pure Organic Light Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p87538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "25",
+    "c_priceRange": "$3.49 - $22.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/cutwater-spirits-lime-vodka-soda/p87538",
+    "name": "Cutwater Spirits Lime Vodka Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

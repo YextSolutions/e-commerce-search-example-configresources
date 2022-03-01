@@ -1,0 +1,18 @@
+{
+  "$id": "p774",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "8.15",
+    "c_numberReviews": "28",
+    "c_priceRange": "$8.15 - $24.19",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/avery-maharaja-imperial-ipa/p774",
+    "name": "Avery Maharaja Imperial IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

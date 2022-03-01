@@ -1,0 +1,17 @@
+{
+  "$id": "p4266",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.71",
+    "c_numberReviews": "25",
+    "c_priceRange": "$8.71 - $24.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/rodney-strong-charlottes-home-sauvignon-blanc/p4266",
+    "name": "Rodney Strong Charlotte\u0027s Home Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

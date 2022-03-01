@@ -1,0 +1,18 @@
+{
+  "$id": "p60253",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.99 - $35.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/the-bruery-so-happens-its-tuesday/p60253",
+    "name": "The Bruery So Happens It\u0027s Tuesday"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

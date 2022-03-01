@@ -1,0 +1,16 @@
+{
+  "$id": "p149491",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_minPrice": "10.11",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.11",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/seagrams-escapes-spiked-jamaican-me-happy/p149491",
+    "name": "Seagram\u0027s Escapes Spiked Jamaican Me Happy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

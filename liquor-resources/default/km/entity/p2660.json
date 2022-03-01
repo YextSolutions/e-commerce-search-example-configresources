@@ -1,0 +1,17 @@
+{
+  "$id": "p2660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "30.00",
+    "c_numberReviews": "37",
+    "c_priceRange": "$30.00 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/chivas-regal-18-year/p2660",
+    "name": "Chivas Regal 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p42407",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "5.60",
+    "c_numberReviews": "13",
+    "c_priceRange": "$5.60 - $16.99",
+    "c_subCategory": "Hard Soda",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-soda/henrys-orange-soda/p42407",
+    "name": "Henry\u0027s Hard Orange Soda"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

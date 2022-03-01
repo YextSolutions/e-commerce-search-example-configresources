@@ -1,0 +1,17 @@
+{
+  "$id": "p4296",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "18",
+    "c_priceRange": "$5.00 - $20.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/root1-cabernet-sauvignon/p4296",
+    "name": "Root:1 Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

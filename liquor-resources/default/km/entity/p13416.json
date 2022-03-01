@@ -1,0 +1,17 @@
+{
+  "$id": "p13416",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "21",
+    "c_priceRange": "$7.00 - $30.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/fremont-interurban-ipa/p13416",
+    "name": "Fremont Interurban IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

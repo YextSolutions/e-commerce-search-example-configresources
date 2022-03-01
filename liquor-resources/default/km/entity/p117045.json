@@ -1,0 +1,44 @@
+{
+  "$id": "p117045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.67",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.99 - $21.67",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/eureka-heights-mini-boss-ipa/p117045",
+    "name": "Eureka Heights Mini Boss IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-eureka-heights-mini-boss-ipa-5388f2ffc4213e43.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCUcj8A4GC6LcZe4pG2d4_fp0xmdy92-ddoFkMg8Cao/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCUcj8A4GC6LcZe4pG2d4_fp0xmdy92-ddoFkMg8Cao/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kCUcj8A4GC6LcZe4pG2d4_fp0xmdy92-ddoFkMg8Cao/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kCUcj8A4GC6LcZe4pG2d4_fp0xmdy92-ddoFkMg8Cao/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

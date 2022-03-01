@@ -1,0 +1,17 @@
+{
+  "$id": "p15142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "2.69",
+    "c_numberReviews": "235",
+    "c_priceRange": "$2.69 - $29.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/franzia-cabernet-sauvignon-red-wine/p15142",
+    "name": "Franzia® Cabernet Sauvignon Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

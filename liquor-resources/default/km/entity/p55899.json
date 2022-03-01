@@ -1,0 +1,44 @@
+{
+  "$id": "p55899",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$4.99 - $39.99",
+    "c_subCategory": "Fruit Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/21st-amendment-seasonal-hell-or-high-mango/p55899",
+    "name": "21st Amendment Seasonal - Hell Or High Mango",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-21st-amendment-hell-or-high-watermelon-883fc07d6767a6a7.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZMKuuhU9-7tw-oKlUiYDQfg-i1Jwy03EQo6bUME0s1w/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZMKuuhU9-7tw-oKlUiYDQfg-i1Jwy03EQo6bUME0s1w/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZMKuuhU9-7tw-oKlUiYDQfg-i1Jwy03EQo6bUME0s1w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZMKuuhU9-7tw-oKlUiYDQfg-i1Jwy03EQo6bUME0s1w/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p103343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.88",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$1.99 - $19.88",
+    "c_subCategory": "Rum Cola Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/rum-cola-ready-to-drink/bacardl-ready-to-drink-lime-and-soda/p103343",
+    "name": "BACARDĺ Ready to Drink Lime \u0026 Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

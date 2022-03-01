@@ -1,0 +1,44 @@
+{
+  "$id": "p108124",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.00",
+    "c_minPrice": "7.74",
+    "c_numberReviews": "139",
+    "c_priceRange": "$7.74 - $35.00",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/citrus-rescue-citrus-ipa-rotating-seasonal/p108124",
+    "name": "Citrus Rescue Citrus IPA, Rotating Seasonal",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-new-belgium-rotating-seasonal-voodoo-ranger-atomic-pumpkin-a09ae5a4f3ee3018.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/6XHQKId38TuIWEWHh_I2nJkKPfgX9A7rETFxVhxDOQ4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/6XHQKId38TuIWEWHh_I2nJkKPfgX9A7rETFxVhxDOQ4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/6XHQKId38TuIWEWHh_I2nJkKPfgX9A7rETFxVhxDOQ4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/6XHQKId38TuIWEWHh_I2nJkKPfgX9A7rETFxVhxDOQ4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

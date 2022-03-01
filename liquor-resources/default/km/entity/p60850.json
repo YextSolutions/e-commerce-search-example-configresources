@@ -1,0 +1,17 @@
+{
+  "$id": "p60850",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "41.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$41.99 - $199.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/billecart-salmon-brut-reserve-champagne/p60850",
+    "name": "Billecart-Salmon Brut Reserve Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

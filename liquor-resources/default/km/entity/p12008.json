@@ -1,0 +1,17 @@
+{
+  "$id": "p12008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "3.13",
+    "c_numberReviews": "58",
+    "c_priceRange": "$3.13 - $15.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/beringer-main-and-vine-pinot-grigio/p12008",
+    "name": "Beringer Main \u0026 Vine Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p61317",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "63.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$15.99 - $63.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/wild-turkey-101-rye/p61317",
+    "name": "Wild Turkey 101 Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

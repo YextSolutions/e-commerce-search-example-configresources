@@ -1,0 +1,17 @@
+{
+  "$id": "p6305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "9.71",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.71 - $38.99",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/two-roads-honeyspot-road-hazy-ipa/p6305",
+    "name": "Two Roads Honeyspot Road Hazy IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18244",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "28.07",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$10.99 - $28.07",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/peter-vella-white-zinfandel/p18244",
+    "name": "Peter Vella White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

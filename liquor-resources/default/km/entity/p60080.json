@@ -1,0 +1,18 @@
+{
+  "$id": "p60080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.99 - $44.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/peak-organic-the-juice/p60080",
+    "name": "Peak Organic The Juice"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

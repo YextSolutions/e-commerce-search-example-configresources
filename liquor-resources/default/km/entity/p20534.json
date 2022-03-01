@@ -1,0 +1,17 @@
+{
+  "$id": "p20534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "181",
+    "c_priceRange": "$1.49 - $44.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/seagrams-escapes-jamaican-me-happy/p20534",
+    "name": "Seagram\u0027s Escapes Jamaican Me Happy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

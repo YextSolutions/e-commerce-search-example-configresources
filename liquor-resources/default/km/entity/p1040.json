@@ -1,0 +1,44 @@
+{
+  "$id": "p1040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "3.33",
+    "c_numberReviews": "253",
+    "c_priceRange": "$3.33 - $35.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/lagunitas-daytime-ipa/p1040",
+    "name": "Lagunitas DayTime IPA",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-lagunitas-daytime-ipa-8d9226e558980217.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZczuT2XSCu-c1ZTd0O7ujlSNwcXenH3Vq9rEExOTfq0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZczuT2XSCu-c1ZTd0O7ujlSNwcXenH3Vq9rEExOTfq0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ZczuT2XSCu-c1ZTd0O7ujlSNwcXenH3Vq9rEExOTfq0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ZczuT2XSCu-c1ZTd0O7ujlSNwcXenH3Vq9rEExOTfq0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

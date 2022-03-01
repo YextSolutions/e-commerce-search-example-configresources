@@ -1,0 +1,17 @@
+{
+  "$id": "p60693",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "2.79",
+    "c_numberReviews": "89",
+    "c_priceRange": "$2.79 - $76.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/buzzballz-forbidden-apple/p60693",
+    "name": "BuzzBallz Forbidden Apple"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

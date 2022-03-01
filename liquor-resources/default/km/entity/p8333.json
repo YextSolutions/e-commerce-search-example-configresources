@@ -1,0 +1,44 @@
+{
+  "$id": "p8333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "550.00",
+    "c_minPrice": "20.00",
+    "c_numberReviews": "38",
+    "c_priceRange": "$20.00 - $550.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/weller-antique-107-bourbon/p8333",
+    "name": "Weller Antique 107 Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-old-weller-antique-107-brand-6b180ec1186d805a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wh3_lTTaDrhGnMW9vVpdwnAUaVy0_2S8LQd6ezaSABc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wh3_lTTaDrhGnMW9vVpdwnAUaVy0_2S8LQd6ezaSABc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wh3_lTTaDrhGnMW9vVpdwnAUaVy0_2S8LQd6ezaSABc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wh3_lTTaDrhGnMW9vVpdwnAUaVy0_2S8LQd6ezaSABc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

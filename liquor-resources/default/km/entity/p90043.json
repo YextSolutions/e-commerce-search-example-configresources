@@ -1,0 +1,16 @@
+{
+  "$id": "p90043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_maxPrice": "8.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$5.99 - $8.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/jinro-plum-soju/p90043",
+    "name": "Jinro Plum Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

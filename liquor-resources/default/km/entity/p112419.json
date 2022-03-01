@@ -1,0 +1,17 @@
+{
+  "$id": "p112419",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "43.19",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$25.99 - $43.19",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/pinaq-liqueur-rose/p112419",
+    "name": "Pinaq Liqueur Rosé"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

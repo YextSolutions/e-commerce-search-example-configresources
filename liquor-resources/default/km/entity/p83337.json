@@ -1,0 +1,17 @@
+{
+  "$id": "p83337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$6.99 - $15.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/kona-kanaha-blonde-ale/p83337",
+    "name": "Kona Kanaha Blonde Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

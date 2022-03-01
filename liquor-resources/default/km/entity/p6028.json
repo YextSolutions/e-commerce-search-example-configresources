@@ -1,0 +1,17 @@
+{
+  "$id": "p6028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "1499.00",
+    "c_minPrice": "37.80",
+    "c_numberReviews": "40",
+    "c_priceRange": "$37.80 - $1499.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/stagg-jr-bourbon/p6028",
+    "name": "Stagg Jr. Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

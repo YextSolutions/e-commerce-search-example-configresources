@@ -1,0 +1,17 @@
+{
+  "$id": "p18166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "16.97",
+    "c_numberReviews": "5",
+    "c_priceRange": "$16.97 - $49.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/il-poggione-rosso-di-montalcino/p18166",
+    "name": "Il Poggione Rosso di Montalcino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

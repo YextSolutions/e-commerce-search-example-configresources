@@ -1,0 +1,17 @@
+{
+  "$id": "p5930",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$19.99 - $76.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/casa-noble-reposado-tequila/p5930",
+    "name": "Casa Noble Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

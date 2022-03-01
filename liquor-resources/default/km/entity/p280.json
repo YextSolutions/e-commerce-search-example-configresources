@@ -1,0 +1,17 @@
+{
+  "$id": "p280",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "62.95",
+    "c_minPrice": "19.97",
+    "c_numberReviews": "18",
+    "c_priceRange": "$19.97 - $62.95",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/ridge-three-valleys/p280",
+    "name": "Ridge Three Valleys"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p19592",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "2300.00",
+    "c_minPrice": "64.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$64.99 - $2300.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/eh-taylor-jr-barrel-proof-bourbon/p19592",
+    "name": "E.H. Taylor, Jr. Barrel Proof Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

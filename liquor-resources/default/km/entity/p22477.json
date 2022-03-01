@@ -1,0 +1,17 @@
+{
+  "$id": "p22477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "13.79",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$3.99 - $13.79",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/di-padrino-sweet-vermouth/p22477",
+    "name": "Di Padrino Sweet Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

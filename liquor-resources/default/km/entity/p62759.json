@@ -1,0 +1,17 @@
+{
+  "$id": "p62759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$29.99 - $79.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/caymus-red-schooner/p62759",
+    "name": "Caymus Red Schooner"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p12237",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "92.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$92.99 - $999.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/armand-de-brignac-ace-of-spades-brut-gold-champagne/p12237",
+    "name": "Armand De Brignac Ace of Spades Brut Gold Champagne",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-armand-de-brignac-ace-of-spades-brut-gold-champagne-bec8df4d1597e6d8.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5xPY2dKOxPfmsvbpUhBs4Izwt2RHVv36PoAmex84GI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5xPY2dKOxPfmsvbpUhBs4Izwt2RHVv36PoAmex84GI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/S5xPY2dKOxPfmsvbpUhBs4Izwt2RHVv36PoAmex84GI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S5xPY2dKOxPfmsvbpUhBs4Izwt2RHVv36PoAmex84GI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

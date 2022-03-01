@@ -1,0 +1,44 @@
+{
+  "$id": "p18030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$19.99 - $54.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/fonseca-tawny-port-10-year/p18030",
+    "name": "Fonseca Tawny Port 10 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-fonseca-tawny-port-10-year-5468f95ca9d9f356.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/KV77ZXFs1A24Rlzj4_F3KeMcP-Gf3LiA8XTgIztA7Tc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KV77ZXFs1A24Rlzj4_F3KeMcP-Gf3LiA8XTgIztA7Tc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/KV77ZXFs1A24Rlzj4_F3KeMcP-Gf3LiA8XTgIztA7Tc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KV77ZXFs1A24Rlzj4_F3KeMcP-Gf3LiA8XTgIztA7Tc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

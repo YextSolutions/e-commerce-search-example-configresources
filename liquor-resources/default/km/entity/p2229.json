@@ -1,0 +1,17 @@
+{
+  "$id": "p2229",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "77.75",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$35.99 - $77.75",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/zafra-21-year-rum/p2229",
+    "name": "Zafra 21 Year Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

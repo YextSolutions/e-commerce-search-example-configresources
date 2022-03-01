@@ -1,0 +1,17 @@
+{
+  "$id": "p19852",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$3.49 - $18.99",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/hakutsuru-draft-sake/p19852",
+    "name": "Hakutsuru Draft Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p87746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$12.99 - $19.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Berliner Weisse",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/berliner-weisse/mighty-squirrel-sour-face-raspberry-and-kiwi/p87746",
+    "name": "Mighty Squirrel Sour Face Raspberry and Kiwi"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

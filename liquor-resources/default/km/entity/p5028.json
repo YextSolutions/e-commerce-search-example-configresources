@@ -1,0 +1,17 @@
+{
+  "$id": "p5028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "74.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$74.99 - $199.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/hillrock-solera-bourbon/p5028",
+    "name": "Hillrock Solera Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

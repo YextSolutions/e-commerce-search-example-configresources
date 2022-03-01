@@ -1,0 +1,44 @@
+{
+  "$id": "p2996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "458",
+    "c_priceRange": "$10.99 - $47.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/dewars-white-label-blended-scotch-whisky/p2996",
+    "name": "Dewar\u0027s White Label Blended Scotch Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-dewars-white-label-bbb2d0f4a01e7178.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/dAupZFhZS5cB0gXS4vNHnqxrwnyETC8V0cP7PfVLvfE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dAupZFhZS5cB0gXS4vNHnqxrwnyETC8V0cP7PfVLvfE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/dAupZFhZS5cB0gXS4vNHnqxrwnyETC8V0cP7PfVLvfE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dAupZFhZS5cB0gXS4vNHnqxrwnyETC8V0cP7PfVLvfE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

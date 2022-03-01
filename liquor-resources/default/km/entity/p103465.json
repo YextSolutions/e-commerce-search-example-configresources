@@ -1,0 +1,17 @@
+{
+  "$id": "p103465",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "21.08",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$5.99 - $21.08",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/vizzy-pineapple-mango-hard-seltzer/p103465",
+    "name": "Vizzy Pineapple Mango Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

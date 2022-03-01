@@ -1,0 +1,43 @@
+{
+  "$id": "p23559",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Proprietary Other Blend",
+    "c_maxPrice": "20.07",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "15",
+    "c_priceRange": "$10.98 - $20.07",
+    "landingPageUrl": "https://drizly.com/wine/proprietary-other-blend/les-darons-languedoc-rouge-2013/p23559",
+    "name": "Les Darons Languedoc Rouge",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-les-darons-languedoc-rouge-2013-be2c2e5c0e88de9d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/VxWJWM_oPWgJkB-IpaPlCPaIbaHmW1-sYEa3fXpo7RQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/VxWJWM_oPWgJkB-IpaPlCPaIbaHmW1-sYEa3fXpo7RQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/VxWJWM_oPWgJkB-IpaPlCPaIbaHmW1-sYEa3fXpo7RQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VxWJWM_oPWgJkB-IpaPlCPaIbaHmW1-sYEa3fXpo7RQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

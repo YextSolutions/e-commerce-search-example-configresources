@@ -1,0 +1,17 @@
+{
+  "$id": "p11120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.99 - $18.99",
+    "c_subCategory": "Barbera",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/barbera/guidobono-barbera-dalba/p11120",
+    "name": "Guidobono Barbera d\u0027Alba"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

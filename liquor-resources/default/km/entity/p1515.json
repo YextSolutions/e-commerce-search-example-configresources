@@ -1,0 +1,17 @@
+{
+  "$id": "p1515",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$26.99 - $40.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/luca-malbec/p1515",
+    "name": "Luca Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

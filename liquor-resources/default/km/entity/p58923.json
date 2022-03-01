@@ -1,0 +1,17 @@
+{
+  "$id": "p58923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "454687.20",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "434",
+    "c_priceRange": "$9.99 - $454687.20",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-red-white-and-berry/p58923",
+    "name": "Smirnoff Red White \u0026 Berry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p11064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$13.99 - $43.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/j-vineyards-and-winery-russian-river-chardonnay/p11064",
+    "name": "J Vineyards \u0026 Winery Russian River Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

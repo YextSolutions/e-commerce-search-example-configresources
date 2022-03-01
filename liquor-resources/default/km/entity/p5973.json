@@ -1,0 +1,17 @@
+{
+  "$id": "p5973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "137.49",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "6",
+    "c_priceRange": "$15.39 - $137.49",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/milagro-tequila-barrel-select-reserve-reposado/p5973",
+    "name": "Milagro Tequila Barrel Select Reserve Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

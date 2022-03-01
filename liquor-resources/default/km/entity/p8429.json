@@ -1,0 +1,43 @@
+{
+  "$id": "p8429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rhone Blend",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "26",
+    "c_priceRange": "$9.89 - $27.99",
+    "landingPageUrl": "https://drizly.com/wine/rhone-blend/les-dauphins-cotes-du-rhone/p8429",
+    "name": "Les Dauphins Cotes Du Rhone",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-les-dauphins-cotes-du-rhone-69b1de61d4123819.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/oZG_LDLZN6gwfoQf8XaBB8LguVR1aOfpzaE1o4m3Y4c/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/oZG_LDLZN6gwfoQf8XaBB8LguVR1aOfpzaE1o4m3Y4c/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/oZG_LDLZN6gwfoQf8XaBB8LguVR1aOfpzaE1o4m3Y4c/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/oZG_LDLZN6gwfoQf8XaBB8LguVR1aOfpzaE1o4m3Y4c/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

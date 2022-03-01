@@ -1,0 +1,16 @@
+{
+  "$id": "p2772",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "3",
+    "c_priceRange": "$12.09 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/commanderie-de-la-bargemone/p2772",
+    "name": "Commanderie de la Bargemone"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

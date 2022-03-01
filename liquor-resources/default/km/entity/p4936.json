@@ -1,0 +1,44 @@
+{
+  "$id": "p4936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.54",
+    "c_minPrice": "3.00",
+    "c_numberReviews": "10",
+    "c_priceRange": "$3.00 - $19.54",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/half-acre-pony-pilsner/p4936",
+    "name": "Half Acre Pony Pilsner",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-half-acre-pony-pilsner-5cf458aaaa1094a5.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1RaoAQ8NucWgf0-OK2TDCJzhbyOSa4Nv2f1_TWs-pfI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1RaoAQ8NucWgf0-OK2TDCJzhbyOSa4Nv2f1_TWs-pfI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1RaoAQ8NucWgf0-OK2TDCJzhbyOSa4Nv2f1_TWs-pfI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1RaoAQ8NucWgf0-OK2TDCJzhbyOSa4Nv2f1_TWs-pfI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

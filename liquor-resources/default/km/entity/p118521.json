@@ -1,0 +1,17 @@
+{
+  "$id": "p118521",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.89",
+    "c_minPrice": "12.97",
+    "c_numberReviews": "14",
+    "c_priceRange": "$12.97 - $26.89",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/coquito-le-lo-lai-coconut-cream-liqueur/p118521",
+    "name": "Coquito Le-Lo-Lai Coconut Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

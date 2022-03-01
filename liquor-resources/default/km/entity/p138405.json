@@ -1,0 +1,17 @@
+{
+  "$id": "p138405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "124.99",
+    "c_minPrice": "24.98",
+    "c_numberReviews": "10",
+    "c_priceRange": "$24.98 - $124.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/elijah-craig-rye-whiskey/p138405",
+    "name": "Elijah Craig Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15713",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "11.80",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.80 - $25.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/ghost-pines-pinot-noir/p15713",
+    "name": "Ghost Pines Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

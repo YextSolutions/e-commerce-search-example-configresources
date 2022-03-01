@@ -1,0 +1,17 @@
+{
+  "$id": "p4698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "137",
+    "c_priceRange": "$3.49 - $35.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-green-apple/p4698",
+    "name": "Smirnoff Ice Green Apple"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

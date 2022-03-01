@@ -1,0 +1,17 @@
+{
+  "$id": "p12239",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$24.99 - $62.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/schramsberg-blanc-de-noirs/p12239",
+    "name": "Schramsberg Blanc de Noirs"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

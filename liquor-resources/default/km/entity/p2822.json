@@ -1,0 +1,43 @@
+{
+  "$id": "p2822",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "71.99",
+    "c_minPrice": "1.75",
+    "c_numberReviews": "5769",
+    "c_priceRange": "$1.75 - $71.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/corona-extra-mexican-lager-beer/p2822",
+    "name": "Corona Extra Mexican Lager Beer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-corona-extra-22d971897e230884.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yo9rwSZ-ViJeOJVr0r5zB44q_9EdNpSX4yuEEp_3qhs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yo9rwSZ-ViJeOJVr0r5zB44q_9EdNpSX4yuEEp_3qhs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yo9rwSZ-ViJeOJVr0r5zB44q_9EdNpSX4yuEEp_3qhs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yo9rwSZ-ViJeOJVr0r5zB44q_9EdNpSX4yuEEp_3qhs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

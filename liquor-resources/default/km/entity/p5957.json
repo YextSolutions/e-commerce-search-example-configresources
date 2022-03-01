@@ -1,0 +1,16 @@
+{
+  "$id": "p5957",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.89",
+    "c_numberReviews": "56",
+    "c_priceRange": "$8.89 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-peppermint-schnapps-liqueur/p5957",
+    "name": "DeKuyper Peppermint Schnapps Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

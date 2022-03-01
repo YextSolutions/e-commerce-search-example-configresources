@@ -1,0 +1,17 @@
+{
+  "$id": "p15849",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "25.40",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$3.99 - $25.40",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/clown-shoes-galactica-ipa/p15849",
+    "name": "Clown Shoes Galactica IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

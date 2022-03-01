@@ -1,0 +1,16 @@
+{
+  "$id": "p8975",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Grain Alcohol",
+    "c_maxPrice": "42.90",
+    "c_minPrice": "13.19",
+    "c_numberReviews": "230",
+    "c_priceRange": "$13.19 - $42.90",
+    "landingPageUrl": "https://drizly.com/liquor/grain-alcohol/everclear-190-proof/p8975",
+    "name": "Everclear 190 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

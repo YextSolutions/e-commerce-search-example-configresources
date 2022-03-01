@@ -1,0 +1,16 @@
+{
+  "$id": "p63040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$35.99 - $89.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/bozal-espadin-barril-ensamble-mezcal/p63040",
+    "name": "Bozal \"Espadín-Barril-Ensamble\" Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

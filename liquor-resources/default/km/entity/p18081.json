@@ -1,0 +1,17 @@
+{
+  "$id": "p18081",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "419.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$29.99 - $419.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/cointreau-noir-orange-liqueur/p18081",
+    "name": "Cointreau Noir Orange Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

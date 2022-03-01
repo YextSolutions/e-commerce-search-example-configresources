@@ -1,0 +1,17 @@
+{
+  "$id": "p116241",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "13.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.98 - $19.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/echeverria-no-es-pituko-chardonnay/p116241",
+    "name": "Echeverria No Es Pituko Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

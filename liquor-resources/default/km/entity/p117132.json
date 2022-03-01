@@ -1,0 +1,17 @@
+{
+  "$id": "p117132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$12.99 - $16.99",
+    "c_subCategory": "Porter",
+    "landingPageUrl": "https://drizly.com/beer/ale/porter/night-shift-phone-home-porter/p117132",
+    "name": "Night Shift Phone Home Porter"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

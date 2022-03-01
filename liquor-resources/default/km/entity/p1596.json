@@ -1,0 +1,17 @@
+{
+  "$id": "p1596",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "1599.00",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "355",
+    "c_priceRange": "$6.99 - $1599.00",
+    "c_subCategory": "Asti",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/asti/martini-and-rossi-asti-sparkling-wine/p1596",
+    "name": "Martini \u0026 Rossi Asti Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

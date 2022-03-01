@@ -1,0 +1,44 @@
+{
+  "$id": "p17970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "49.95",
+    "c_minPrice": "10.79",
+    "c_numberReviews": "5",
+    "c_priceRange": "$10.79 - $49.95",
+    "c_subCategory": "Flavored Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/flavored-tequila/patron-xo-cafe-incendio/p17970",
+    "name": "Patrón XO Cafe Incendio",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-patron-xo-cafe-incendio-245f17907cd1691c.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/X30xlpKalMQsvYkAjnR9rnR7T7hkFUYwUHbak2ESRl0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/X30xlpKalMQsvYkAjnR9rnR7T7hkFUYwUHbak2ESRl0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/X30xlpKalMQsvYkAjnR9rnR7T7hkFUYwUHbak2ESRl0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/X30xlpKalMQsvYkAjnR9rnR7T7hkFUYwUHbak2ESRl0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

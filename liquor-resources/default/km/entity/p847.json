@@ -1,0 +1,17 @@
+{
+  "$id": "p847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "877",
+    "c_priceRange": "$7.69 - $34.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/bartenura-moscato/p847",
+    "name": "Bartenura Moscato"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

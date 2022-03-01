@@ -1,0 +1,17 @@
+{
+  "$id": "p33663",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.04 - $15.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/mccormick-gin/p33663",
+    "name": "Mccormick Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

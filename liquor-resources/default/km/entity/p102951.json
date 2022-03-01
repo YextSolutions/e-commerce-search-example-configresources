@@ -1,0 +1,16 @@
+{
+  "$id": "p102951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "12.75",
+    "c_numberReviews": "127",
+    "c_priceRange": "$12.75 - $36.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/voodoo-ranger-hoppy-variety-pack/p102951",
+    "name": "Voodoo Ranger Hoppy Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p601",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.00",
+    "c_numberReviews": "1254",
+    "c_priceRange": "$6.00 - $23.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/alamos-malbec/p601",
+    "name": "Alamos Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

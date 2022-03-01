@@ -1,0 +1,17 @@
+{
+  "$id": "p147",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "67.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "104",
+    "c_priceRange": "$22.99 - $67.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/tanqueray-no-ten-gin/p147",
+    "name": "Tanqueray No. Ten Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

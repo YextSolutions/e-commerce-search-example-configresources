@@ -1,0 +1,18 @@
+{
+  "$id": "p5428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "76",
+    "c_priceRange": "$7.69 - $29.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/new-belgium-trippel-belgian-style-ale/p5428",
+    "name": "New Belgium Trippel Belgian Style Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

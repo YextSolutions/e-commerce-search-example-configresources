@@ -1,0 +1,17 @@
+{
+  "$id": "p15120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "49.95",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$11.99 - $49.95",
+    "c_subCategory": "Junmai Daiginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-daiginjo/dassai-50-junmai-daiginjo-sake/p15120",
+    "name": "Dassai 50 Junmai Daiginjo Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p22439",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "35.19",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $35.19",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/davinci-chianti-reserva-2008/p22439",
+    "name": "Da Vinci Chianti Riserva"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

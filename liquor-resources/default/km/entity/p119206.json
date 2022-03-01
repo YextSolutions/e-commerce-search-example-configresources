@@ -1,0 +1,17 @@
+{
+  "$id": "p119206",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "61.59",
+    "c_minPrice": "21.98",
+    "c_numberReviews": "5",
+    "c_priceRange": "$21.98 - $61.59",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/camus-cognac-vs/p119206",
+    "name": "Camus Cognac VS"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

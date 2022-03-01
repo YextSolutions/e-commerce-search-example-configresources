@@ -1,0 +1,18 @@
+{
+  "$id": "p70257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$7.99 - $12.09",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Helles Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/helles-lager/tivoli-helles-lager/p70257",
+    "name": "Tivoli Helles Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

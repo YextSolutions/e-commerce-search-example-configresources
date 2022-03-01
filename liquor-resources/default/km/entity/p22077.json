@@ -1,0 +1,16 @@
+{
+  "$id": "p22077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$16.99 - $34.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chateau-blaignan-medoc/p22077",
+    "name": "Chateau Blaignan Medoc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

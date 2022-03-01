@@ -1,0 +1,16 @@
+{
+  "$id": "p27929",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.93",
+    "c_numberReviews": "33",
+    "c_priceRange": "$9.93 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/il-conte-stella-rosa-pink/p27929",
+    "name": "Il Conte Stella Rosa Pink"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

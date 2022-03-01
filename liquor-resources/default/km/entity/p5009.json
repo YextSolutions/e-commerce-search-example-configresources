@@ -1,0 +1,17 @@
+{
+  "$id": "p5009",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$10.99 - $29.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/j-lohr-estates-los-osos-merlot/p5009",
+    "name": "J. Lohr Estates Los Osos Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

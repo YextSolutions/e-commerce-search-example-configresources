@@ -1,0 +1,16 @@
+{
+  "$id": "p770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "91",
+    "c_priceRange": "$20.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/averna-amaro/p770",
+    "name": "Averna Amaro"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p1833",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Wine Spritzer",
+    "c_maxPrice": "12.95",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "60",
+    "c_priceRange": "$2.99 - $12.95",
+    "landingPageUrl": "https://drizly.com/wine/wine-spritzer/barefoot-crisp-white-spritzer/p1833",
+    "name": "Barefoot Crisp White Spritzer"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

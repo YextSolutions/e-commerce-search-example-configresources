@@ -1,0 +1,17 @@
+{
+  "$id": "p2896",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "622",
+    "c_priceRange": "$6.63 - $23.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/cupcake-vineyards-prosecco-white-wine/p2896",
+    "name": "Cupcake® Vineyards Prosecco White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

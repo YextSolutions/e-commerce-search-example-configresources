@@ -1,0 +1,16 @@
+{
+  "$id": "p23326",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "19.79",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$15.99 - $19.79",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/jolie-folle-rose/p23326",
+    "name": "Jolie Folle Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

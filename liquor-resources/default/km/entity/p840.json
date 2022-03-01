@@ -1,0 +1,17 @@
+{
+  "$id": "p840",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$6.99 - $29.99",
+    "c_subCategory": "Chenin Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chenin-blanc/baron-herzog-chenin-blanc/p840",
+    "name": "Baron Herzog Chenin Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

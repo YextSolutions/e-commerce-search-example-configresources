@@ -1,0 +1,18 @@
+{
+  "$id": "p5822",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "45",
+    "c_priceRange": "$1.49 - $34.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "Helles Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/helles-lager/spaten-premium-lager/p5822",
+    "name": "Spaten Premium Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

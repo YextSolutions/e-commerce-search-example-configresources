@@ -1,0 +1,17 @@
+{
+  "$id": "p138435",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "8.02",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.02 - $30.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/menage-a-trois-sweet-collection-dolce-sweet-red-wine-750ml-wine-bottle/p138435",
+    "name": "Menage a Trois Sweet Collection Dolce Sweet Red Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

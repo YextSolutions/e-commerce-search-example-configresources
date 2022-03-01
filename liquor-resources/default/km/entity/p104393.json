@@ -1,0 +1,44 @@
+{
+  "$id": "p104393",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "82.49",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$3.99 - $82.49",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/menage-a-trois-limelight-pinot-grigio-white-wine-750ml-wine-bottle/p104393",
+    "name": "Menage a Trois Limelight Pinot Grigio White Wine, 750mL Wine Bottle",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-menage-a-trois-limelight-pinot-grigio-a5f94501d8569f7f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/pquYYXFDmitHd5KTCD2M7nPmvt076WtK7IhzvNv3cAk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/pquYYXFDmitHd5KTCD2M7nPmvt076WtK7IhzvNv3cAk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/pquYYXFDmitHd5KTCD2M7nPmvt076WtK7IhzvNv3cAk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/pquYYXFDmitHd5KTCD2M7nPmvt076WtK7IhzvNv3cAk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

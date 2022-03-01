@@ -1,0 +1,17 @@
+{
+  "$id": "p11394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "1.64",
+    "c_numberReviews": "68",
+    "c_priceRange": "$1.64 - $12.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/seagrams-escapes-calypso-colada/p11394",
+    "name": "Seagram\u0027s Escapes Calypso Colada"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

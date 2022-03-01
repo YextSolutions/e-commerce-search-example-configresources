@@ -1,0 +1,17 @@
+{
+  "$id": "p62352",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.99 - $16.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/villa-jolanda-moscato-and-mango/p62352",
+    "name": "Villa Jolanda Moscato \u0026 Mango"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

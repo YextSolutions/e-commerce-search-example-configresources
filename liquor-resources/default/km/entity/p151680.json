@@ -1,0 +1,17 @@
+{
+  "$id": "p151680",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "42",
+    "c_priceRange": "$32.99 - $109.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/brothers-bond-straight-bourbon-whiskey/p151680",
+    "name": "Brother\u0027s Bond Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

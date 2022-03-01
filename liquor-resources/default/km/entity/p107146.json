@@ -1,0 +1,16 @@
+{
+  "$id": "p107146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$8.99 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chateau-cabredon-bordeaux/p107146",
+    "name": "Chateau Cabredon Bordeaux"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

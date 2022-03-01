@@ -1,0 +1,18 @@
+{
+  "$id": "p13036",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$11.99 - $14.99",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Saison",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/saison/3-stars-peppercorn-saison/p13036",
+    "name": "3 Stars Peppercorn Saison"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

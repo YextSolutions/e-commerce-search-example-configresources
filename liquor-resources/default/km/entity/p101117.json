@@ -1,0 +1,17 @@
+{
+  "$id": "p101117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "93.49",
+    "c_minPrice": "13.19",
+    "c_numberReviews": "297",
+    "c_priceRange": "$13.19 - $93.49",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/jameson-cold-brew/p101117",
+    "name": "Jameson Cold Brew"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

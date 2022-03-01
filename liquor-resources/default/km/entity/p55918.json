@@ -1,0 +1,18 @@
+{
+  "$id": "p55918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_minPrice": "14.00",
+    "c_numberReviews": "3",
+    "c_priceRange": "$14.00",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/bud-light-new-england-patriots-nfl-team-can/p55918",
+    "name": "Bud Light New England Patriots NFL Team Can"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

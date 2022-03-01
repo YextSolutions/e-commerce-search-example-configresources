@@ -1,0 +1,18 @@
+{
+  "$id": "p73814",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "4.00",
+    "c_numberReviews": "31",
+    "c_priceRange": "$4.00 - $99.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/singlecut-18-watt-ipa/p73814",
+    "name": "Singlecut 18 Watt IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

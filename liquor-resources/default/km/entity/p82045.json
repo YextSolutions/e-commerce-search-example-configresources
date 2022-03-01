@@ -1,0 +1,17 @@
+{
+  "$id": "p82045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "3.75",
+    "c_numberReviews": "5",
+    "c_priceRange": "$3.75 - $49.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/finback-ipa/p82045",
+    "name": "Finback IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

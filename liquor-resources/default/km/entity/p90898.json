@@ -1,0 +1,17 @@
+{
+  "$id": "p90898",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$15.99 - $49.99",
+    "c_subCategory": "Nebbiolo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/nebbiolo/arnaldo-rivera-undicicomuni-barolo/p90898",
+    "name": "Arnaldo Rivera Undicicomuni Barolo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p136607",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$7.99 - $19.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/sweet-bitch-mango-moscato/p136607",
+    "name": "Sweet Bitch Mango Moscato"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

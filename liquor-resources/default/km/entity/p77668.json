@@ -1,0 +1,17 @@
+{
+  "$id": "p77668",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "189.99",
+    "c_minPrice": "94.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$94.99 - $189.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/kosta-browne-sonoma-coast-pinot-noir/p77668",
+    "name": "Kosta Browne Sonoma Coast Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

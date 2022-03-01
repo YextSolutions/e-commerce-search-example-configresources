@@ -1,0 +1,16 @@
+{
+  "$id": "p9038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "20.85",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.79 - $20.85",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/hiram-walker-butterscotch-schnapps/p9038",
+    "name": "Hiram Walker Butterscotch Schnapps"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1450",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$5.99 - $15.99",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/liberty-creek-white-zinfandel/p1450",
+    "name": "Liberty Creek White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

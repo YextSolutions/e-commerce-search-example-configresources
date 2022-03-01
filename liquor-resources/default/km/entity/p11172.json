@@ -1,0 +1,17 @@
+{
+  "$id": "p11172",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "7.03",
+    "c_numberReviews": "27",
+    "c_priceRange": "$7.03 - $19.99",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/robert-mondavi-sauvignon-blanc-private-selection/p11172",
+    "name": "Robert Mondavi Sauvignon Blanc Private Selection"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

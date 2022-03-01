@@ -1,0 +1,17 @@
+{
+  "$id": "p26276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "6.37",
+    "c_numberReviews": "7",
+    "c_priceRange": "$6.37 - $15.99",
+    "c_subCategory": "Pinotage",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinotage/man-family-wines-pinotage/p26276",
+    "name": "M.A.N Family Wines Pinotage"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

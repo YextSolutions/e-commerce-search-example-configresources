@@ -1,0 +1,44 @@
+{
+  "$id": "p2246",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "10.38",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.38 - $21.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/zuccardi-serie-a-malbec/p2246",
+    "name": "Zuccardi Serie A Malbec",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-zuccardi-serie-a-malbec-fa109d9e26760e27.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/2urJd3BtyT-aUPaWNDQkSOSzIKvSui6GQy4OOQtF2O0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2urJd3BtyT-aUPaWNDQkSOSzIKvSui6GQy4OOQtF2O0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/2urJd3BtyT-aUPaWNDQkSOSzIKvSui6GQy4OOQtF2O0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2urJd3BtyT-aUPaWNDQkSOSzIKvSui6GQy4OOQtF2O0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

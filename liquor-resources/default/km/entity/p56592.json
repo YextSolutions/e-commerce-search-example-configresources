@@ -1,0 +1,17 @@
+{
+  "$id": "p56592",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "10.75",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.75 - $18.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/two-roads-evil-twin-geyser-gose/p56592",
+    "name": "Two Roads / Evil Twin Geyser Gose"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p89964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "8.09",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.99 - $8.09",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/ridgeway-lump-of-coal-dark-holiday-stout/p89964",
+    "name": "Ridgeway Lump Of Coal Dark Holiday Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

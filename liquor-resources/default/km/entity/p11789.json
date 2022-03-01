@@ -1,0 +1,17 @@
+{
+  "$id": "p11789",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "30",
+    "c_priceRange": "$6.99 - $29.99",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/shipyard-smashed-pumpkin/p11789",
+    "name": "Shipyard Smashed Pumpkin"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5652",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "153.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$153.99 - $499.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-dalmore-18-year/p5652",
+    "name": "The Dalmore 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

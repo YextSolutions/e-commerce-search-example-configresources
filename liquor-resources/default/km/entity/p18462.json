@@ -1,0 +1,17 @@
+{
+  "$id": "p18462",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "81.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$7.99 - $81.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/10-barrel-apocalypse-ipa/p18462",
+    "name": "10 Barrel Apocalypse IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

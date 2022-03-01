@@ -1,0 +1,17 @@
+{
+  "$id": "p27588",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "82.99",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$36.99 - $82.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenliviet-12-year-gift-set-with-glasses/p27588",
+    "name": "The Glenliviet 12 Year Gift Set With Glasses"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

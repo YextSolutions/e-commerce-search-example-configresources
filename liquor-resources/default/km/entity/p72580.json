@@ -1,0 +1,17 @@
+{
+  "$id": "p72580",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "38",
+    "c_priceRange": "$8.99 - $39.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/shipyard-pumpkinhead-ale/p72580",
+    "name": "Shipyard Pumpkinhead Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

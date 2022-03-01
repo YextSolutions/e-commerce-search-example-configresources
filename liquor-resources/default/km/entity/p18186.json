@@ -1,0 +1,16 @@
+{
+  "$id": "p18186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.44",
+    "c_numberReviews": "60",
+    "c_priceRange": "$9.44 - $24.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/seagrams-gin-twisted-lime/p18186",
+    "name": "Seagram\u0027s Gin Twisted Lime"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

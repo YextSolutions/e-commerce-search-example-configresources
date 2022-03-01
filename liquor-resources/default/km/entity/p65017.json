@@ -1,0 +1,16 @@
+{
+  "$id": "p65017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "14.50",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "42",
+    "c_priceRange": "$6.99 - $14.50",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/culitos-moscato-rose/p65017",
+    "name": "Culitos Moscato Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

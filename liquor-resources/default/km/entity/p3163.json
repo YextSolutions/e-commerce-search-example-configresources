@@ -1,0 +1,18 @@
+{
+  "$id": "p3163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$11.99 - $49.99",
+    "c_subCategory": "White Blend",
+    "c_type": "White Rhone Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/white-rhone-blend/e-guigal-cotes-du-rhone-white/p3163",
+    "name": "E. Guigal Cotes Du Rhone White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

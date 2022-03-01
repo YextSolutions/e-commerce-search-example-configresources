@@ -1,0 +1,17 @@
+{
+  "$id": "p70470",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "49.00",
+    "c_minPrice": "28.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$28.99 - $49.00",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/claude-riffault-sancerre-les-boucauds-2015/p70470",
+    "name": "Claude Riffault Sancerre Les Boucauds"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p11857",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "11.09",
+    "c_numberReviews": "14",
+    "c_priceRange": "$11.09 - $38.49",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/two-roads-roadsmarys-baby/p11857",
+    "name": "Two Roads RoadsMary\u0027s Baby"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

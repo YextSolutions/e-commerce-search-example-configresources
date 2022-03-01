@@ -1,0 +1,17 @@
+{
+  "$id": "p4062",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "42.03",
+    "c_numberReviews": "8",
+    "c_priceRange": "$42.03 - $76.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/qui-platinum-extra-anejo-tequila/p4062",
+    "name": "Qui Platinum Extra Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

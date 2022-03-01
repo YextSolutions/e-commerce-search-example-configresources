@@ -1,0 +1,17 @@
+{
+  "$id": "p1275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "630.68",
+    "c_minPrice": "140.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$140.99 - $630.68",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/midleton-very-rare-irish-whiskey/p1275",
+    "name": "Midleton Very Rare Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

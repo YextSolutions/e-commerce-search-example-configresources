@@ -1,0 +1,16 @@
+{
+  "$id": "p101085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "14.39",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$3.99 - $14.39",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/99-brand-sleeve/p101085",
+    "name": "99 Brand Sleeve"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

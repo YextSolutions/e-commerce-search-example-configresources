@@ -1,0 +1,17 @@
+{
+  "$id": "p102195",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "5",
+    "c_priceRange": "$6.63 - $19.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/cupcake-vineyards-cava-white-wine/p102195",
+    "name": "Cupcake® Vineyards Cava White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

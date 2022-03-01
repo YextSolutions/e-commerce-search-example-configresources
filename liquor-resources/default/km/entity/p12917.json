@@ -1,0 +1,43 @@
+{
+  "$id": "p12917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "13",
+    "c_priceRange": "$8.24 - $14.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/burnetts-cherry-vodka/p12917",
+    "name": "Burnett\u0027s Cherry Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-burnetts-cherry-vodka-7a8e8c57d22a11b5.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/KVdgwCnVInBF-1sWe1od5qCPgrc6potcd73yNi5EjH4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/KVdgwCnVInBF-1sWe1od5qCPgrc6potcd73yNi5EjH4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/KVdgwCnVInBF-1sWe1od5qCPgrc6potcd73yNi5EjH4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/KVdgwCnVInBF-1sWe1od5qCPgrc6potcd73yNi5EjH4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

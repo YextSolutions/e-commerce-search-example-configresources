@@ -1,0 +1,16 @@
+{
+  "$id": "p5955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "262",
+    "c_priceRange": "$8.49 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-peachtree-schnapps-liqueur/p5955",
+    "name": "DeKuyper Peachtree Schnapps Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

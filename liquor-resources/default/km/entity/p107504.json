@@ -1,0 +1,17 @@
+{
+  "$id": "p107504",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$29.99 - $49.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/chattanooga-straight-bourbon-whiskey-91-proof/p107504",
+    "name": "Chattanooga Straight Bourbon Whiskey 91 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

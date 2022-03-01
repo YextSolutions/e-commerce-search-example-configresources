@@ -1,0 +1,18 @@
+{
+  "$id": "p5121",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.99 - $13.19",
+    "c_subCategory": "Dark Lager",
+    "c_type": "Schwarzbier",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/schwarzbier/jacks-abby-smoke-and-dagger-dark-lager/p5121",
+    "name": "Jack\u0027s Abby Smoke \u0026 Dagger Dark Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

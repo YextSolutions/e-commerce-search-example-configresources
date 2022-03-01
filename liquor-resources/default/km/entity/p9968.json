@@ -1,0 +1,16 @@
+{
+  "$id": "p9968",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "8.69",
+    "c_numberReviews": "32",
+    "c_priceRange": "$8.69 - $29.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/exclusiv-vodka/p9968",
+    "name": "Exclusiv Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

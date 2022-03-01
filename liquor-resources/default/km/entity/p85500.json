@@ -1,0 +1,17 @@
+{
+  "$id": "p85500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.99 - $24.99",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/campo-viejo-tempranillo-rioja/p85500",
+    "name": "Campo Viejo Tempranillo Rioja"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

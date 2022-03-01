@@ -1,0 +1,19 @@
+{
+  "$id": "p13873",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "18",
+    "c_priceRange": "$7.49 - $35.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/presidente-light/p13873",
+    "name": "Presidente Light"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p69889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "10.60",
+    "c_numberReviews": "1",
+    "c_priceRange": "$10.60 - $15.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/fort-george-cavatica-stout/p69889",
+    "name": "Fort George Cavatica Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

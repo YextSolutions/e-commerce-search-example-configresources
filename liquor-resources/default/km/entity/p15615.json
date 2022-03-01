@@ -1,0 +1,17 @@
+{
+  "$id": "p15615",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "14.29",
+    "c_numberReviews": "3",
+    "c_priceRange": "$14.29 - $49.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/the-calling-cabernet-sauvignon/p15615",
+    "name": "The Calling Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p14273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.99 - $19.49",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/the-crusher-petite-sirah/p14273",
+    "name": "The Crusher Petite Sirah",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-the-crusher-petite-sirah-ae08d21ecf0eecc2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/i6LZeQ48Njx2xEAoQDhCoYfntgLcRDlDfDTNzpQzcos/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/i6LZeQ48Njx2xEAoQDhCoYfntgLcRDlDfDTNzpQzcos/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/i6LZeQ48Njx2xEAoQDhCoYfntgLcRDlDfDTNzpQzcos/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/i6LZeQ48Njx2xEAoQDhCoYfntgLcRDlDfDTNzpQzcos/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

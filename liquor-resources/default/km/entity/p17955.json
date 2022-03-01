@@ -1,0 +1,17 @@
+{
+  "$id": "p17955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.42",
+    "c_numberReviews": "2",
+    "c_priceRange": "$8.42 - $25.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/yalumba-y-series-shiraz/p17955",
+    "name": "Yalumba \"Y Series\" Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

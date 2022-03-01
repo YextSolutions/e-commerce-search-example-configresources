@@ -1,0 +1,16 @@
+{
+  "$id": "p101073",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "0.99",
+    "c_numberReviews": "57",
+    "c_priceRange": "$0.99 - $16.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/canteen-black-cherry-vodka-soda/p101073",
+    "name": "Canteen Black Cherry Vodka Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

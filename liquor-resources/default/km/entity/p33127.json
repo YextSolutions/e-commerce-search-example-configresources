@@ -1,0 +1,17 @@
+{
+  "$id": "p33127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "13.19",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.19 - $54.99",
+    "c_subCategory": "Fruit Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/fruit-brandy/r-jelinek-10-year-old-slivovitz-plum-brandy/p33127",
+    "name": "R. Jelinek 10 Year Old Slivovitz - Plum Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p6394",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "87.99",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$36.99 - $87.99",
+    "c_subCategory": "Aged Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/aged-gin/barr-hill-reserve-tom-cat-gin/p6394",
+    "name": "Barr Hill Reserve Tom Cat Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

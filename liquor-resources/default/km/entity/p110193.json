@@ -1,0 +1,17 @@
+{
+  "$id": "p110193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "15.39",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.99 - $15.39",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/golden-road-brewing-mango-cart-non-alcoholic-beer/p110193",
+    "name": "Golden Road Brewing Mango Cart Non-Alcoholic Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

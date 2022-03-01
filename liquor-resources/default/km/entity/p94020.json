@@ -1,0 +1,44 @@
+{
+  "$id": "p94020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$11.99 - $14.29",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/atlas-dance-of-days-pale-ale/p94020",
+    "name": "Atlas Dance Of Days Pale Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-atlas-dance-of-days-74e2ee1d903ffc42.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/gmFirE1qTusyOTRbInMrwdWAf1SWIHF0um_5zEGB2lw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gmFirE1qTusyOTRbInMrwdWAf1SWIHF0um_5zEGB2lw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/gmFirE1qTusyOTRbInMrwdWAf1SWIHF0um_5zEGB2lw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gmFirE1qTusyOTRbInMrwdWAf1SWIHF0um_5zEGB2lw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

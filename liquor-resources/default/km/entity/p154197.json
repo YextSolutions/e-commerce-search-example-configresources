@@ -1,0 +1,17 @@
+{
+  "$id": "p154197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "77.77",
+    "c_minPrice": "32.99",
+    "c_numberReviews": "45",
+    "c_priceRange": "$32.99 - $77.77",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/818-tequila-blanco/p154197",
+    "name": "818 Tequila Blanco"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

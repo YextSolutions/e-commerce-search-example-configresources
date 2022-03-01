@@ -1,0 +1,44 @@
+{
+  "$id": "p4773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "55.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$9.99 - $55.00",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/sonoma-cutrer-russian-river-valley-pinot-noir/p4773",
+    "name": "Sonoma-Cutrer Russian River Valley Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-sonoma-cutrer-pinot-noir-af9b978449866339.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/2SVJpChlua6uJF7tFSVx55I_FWY4iotZQXwkeSV8Kmo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/2SVJpChlua6uJF7tFSVx55I_FWY4iotZQXwkeSV8Kmo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/2SVJpChlua6uJF7tFSVx55I_FWY4iotZQXwkeSV8Kmo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2SVJpChlua6uJF7tFSVx55I_FWY4iotZQXwkeSV8Kmo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

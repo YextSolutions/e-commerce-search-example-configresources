@@ -1,0 +1,17 @@
+{
+  "$id": "p157518",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "13.64",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$4.99 - $13.64",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/barefoot-fruitscato-pineapple-sweet-wine/p157518",
+    "name": "Barefoot Fruitscato Pineapple Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

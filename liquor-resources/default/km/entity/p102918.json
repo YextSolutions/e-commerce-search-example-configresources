@@ -1,0 +1,44 @@
+{
+  "$id": "p102918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.88",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "119",
+    "c_priceRange": "$6.99 - $21.88",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/sierra-nevada-wild-little-thing/p102918",
+    "name": "Sierra Nevada Wild Little Thing",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-sierra-nevada-wild-little-thing-efb84fb0ac0038ad.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/y5SUNusBoTY-GtnPcSflqEMWs7w16SX9lNHhrRpVr60/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/y5SUNusBoTY-GtnPcSflqEMWs7w16SX9lNHhrRpVr60/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/y5SUNusBoTY-GtnPcSflqEMWs7w16SX9lNHhrRpVr60/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y5SUNusBoTY-GtnPcSflqEMWs7w16SX9lNHhrRpVr60/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

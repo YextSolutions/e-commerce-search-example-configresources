@@ -1,0 +1,16 @@
+{
+  "$id": "p55938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "51.96",
+    "c_minPrice": "18.05",
+    "c_numberReviews": "1124",
+    "c_priceRange": "$18.05 - $51.96",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/baileys-almande/p55938",
+    "name": "Baileys Almande"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

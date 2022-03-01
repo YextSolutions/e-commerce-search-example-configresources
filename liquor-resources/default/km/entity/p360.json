@@ -1,0 +1,17 @@
+{
+  "$id": "p360",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "9.69",
+    "c_numberReviews": "16",
+    "c_priceRange": "$9.69 - $34.99",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/troegs-hop-cycle-seasonal/p360",
+    "name": "Troegs Hop Cycle Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

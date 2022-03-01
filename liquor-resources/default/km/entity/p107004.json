@@ -1,0 +1,17 @@
+{
+  "$id": "p107004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "48",
+    "c_priceRange": "$8.99 - $34.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/sqrrl-peanut-butter-whiskey/p107004",
+    "name": "SQRRL Peanut Butter Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$13.99 - $27.49",
+    "c_subCategory": "Cortese",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/cortese/villa-sparina-gavi-del-comune-del-gavi-docg/p1993",
+    "name": "Villa Sparina Gavi del Comune del Gavi DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

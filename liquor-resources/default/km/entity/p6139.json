@@ -1,0 +1,17 @@
+{
+  "$id": "p6139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "37.28",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$19.99 - $37.28",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/van-gogh-dutch-caramel/p6139",
+    "name": "Van Gogh Dutch Caramel"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

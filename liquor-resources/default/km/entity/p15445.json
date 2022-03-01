@@ -1,0 +1,44 @@
+{
+  "$id": "p15445",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$24.99 - $49.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/st-elizabeth-allspice-dram/p15445",
+    "name": "St. Elizabeth Allspice Dram",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-st-elizabeth-allspice-dram-8b2788498ecbde4f.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/iN1z-pU1D6jxwAMjVaOxgt4quvv0eVb3jM7nVDgpj2I/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/iN1z-pU1D6jxwAMjVaOxgt4quvv0eVb3jM7nVDgpj2I/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/iN1z-pU1D6jxwAMjVaOxgt4quvv0eVb3jM7nVDgpj2I/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iN1z-pU1D6jxwAMjVaOxgt4quvv0eVb3jM7nVDgpj2I/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

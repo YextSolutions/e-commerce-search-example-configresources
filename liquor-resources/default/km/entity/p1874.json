@@ -1,0 +1,17 @@
+{
+  "$id": "p1874",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.87",
+    "c_minPrice": "6.81",
+    "c_numberReviews": "114",
+    "c_priceRange": "$6.81 - $26.87",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/bogle-petite-sirah/p1874",
+    "name": "Bogle Petite Sirah"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

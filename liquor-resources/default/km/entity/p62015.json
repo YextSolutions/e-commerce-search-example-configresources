@@ -1,0 +1,17 @@
+{
+  "$id": "p62015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "96",
+    "c_priceRange": "$6.63 - $21.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/cupcake-vineyards-sparkling-rose-wine/p62015",
+    "name": "Cupcake® Vineyards Sparkling Rosé Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

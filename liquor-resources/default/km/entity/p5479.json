@@ -1,0 +1,17 @@
+{
+  "$id": "p5479",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "113.99",
+    "c_minPrice": "44.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$44.99 - $113.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/corzo-tequila-anejo/p5479",
+    "name": "Corzo Tequila Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

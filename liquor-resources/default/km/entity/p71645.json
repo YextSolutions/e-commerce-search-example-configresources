@@ -1,0 +1,44 @@
+{
+  "$id": "p71645",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$10.99 - $29.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/francis-coppola-sofia-brut-rose/p71645",
+    "name": "Francis Coppola Sofia Brut Rose",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-francis-coppola-sofia-brut-rose-bd6281830cb1231a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/tmv8VnLx6B4jbgXzxv4_GIE4uJYWKx_zPc30VdtUjI8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/tmv8VnLx6B4jbgXzxv4_GIE4uJYWKx_zPc30VdtUjI8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/tmv8VnLx6B4jbgXzxv4_GIE4uJYWKx_zPc30VdtUjI8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tmv8VnLx6B4jbgXzxv4_GIE4uJYWKx_zPc30VdtUjI8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

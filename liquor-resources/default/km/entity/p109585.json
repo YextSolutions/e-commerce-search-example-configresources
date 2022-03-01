@@ -1,0 +1,17 @@
+{
+  "$id": "p109585",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "279.99",
+    "c_minPrice": "51.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$51.99 - $279.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/wild-turkey-rare-breed-barrel-proof-rye/p109585",
+    "name": "Wild Turkey Rare Breed Barrel Proof Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

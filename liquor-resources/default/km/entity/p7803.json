@@ -1,0 +1,17 @@
+{
+  "$id": "p7803",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "47.29",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "45",
+    "c_priceRange": "$8.04 - $47.29",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/ten-high-sour-mash-whiskey/p7803",
+    "name": "Ten High Sour Mash Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

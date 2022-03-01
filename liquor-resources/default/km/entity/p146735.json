@@ -1,0 +1,17 @@
+{
+  "$id": "p146735",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "13.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.98 - $25.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/kinky-fruit-punch-flavored-vodka/p146735",
+    "name": "Kinky Fruit Punch Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

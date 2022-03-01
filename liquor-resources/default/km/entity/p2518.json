@@ -1,0 +1,17 @@
+{
+  "$id": "p2518",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "63.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$24.99 - $63.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/charles-de-cazanove-champagne/p2518",
+    "name": "Charles de Cazanove Tradition Brut Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

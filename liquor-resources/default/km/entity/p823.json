@@ -1,0 +1,17 @@
+{
+  "$id": "p823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "221.89",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$12.99 - $221.89",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/rhum-barbancourt-white-rum/p823",
+    "name": "Rhum Barbancourt White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

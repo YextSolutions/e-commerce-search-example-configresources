@@ -1,0 +1,16 @@
+{
+  "$id": "p52746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.15",
+    "c_numberReviews": "50",
+    "c_priceRange": "$9.15 - $29.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/la-crema-monterey-pinot-noir-rose/p52746",
+    "name": "La Crema Monterey Pinot Noir Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

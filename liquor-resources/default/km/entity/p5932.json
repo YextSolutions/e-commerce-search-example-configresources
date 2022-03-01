@@ -1,0 +1,17 @@
+{
+  "$id": "p5932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "5499.00",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "193",
+    "c_priceRange": "$21.99 - $5499.00",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-black-cognac/p5932",
+    "name": "Hennessy Black Cognac"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

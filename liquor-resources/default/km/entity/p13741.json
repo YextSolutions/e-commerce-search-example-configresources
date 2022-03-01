@@ -1,0 +1,17 @@
+{
+  "$id": "p13741",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.23",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$7.99 - $20.23",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/boulevard-pale-ale/p13741",
+    "name": "Boulevard Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

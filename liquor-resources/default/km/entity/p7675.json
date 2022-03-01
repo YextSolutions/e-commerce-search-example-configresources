@@ -1,0 +1,16 @@
+{
+  "$id": "p7675",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "34.79",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$9.99 - $34.79",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/passoa-passion-fruit-liqueur/p7675",
+    "name": "Passoã Passion Fruit Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

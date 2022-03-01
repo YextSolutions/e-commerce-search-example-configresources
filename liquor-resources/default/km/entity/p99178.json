@@ -1,0 +1,16 @@
+{
+  "$id": "p99178",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "7.34",
+    "c_numberReviews": "46",
+    "c_priceRange": "$7.34 - $39.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/unshackled-rose-wine-by-prisoner-by-the-prisoner-wine-company/p99178",
+    "name": "Unshackled Rose Wine by Prisoner by The Prisoner Wine Company"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

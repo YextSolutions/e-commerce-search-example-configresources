@@ -1,0 +1,17 @@
+{
+  "$id": "p82840",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "27.49",
+    "c_numberReviews": "15",
+    "c_priceRange": "$27.49 - $69.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/don-papa-rum/p82840",
+    "name": "Don Papa Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

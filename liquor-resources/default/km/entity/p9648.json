@@ -1,0 +1,17 @@
+{
+  "$id": "p9648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "31.49",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "171",
+    "c_priceRange": "$8.00 - $31.49",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/99-bananas-liqueur/p9648",
+    "name": "99 Bananas Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

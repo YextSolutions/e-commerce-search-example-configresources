@@ -1,0 +1,16 @@
+{
+  "$id": "p57415",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "69",
+    "c_priceRange": "$10.99 - $27.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/new-amsterdam-100-proof-750ml-bottle/p57415",
+    "name": "New Amsterdam 100 Proof Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

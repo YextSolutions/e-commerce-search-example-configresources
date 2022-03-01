@@ -1,0 +1,16 @@
+{
+  "$id": "p101612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "20.00",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$3.99 - $20.00",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/southern-tier-vodka-madras/p101612",
+    "name": "Southern Tier Vodka Madras"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p137611",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "10.39",
+    "c_numberReviews": "3",
+    "c_priceRange": "$10.39 - $25.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/troegs-grand-cacao-chocolate-stout/p137611",
+    "name": "Troegs Grand Cacao Chocolate Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

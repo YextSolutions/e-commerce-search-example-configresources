@@ -1,0 +1,16 @@
+{
+  "$id": "p88722",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$27.99 - $69.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/belvedere-smogory-forest-single-estate-rye-vodka/p88722",
+    "name": "Belvedere \u0027Smogory Forest\u0027 Single Estate Rye Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

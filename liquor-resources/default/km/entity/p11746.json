@@ -1,0 +1,17 @@
+{
+  "$id": "p11746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "35.28",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "53",
+    "c_priceRange": "$16.99 - $35.28",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/oberon-napa-county-cabernet-sauvignon/p11746",
+    "name": "Oberon Napa County Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

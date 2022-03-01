@@ -1,0 +1,17 @@
+{
+  "$id": "p14046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "440",
+    "c_priceRange": "$11.99 - $34.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/butter-chardonnay/p14046",
+    "name": "Butter Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

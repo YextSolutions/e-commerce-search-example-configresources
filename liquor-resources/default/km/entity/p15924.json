@@ -1,0 +1,17 @@
+{
+  "$id": "p15924",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "12.83",
+    "c_numberReviews": "4",
+    "c_priceRange": "$12.83 - $37.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/loveblock-pinot-noir/p15924",
+    "name": "Loveblock Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

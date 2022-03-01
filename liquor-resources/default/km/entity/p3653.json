@@ -1,0 +1,44 @@
+{
+  "$id": "p3653",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "359.94",
+    "c_minPrice": "35.75",
+    "c_numberReviews": "97",
+    "c_priceRange": "$35.75 - $359.94",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/noahs-mill-bourbon/p3653",
+    "name": "Noah\u0027s Mill Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-noahs-mill-bourbon-2f5e6fddb9f4202b.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1OpSx3ExPWq1XReUperOqGVVpOIEMLLrU8L0tzKhGuE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1OpSx3ExPWq1XReUperOqGVVpOIEMLLrU8L0tzKhGuE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1OpSx3ExPWq1XReUperOqGVVpOIEMLLrU8L0tzKhGuE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1OpSx3ExPWq1XReUperOqGVVpOIEMLLrU8L0tzKhGuE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p22581",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$10.99 - $21.99",
+    "c_subCategory": "Gamay",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/gamay/drouhin-beaujolais-villages-2013/p22581",
+    "name": "Drouhin Beaujolais Villages 2013"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

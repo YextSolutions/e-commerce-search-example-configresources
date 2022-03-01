@@ -1,0 +1,17 @@
+{
+  "$id": "p95429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$22.99 - $89.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/the-real-mccoy-barbados-rum-12-years/p95429",
+    "name": "The Real McCoy Barbados Rum 12 Years"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p84033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$10.99 - $39.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/ballast-point-aloha-sculpin-ipa/p84033",
+    "name": "Ballast Point Aloha Sculpin IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2497",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "63.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "1040",
+    "c_priceRange": "$22.99 - $63.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/chambord-black-raspberry-liqueur/p2497",
+    "name": "Chambord Black Raspberry Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

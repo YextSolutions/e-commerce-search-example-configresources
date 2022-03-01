@@ -1,0 +1,17 @@
+{
+  "$id": "p184",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "81.99",
+    "c_minPrice": "3.90",
+    "c_numberReviews": "79",
+    "c_priceRange": "$3.90 - $81.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/terrazas-de-los-andes-altos-de-plata-malbec/p184",
+    "name": "Terrazas de los Andes Altos de Plata Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

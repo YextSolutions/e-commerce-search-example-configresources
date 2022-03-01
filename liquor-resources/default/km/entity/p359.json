@@ -1,0 +1,17 @@
+{
+  "$id": "p359",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "67",
+    "c_priceRange": "$7.99 - $36.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/troegs-perpetual-ipa/p359",
+    "name": "Troegs Perpetual IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

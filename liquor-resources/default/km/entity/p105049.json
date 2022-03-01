@@ -1,0 +1,44 @@
+{
+  "$id": "p105049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "11.29",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$10.99 - $11.29",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/absolut-cocktail-mango-mule/p105049",
+    "name": "Absolut Cocktail Mango Mule",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-absolut-mango-mule-c96c91bea5fb5401.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/n8ktawa_gznsZAILjgphaPFLB_zlUoLaza4fI4HFxlg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/n8ktawa_gznsZAILjgphaPFLB_zlUoLaza4fI4HFxlg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/n8ktawa_gznsZAILjgphaPFLB_zlUoLaza4fI4HFxlg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/n8ktawa_gznsZAILjgphaPFLB_zlUoLaza4fI4HFxlg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

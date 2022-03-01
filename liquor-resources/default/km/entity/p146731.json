@@ -1,0 +1,17 @@
+{
+  "$id": "p146731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "150.00",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$5.99 - $150.00",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/chandon-garden-spritz-sparkling/p146731",
+    "name": "Chandon Garden Spritz Sparkling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

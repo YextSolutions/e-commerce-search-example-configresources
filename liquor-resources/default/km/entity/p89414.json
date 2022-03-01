@@ -1,0 +1,44 @@
+{
+  "$id": "p89414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "26.39",
+    "c_minPrice": "4.59",
+    "c_numberReviews": "5",
+    "c_priceRange": "$4.59 - $26.39",
+    "c_subCategory": "Mai Tai Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mai-tai-ready-to-drink/koloa-mai-tai-cocktail/p89414",
+    "name": "Koloa Mai Tai Cocktail",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-koloa-mai-tai-cocktail-f055c7beb1a771b2.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIBw88bCxdhrXCDrATa5c5L3F3cNMTj0MgpBWyiVCPc/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIBw88bCxdhrXCDrATa5c5L3F3cNMTj0MgpBWyiVCPc/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wIBw88bCxdhrXCDrATa5c5L3F3cNMTj0MgpBWyiVCPc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wIBw88bCxdhrXCDrATa5c5L3F3cNMTj0MgpBWyiVCPc/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

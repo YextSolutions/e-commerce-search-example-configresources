@@ -1,0 +1,15 @@
+{
+  "$id": "p105236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/carlo-rossi-sweet-rose/p105236",
+    "name": "Carlo Rossi Sweet Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

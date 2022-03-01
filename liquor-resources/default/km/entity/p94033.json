@@ -1,0 +1,17 @@
+{
+  "$id": "p94033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.49",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$10.99 - $14.49",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/union-craft-brewing-divine-ipa/p94033",
+    "name": "Union Craft Brewing Divine IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

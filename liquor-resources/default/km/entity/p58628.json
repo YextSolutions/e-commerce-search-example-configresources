@@ -1,0 +1,17 @@
+{
+  "$id": "p58628",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "41.79",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "90",
+    "c_priceRange": "$13.99 - $41.79",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/jim-beam-double-oak-bourbon-whiskey/p58628",
+    "name": "Jim Beam Double Oak Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p72889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "104.99",
+    "c_minPrice": "19.88",
+    "c_numberReviews": "1100",
+    "c_priceRange": "$19.88 - $104.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/crown-royal-salted-caramel-flavored-whisky/p72889",
+    "name": "Crown Royal Salted Caramel Flavored Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p69894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.80",
+    "c_numberReviews": "16",
+    "c_priceRange": "$7.80 - $21.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/markovic-estates-cabernet-sauvignon/p69894",
+    "name": "Markovic Estates Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

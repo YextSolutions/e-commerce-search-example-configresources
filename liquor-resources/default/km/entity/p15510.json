@@ -1,0 +1,16 @@
+{
+  "$id": "p15510",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "25.86",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$16.99 - $25.86",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/heavy-seas-rotating-sampler/p15510",
+    "name": "Heavy Seas Rotating Sampler"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

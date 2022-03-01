@@ -1,0 +1,17 @@
+{
+  "$id": "p88351",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "340.99",
+    "c_minPrice": "27.23",
+    "c_numberReviews": "12",
+    "c_priceRange": "$27.23 - $340.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/lagavulin-the-game-of-thrones-house-lannister-9-year-old-islay-single-malt-scotch-whisky/p88351",
+    "name": "Lagavulin Game of Thrones House Lannister 9 Year Old Islay Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

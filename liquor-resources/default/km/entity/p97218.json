@@ -1,0 +1,17 @@
+{
+  "$id": "p97218",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$12.99 - $44.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/boen-california-pinot-noir/p97218",
+    "name": "Boen California Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p59515",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "64.88",
+    "c_numberReviews": "25",
+    "c_priceRange": "$64.88 - $199.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/nikka-coffey-malt-whisky/p59515",
+    "name": "Nikka Coffey Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

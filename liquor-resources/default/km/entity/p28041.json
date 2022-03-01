@@ -1,0 +1,44 @@
+{
+  "$id": "p28041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "29.11",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$14.99 - $29.11",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/almaden-pinot-grigio/p28041",
+    "name": "Almaden Pinot Grigio",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-almaden-pinot-grigio-0884bc1508ef76b9.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rm3Nv149p8RAiQxxGodec4SBc-2sxGf7ZaOLVf8A6KU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rm3Nv149p8RAiQxxGodec4SBc-2sxGf7ZaOLVf8A6KU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rm3Nv149p8RAiQxxGodec4SBc-2sxGf7ZaOLVf8A6KU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Rm3Nv149p8RAiQxxGodec4SBc-2sxGf7ZaOLVf8A6KU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

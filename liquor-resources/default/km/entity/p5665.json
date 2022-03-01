@@ -1,0 +1,17 @@
+{
+  "$id": "p5665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "81",
+    "c_priceRange": "$8.99 - $17.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/dibon-cava-brut-reserve/p5665",
+    "name": "Dibon Cava Brut Reserve"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

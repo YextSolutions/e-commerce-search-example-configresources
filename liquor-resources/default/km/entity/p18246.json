@@ -1,0 +1,17 @@
+{
+  "$id": "p18246",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "10.43",
+    "c_minPrice": "4.49",
+    "c_numberReviews": "63",
+    "c_priceRange": "$4.49 - $10.43",
+    "c_subCategory": "Hard Iced Tea",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-iced-tea/chi-chis-long-island-iced-tea/p18246",
+    "name": "Chi Chi\u0027s Long Island Iced Tea"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

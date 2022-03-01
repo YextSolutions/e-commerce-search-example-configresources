@@ -1,0 +1,44 @@
+{
+  "$id": "p17177",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.84",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.99 - $14.84",
+    "c_subCategory": "Concord",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/concord/huber-sweet-marcella-red/p17177",
+    "name": "Huber Sweet Marcella Red",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-huber-sweet-marcella-red-2d81e412f9a38d99.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/MZ2kqhR-Ti03rIxI9KARu3nVQcgHhAlkb-5-qb9_M08/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MZ2kqhR-Ti03rIxI9KARu3nVQcgHhAlkb-5-qb9_M08/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/MZ2kqhR-Ti03rIxI9KARu3nVQcgHhAlkb-5-qb9_M08/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MZ2kqhR-Ti03rIxI9KARu3nVQcgHhAlkb-5-qb9_M08/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

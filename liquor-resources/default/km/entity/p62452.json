@@ -1,0 +1,17 @@
+{
+  "$id": "p62452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.23",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$11.99 - $16.23",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/atlas-ponzi-ipa/p62452",
+    "name": "Atlas Ponzi IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

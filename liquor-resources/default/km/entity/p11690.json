@@ -1,0 +1,16 @@
+{
+  "$id": "p11690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Blend",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "33.56",
+    "c_numberReviews": "145",
+    "c_priceRange": "$33.56 - $149.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-blend/moet-and-chandon-nectar-imperial-rose-champagne/p11690",
+    "name": "Moët \u0026 Chandon Nectar Impérial Rosé Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

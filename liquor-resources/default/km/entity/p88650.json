@@ -1,0 +1,17 @@
+{
+  "$id": "p88650",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "15.00",
+    "c_numberReviews": "7",
+    "c_priceRange": "$15.00 - $76.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/tullamore-dew-cider-cask-irish-whiskey/p88650",
+    "name": "Tullamore Dew Cider Cask Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

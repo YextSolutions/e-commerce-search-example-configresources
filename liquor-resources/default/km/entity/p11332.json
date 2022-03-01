@@ -1,0 +1,17 @@
+{
+  "$id": "p11332",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$16.99 - $39.99",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/jackson-triggs-vidal-ice-wine/p11332",
+    "name": "Jackson Triggs Vidal Ice Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

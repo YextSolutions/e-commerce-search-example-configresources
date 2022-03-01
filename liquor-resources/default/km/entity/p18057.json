@@ -1,0 +1,17 @@
+{
+  "$id": "p18057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$9.99 - $39.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/blue-chair-bay-white-rum/p18057",
+    "name": "Blue Chair Bay White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

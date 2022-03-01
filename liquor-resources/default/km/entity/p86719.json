@@ -1,0 +1,44 @@
+{
+  "$id": "p86719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "6.47",
+    "c_numberReviews": "26",
+    "c_priceRange": "$6.47 - $999.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/1924-double-black-cabernet-sauvignon/p86719",
+    "name": "1924 Double Black Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-gnarly-head-1924-cabernet-sauvignon-cbe99dd5220d6f9d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/evTxxAR8j59vvVqnStjHdiRpBZOBQ9QsVHqBXE83ePk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/evTxxAR8j59vvVqnStjHdiRpBZOBQ9QsVHqBXE83ePk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/evTxxAR8j59vvVqnStjHdiRpBZOBQ9QsVHqBXE83ePk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/evTxxAR8j59vvVqnStjHdiRpBZOBQ9QsVHqBXE83ePk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

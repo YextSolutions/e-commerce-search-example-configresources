@@ -1,0 +1,17 @@
+{
+  "$id": "p16172",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "2.25",
+    "c_numberReviews": "171",
+    "c_priceRange": "$2.25 - $23.99",
+    "c_subCategory": "White Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/franzia-crisp-white-white-wine/p16172",
+    "name": "Franzia® Crisp White White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

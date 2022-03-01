@@ -1,0 +1,16 @@
+{
+  "$id": "p19706",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.04",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/chi-chis-skinny-margarita/p19706",
+    "name": "Chi Chi\u0027s Skinny Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

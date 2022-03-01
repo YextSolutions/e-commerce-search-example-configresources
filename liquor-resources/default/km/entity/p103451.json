@@ -1,0 +1,17 @@
+{
+  "$id": "p103451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$7.99 - $11.99",
+    "c_subCategory": "Sour Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/denver-beer-co-tart-delight-citrus-sour/p103451",
+    "name": "Denver Beer Co. Tart Delight Citrus Sour"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

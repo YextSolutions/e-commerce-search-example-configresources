@@ -1,0 +1,17 @@
+{
+  "$id": "p17949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "54",
+    "c_priceRange": "$5.99 - $21.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/chocovine-original-chocolate/p17949",
+    "name": "ChocoVine Original Chocolate"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

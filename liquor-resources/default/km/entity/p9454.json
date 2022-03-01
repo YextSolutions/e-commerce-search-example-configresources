@@ -1,0 +1,17 @@
+{
+  "$id": "p9454",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "103.49",
+    "c_minPrice": "38.49",
+    "c_numberReviews": "7",
+    "c_priceRange": "$38.49 - $103.49",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/riazul-anejo-tequila/p9454",
+    "name": "Riazul Añejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

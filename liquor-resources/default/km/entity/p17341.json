@@ -1,0 +1,17 @@
+{
+  "$id": "p17341",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "7",
+    "c_priceRange": "$7.49 - $22.99",
+    "c_subCategory": "Chenin Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chenin-blanc/dry-creek-chenin-blanc/p17341",
+    "name": "Dry Creek Chenin Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

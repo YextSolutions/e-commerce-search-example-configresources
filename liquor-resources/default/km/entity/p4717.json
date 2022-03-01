@@ -1,0 +1,17 @@
+{
+  "$id": "p4717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "6.13",
+    "c_numberReviews": "28",
+    "c_priceRange": "$6.13 - $21.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-ice-triple-black/p4717",
+    "name": "Smirnoff Ice Triple Black"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

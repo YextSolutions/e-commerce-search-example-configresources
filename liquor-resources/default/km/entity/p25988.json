@@ -1,0 +1,16 @@
+{
+  "$id": "p25988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tuscan Blend",
+    "c_maxPrice": "49.49",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$23.99 - $49.49",
+    "landingPageUrl": "https://drizly.com/wine/tuscan-blend/tenuta-di-arceno-il-fauno-toscana-igt-red-blend/p25988",
+    "name": "Tenuta di Arceno il Fauno Toscana IGT Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

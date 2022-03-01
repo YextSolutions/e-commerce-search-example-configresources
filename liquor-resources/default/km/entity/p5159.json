@@ -1,0 +1,17 @@
+{
+  "$id": "p5159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.80",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "2083",
+    "c_priceRange": "$8.79 - $199.80",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jim-beam-bourbon-whiskey/p5159",
+    "name": "Jim Beam Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

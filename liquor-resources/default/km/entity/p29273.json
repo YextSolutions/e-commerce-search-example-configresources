@@ -1,0 +1,16 @@
+{
+  "$id": "p29273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "6.29",
+    "c_numberReviews": "15",
+    "c_priceRange": "$6.29 - $24.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/gancia-moscato-rose/p29273",
+    "name": "Gancia Moscato Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

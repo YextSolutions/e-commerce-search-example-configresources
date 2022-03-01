@@ -1,0 +1,44 @@
+{
+  "$id": "p4217",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "56.00",
+    "c_minPrice": "4.44",
+    "c_numberReviews": "257",
+    "c_priceRange": "$4.44 - $56.00",
+    "c_subCategory": "Lambrusco",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/lambrusco/riunite-lambrusco/p4217",
+    "name": "Riunite Lambrusco",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-riunite-lambrusco-d00ba4c8a281ee0e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXB5PpQd0GFsvnQcGTBEnlN07WJLMkdtGNvd0pkSbko/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXB5PpQd0GFsvnQcGTBEnlN07WJLMkdtGNvd0pkSbko/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yXB5PpQd0GFsvnQcGTBEnlN07WJLMkdtGNvd0pkSbko/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yXB5PpQd0GFsvnQcGTBEnlN07WJLMkdtGNvd0pkSbko/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

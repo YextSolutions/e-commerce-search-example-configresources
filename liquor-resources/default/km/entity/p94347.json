@@ -1,0 +1,44 @@
+{
+  "$id": "p94347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "30.23",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "49",
+    "c_priceRange": "$9.97 - $30.23",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/new-amsterdam-stratusphere-london-dry-gin/p94347",
+    "name": "New Amsterdam Stratusphere London Dry Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-new-amsterdam-stratusphere-london-dry-gin-dc70b45f89242fbb.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/E_x-0HdMaA7ubTnnuyCGKSBerDVBqbujFXlNFe-pS5o/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/E_x-0HdMaA7ubTnnuyCGKSBerDVBqbujFXlNFe-pS5o/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/E_x-0HdMaA7ubTnnuyCGKSBerDVBqbujFXlNFe-pS5o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/E_x-0HdMaA7ubTnnuyCGKSBerDVBqbujFXlNFe-pS5o/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

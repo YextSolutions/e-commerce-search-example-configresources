@@ -1,0 +1,17 @@
+{
+  "$id": "p5751",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "92.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "61",
+    "c_priceRange": "$14.99 - $92.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/maestro-dobel-diamante-tequila/p5751",
+    "name": "Maestro Dobel Diamante Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p101083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$15.99 - $25.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/99-brand-party-bucket/p101083",
+    "name": "99 Brand Party Bucket"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

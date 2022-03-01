@@ -1,0 +1,17 @@
+{
+  "$id": "p5951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "11.59",
+    "c_numberReviews": "19",
+    "c_priceRange": "$11.59 - $69.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/tres-generaciones-plata-tequila/p5951",
+    "name": "Tres Generaciones Plata Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

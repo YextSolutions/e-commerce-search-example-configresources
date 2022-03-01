@@ -1,0 +1,18 @@
+{
+  "$id": "p94620",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "68",
+    "c_priceRange": "$10.99 - $18.69",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/cape-may-coastal-evacuation-double-ipa/p94620",
+    "name": "Cape May Coastal Evacuation Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

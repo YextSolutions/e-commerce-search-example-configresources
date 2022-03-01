@@ -1,0 +1,17 @@
+{
+  "$id": "p8699",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "0.99",
+    "c_numberReviews": "100",
+    "c_priceRange": "$0.99 - $23.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/ritas-mang-o-rita/p8699",
+    "name": "RITAS Mang-O-Rita"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

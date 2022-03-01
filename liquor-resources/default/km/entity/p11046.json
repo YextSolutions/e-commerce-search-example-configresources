@@ -1,0 +1,17 @@
+{
+  "$id": "p11046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "22.94",
+    "c_minPrice": "6.08",
+    "c_numberReviews": "31",
+    "c_priceRange": "$6.08 - $22.94",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/menage-a-trois-pinot-grigio-white-wine-750ml-wine-bottle/p11046",
+    "name": "Menage a Trois Pinot Grigio White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

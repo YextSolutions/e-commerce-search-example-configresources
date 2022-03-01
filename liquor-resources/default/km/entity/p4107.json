@@ -1,0 +1,17 @@
+{
+  "$id": "p4107",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.49",
+    "c_minPrice": "4.96",
+    "c_numberReviews": "1",
+    "c_priceRange": "$4.96 - $19.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/ravenswood-vintners-blend-cabernet-sauvignon/p4107",
+    "name": "Ravenswood Vintners Blend Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

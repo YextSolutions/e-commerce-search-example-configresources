@@ -1,0 +1,17 @@
+{
+  "$id": "p100810",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "82.49",
+    "c_minPrice": "7.00",
+    "c_numberReviews": "504",
+    "c_priceRange": "$7.00 - $82.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/apothic-cabernet-sauvignon/p100810",
+    "name": "Apothic Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

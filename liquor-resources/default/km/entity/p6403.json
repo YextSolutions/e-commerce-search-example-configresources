@@ -1,0 +1,17 @@
+{
+  "$id": "p6403",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$23.99 - $45.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/giffard-pamplemousse-liqueur/p6403",
+    "name": "Giffard Pamplemousse Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p83721",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "25.29",
+    "c_minPrice": "2.52",
+    "c_numberReviews": "263",
+    "c_priceRange": "$2.52 - $25.29",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/prophecy-french-rose/p83721",
+    "name": "Prophecy French Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

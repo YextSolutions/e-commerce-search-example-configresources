@@ -1,0 +1,16 @@
+{
+  "$id": "p34928",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "28.88",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.24 - $28.88",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/taaka-whipped-cream-vodka/p34928",
+    "name": "Taaka Whipped Cream Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

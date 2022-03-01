@@ -1,0 +1,17 @@
+{
+  "$id": "p1354",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "5260",
+    "c_priceRange": "$9.99 - $99.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/la-marca-prosecco/p1354",
+    "name": "La Marca Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

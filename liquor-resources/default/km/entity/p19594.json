@@ -1,0 +1,16 @@
+{
+  "$id": "p19594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "72.89",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$29.99 - $72.89",
+    "landingPageUrl": "https://drizly.com/liquor/gin/koval-dry-gin/p19594",
+    "name": "Koval Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

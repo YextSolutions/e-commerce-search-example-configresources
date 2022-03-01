@@ -1,0 +1,17 @@
+{
+  "$id": "p20235",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "64.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$29.99 - $64.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/gin-mare/p20235",
+    "name": "Gin Mare"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

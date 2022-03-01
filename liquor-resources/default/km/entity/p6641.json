@@ -1,0 +1,17 @@
+{
+  "$id": "p6641",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "112",
+    "c_priceRange": "$36.99 - $249.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/moet-and-chandon-ice-imperial-champagne/p6641",
+    "name": "Moët \u0026 Chandon Ice Impérial Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

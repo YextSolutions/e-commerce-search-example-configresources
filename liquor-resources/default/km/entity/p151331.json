@@ -1,0 +1,44 @@
+{
+  "$id": "p151331",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "330.00",
+    "c_minPrice": "99.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$99.99 - $330.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/calumet-farm-15-year-single-rack-black-bourbon/p151331",
+    "name": "Calumet Farm 15 Year Single Rack Black Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-calumet-farm-15-year-single-rack-black-bourbon-c293d36d9260432e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/TOQmfqkoPmRpziFtFt1eMPOh6JY4g9FCQHxTMODirw0/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/TOQmfqkoPmRpziFtFt1eMPOh6JY4g9FCQHxTMODirw0/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/TOQmfqkoPmRpziFtFt1eMPOh6JY4g9FCQHxTMODirw0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/TOQmfqkoPmRpziFtFt1eMPOh6JY4g9FCQHxTMODirw0/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

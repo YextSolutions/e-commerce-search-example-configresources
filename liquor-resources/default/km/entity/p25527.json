@@ -1,0 +1,17 @@
+{
+  "$id": "p25527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.00",
+    "c_minPrice": "10.60",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.60 - $17.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/fort-george-vortex-ipa/p25527",
+    "name": "Fort George Vortex IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

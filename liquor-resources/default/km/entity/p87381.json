@@ -1,0 +1,17 @@
+{
+  "$id": "p87381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$29.99 - $59.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/balcones-texas-rye-100/p87381",
+    "name": "Balcones Texas Rye 100"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

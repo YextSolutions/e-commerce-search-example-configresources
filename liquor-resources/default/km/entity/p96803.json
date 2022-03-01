@@ -1,0 +1,17 @@
+{
+  "$id": "p96803",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.79",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$8.99 - $19.79",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/art-of-earth-pinot-grigio/p96803",
+    "name": "Art of Earth Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

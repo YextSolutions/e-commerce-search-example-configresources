@@ -1,0 +1,17 @@
+{
+  "$id": "p108505",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.07",
+    "c_minPrice": "7.33",
+    "c_numberReviews": "3",
+    "c_priceRange": "$7.33 - $17.07",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/dante-pinot-noir/p108505",
+    "name": "Dante Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

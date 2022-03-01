@@ -1,0 +1,45 @@
+{
+  "$id": "p786",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.75",
+    "c_numberReviews": "11",
+    "c_priceRange": "$8.75 - $17.99",
+    "c_subCategory": "Dark Lager",
+    "c_type": "Oktoberfest",
+    "landingPageUrl": "https://drizly.com/beer/lager/dark-lager/oktoberfest/ayinger-oktober-fest-marzen/p786",
+    "name": "Ayinger Oktober Fest-Marzen",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-ayinger-oktober-fest-marzen-cdce7c281135307f.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wBBXbIZ6o0D7NT2XMjyZbNxXHEkQeF-2fs9c-Dr2dos/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wBBXbIZ6o0D7NT2XMjyZbNxXHEkQeF-2fs9c-Dr2dos/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wBBXbIZ6o0D7NT2XMjyZbNxXHEkQeF-2fs9c-Dr2dos/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wBBXbIZ6o0D7NT2XMjyZbNxXHEkQeF-2fs9c-Dr2dos/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

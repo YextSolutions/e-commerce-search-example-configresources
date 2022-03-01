@@ -1,0 +1,17 @@
+{
+  "$id": "p60212",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "31000.00",
+    "c_minPrice": "141.93",
+    "c_numberReviews": "139",
+    "c_priceRange": "$141.93 - $31000.00",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/dom-perignon-vintage-champagne/p60212",
+    "name": "Dom Pérignon Vintage Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

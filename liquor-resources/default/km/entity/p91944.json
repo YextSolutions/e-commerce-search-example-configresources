@@ -1,0 +1,17 @@
+{
+  "$id": "p91944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$22.99 - $39.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/malfy-gin-con-arancia/p91944",
+    "name": "Malfy Gin Con Arancia"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

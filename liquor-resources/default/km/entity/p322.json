@@ -1,0 +1,17 @@
+{
+  "$id": "p322",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "20.15",
+    "c_minPrice": "6.63",
+    "c_numberReviews": "8",
+    "c_priceRange": "$6.63 - $20.15",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/torresella-pinot-grigio-venezia-doc/p322",
+    "name": "Torresella Pinot Grigio Venezia DOC"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

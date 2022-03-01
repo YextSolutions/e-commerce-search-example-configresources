@@ -1,0 +1,17 @@
+{
+  "$id": "p9044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.99 - $40.99",
+    "c_subCategory": "Navy Strength Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/navy-strength-gin/perrys-tot-navy-strength-gin/p9044",
+    "name": "Perry\u0027s Tot Navy Strength Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

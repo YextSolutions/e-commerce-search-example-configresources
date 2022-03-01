@@ -1,0 +1,18 @@
+{
+  "$id": "p7789",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "45.57",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "118",
+    "c_priceRange": "$10.99 - $45.57",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/flying-dog-the-truth-imperial-ipa/p7789",
+    "name": "Flying Dog The Truth Imperial IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

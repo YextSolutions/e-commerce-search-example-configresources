@@ -1,0 +1,17 @@
+{
+  "$id": "p11976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "25.98",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$11.99 - $25.98",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/almaden-moscato-box/p11976",
+    "name": "Almaden Moscato Box"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

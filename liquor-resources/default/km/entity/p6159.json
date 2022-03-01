@@ -1,0 +1,17 @@
+{
+  "$id": "p6159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$24.99 - $79.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/tomatin-scotch-single-malt-12-year/p6159",
+    "name": "Tomatin Scotch Single Malt 12 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

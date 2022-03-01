@@ -1,0 +1,17 @@
+{
+  "$id": "p4901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "19.79",
+    "c_numberReviews": "116",
+    "c_priceRange": "$19.79 - $99.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/grey-goose-le-citron-flavored-vodka/p4901",
+    "name": "GREY GOOSE Le Citron Flavored Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

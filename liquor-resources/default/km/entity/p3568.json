@@ -1,0 +1,17 @@
+{
+  "$id": "p3568",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "12.10",
+    "c_numberReviews": "10",
+    "c_priceRange": "$12.10 - $27.49",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/graham-beck-brut/p3568",
+    "name": "Graham Beck Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

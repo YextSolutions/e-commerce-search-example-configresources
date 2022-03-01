@@ -1,0 +1,44 @@
+{
+  "$id": "p28328",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "4.15",
+    "c_numberReviews": "9",
+    "c_priceRange": "$4.15 - $12.09",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/christian-brothers-port-ruby/p28328",
+    "name": "Christian Brothers Port Ruby",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-christian-bros-port-ruby-43f380aeaa53d363.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/920zSZh2rJKU74vjKMW0HuZ8EWfUgZW0Nzxaz77CT2M/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/920zSZh2rJKU74vjKMW0HuZ8EWfUgZW0Nzxaz77CT2M/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/920zSZh2rJKU74vjKMW0HuZ8EWfUgZW0Nzxaz77CT2M/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/920zSZh2rJKU74vjKMW0HuZ8EWfUgZW0Nzxaz77CT2M/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

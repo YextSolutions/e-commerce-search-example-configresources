@@ -1,0 +1,17 @@
+{
+  "$id": "p3019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "57.77",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "228",
+    "c_priceRange": "$6.59 - $57.77",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/dogfish-head-60-minute-ipa/p3019",
+    "name": "Dogfish Head 60 Minute IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

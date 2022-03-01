@@ -1,0 +1,17 @@
+{
+  "$id": "p10364",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$8.99 - $17.99",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/kikusui-perfect-snow/p10364",
+    "name": "Kikusui Perfect Snow"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

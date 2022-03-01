@@ -1,0 +1,17 @@
+{
+  "$id": "p146255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "487.34",
+    "c_minPrice": "65.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$65.99 - $487.34",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/lagavulin-11-year-old-islay-single-malt-scotch-whisky-offerman-edition-finished-in-guinness-casks/p146255",
+    "name": "Lagavulin 11 Year Old Islay Single Malt Scotch Whisky Offerman Edition Finished in Guinness Casks"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

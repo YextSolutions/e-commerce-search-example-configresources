@@ -1,0 +1,17 @@
+{
+  "$id": "p2176",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "3699.00",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "1791",
+    "c_priceRange": "$21.99 - $3699.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-kentucky-straight-bourbon-whiskey/p2176",
+    "name": "Woodford Reserve Kentucky Straight Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

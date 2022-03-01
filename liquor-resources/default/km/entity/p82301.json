@@ -1,0 +1,17 @@
+{
+  "$id": "p82301",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "92.99",
+    "c_minPrice": "28.54",
+    "c_numberReviews": "2",
+    "c_priceRange": "$28.54 - $92.99",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/the-glenrothes-bourbon-cask-reserve-single-malt-scotch-whisky/p82301",
+    "name": "The Glenrothes Bourbon Cask Reserve Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

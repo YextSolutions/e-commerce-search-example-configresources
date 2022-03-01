@@ -1,0 +1,17 @@
+{
+  "$id": "p17986",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$26.99 - $45.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/dolin-genepy-le-chamois/p17986",
+    "name": "Dolin Genepy Le Chamois"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p15334",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "21.59",
+    "c_numberReviews": "1",
+    "c_priceRange": "$21.59 - $59.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/tenuta-sette-ponti-crognolo-toscana-red/p15334",
+    "name": "Tenuta Sette Ponti \"Crognolo\" Toscana Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5785",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "195.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "93",
+    "c_priceRange": "$9.99 - $195.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/citronge-orange-liqueur/p5785",
+    "name": "Citrónge Orange Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

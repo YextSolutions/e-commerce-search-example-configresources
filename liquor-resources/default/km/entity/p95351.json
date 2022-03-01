@@ -1,0 +1,43 @@
+{
+  "$id": "p95351",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "17.49",
+    "c_numberReviews": "21",
+    "c_priceRange": "$17.49 - $21.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/flying-fish-variety-pack/p95351",
+    "name": "Flying Fish Variety Pack",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-flying-fish-variety-pack-77193b5246a6d634.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rh2i4b8piK1EzxJRaejbNdVct9vBOqJO11Mg1bp0PrQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rh2i4b8piK1EzxJRaejbNdVct9vBOqJO11Mg1bp0PrQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Rh2i4b8piK1EzxJRaejbNdVct9vBOqJO11Mg1bp0PrQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Rh2i4b8piK1EzxJRaejbNdVct9vBOqJO11Mg1bp0PrQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

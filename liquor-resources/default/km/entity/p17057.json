@@ -1,0 +1,17 @@
+{
+  "$id": "p17057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "22.00",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$7.99 - $22.00",
+    "c_subCategory": "Junmai",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai/itami-onigoroshi-dry-sake/p17057",
+    "name": "Itami Onigoroshi Dry Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

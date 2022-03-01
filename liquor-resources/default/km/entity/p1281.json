@@ -1,0 +1,16 @@
+{
+  "$id": "p1281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "84.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "174",
+    "c_priceRange": "$10.99 - $84.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/mollys-irish-cream/p1281",
+    "name": "Molly\u0027s Irish Cream"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

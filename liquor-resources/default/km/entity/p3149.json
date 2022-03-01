@@ -1,0 +1,17 @@
+{
+  "$id": "p3149",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "94.99",
+    "c_minPrice": "19.46",
+    "c_numberReviews": "2",
+    "c_priceRange": "$19.46 - $94.99",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/bodegas-emilio-moro-emilio-moro-ribera-delduero-tempranillo/p3149",
+    "name": "Bodegas Emilio Moro, Emilio Moro, Ribera del Duero, Tempranillo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

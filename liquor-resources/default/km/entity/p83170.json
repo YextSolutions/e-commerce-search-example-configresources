@@ -1,0 +1,17 @@
+{
+  "$id": "p83170",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "5.00",
+    "c_minPrice": "1.29",
+    "c_numberReviews": "11",
+    "c_priceRange": "$1.29 - $5.00",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/four-loko-black/p83170",
+    "name": "Four Loko Black"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

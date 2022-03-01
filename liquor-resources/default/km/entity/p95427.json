@@ -1,0 +1,16 @@
+{
+  "$id": "p95427",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "26.39",
+    "c_minPrice": "17.00",
+    "c_numberReviews": "2",
+    "c_priceRange": "$17.00 - $26.39",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/4-noses-mixed-classics-variety-pack/p95427",
+    "name": "4 Noses Mixed Classics Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

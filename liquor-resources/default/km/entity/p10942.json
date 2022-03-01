@@ -1,0 +1,16 @@
+{
+  "$id": "p10942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.29",
+    "c_numberReviews": "16",
+    "c_priceRange": "$9.29 - $23.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/unibroue-sommelier-selection/p10942",
+    "name": "Unibroue Sommelier Selection"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

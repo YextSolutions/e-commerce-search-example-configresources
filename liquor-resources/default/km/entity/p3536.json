@@ -1,0 +1,17 @@
+{
+  "$id": "p3536",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "125",
+    "c_priceRange": "$17.59 - $59.99",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/godiva-chocolate-liqueur/p3536",
+    "name": "Godiva Chocolate Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

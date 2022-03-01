@@ -1,0 +1,17 @@
+{
+  "$id": "p116978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "30.99",
+    "c_minPrice": "13.64",
+    "c_numberReviews": "10",
+    "c_priceRange": "$13.64 - $30.99",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/bird-dog-peanut-butter-whiskey/p116978",
+    "name": "Bird Dog Peanut Butter Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

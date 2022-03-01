@@ -1,0 +1,17 @@
+{
+  "$id": "p133486",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "101",
+    "c_priceRange": "$10.99 - $34.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/fruit-smash-hard-seltzer/p133486",
+    "name": "Fruit Smash Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

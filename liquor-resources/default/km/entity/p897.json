@@ -1,0 +1,18 @@
+{
+  "$id": "p897",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "3.07",
+    "c_numberReviews": "12",
+    "c_priceRange": "$3.07 - $27.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/belhaven-scottish-ale/p897",
+    "name": "Belhaven Scottish Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

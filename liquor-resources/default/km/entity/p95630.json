@@ -1,0 +1,17 @@
+{
+  "$id": "p95630",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "203.29",
+    "c_minPrice": "57.95",
+    "c_numberReviews": "1",
+    "c_priceRange": "$57.95 - $203.29",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/green-spot-chateau-montelena/p95630",
+    "name": "Green Spot Chateau Montelena"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

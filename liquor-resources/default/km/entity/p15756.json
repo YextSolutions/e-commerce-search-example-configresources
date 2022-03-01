@@ -1,0 +1,17 @@
+{
+  "$id": "p15756",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.24",
+    "c_numberReviews": "5",
+    "c_priceRange": "$8.24 - $24.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/sean-minor-4b-cabernet-sauvignon/p15756",
+    "name": "Sean Minor 4B Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

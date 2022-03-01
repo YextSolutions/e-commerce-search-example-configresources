@@ -1,0 +1,17 @@
+{
+  "$id": "p26134",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "8.49",
+    "c_numberReviews": "30",
+    "c_priceRange": "$8.49 - $14.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/tampa-bay-brewing-reef-donkey-apa/p26134",
+    "name": "Tampa Bay Brewing Reef Donkey APA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

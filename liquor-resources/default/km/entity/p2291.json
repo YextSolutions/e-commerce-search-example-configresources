@@ -1,0 +1,17 @@
+{
+  "$id": "p2291",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "136.18",
+    "c_minPrice": "4.83",
+    "c_numberReviews": "19",
+    "c_priceRange": "$4.83 - $136.18",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/bv-coastal-cabernet-sauvignon/p2291",
+    "name": "BV Coastal Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

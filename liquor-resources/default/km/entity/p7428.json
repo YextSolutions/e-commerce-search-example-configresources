@@ -1,0 +1,17 @@
+{
+  "$id": "p7428",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.64",
+    "c_minPrice": "9.15",
+    "c_numberReviews": "23",
+    "c_priceRange": "$9.15 - $25.64",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/skinnygirl-sweet-n-tart-grapefruit-margarita/p7428",
+    "name": "Skinnygirl Sweet \u0027N Tart Grapefruit Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

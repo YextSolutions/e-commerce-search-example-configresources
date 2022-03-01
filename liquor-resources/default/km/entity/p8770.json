@@ -1,0 +1,17 @@
+{
+  "$id": "p8770",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "234.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "109",
+    "c_priceRange": "$14.99 - $234.49",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/decoy-red-wine/p8770",
+    "name": "Decoy Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

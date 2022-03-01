@@ -1,0 +1,17 @@
+{
+  "$id": "p3801",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "439.99",
+    "c_minPrice": "109.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$109.99 - $439.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/gran-patron-platinum/p3801",
+    "name": "Gran Patrón Platinum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

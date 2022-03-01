@@ -1,0 +1,17 @@
+{
+  "$id": "p1818",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "981",
+    "c_priceRange": "$15.99 - $99.99",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/baileys-vanilla-cinnamon-irish-cream-liqueur/p1818",
+    "name": "Baileys Vanilla Cinnamon Irish Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

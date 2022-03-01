@@ -1,0 +1,17 @@
+{
+  "$id": "p16947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "57.40",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$11.99 - $57.40",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/robert-mondavi-winery-napa-merlot/p16947",
+    "name": "Robert Mondavi Winery Napa Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

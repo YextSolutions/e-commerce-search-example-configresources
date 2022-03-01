@@ -1,0 +1,17 @@
+{
+  "$id": "p87333",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "3.99",
+    "c_minPrice": "1.37",
+    "c_numberReviews": "21",
+    "c_priceRange": "$1.37 - $3.99",
+    "c_subCategory": "Bahama Mama Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/bahama-mama-ready-to-drink/clubtails-bahama-mama/p87333",
+    "name": "Clubtails Bahama Mama"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p49766",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rhone Blend",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$26.99 - $45.99",
+    "landingPageUrl": "https://drizly.com/wine/rhone-blend/from-the-tank-vin-rouge/p49766",
+    "name": "From The Tank Vin Rouge"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

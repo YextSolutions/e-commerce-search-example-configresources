@@ -1,0 +1,17 @@
+{
+  "$id": "p3146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "229.99",
+    "c_minPrice": "15.49",
+    "c_numberReviews": "39",
+    "c_priceRange": "$15.49 - $229.99",
+    "c_subCategory": "Belgian Style Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/duchesse-de-bourgogne/p3146",
+    "name": "Duchesse De Bourgogne"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

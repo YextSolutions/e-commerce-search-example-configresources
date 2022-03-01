@@ -1,0 +1,44 @@
+{
+  "$id": "p18173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$2.99 - $19.99",
+    "c_subCategory": "Concord",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/concord/mogen-david-concord-grape/p18173",
+    "name": "Mogen David Concord Grape",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-mogen-david-concord-grape-2fc25f6aae0281f6.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/OIcD9M9_8van2-rPZm3CzHD5OSIR7mdZqs3bsWey_U4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/OIcD9M9_8van2-rPZm3CzHD5OSIR7mdZqs3bsWey_U4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/OIcD9M9_8van2-rPZm3CzHD5OSIR7mdZqs3bsWey_U4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OIcD9M9_8van2-rPZm3CzHD5OSIR7mdZqs3bsWey_U4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p10316",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$4.99 - $21.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/cooks-california-champagne-spumante/p10316",
+    "name": "Cook\u0027s California Champagne Spumante"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

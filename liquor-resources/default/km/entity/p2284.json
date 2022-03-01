@@ -1,0 +1,17 @@
+{
+  "$id": "p2284",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "206.29",
+    "c_minPrice": "50.27",
+    "c_numberReviews": "6",
+    "c_priceRange": "$50.27 - $206.29",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/bushmills-16-year-single-malt-irish-whiskey/p2284",
+    "name": "Bushmills 16 Year Single Malt Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

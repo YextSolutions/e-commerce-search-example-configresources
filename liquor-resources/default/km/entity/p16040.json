@@ -1,0 +1,17 @@
+{
+  "$id": "p16040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "49.49",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.99 - $49.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/henry-mckenna-bourbon-sour-mash/p16040",
+    "name": "Henry McKenna Bourbon Sour Mash"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

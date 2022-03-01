@@ -1,0 +1,17 @@
+{
+  "$id": "p938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.69",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "24",
+    "c_priceRange": "$3.29 - $18.69",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/beringer-main-and-vine-merlot/p938",
+    "name": "Beringer Main \u0026 Vine Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p13282",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.99 - $21.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/luna-nuda-pinot-grigio/p13282",
+    "name": "Luna Nuda Pinot Grigio",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-luna-nuda-pinot-grigio-5830c2f601388c40.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/zSESzmBQ2sNVR4cA2rIbDg8e5f_3w7BdPjOIM6PPTvI/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/zSESzmBQ2sNVR4cA2rIbDg8e5f_3w7BdPjOIM6PPTvI/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/zSESzmBQ2sNVR4cA2rIbDg8e5f_3w7BdPjOIM6PPTvI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zSESzmBQ2sNVR4cA2rIbDg8e5f_3w7BdPjOIM6PPTvI/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

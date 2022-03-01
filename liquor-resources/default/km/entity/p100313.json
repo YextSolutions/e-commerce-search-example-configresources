@@ -1,0 +1,17 @@
+{
+  "$id": "p100313",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "10.00",
+    "c_minPrice": "5.50",
+    "c_numberReviews": "14",
+    "c_priceRange": "$5.50 - $10.00",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/wandering-barman-la-nina/p100313",
+    "name": "Wandering Barman La Niña"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

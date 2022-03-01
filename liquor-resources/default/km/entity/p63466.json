@@ -1,0 +1,16 @@
+{
+  "$id": "p63466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$15.99 - $22.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/karbach-brewing-co-greatest-hits-variety/p63466",
+    "name": "Karbach Brewing Co. Greatest Hits Variety"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

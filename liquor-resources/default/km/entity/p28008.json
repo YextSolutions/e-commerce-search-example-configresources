@@ -1,0 +1,17 @@
+{
+  "$id": "p28008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "71.49",
+    "c_minPrice": "2.49",
+    "c_numberReviews": "235",
+    "c_priceRange": "$2.49 - $71.49",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/buzzballz-tequila-rita/p28008",
+    "name": "BuzzBallz Tequila Rita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

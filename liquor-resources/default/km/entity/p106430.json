@@ -1,0 +1,17 @@
+{
+  "$id": "p106430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$8.99 - $29.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/papi-sparkling-rose/p106430",
+    "name": "Papi Sparkling Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

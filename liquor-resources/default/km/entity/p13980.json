@@ -1,0 +1,17 @@
+{
+  "$id": "p13980",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "6.72",
+    "c_numberReviews": "109",
+    "c_priceRange": "$6.72 - $22.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/menage-a-trois-midnight-dark-red-wine-blend-750ml-wine-bottle/p13980",
+    "name": "Menage a Trois Midnight Dark Red Wine Blend, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

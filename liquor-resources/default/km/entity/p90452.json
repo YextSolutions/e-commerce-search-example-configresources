@@ -1,0 +1,17 @@
+{
+  "$id": "p90452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "84.99",
+    "c_minPrice": "14.49",
+    "c_numberReviews": "39",
+    "c_priceRange": "$14.49 - $84.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/threes-brewing-logical-conclusion-ipa/p90452",
+    "name": "Threes Brewing Logical Conclusion IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

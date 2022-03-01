@@ -1,0 +1,18 @@
+{
+  "$id": "p72056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.99 - $26.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/stone-xocoveza-stout/p72056",
+    "name": "Stone Xocoveza Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

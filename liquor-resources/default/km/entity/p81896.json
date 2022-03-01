@@ -1,0 +1,44 @@
+{
+  "$id": "p81896",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "27",
+    "c_priceRange": "$7.69 - $21.99",
+    "c_subCategory": "Cream Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/cream-ale/castle-danger-cream-ale/p81896",
+    "name": "Castle Danger Cream Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-castle-danger-cream-ale-4f12988e3452b96b.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/SqKp79dNg_j_2TCXQiXKI8_D1jhmITSYVDDU9GA8XSM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SqKp79dNg_j_2TCXQiXKI8_D1jhmITSYVDDU9GA8XSM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/SqKp79dNg_j_2TCXQiXKI8_D1jhmITSYVDDU9GA8XSM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SqKp79dNg_j_2TCXQiXKI8_D1jhmITSYVDDU9GA8XSM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

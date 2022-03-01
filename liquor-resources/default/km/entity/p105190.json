@@ -1,0 +1,17 @@
+{
+  "$id": "p105190",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/flybird-margarita/p105190",
+    "name": "Flybird Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p164812",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "37.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$37.99 - $89.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/del-maguey-vida-de-muertos-mezcal/p164812",
+    "name": "Del Maguey Vida de Muertos Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

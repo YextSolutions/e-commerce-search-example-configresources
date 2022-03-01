@@ -1,0 +1,44 @@
+{
+  "$id": "p9063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "16.79",
+    "c_numberReviews": "53",
+    "c_priceRange": "$16.79 - $38.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/plantation-3-stars-white-rum/p9063",
+    "name": "Plantation 3 Stars White Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-plantation-3-stars-silver-rum-b5fe0d1264eb4d64.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ke91hg-GTsvS6kzO1d3beLLyF3W3ND6qhdXHwS9vBQg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ke91hg-GTsvS6kzO1d3beLLyF3W3ND6qhdXHwS9vBQg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ke91hg-GTsvS6kzO1d3beLLyF3W3ND6qhdXHwS9vBQg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ke91hg-GTsvS6kzO1d3beLLyF3W3ND6qhdXHwS9vBQg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "117",
+    "c_priceRange": "$3.99 - $24.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/charles-smith-the-velvet-devil-merlot-red-wine/p247",
+    "name": "Charles Smith The Velvet Devil Merlot Red Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-the-velvet-devil-3560cfbe352affce.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cdnIE-A4TnXFx8EL7kDbZm_QoAVW0r3_2uHrmWbAeuY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cdnIE-A4TnXFx8EL7kDbZm_QoAVW0r3_2uHrmWbAeuY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cdnIE-A4TnXFx8EL7kDbZm_QoAVW0r3_2uHrmWbAeuY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cdnIE-A4TnXFx8EL7kDbZm_QoAVW0r3_2uHrmWbAeuY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

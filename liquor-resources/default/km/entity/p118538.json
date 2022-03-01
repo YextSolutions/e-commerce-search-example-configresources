@@ -1,0 +1,44 @@
+{
+  "$id": "p118538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "67.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$67.99 - $129.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/belfour-pecan-wood-finished-bourbon-whiskey/p118538",
+    "name": "Belfour Pecan Wood-Finished Bourbon Whiskey",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-belfour-pecan-wood-finished-bourbon-whiskey-bc9197dc1b9b2922.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/q7NZeg5kuU0PMQStvMwL4eYRGub9bcQMlO0u6caZT04/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/q7NZeg5kuU0PMQStvMwL4eYRGub9bcQMlO0u6caZT04/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/q7NZeg5kuU0PMQStvMwL4eYRGub9bcQMlO0u6caZT04/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/q7NZeg5kuU0PMQStvMwL4eYRGub9bcQMlO0u6caZT04/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

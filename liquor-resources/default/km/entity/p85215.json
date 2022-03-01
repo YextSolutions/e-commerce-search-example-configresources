@@ -1,0 +1,17 @@
+{
+  "$id": "p85215",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "9.11",
+    "c_numberReviews": "72",
+    "c_priceRange": "$9.11 - $22.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/new-amsterdam-grapefruit-vodka/p85215",
+    "name": "New Amsterdam Grapefruit Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

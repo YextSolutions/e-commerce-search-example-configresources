@@ -1,0 +1,17 @@
+{
+  "$id": "p83646",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$29.99 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-black-label-the-jane-walker-edition-blended-scotch-whisky/p83646",
+    "name": "Johnnie Walker Black Label The Jane Walker Edition Blended Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p61997",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "34.89",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$1.99 - $34.89",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/monaco-cocktails-mango-peach/p61997",
+    "name": "Monaco Cocktails Mango Peach"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

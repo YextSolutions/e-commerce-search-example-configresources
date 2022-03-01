@@ -1,0 +1,18 @@
+{
+  "$id": "p58848",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$10.99 - $14.29",
+    "c_subCategory": "IPA",
+    "c_type": "Red IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/red-ipa/union-foxy-red-ipa/p58848",
+    "name": "Union Foxy Red IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

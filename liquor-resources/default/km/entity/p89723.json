@@ -1,0 +1,17 @@
+{
+  "$id": "p89723",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "44.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$44.99 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/belle-meade-bourbon-reserve-whiskey/p89723",
+    "name": "Belle Meade Bourbon Reserve Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

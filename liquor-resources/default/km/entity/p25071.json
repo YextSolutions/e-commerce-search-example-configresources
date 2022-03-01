@@ -1,0 +1,17 @@
+{
+  "$id": "p25071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$9.99 - $31.99",
+    "c_subCategory": "Chocolate Sweet Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/chocolate-sweet-liqueur/trader-vics-chocolate-liqueur/p25071",
+    "name": "Trader Vics Chocolate Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

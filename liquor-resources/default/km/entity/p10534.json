@@ -1,0 +1,19 @@
+{
+  "$id": "p10534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.94",
+    "c_minPrice": "0.90",
+    "c_numberReviews": "138",
+    "c_priceRange": "$0.90 - $19.94",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/keystone-light-american-lager-beer/p10534",
+    "name": "Keystone Light American Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

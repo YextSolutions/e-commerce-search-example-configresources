@@ -1,0 +1,17 @@
+{
+  "$id": "p81156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "69.29",
+    "c_minPrice": "43.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$43.99 - $69.29",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodford-reserve-distillers-select-downtown-spirits-2017/p81156",
+    "name": "Woodford Reserve Personal Selection Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

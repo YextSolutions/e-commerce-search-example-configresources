@@ -1,0 +1,16 @@
+{
+  "$id": "p103858",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "2.25",
+    "c_numberReviews": "233",
+    "c_priceRange": "$2.25 - $15.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/high-noon-lime-hard-seltzer/p103858",
+    "name": "High Noon Lime Hard Seltzer"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

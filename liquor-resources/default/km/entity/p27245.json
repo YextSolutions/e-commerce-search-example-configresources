@@ -1,0 +1,17 @@
+{
+  "$id": "p27245",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "12.98",
+    "c_numberReviews": "24",
+    "c_priceRange": "$12.98 - $19.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/michaels-irish-cream/p27245",
+    "name": "Michael\u0027s Irish Cream"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

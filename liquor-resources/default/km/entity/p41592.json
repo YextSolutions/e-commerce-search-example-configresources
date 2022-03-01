@@ -1,0 +1,17 @@
+{
+  "$id": "p41592",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "399.99",
+    "c_minPrice": "19.90",
+    "c_numberReviews": "11",
+    "c_priceRange": "$19.90 - $399.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/alberta-premium-rye-whisky/p41592",
+    "name": "Alberta Premium Rye Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

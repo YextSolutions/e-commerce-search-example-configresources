@@ -1,0 +1,17 @@
+{
+  "$id": "p61790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "4.95",
+    "c_numberReviews": "22",
+    "c_priceRange": "$4.95 - $23.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/aeronaut-hop-hop-and-away/p61790",
+    "name": "Aeronaut Hop Hop \u0026 Away"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

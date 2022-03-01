@@ -1,0 +1,17 @@
+{
+  "$id": "p108172",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "95.99",
+    "c_minPrice": "51.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$51.99 - $95.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/laws-whiskey-house-san-luis-valley-straight-rye-whiskey/p108172",
+    "name": "Laws Whiskey House San Luis Valley Straight Rye Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

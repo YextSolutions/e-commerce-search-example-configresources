@@ -1,0 +1,17 @@
+{
+  "$id": "p100664",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "4.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "9",
+    "c_priceRange": "$1.49 - $4.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/steel-reserve-alloy-series-spiked-strawberry-burst/p100664",
+    "name": "Steel Reserve Alloy Series Spiked Strawberry Burst"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

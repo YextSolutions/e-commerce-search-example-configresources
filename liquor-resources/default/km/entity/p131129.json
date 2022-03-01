@@ -1,0 +1,44 @@
+{
+  "$id": "p131129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$10.99 - $24.99",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/flying-embers-wild-berry-hard-kombucha/p131129",
+    "name": "Flying Embers Wild Berry Hard Kombucha",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-flying-embers-wild-berry-hard-kombucha-13e82b9d9163159c.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2Af3GgGGV53mBV_5mPLGtWEhoHgJIjJHC2Im9cbJGw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2Af3GgGGV53mBV_5mPLGtWEhoHgJIjJHC2Im9cbJGw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/S2Af3GgGGV53mBV_5mPLGtWEhoHgJIjJHC2Im9cbJGw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S2Af3GgGGV53mBV_5mPLGtWEhoHgJIjJHC2Im9cbJGw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

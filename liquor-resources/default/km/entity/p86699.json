@@ -1,0 +1,17 @@
+{
+  "$id": "p86699",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "1777.00",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "342",
+    "c_priceRange": "$1.99 - $1777.00",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/heineken-non-alcoholic-00/p86699",
+    "name": "Heineken Non-Alcoholic 0.0"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7913",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "43",
+    "c_priceRange": "$5.99 - $36.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/carlsberg-elephant-strong/p7913",
+    "name": "Carlsberg Elephant Strong"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

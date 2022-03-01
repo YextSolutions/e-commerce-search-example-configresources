@@ -1,0 +1,17 @@
+{
+  "$id": "p24697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "73.99",
+    "c_minPrice": "30.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$30.99 - $73.99",
+    "c_subCategory": "Navy Strength Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/navy-strength-gin/sipsmith-vjop-gin/p24697",
+    "name": "Sipsmith V.J.O.P. Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p95777",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$18.99 - $29.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/san-juan-spiked-seltzer-mix-pack/p95777",
+    "name": "San Juan Spiked Seltzer Mix Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

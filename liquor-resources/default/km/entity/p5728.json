@@ -1,0 +1,17 @@
+{
+  "$id": "p5728",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "559.99",
+    "c_minPrice": "89.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$89.99 - $559.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/tequila-casa-dragones-joven/p5728",
+    "name": "Tequila Casa Dragones Joven"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

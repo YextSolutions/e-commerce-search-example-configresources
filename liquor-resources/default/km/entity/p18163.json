@@ -1,0 +1,44 @@
+{
+  "$id": "p18163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "10.49",
+    "c_numberReviews": "62",
+    "c_priceRange": "$10.49 - $49.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/gran-gala-orange-liqueur/p18163",
+    "name": "Gran Gala Orange Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-gran-gala-orange-liqueur-b9531e50cb22ea0b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/gJL_XzKMDyhEIN9k_0NaaT21G1DAAYitUwo2ajO6IXg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gJL_XzKMDyhEIN9k_0NaaT21G1DAAYitUwo2ajO6IXg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/gJL_XzKMDyhEIN9k_0NaaT21G1DAAYitUwo2ajO6IXg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gJL_XzKMDyhEIN9k_0NaaT21G1DAAYitUwo2ajO6IXg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

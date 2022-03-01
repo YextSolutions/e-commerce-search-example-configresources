@@ -1,0 +1,17 @@
+{
+  "$id": "p11080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "6.50",
+    "c_numberReviews": "128",
+    "c_priceRange": "$6.50 - $26.99",
+    "c_subCategory": "Red Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/odell-90-shilling-ale/p11080",
+    "name": "Odell 90 Shilling Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

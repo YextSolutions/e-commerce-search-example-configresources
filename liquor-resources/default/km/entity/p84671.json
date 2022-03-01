@@ -1,0 +1,16 @@
+{
+  "$id": "p84671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "10.98",
+    "c_numberReviews": "121",
+    "c_priceRange": "$10.98 - $22.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/underwood-cellars-rose-bubbles/p84671",
+    "name": "Underwood Rosé Bubbles"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

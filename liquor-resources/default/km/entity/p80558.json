@@ -1,0 +1,17 @@
+{
+  "$id": "p80558",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "7.55",
+    "c_numberReviews": "1",
+    "c_priceRange": "$7.55 - $24.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/dautrefois-pinot-noir/p80558",
+    "name": "D\u0027autrefois Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

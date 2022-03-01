@@ -1,0 +1,16 @@
+{
+  "$id": "p84690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Mezcal",
+    "c_maxPrice": "131.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "76",
+    "c_priceRange": "$29.99 - $131.99",
+    "landingPageUrl": "https://drizly.com/liquor/mezcal/casamigos-joven-mezcal/p84690",
+    "name": "Casamigos Joven Mezcal"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

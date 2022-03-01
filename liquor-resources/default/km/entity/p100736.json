@@ -1,0 +1,16 @@
+{
+  "$id": "p100736",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "72.59",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$21.99 - $72.59",
+    "landingPageUrl": "https://drizly.com/liquor/gin/mcqueen-and-the-violet-fog-brazilian-gin/p100736",
+    "name": "McQueen \u0026 The Violet Fog Brazilian Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

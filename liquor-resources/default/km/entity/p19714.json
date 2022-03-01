@@ -1,0 +1,17 @@
+{
+  "$id": "p19714",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "5.03",
+    "c_numberReviews": "186",
+    "c_priceRange": "$5.03 - $39.99",
+    "c_subCategory": "Spice Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/spice-beer/modelo-chelada-especial-mexican-import-flavored-beer/p19714",
+    "name": "Modelo Chelada Especial Mexican Import Flavored Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p98698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$4.99 - $18.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/russian-river-blind-pig-ipa/p98698",
+    "name": "Russian River Blind Pig IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

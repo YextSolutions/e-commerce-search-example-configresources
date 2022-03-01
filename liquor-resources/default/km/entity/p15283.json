@@ -1,0 +1,17 @@
+{
+  "$id": "p15283",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "74.99",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$27.99 - $74.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/catena-alta-malbec/p15283",
+    "name": "Catena Alta Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p72217",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "5.92",
+    "c_numberReviews": "2",
+    "c_priceRange": "$5.92 - $19.99",
+    "c_subCategory": "Wheat Ale",
+    "c_type": "Hefeweizen",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/hefeweizen/utepils-ewald-the-golden-hefeweizen/p72217",
+    "name": "Utepils Ewald the Golden Hefeweizen"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

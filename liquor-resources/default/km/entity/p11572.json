@@ -1,0 +1,17 @@
+{
+  "$id": "p11572",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "1.49",
+    "c_numberReviews": "30",
+    "c_priceRange": "$1.49 - $11.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/sutter-home-sweet-riesling-white-wine-750ml-wine-bottle/p11572",
+    "name": "Sutter Home Sweet Riesling White Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

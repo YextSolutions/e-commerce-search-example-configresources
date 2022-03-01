@@ -1,0 +1,17 @@
+{
+  "$id": "p107102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "53.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$24.99 - $53.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/ten-to-one-caribbean-white-rum/p107102",
+    "name": "Ten To One Caribbean White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

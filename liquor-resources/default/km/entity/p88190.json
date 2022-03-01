@@ -1,0 +1,17 @@
+{
+  "$id": "p88190",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "106.91",
+    "c_minPrice": "28.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$28.99 - $106.91",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenrothes-12-year-old-single-malt-scotch-whisky/p88190",
+    "name": "The Glenrothes 12 Year Old Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

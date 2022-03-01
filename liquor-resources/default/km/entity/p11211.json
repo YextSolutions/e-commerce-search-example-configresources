@@ -1,0 +1,43 @@
+{
+  "$id": "p11211",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "16.98",
+    "c_numberReviews": "17",
+    "c_priceRange": "$16.98 - $21.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/dry-dock-brewing-booty-box/p11211",
+    "name": "Dry Dock Brewing Booty Box",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-dry-dock-brewing-booty-box-69bd14d0f608ecc2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jxv6yup8wz3Q9veHG9oc9DIIhr-LYDT1fe1qwi5Jv6Y/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jxv6yup8wz3Q9veHG9oc9DIIhr-LYDT1fe1qwi5Jv6Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jxv6yup8wz3Q9veHG9oc9DIIhr-LYDT1fe1qwi5Jv6Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jxv6yup8wz3Q9veHG9oc9DIIhr-LYDT1fe1qwi5Jv6Y/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

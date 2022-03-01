@@ -1,0 +1,16 @@
+{
+  "$id": "p27175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$8.99 - $20.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/1876-vodka/p27175",
+    "name": "1876 Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

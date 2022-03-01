@@ -1,0 +1,16 @@
+{
+  "$id": "p6038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.33",
+    "c_numberReviews": "10",
+    "c_priceRange": "$8.33 - $19.99",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/skinnygirl-sweetarita/p6038",
+    "name": "Skinnygirl Sweet\u0027Arita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

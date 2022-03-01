@@ -1,0 +1,16 @@
+{
+  "$id": "p983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "47",
+    "c_priceRange": "$24.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/black-box-riesling/p983",
+    "name": "Black Box Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

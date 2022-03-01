@@ -1,0 +1,17 @@
+{
+  "$id": "p86159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "2.78",
+    "c_numberReviews": "56",
+    "c_priceRange": "$2.78 - $22.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/cutwater-grapefruit-vodka-soda/p86159",
+    "name": "Cutwater Grapefruit Vodka Soda"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

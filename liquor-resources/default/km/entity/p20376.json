@@ -1,0 +1,17 @@
+{
+  "$id": "p20376",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "299.95",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$17.99 - $299.95",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/ole-smoky-hunch-punch-lightnin/p20376",
+    "name": "Ole Smoky Hunch Punch Lightnin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

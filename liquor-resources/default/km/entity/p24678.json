@@ -1,0 +1,17 @@
+{
+  "$id": "p24678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "18.94",
+    "c_numberReviews": "7",
+    "c_priceRange": "$18.94 - $34.99",
+    "c_subCategory": "Sparkling Sake",
+    "landingPageUrl": "https://drizly.com/wine/sake/sparkling-sake/sho-chiku-bai-mio-sparkling-sake/p24678",
+    "name": "Sho Chiku Bai Mio Sparkling Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

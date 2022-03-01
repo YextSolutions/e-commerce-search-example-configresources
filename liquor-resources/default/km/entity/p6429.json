@@ -1,0 +1,44 @@
+{
+  "$id": "p6429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "53.23",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$24.99 - $53.23",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/suerte-reposado-tequila/p6429",
+    "name": "Suerte Reposado Tequila",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-suerte-reposado-tequila-0678e0c9447d4808.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZWvk-QFuM4LDgFcTxuKQPQCNrLeHf-sIIqQn_zSzAw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZWvk-QFuM4LDgFcTxuKQPQCNrLeHf-sIIqQn_zSzAw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/AZWvk-QFuM4LDgFcTxuKQPQCNrLeHf-sIIqQn_zSzAw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/AZWvk-QFuM4LDgFcTxuKQPQCNrLeHf-sIIqQn_zSzAw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

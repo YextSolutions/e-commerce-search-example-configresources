@@ -1,0 +1,17 @@
+{
+  "$id": "p90542",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "30.00",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "21",
+    "c_priceRange": "$7.69 - $30.00",
+    "c_subCategory": "Kellerbier",
+    "landingPageUrl": "https://drizly.com/beer/lager/kellerbier/jacks-abby-shipping-out-of-boston/p90542",
+    "name": "Jack\u0027s Abby Shipping Out Of Boston"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p18110",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.39",
+    "c_minPrice": "6.04",
+    "c_numberReviews": "5",
+    "c_priceRange": "$6.04 - $32.39",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/macmurray-ranch-pinot-noir-central-coast/p18110",
+    "name": "MacMurray Estate Central Coast Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-macmurray-ranch-pinot-noir-central-coast-f3e0dabae3fb6d0d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/-nj7PAuYCudOqr5JUR95_3BzlQPK_gOeSt_Be3_lBAA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-nj7PAuYCudOqr5JUR95_3BzlQPK_gOeSt_Be3_lBAA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-nj7PAuYCudOqr5JUR95_3BzlQPK_gOeSt_Be3_lBAA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-nj7PAuYCudOqr5JUR95_3BzlQPK_gOeSt_Be3_lBAA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

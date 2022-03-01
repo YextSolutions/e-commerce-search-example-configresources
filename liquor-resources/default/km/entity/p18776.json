@@ -1,0 +1,16 @@
+{
+  "$id": "p18776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "19",
+    "c_priceRange": "$15.39 - $34.99",
+    "landingPageUrl": "https://drizly.com/liquor/rum/ron-barcelo-rum-gran-anejo/p18776",
+    "name": "Ron Barcelo Rum Gran Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p96655",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.77",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$7.99 - $17.77",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/smirnoff-sourced-pineapple-coconut/p96655",
+    "name": "Smirnoff Sourced Pineapple Coconut"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p4711",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "2263",
+    "c_priceRange": "$9.89 - $29.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-raspberry/p4711",
+    "name": "Smirnoff Raspberry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p25823",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.99 - $11.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/finkel-and-garf-lager/p25823",
+    "name": "Finkel \u0026 Garf Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7717",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$2.99 - $17.99",
+    "c_subCategory": "Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/guinness-foreign-extra-stout/p7717",
+    "name": "Guinness Foreign Extra Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

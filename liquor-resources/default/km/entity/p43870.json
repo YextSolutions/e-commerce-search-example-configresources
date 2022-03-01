@@ -1,0 +1,17 @@
+{
+  "$id": "p43870",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "71.79",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "109",
+    "c_priceRange": "$7.99 - $71.79",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/night-shift-whirlpool-hazy-new-england-pale-ale/p43870",
+    "name": "Night Shift Whirlpool Hazy New England Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p8660",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "28",
+    "c_priceRange": "$22.99 - $79.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/appleton-estate-12-year-rare-blend/p8660",
+    "name": "Appleton Estate 12 Year Rare Blend"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

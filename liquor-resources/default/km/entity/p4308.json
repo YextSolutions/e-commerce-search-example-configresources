@@ -1,0 +1,17 @@
+{
+  "$id": "p4308",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "3.98",
+    "c_numberReviews": "11",
+    "c_priceRange": "$3.98 - $29.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/rosemount-estate-diamond-label-shiraz/p4308",
+    "name": "Rosemount Estate Diamond Label Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

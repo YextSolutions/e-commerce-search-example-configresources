@@ -1,0 +1,16 @@
+{
+  "$id": "p82740",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.95",
+    "c_numberReviews": "32",
+    "c_priceRange": "$8.95 - $12.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/sea-ice-vodka/p82740",
+    "name": "Sea Ice Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

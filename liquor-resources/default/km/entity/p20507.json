@@ -1,0 +1,17 @@
+{
+  "$id": "p20507",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "41.19",
+    "c_minPrice": "24.89",
+    "c_numberReviews": "5",
+    "c_priceRange": "$24.89 - $41.19",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/brugal-xv-rum/p20507",
+    "name": "Brugal XV Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

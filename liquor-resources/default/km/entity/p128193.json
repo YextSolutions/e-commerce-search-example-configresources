@@ -1,0 +1,17 @@
+{
+  "$id": "p128193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "78.99",
+    "c_minPrice": "29.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$29.99 - $78.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/far-niente-post-and-beam-cabernet-sauvignon/p128193",
+    "name": "Far Niente Post \u0026 Beam Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

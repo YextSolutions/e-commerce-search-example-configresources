@@ -1,0 +1,17 @@
+{
+  "$id": "p43958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$14.99 - $24.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/highway-12-cabernet-sauvignon/p43958",
+    "name": "Highway 12 Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

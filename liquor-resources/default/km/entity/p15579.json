@@ -1,0 +1,16 @@
+{
+  "$id": "p15579",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/skyy-infusions-cherry/p15579",
+    "name": "SKYY Infusions Cherry"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

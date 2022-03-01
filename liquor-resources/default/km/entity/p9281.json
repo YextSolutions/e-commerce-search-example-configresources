@@ -1,0 +1,17 @@
+{
+  "$id": "p9281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "312.49",
+    "c_minPrice": "36.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$36.99 - $312.49",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/grand-mayan-ultra-aged-anejo/p9281",
+    "name": "Grand Mayan Ultra Aged Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

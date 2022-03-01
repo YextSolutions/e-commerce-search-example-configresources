@@ -1,0 +1,16 @@
+{
+  "$id": "p46276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "62.49",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$34.99 - $62.49",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/tempus-fugit-creme-de-cacao/p46276",
+    "name": "Tempus Fugit Creme De Cacao"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

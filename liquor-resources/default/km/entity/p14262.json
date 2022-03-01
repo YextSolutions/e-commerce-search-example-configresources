@@ -1,0 +1,18 @@
+{
+  "$id": "p14262",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "80.00",
+    "c_minPrice": "2.79",
+    "c_numberReviews": "5",
+    "c_priceRange": "$2.79 - $80.00",
+    "c_subCategory": "Bock",
+    "c_type": "Maibock",
+    "landingPageUrl": "https://drizly.com/beer/lager/bock/maibock/weihenstephaner-korbinian/p14262",
+    "name": "Weihenstephaner Korbinian"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

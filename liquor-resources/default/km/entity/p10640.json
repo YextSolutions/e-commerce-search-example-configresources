@@ -1,0 +1,17 @@
+{
+  "$id": "p10640",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$8.99 - $33.99",
+    "c_subCategory": "Junmai Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-ginjo/yoshinogawa-winter-warrior-junmai-ginjo-niigata/p10640",
+    "name": "Yoshinogawa \u0027Winter Warrior\u0027 Junmai Ginjo, Niigata"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p90439",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "3.49",
+    "c_numberReviews": "28",
+    "c_priceRange": "$3.49 - $21.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/cutwater-horchata-cold-brew-cocktail/p90439",
+    "name": "Cutwater Horchata Cold Brew Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

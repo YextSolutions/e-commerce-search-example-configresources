@@ -1,0 +1,44 @@
+{
+  "$id": "p104343",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "1319.00",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$9.99 - $1319.00",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/domaine-bousquet-virgen-organic-malbec/p104343",
+    "name": "Domaine Bousquet Virgen Organic Malbec",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-domaine-bousquet-virgen-organic-malbec-usda-organic-no-sulfties-added-1c1cab7350efc05c.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK_tCVWzM39tVQg7S2gdvAASxSdqvmJ-8CMFBYOApnM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK_tCVWzM39tVQg7S2gdvAASxSdqvmJ-8CMFBYOApnM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/rK_tCVWzM39tVQg7S2gdvAASxSdqvmJ-8CMFBYOApnM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rK_tCVWzM39tVQg7S2gdvAASxSdqvmJ-8CMFBYOApnM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

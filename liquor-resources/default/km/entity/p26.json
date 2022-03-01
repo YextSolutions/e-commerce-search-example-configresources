@@ -1,0 +1,17 @@
+{
+  "$id": "p26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "299.99",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "27",
+    "c_priceRange": "$2.00 - $299.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/sterling-vintners-collection-merlot/p26",
+    "name": "Sterling Vintner\u0027s Collection Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

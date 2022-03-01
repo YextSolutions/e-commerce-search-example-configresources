@@ -1,0 +1,17 @@
+{
+  "$id": "p899",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "7.13",
+    "c_numberReviews": "30",
+    "c_priceRange": "$7.13 - $35.99",
+    "c_subCategory": "Red Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/bells-amber-ale/p899",
+    "name": "Bell\u0027s Amber Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

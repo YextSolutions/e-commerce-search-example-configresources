@@ -1,0 +1,17 @@
+{
+  "$id": "p117199",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "82.49",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "145",
+    "c_priceRange": "$35.99 - $82.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/hudson-bright-lights-big-bourbon/p117199",
+    "name": "Hudson Bright Lights, Big Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

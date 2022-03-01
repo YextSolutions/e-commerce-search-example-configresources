@@ -1,0 +1,17 @@
+{
+  "$id": "p103979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.95",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.95 - $12.99",
+    "c_subCategory": "Cream Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/cream-ale/indeed-pistachio-cream-ale/p103979",
+    "name": "Indeed Pistachio Cream Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

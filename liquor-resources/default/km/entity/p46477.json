@@ -1,0 +1,17 @@
+{
+  "$id": "p46477",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "23.89",
+    "c_minPrice": "8.80",
+    "c_numberReviews": "5",
+    "c_priceRange": "$8.80 - $23.89",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/exclusiv-peach-vodka/p46477",
+    "name": "Exclusiv Peach Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

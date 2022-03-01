@@ -1,0 +1,18 @@
+{
+  "$id": "p95420",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "6.48",
+    "c_numberReviews": "57",
+    "c_priceRange": "$6.48 - $17.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/new-belgium-mountain-time-premium-lager/p95420",
+    "name": "New Belgium Mountain Time Premium Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p11208",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "7.98",
+    "c_numberReviews": "104",
+    "c_priceRange": "$7.98 - $21.99",
+    "c_subCategory": "Blonde Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/blonde-ale/dry-dock-brewing-apricot-blonde/p11208",
+    "name": "Dry Dock Brewing Apricot Blonde"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

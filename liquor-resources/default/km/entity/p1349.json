@@ -1,0 +1,17 @@
+{
+  "$id": "p1349",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.99 - $18.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/la-linda-malbec/p1349",
+    "name": "La Linda Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

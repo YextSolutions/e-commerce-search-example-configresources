@@ -1,0 +1,16 @@
+{
+  "$id": "p22409",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "1.88",
+    "c_numberReviews": "90",
+    "c_priceRange": "$1.88 - $11.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/dailys-ready-to-drink-bahama-mama-frozen-cocktail/p22409",
+    "name": "Daily\u0027s Ready-To-Drink Bahama Mama Frozen Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p96264",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "122",
+    "c_priceRange": "$9.99 - $25.99",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/juneshine-midnight-painkiller/p96264",
+    "name": "JuneShine Midnight Painkiller"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

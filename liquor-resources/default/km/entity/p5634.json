@@ -1,0 +1,17 @@
+{
+  "$id": "p5634",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "55",
+    "c_priceRange": "$11.99 - $49.99",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/flor-de-cana-4-year-old-rum-extra-seco/p5634",
+    "name": "Flor de Caña 4 Year Old Rum Extra Seco"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

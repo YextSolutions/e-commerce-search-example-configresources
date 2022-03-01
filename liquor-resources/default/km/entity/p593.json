@@ -1,0 +1,17 @@
+{
+  "$id": "p593",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "22",
+    "c_priceRange": "$9.99 - $34.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/agua-de-piedra-grand-seleccion-malbec/p593",
+    "name": "Agua De Piedra Grand Seleccion Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

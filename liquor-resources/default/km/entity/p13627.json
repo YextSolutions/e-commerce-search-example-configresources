@@ -1,0 +1,16 @@
+{
+  "$id": "p13627",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "17.33",
+    "c_numberReviews": "19",
+    "c_priceRange": "$17.33 - $49.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/lairds-straight-apple-brandy-bottled-in-bond/p13627",
+    "name": "Laird\u0027s Straight Apple Brandy Bottled in Bond"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

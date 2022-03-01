@@ -1,0 +1,17 @@
+{
+  "$id": "p107153",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "114.99",
+    "c_minPrice": "42.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$42.99 - $114.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/hatozaki-small-batch-japanese-whiskey/p107153",
+    "name": "Hatozaki Small Batch Japanese Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

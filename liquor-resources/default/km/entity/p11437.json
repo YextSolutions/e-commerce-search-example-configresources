@@ -1,0 +1,16 @@
+{
+  "$id": "p11437",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "20.56",
+    "c_minPrice": "8.97",
+    "c_numberReviews": "25",
+    "c_priceRange": "$8.97 - $20.56",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fultons-harvest-pumpkin-pie-cream-liqueur/p11437",
+    "name": "Fulton\u0027s Harvest Pumpkin Pie Cream Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

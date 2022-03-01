@@ -1,0 +1,45 @@
+{
+  "$id": "p83265",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "23.19",
+    "c_minPrice": "6.00",
+    "c_numberReviews": "23",
+    "c_priceRange": "$6.00 - $23.19",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/peter-vella-pink-moscato-sangria/p83265",
+    "name": "Peter Vella Pink Moscato Sangria",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-peter-vella-pink-moscato-sangria-0e30af04fd851c5e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/lTX-6_3ih4zdEI45hM3fmp25pY69oSCX07xf4lBtRNU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/lTX-6_3ih4zdEI45hM3fmp25pY69oSCX07xf4lBtRNU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/lTX-6_3ih4zdEI45hM3fmp25pY69oSCX07xf4lBtRNU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/lTX-6_3ih4zdEI45hM3fmp25pY69oSCX07xf4lBtRNU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

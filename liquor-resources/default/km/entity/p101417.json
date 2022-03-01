@@ -1,0 +1,17 @@
+{
+  "$id": "p101417",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.99 - $24.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/louis-jadot-bourgogne-blanc/p101417",
+    "name": "Louis Jadot Bourgogne Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

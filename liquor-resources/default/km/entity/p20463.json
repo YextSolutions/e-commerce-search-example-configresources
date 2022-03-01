@@ -1,0 +1,17 @@
+{
+  "$id": "p20463",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "2499.00",
+    "c_minPrice": "21.79",
+    "c_numberReviews": "8",
+    "c_priceRange": "$21.79 - $2499.00",
+    "c_subCategory": "White Blend",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/white-blend/summer-in-a-bottle-long-island-white/p20463",
+    "name": "Summer in a Bottle Long Island White"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

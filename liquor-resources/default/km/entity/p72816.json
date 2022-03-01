@@ -1,0 +1,17 @@
+{
+  "$id": "p72816",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "9.44",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.44 - $12.99",
+    "c_subCategory": "Kolsch",
+    "landingPageUrl": "https://drizly.com/beer/ale/kolsch/huss-koffee-kolsch/p72816",
+    "name": "Huss Koffee Kolsch"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

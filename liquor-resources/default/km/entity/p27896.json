@@ -1,0 +1,17 @@
+{
+  "$id": "p27896",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "10.99",
+    "c_minPrice": "1.73",
+    "c_numberReviews": "99",
+    "c_priceRange": "$1.73 - $10.99",
+    "c_subCategory": "Pina Colada Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/pina-colada-ready-to-drink/dailys-ready-to-drink-pina-colada-frozen-cocktail/p27896",
+    "name": "Daily\u0027s Ready-To-Drink Pina Colada Frozen Cocktail"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

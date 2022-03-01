@@ -1,0 +1,17 @@
+{
+  "$id": "p107889",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$6.99 - $22.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/cupcake-lighthearted-pinot-noir-red-wine/p107889",
+    "name": "Cupcake LightHearted Pinot Noir Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

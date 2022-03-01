@@ -1,0 +1,17 @@
+{
+  "$id": "p98936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "169.39",
+    "c_minPrice": "43.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$43.99 - $169.39",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistlepig-farmstock-rye-whiskey-crop-3/p98936",
+    "name": "WhistlePig Farmstock Rye Whiskey Crop #3"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

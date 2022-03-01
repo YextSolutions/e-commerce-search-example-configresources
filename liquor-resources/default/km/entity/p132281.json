@@ -1,0 +1,17 @@
+{
+  "$id": "p132281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "227.49",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "11",
+    "c_priceRange": "$18.69 - $227.49",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/tequila-komos-anejo-cristalino-tequila/p132281",
+    "name": "Tequila Komos Añejo Cristalino Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p7698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "33.34",
+    "c_minPrice": "9.69",
+    "c_numberReviews": "7",
+    "c_priceRange": "$9.69 - $33.34",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/penfolds-bin-9-cabernet-sauvignon/p7698",
+    "name": "Penfolds Bin 9 Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p18683",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "16.98",
+    "c_numberReviews": "5",
+    "c_priceRange": "$16.98 - $39.99",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/carpano-bianco-vermouth/p18683",
+    "name": "Carpano Bianco Vermouth",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-carpano-bianco-vermouth-89b5900aafe495ea.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR3TfhGH_pibsdWcZGZxHGJgItpF6TH-W1FlIhIcOsY/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR3TfhGH_pibsdWcZGZxHGJgItpF6TH-W1FlIhIcOsY/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/SR3TfhGH_pibsdWcZGZxHGJgItpF6TH-W1FlIhIcOsY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/SR3TfhGH_pibsdWcZGZxHGJgItpF6TH-W1FlIhIcOsY/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

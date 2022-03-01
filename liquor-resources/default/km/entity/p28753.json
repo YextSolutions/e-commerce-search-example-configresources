@@ -1,0 +1,17 @@
+{
+  "$id": "p28753",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "349.99",
+    "c_minPrice": "139.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$139.99 - $349.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/1800-tequila-milenio-extra-anejo/p28753",
+    "name": "1800 Tequila Milenio Extra Anejo"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p58397",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "36.08",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "32",
+    "c_priceRange": "$1.99 - $36.08",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-lime-spiked-and-sparkling-water/p58397",
+    "name": "TRULY Hard Seltzer Lime, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

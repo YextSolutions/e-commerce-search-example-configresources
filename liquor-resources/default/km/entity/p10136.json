@@ -1,0 +1,17 @@
+{
+  "$id": "p10136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.08",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.08 - $19.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/finca-de-los-padrillos-malbec/p10136",
+    "name": "Finca de los Padrillos Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

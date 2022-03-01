@@ -1,0 +1,15 @@
+{
+  "$id": "p66716",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Soju",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "50",
+    "c_priceRange": "$14.99",
+    "landingPageUrl": "https://drizly.com/liquor/soju/chum-churum-apple-soju/p66716",
+    "name": "Chum Churum Apple Soju"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

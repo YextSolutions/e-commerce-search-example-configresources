@@ -1,0 +1,17 @@
+{
+  "$id": "p67787",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.89 - $14.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/mirabello-prosecco/p67787",
+    "name": "Mirabello Prosecco"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

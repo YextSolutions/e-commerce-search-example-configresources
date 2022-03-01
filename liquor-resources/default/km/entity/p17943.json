@@ -1,0 +1,17 @@
+{
+  "$id": "p17943",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "1.96",
+    "c_numberReviews": "75",
+    "c_priceRange": "$1.96 - $35.99",
+    "c_subCategory": "Hard Lemonade",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-lemonade/mikes-hard-lemonade-seasonal-pick-pineapple/p17943",
+    "name": "Mike\u0027s Hard Lemonade Seasonal Pick Pineapple"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

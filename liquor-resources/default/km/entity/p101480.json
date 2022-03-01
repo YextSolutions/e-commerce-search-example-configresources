@@ -1,0 +1,17 @@
+{
+  "$id": "p101480",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "54.99",
+    "c_minPrice": "31.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$31.99 - $54.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/mars-shinshu-iwai-45-japanese-blended-whisky/p101480",
+    "name": "Mars Shinshu Iwai 45 Japanese Blended Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

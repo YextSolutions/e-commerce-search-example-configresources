@@ -1,0 +1,43 @@
+{
+  "$id": "p85549",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "58",
+    "c_priceRange": "$23.99 - $69.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/ciroc-vs-brandy/p85549",
+    "name": "CIROC VS Brandy",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-ciroc-vs-brandy-93e12fe83e332978.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/fT2w8aTDnFpZtxvo6t1BZJqVYKh-hzyfiIX9vvs5QUU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/fT2w8aTDnFpZtxvo6t1BZJqVYKh-hzyfiIX9vvs5QUU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/fT2w8aTDnFpZtxvo6t1BZJqVYKh-hzyfiIX9vvs5QUU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fT2w8aTDnFpZtxvo6t1BZJqVYKh-hzyfiIX9vvs5QUU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

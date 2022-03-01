@@ -1,0 +1,17 @@
+{
+  "$id": "p4561",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.99 - $29.99",
+    "c_subCategory": "Grenache",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/grenache/sella-and-mosca-cannonau-di-sardegna-riserva-doc/p4561",
+    "name": "Sella \u0026 Mosca Cannonau di Sardegna Riserva DOC"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

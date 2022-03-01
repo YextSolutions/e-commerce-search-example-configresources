@@ -1,0 +1,17 @@
+{
+  "$id": "p3152",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$9.99 - $27.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/duggans-irish-cream/p3152",
+    "name": "Duggan\u0027s Irish Cream"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

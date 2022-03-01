@@ -1,0 +1,44 @@
+{
+  "$id": "p114835",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.20",
+    "c_numberReviews": "27",
+    "c_priceRange": "$8.20 - $20.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/rancho-la-gloria-watermelon-margarita-ready-to-drink/p114835",
+    "name": "Rancho La Gloria Watermelon Margarita Ready-To-Drink",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-rancho-la-gloria-watermelon-ready-to-drink-b0ac15b22c1abc71.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vu79YnJmqTpJaOb6AAnELtzhNaPs3kj-8KII5tAPfbo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vu79YnJmqTpJaOb6AAnELtzhNaPs3kj-8KII5tAPfbo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Vu79YnJmqTpJaOb6AAnELtzhNaPs3kj-8KII5tAPfbo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Vu79YnJmqTpJaOb6AAnELtzhNaPs3kj-8KII5tAPfbo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

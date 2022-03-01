@@ -1,0 +1,17 @@
+{
+  "$id": "p1509",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "115.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "117",
+    "c_priceRange": "$9.99 - $115.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/louis-m-martini-sonoma-cabernet-sauvignon/p1509",
+    "name": "Louis M. Martini Sonoma County Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1606",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "11.24",
+    "c_numberReviews": "11",
+    "c_priceRange": "$11.24 - $32.99",
+    "c_subCategory": "Corvina",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/corvina/masi-campofiorin/p1606",
+    "name": "Masi Campofiorin"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

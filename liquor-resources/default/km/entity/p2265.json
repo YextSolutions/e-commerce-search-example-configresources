@@ -1,0 +1,17 @@
+{
+  "$id": "p2265",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "67.75",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "884",
+    "c_priceRange": "$8.00 - $67.75",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/bulleit-rye/p2265",
+    "name": "Bulleit Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

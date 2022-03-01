@@ -1,0 +1,17 @@
+{
+  "$id": "p12153",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$18.99 - $39.99",
+    "c_subCategory": "Herbal Spice Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/herbal-spice-liqueur/rothman-and-winter-creme-de-violette/p12153",
+    "name": "Rothman \u0026 Winter Creme de Violette"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

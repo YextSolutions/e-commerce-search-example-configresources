@@ -1,0 +1,16 @@
+{
+  "$id": "p65534",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "7",
+    "c_priceRange": "$6.59 - $26.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/champs-de-provence-rose/p65534",
+    "name": "Champs De Provence Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

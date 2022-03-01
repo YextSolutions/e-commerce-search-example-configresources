@@ -1,0 +1,17 @@
+{
+  "$id": "p17900",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "224.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$8.99 - $224.99",
+    "c_subCategory": "Grenache",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/grenache/las-rocas-garnacha/p17900",
+    "name": "Las Rocas Garnacha"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

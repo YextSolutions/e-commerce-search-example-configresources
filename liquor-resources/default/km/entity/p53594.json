@@ -1,0 +1,44 @@
+{
+  "$id": "p53594",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$17.99 - $59.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/martin-ray-napa-valley-cabernet-sauvignon/p53594",
+    "name": "Martin Ray Napa Valley Cabernet Sauvignon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-martin-ray-napa-cabernet-reserve-tw-32552d83aecde259.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/w04q1s8VdPWywCd8alpK1zXLV46x5hVtMnNPDyxAvRE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/w04q1s8VdPWywCd8alpK1zXLV46x5hVtMnNPDyxAvRE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/w04q1s8VdPWywCd8alpK1zXLV46x5hVtMnNPDyxAvRE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/w04q1s8VdPWywCd8alpK1zXLV46x5hVtMnNPDyxAvRE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

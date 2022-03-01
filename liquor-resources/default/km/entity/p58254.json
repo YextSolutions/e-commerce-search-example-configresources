@@ -1,0 +1,18 @@
+{
+  "$id": "p58254",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.91",
+    "c_minPrice": "2.29",
+    "c_numberReviews": "34",
+    "c_priceRange": "$2.29 - $17.91",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/epic-brewing-tart-n-juicy-sour-ipa/p58254",
+    "name": "Epic Brewing Tart \u0027n Juicy Sour IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p3383",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.99 - $21.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/forever-young/p3383",
+    "name": "Forever Young Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p13190",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "6.49",
+    "c_numberReviews": "10",
+    "c_priceRange": "$6.49 - $19.99",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/melini-borghi-delsa-chianti/p13190",
+    "name": "Melini Borghi d\u0027Elsa Chianti"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

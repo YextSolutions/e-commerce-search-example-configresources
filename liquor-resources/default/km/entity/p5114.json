@@ -1,0 +1,17 @@
+{
+  "$id": "p5114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "50.59",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "185",
+    "c_priceRange": "$9.99 - $50.59",
+    "c_subCategory": "Flavored Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/flavored-whiskey/jack-daniels-tennessee-cider-winter-jack/p5114",
+    "name": "Jack Daniel\u0027s Tennessee Cider Winter Jack"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2631",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "28.34",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "23",
+    "c_priceRange": "$5.00 - $28.34",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/chateau-st-jean-chardonnay-california/p2631",
+    "name": "Chateau St. Jean Chardonnay California"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

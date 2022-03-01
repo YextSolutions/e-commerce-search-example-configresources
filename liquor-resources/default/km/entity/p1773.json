@@ -1,0 +1,44 @@
+{
+  "$id": "p1773",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "6.50",
+    "c_numberReviews": "75",
+    "c_priceRange": "$6.50 - $29.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/90-cellars-old-vine-malbec-lot-23/p1773",
+    "name": "90+ Cellars Old Vine Malbec (Lot 23)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-90-cellars-old-vine-malbec-lot-23-4328edf9041f2988.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNQS5fl3Z6YSVxvGDXiUMIN83WlMH0GokrCVDMtiR5I/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNQS5fl3Z6YSVxvGDXiUMIN83WlMH0GokrCVDMtiR5I/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kNQS5fl3Z6YSVxvGDXiUMIN83WlMH0GokrCVDMtiR5I/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kNQS5fl3Z6YSVxvGDXiUMIN83WlMH0GokrCVDMtiR5I/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

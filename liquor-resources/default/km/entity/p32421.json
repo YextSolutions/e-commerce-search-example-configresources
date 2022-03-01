@@ -1,0 +1,43 @@
+{
+  "$id": "p32421",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "17.91",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.49 - $17.91",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/frio-7-times-distilled-vodka/p32421",
+    "name": "Frio 7 Times Distilled Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-frio-7-times-dist-vodka-b5c6ab1fef383190.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/dm9_tBDg67JjI48aObJnvEHW5XjGEJVU8usR2WXksW4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dm9_tBDg67JjI48aObJnvEHW5XjGEJVU8usR2WXksW4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/dm9_tBDg67JjI48aObJnvEHW5XjGEJVU8usR2WXksW4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dm9_tBDg67JjI48aObJnvEHW5XjGEJVU8usR2WXksW4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

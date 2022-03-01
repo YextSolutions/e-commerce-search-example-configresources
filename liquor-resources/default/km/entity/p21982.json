@@ -1,0 +1,17 @@
+{
+  "$id": "p21982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "289",
+    "c_priceRange": "$11.99 - $32.99",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/captain-morgan-silver-spiced-rum/p21982",
+    "name": "Captain Morgan Silver Spiced Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

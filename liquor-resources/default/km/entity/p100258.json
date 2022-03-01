@@ -1,0 +1,17 @@
+{
+  "$id": "p100258",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "29.39",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$25.99 - $29.39",
+    "c_subCategory": "Orange Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/orange-wine/calcarius-orange-puglia/p100258",
+    "name": "Calcarius Orange Puglia"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

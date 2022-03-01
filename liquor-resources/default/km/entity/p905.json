@@ -1,0 +1,44 @@
+{
+  "$id": "p905",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "5.67",
+    "c_numberReviews": "85",
+    "c_priceRange": "$5.67 - $34.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/bells-oberon-american-wheat-ale/p905",
+    "name": "Bell\u0027s Oberon American Wheat Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-bells-oberon-ale-1c67c830d38d946d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/jw-6gDvmJZaFZ1632CspO-PFdA1Tf2863ekb0jdzkag/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/jw-6gDvmJZaFZ1632CspO-PFdA1Tf2863ekb0jdzkag/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/jw-6gDvmJZaFZ1632CspO-PFdA1Tf2863ekb0jdzkag/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/jw-6gDvmJZaFZ1632CspO-PFdA1Tf2863ekb0jdzkag/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

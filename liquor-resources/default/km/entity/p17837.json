@@ -1,0 +1,17 @@
+{
+  "$id": "p17837",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "399.99",
+    "c_minPrice": "63.79",
+    "c_numberReviews": "37",
+    "c_priceRange": "$63.79 - $399.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/whistlepig-old-world-rye-aged-12-years/p17837",
+    "name": "WhistlePig Old World Rye Aged 12 Years"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p61208",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "7.96",
+    "c_numberReviews": "59",
+    "c_priceRange": "$7.96 - $23.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/matua-marlborough-pinot-noir-rose/p61208",
+    "name": "Matua Marlborough Pinot Noir Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

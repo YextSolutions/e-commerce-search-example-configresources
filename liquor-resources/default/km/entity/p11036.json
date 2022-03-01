@@ -1,0 +1,17 @@
+{
+  "$id": "p11036",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "59",
+    "c_priceRange": "$7.99 - $20.99",
+    "c_subCategory": "Pale Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/upslope-craft-lager/p11036",
+    "name": "Upslope Craft Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

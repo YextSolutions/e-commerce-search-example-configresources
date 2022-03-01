@@ -1,0 +1,17 @@
+{
+  "$id": "p121492",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "25.30",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$17.99 - $25.30",
+    "c_subCategory": "Vermouth",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/vermouth/method-sweet-vermouth/p121492",
+    "name": "Method Sweet Vermouth"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p11488",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "77.77",
+    "c_minPrice": "14.00",
+    "c_numberReviews": "254",
+    "c_priceRange": "$14.00 - $77.77",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/decoy-pinot-noir/p11488",
+    "name": "Decoy Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5216",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "10.80",
+    "c_numberReviews": "16",
+    "c_priceRange": "$10.80 - $24.99",
+    "c_subCategory": "Mourvedre",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/mourvedre/juan-gil/p5216",
+    "name": "Juan Gil"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

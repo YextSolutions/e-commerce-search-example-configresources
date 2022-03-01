@@ -1,0 +1,17 @@
+{
+  "$id": "p112680",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "24",
+    "c_priceRange": "$9.98 - $35.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/flying-embers-fruit-and-flora-variety-pack-hard-seltzer/p112680",
+    "name": "Flying Embers Fruit \u0026 Flora Variety Pack Hard Seltzer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

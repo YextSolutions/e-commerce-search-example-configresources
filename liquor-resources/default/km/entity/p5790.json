@@ -1,0 +1,17 @@
+{
+  "$id": "p5790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "159.05",
+    "c_minPrice": "19.55",
+    "c_numberReviews": "108",
+    "c_priceRange": "$19.55 - $159.05",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/corralejo-tequila-reposado/p5790",
+    "name": "Corralejo Tequila Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p86456",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$13.99 - $34.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/ironside-pinot-noir/p86456",
+    "name": "Ironside Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p81248",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$20.99 - $89.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/siempre-tequila-plata/p81248",
+    "name": "Siempre Tequila Plata"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

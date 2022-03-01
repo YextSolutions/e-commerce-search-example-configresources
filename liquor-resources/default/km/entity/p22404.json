@@ -1,0 +1,17 @@
+{
+  "$id": "p22404",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.77",
+    "c_numberReviews": "5",
+    "c_priceRange": "$9.77 - $23.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/da-luca-prosecco-nv/p22404",
+    "name": "Da Luca Prosecco Nv"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p99782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "20",
+    "c_priceRange": "$8.99 - $26.99",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/boochcraft-ginger-lime-organic-hard-kombucha/p99782",
+    "name": "Boochcraft Ginger Lime Organic Hard Kombucha"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

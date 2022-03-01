@@ -1,0 +1,17 @@
+{
+  "$id": "p5884",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "4199.00",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$39.99 - $4199.00",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/plantation-xo-20th-anniversary-barbados-rum/p5884",
+    "name": "Plantation X.O. 20th Anniversary Barbados Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

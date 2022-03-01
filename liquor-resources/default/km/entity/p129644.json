@@ -1,0 +1,17 @@
+{
+  "$id": "p129644",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$3.99 - $19.99",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/truly-hard-seltzer-lemon-iced-tea-spiked-and-sparkling-water/p129644",
+    "name": "TRULY Hard Seltzer Lemon Iced Tea, Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

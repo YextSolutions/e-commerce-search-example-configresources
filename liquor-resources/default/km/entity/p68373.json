@@ -1,0 +1,16 @@
+{
+  "$id": "p68373",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "20.39",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "51",
+    "c_priceRange": "$2.99 - $20.39",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/cutwater-bloody-mary/p68373",
+    "name": "Cutwater Bloody Mary"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

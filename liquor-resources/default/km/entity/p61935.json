@@ -1,0 +1,17 @@
+{
+  "$id": "p61935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.79 - $17.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/los-monteros-cava/p61935",
+    "name": "Los Monteros Cava"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

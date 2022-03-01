@@ -1,0 +1,17 @@
+{
+  "$id": "p2158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "46",
+    "c_priceRange": "$2.00 - $19.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/woodbridge-malbec-by-robert-mondavi/p2158",
+    "name": "Woodbridge Malbec by Robert Mondavi"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

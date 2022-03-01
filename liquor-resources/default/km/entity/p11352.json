@@ -1,0 +1,43 @@
+{
+  "$id": "p11352",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "30.58",
+    "c_minPrice": "11.25",
+    "c_numberReviews": "158",
+    "c_priceRange": "$11.25 - $30.58",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/smirnoff-ice-party-pack/p11352",
+    "name": "Smirnoff Ice Party Pack",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-smirnoff-ice-party-pack-ef8daf3fea3fec67.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/kzd_extU-zVeIAXcbPJW8amuIJNIWSZJ75b1EIE2KW4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/kzd_extU-zVeIAXcbPJW8amuIJNIWSZJ75b1EIE2KW4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/kzd_extU-zVeIAXcbPJW8amuIJNIWSZJ75b1EIE2KW4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/kzd_extU-zVeIAXcbPJW8amuIJNIWSZJ75b1EIE2KW4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "p10803",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "17",
+    "c_priceRange": "$4.99 - $13.19",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "Red Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/red-sangria/ed-hardys-red-sangria/p10803",
+    "name": "Ed Hardy\u0027s Red Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p51414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.85",
+    "c_minPrice": "3.39",
+    "c_numberReviews": "6",
+    "c_priceRange": "$3.39 - $24.85",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/modern-times-fortunate-islands/p51414",
+    "name": "Modern Times Fortunate Islands"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

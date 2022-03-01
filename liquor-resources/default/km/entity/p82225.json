@@ -1,0 +1,16 @@
+{
+  "$id": "p82225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "8.04",
+    "c_numberReviews": "24",
+    "c_priceRange": "$8.04 - $11.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/phillips-vodka/p82225",
+    "name": "Phillips Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

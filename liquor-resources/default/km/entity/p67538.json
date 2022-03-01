@@ -1,0 +1,16 @@
+{
+  "$id": "p67538",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "84.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$14.99 - $84.99",
+    "landingPageUrl": "https://drizly.com/liquor/gin/glendalough-wild-botanical-gin/p67538",
+    "name": "Glendalough Wild Botanical Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

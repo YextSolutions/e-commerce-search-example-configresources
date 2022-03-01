@@ -1,0 +1,17 @@
+{
+  "$id": "p985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "37",
+    "c_priceRange": "$9.99 - $30.79",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/black-box-shiraz-red-wine-box-wine/p985",
+    "name": "Black Box Shiraz Red Wine Box Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

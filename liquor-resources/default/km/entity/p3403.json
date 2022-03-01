@@ -1,0 +1,17 @@
+{
+  "$id": "p3403",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "79.77",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "587",
+    "c_priceRange": "$15.99 - $79.77",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/four-roses-bourbon/p3403",
+    "name": "Four Roses Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p99144",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "67.49",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$21.99 - $67.49",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/chivas-regal-13-year/p99144",
+    "name": "Chivas Regal 13 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

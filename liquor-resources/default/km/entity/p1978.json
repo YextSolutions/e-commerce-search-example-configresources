@@ -1,0 +1,17 @@
+{
+  "$id": "p1978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "45.00",
+    "c_minPrice": "13.73",
+    "c_numberReviews": "15",
+    "c_priceRange": "$13.73 - $45.00",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/brugal-extra-viejo-rum/p1978",
+    "name": "Brugal Extra Viejo Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

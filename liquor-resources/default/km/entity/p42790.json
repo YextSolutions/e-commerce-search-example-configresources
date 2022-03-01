@@ -1,0 +1,44 @@
+{
+  "$id": "p42790",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "7.49",
+    "c_numberReviews": "6",
+    "c_priceRange": "$7.49 - $16.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/natura-organic-malbec/p42790",
+    "name": "Natura Organic Malbec",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-natura-malbec-5bbfa36aa78232ef.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/29bu40mUSV0rua9atT1f7761SnNtx_Nk9AsrFhbwk-4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/29bu40mUSV0rua9atT1f7761SnNtx_Nk9AsrFhbwk-4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/29bu40mUSV0rua9atT1f7761SnNtx_Nk9AsrFhbwk-4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/29bu40mUSV0rua9atT1f7761SnNtx_Nk9AsrFhbwk-4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

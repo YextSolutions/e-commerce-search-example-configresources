@@ -1,0 +1,17 @@
+{
+  "$id": "p85634",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "12.19",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "19",
+    "c_priceRange": "$2.00 - $12.19",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/sutter-home-moscato-sangria-750ml-wine-bottle/p85634",
+    "name": "Sutter Home Moscato Sangria, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

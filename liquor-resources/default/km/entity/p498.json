@@ -1,0 +1,17 @@
+{
+  "$id": "p498",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "1199.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$59.99 - $1199.99",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/veuve-clicquot-la-grande-dame-vintage-champagne/p498",
+    "name": "Veuve Clicquot La Grande Dame Vintage Champagne"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

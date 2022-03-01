@@ -1,0 +1,17 @@
+{
+  "$id": "p16764",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "7.02",
+    "c_numberReviews": "9",
+    "c_priceRange": "$7.02 - $19.99",
+    "c_subCategory": "Riesling",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/riesling/blufeld-riesling/p16764",
+    "name": "Blufeld Riesling"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

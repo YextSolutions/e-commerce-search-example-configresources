@@ -1,0 +1,17 @@
+{
+  "$id": "p82452",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "48.99",
+    "c_minPrice": "22.99",
+    "c_numberReviews": "73",
+    "c_priceRange": "$22.99 - $48.99",
+    "c_subCategory": "Coffee Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/coffee-liqueur/mr-black-cold-brew-coffee-liquor/p82452",
+    "name": "Mr. Black Cold Brew Coffee Liquor"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

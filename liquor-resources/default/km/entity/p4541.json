@@ -1,0 +1,17 @@
+{
+  "$id": "p4541",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "83.59",
+    "c_minPrice": "9.49",
+    "c_numberReviews": "410",
+    "c_priceRange": "$9.49 - $83.59",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/seagrams-extra-dry-gin/p4541",
+    "name": "Seagram\u0027s Extra Dry Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

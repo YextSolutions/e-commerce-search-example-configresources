@@ -1,0 +1,17 @@
+{
+  "$id": "p91661",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "90.00",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "29",
+    "c_priceRange": "$20.99 - $90.00",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/old-forester-rye/p91661",
+    "name": "Old Forester Rye"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p61970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$17.99 - $59.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/devils-river-bourbon/p61970",
+    "name": "Devils River Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

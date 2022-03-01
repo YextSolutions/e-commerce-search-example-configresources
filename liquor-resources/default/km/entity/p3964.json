@@ -1,0 +1,17 @@
+{
+  "$id": "p3964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "8.26",
+    "c_numberReviews": "8",
+    "c_priceRange": "$8.26 - $23.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/plungerhead-zinfandel/p3964",
+    "name": "Plungerhead Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

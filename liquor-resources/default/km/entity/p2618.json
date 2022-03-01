@@ -1,0 +1,16 @@
+{
+  "$id": "p2618",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Bordeaux Blend",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "10.70",
+    "c_numberReviews": "37",
+    "c_priceRange": "$10.70 - $26.99",
+    "landingPageUrl": "https://drizly.com/wine/bordeaux-blend/chateau-recougne-bordeaux-superieur/p2618",
+    "name": "Chateau Recougne Bordeaux Superieur"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

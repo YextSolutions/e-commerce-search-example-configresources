@@ -1,0 +1,17 @@
+{
+  "$id": "p7711",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "112.49",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$35.99 - $112.49",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/balcones-brimstone/p7711",
+    "name": "Balcones Brimstone"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

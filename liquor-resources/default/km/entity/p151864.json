@@ -1,0 +1,16 @@
+{
+  "$id": "p151864",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "377.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "90",
+    "c_priceRange": "$26.99 - $377.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/luc-belaire-bleu-edition-limitee/p151864",
+    "name": "Luc Belaire Bleu Édition Limitée"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

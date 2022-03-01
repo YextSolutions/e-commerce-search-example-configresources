@@ -1,0 +1,17 @@
+{
+  "$id": "p5104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "41.79",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "49",
+    "c_priceRange": "$8.79 - $41.79",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/jandb-rare-blended-scotch/p5104",
+    "name": "J\u0026B Rare Blended Scotch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

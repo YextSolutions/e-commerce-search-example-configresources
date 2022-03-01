@@ -1,0 +1,16 @@
+{
+  "$id": "p27553",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "1406.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "166",
+    "c_priceRange": "$8.99 - $1406.99",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/western-son-original-vodka/p27553",
+    "name": "Western Son Original Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

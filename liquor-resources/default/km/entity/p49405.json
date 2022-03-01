@@ -1,0 +1,18 @@
+{
+  "$id": "p49405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "19.19",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$13.99 - $19.19",
+    "c_subCategory": "Bock",
+    "c_type": "Eisbock",
+    "landingPageUrl": "https://drizly.com/beer/lager/bock/eisbock/schneider-aventinus-weizen-eisbock/p49405",
+    "name": "Schneider Aventinus Weizen-Eisbock"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

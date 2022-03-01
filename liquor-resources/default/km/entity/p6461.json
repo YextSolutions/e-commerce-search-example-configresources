@@ -1,0 +1,17 @@
+{
+  "$id": "p6461",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "46.50",
+    "c_minPrice": "14.97",
+    "c_numberReviews": "31",
+    "c_priceRange": "$14.97 - $46.50",
+    "c_subCategory": "Anise Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/anise-liqueur/romana-sambuca-black/p6461",
+    "name": "Romana Sambuca Black"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

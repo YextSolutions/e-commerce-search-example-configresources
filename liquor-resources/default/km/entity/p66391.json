@@ -1,0 +1,18 @@
+{
+  "$id": "p66391",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$8.99 - $20.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/bristol-laughing-lab-scottish-ale/p66391",
+    "name": "Bristol Laughing Lab Scottish Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

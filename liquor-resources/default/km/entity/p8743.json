@@ -1,0 +1,17 @@
+{
+  "$id": "p8743",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "6.80",
+    "c_numberReviews": "164",
+    "c_priceRange": "$6.80 - $19.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/barefoot-bubbly-brut-cuvee/p8743",
+    "name": "Barefoot Bubbly Brut Cuvée"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

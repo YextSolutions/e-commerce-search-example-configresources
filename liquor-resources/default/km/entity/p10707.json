@@ -1,0 +1,44 @@
+{
+  "$id": "p10707",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.25",
+    "c_numberReviews": "34",
+    "c_priceRange": "$8.25 - $25.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/dekuyper-creme-de-cacao-brown/p10707",
+    "name": "Dekuyper Crème de Cacao Dark Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-dekuyper-creme-de-cacao-brown-e1e9bcee4b148fe2.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/S6QDriICXJeZDjigNKocLD0SL8APrTM31Y7dG162xmM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/S6QDriICXJeZDjigNKocLD0SL8APrTM31Y7dG162xmM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/S6QDriICXJeZDjigNKocLD0SL8APrTM31Y7dG162xmM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/S6QDriICXJeZDjigNKocLD0SL8APrTM31Y7dG162xmM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p6034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "8.12",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.12 - $17.99",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/castillo-gold-rum/p6034",
+    "name": "Castillo Gold Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-castillo-gold-rum-69bded7f660d51fd.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/F9eEaSctpjLxqaernX7235ncpFYTcsCit3E50h0bZuM/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/F9eEaSctpjLxqaernX7235ncpFYTcsCit3E50h0bZuM/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/F9eEaSctpjLxqaernX7235ncpFYTcsCit3E50h0bZuM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/F9eEaSctpjLxqaernX7235ncpFYTcsCit3E50h0bZuM/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

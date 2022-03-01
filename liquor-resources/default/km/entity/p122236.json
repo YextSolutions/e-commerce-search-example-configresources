@@ -1,0 +1,17 @@
+{
+  "$id": "p122236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$11.99 - $14.29",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/hellbent-brewing-seattle-sunshine-hazy-pale-ale/p122236",
+    "name": "Hellbent Brewing Seattle Sunshine Hazy Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

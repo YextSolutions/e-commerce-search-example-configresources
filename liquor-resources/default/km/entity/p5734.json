@@ -1,0 +1,17 @@
+{
+  "$id": "p5734",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "56.99",
+    "c_minPrice": "11.97",
+    "c_numberReviews": "5",
+    "c_priceRange": "$11.97 - $56.99",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/rihaku-dreamy-clouds-sake/p5734",
+    "name": "Rihaku Dreamy Clouds Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

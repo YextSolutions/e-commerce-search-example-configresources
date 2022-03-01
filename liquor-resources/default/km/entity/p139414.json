@@ -1,0 +1,15 @@
+{
+  "$id": "p139414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_minPrice": "48.00",
+    "c_numberReviews": "12",
+    "c_priceRange": "$48.00",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/corona-refresca-mas-mango-citrus-spiked-tropical-cocktail/p139414",
+    "name": "Corona Refresca Mas Mango Citrus Spiked Tropical Cocktail"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

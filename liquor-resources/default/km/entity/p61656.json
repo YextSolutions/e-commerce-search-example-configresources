@@ -1,0 +1,17 @@
+{
+  "$id": "p61656",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "16.49",
+    "c_numberReviews": "48",
+    "c_priceRange": "$16.49 - $59.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/ciroc-summer-colada/p61656",
+    "name": "CIROC Summer Colada"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

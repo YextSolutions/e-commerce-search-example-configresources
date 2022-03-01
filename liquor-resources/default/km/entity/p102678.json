@@ -1,0 +1,17 @@
+{
+  "$id": "p102678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "23",
+    "c_priceRange": "$9.99 - $15.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/fremont-golden-pilsner/p102678",
+    "name": "Fremont Golden Pilsner"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

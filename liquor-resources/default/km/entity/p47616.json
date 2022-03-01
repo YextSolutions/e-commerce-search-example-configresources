@@ -1,0 +1,17 @@
+{
+  "$id": "p47616",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "2.25",
+    "c_numberReviews": "45",
+    "c_priceRange": "$2.25 - $24.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/ritas-water-melon-rita/p47616",
+    "name": "RITAS Water-Melon-Rita"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

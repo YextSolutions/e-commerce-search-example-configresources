@@ -1,0 +1,17 @@
+{
+  "$id": "p5715",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$13.99 - $29.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/el-dorado-3-year-white-rum/p5715",
+    "name": "El Dorado 3 Year White Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

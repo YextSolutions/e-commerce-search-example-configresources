@@ -1,0 +1,18 @@
+{
+  "$id": "p96198",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "17.23",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "78",
+    "c_priceRange": "$6.59 - $17.23",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/capriccio-watermelon-sangria/p96198",
+    "name": "Capriccio Watermelon Sangria"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

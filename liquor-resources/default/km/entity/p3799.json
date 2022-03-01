@@ -1,0 +1,17 @@
+{
+  "$id": "p3799",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "11.78",
+    "c_numberReviews": "123",
+    "c_priceRange": "$11.78 - $109.99",
+    "c_subCategory": "Coffee Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/coffee-liqueur/patron-xo-cafe/p3799",
+    "name": "Patrón XO Cafe"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

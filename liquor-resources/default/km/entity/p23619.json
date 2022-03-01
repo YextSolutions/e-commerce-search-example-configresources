@@ -1,0 +1,16 @@
+{
+  "$id": "p23619",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_minPrice": "20.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$20.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/loca-linda-malbec/p23619",
+    "name": "Loca Linda Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

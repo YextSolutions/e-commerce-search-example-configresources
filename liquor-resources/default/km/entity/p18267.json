@@ -1,0 +1,17 @@
+{
+  "$id": "p18267",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "93.99",
+    "c_minPrice": "9.04",
+    "c_numberReviews": "95",
+    "c_priceRange": "$9.04 - $93.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/antigal-uno-malbec/p18267",
+    "name": "Antigal Uno Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

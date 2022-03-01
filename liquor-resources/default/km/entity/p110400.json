@@ -1,0 +1,17 @@
+{
+  "$id": "p110400",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "11.88",
+    "c_numberReviews": "4",
+    "c_priceRange": "$11.88 - $24.99",
+    "c_subCategory": "Lambrusco",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/lambrusco/medici-ermete-quercioli-reggiano-lambrusco-doc-dolce/p110400",
+    "name": "Medici Ermete Quercioli Reggiano Lambrusco D.O.C. Dolce"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

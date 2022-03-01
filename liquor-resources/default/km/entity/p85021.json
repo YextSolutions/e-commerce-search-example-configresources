@@ -1,0 +1,17 @@
+{
+  "$id": "p85021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "1.79",
+    "c_numberReviews": "3",
+    "c_priceRange": "$1.79 - $14.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/oliver-brewing-206-ipa/p85021",
+    "name": "Oliver Brewing 206 IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

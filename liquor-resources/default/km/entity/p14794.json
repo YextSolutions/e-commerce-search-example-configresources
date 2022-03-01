@@ -1,0 +1,17 @@
+{
+  "$id": "p14794",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "25.49",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "53",
+    "c_priceRange": "$7.99 - $25.49",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/freixenet-cordon-negro-extra-dry-cava-sparkling-white-wine/p14794",
+    "name": "Freixenet Cordon Negro Extra Dry Cava Sparkling White Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

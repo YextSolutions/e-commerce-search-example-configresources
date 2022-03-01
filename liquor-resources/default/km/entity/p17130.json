@@ -1,0 +1,17 @@
+{
+  "$id": "p17130",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "5.00",
+    "c_numberReviews": "32",
+    "c_priceRange": "$5.00 - $21.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/noble-vines-446-chardonnay/p17130",
+    "name": "Noble Vines 446 Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

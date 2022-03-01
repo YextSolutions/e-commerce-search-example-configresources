@@ -1,0 +1,17 @@
+{
+  "$id": "p17168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "52.49",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$13.99 - $52.49",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/roth-cabernet-sauvignon/p17168",
+    "name": "Roth Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

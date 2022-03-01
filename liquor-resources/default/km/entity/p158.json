@@ -1,0 +1,16 @@
+{
+  "$id": "p158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Port Blend",
+    "c_maxPrice": "59.39",
+    "c_minPrice": "19.00",
+    "c_numberReviews": "41",
+    "c_priceRange": "$19.00 - $59.39",
+    "landingPageUrl": "https://drizly.com/wine/port-blend/taylor-fladgate-porto-10-year-old-tawny/p158",
+    "name": "Taylor Fladgate Porto 10 Year Old Tawny"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

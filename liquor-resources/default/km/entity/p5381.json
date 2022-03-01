@@ -1,0 +1,17 @@
+{
+  "$id": "p5381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$12.99 - $49.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/deaths-door-gin/p5381",
+    "name": "Death\u0027s Door Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

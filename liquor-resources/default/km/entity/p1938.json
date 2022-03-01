@@ -1,0 +1,17 @@
+{
+  "$id": "p1938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "10.06",
+    "c_numberReviews": "353",
+    "c_priceRange": "$10.06 - $27.49",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/bread-and-butter-chardonnay/p1938",
+    "name": "Bread \u0026 Butter Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

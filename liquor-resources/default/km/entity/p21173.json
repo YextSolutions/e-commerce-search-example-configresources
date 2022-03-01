@@ -1,0 +1,18 @@
+{
+  "$id": "p21173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "116",
+    "c_priceRange": "$5.99 - $32.99",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/montucky-cold-snack/p21173",
+    "name": "Montucky Cold Snack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

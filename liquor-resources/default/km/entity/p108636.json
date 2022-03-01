@@ -1,0 +1,17 @@
+{
+  "$id": "p108636",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$4.99 - $13.99",
+    "c_subCategory": "Non Alcoholic Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/non-alcoholic-wine/fre-alcohol-removed-sparkling-brut/p108636",
+    "name": "Fre Alcohol-Removed Sparkling Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p9348",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.25",
+    "c_numberReviews": "153",
+    "c_priceRange": "$8.25 - $25.99",
+    "c_subCategory": "Canadian Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/canadian-whisky/canadian-mist-canadian-whisky/p9348",
+    "name": "Canadian Mist Canadian Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

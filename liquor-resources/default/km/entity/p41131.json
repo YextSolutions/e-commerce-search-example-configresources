@@ -1,0 +1,17 @@
+{
+  "$id": "p41131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "5.50",
+    "c_numberReviews": "24",
+    "c_priceRange": "$5.50 - $25.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/columbia-crest-grand-estates-cabernet-sauvignon/p41131",
+    "name": "Columbia Crest Grand Estates Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

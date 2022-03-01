@@ -1,0 +1,17 @@
+{
+  "$id": "p4433",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "120.99",
+    "c_minPrice": "48.29",
+    "c_numberReviews": "9",
+    "c_priceRange": "$48.29 - $120.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/sandeman-20-year-old-aged-tawny/p4433",
+    "name": "Sandeman 20 Year Old Aged Tawny"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

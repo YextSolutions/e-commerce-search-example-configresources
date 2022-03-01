@@ -1,0 +1,17 @@
+{
+  "$id": "p7771",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "19.79",
+    "c_numberReviews": "140",
+    "c_priceRange": "$19.79 - $76.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/buchanans-deluxe-aged-12-years-blended-scotch-whisky/p7771",
+    "name": "Buchanan\u0027s DeLuxe Aged 12 Years Blended Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,43 @@
+{
+  "$id": "p6236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "2835.00",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "32",
+    "c_priceRange": "$10.99 - $2835.00",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/minuty-cotes-de-provence-rose/p6236",
+    "name": "Chateau Minuty \u0027M\u0027 Cotes de Provence Rosé",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-chateau-minuty-m-cotes-de-provence-rose-4d4f5509e1299142.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Td0NJu_Q55RitQCXClBXl5HnSOxOudaCERtHmS_wqiQ/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Td0NJu_Q55RitQCXClBXl5HnSOxOudaCERtHmS_wqiQ/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Td0NJu_Q55RitQCXClBXl5HnSOxOudaCERtHmS_wqiQ/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Td0NJu_Q55RitQCXClBXl5HnSOxOudaCERtHmS_wqiQ/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

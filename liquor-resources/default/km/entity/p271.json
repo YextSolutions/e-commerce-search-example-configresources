@@ -1,0 +1,18 @@
+{
+  "$id": "p271",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$11.99 - $18.99",
+    "c_subCategory": "Strong Ale",
+    "c_type": "Scotch Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/strong-ale/scotch-ale/3-floyds-brewing-robert-the-bruce-scottish-ale/p271",
+    "name": "3 Floyds Brewing Robert The Bruce Scottish Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

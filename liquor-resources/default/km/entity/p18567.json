@@ -1,0 +1,17 @@
+{
+  "$id": "p18567",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "40.24",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$18.99 - $40.24",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/calera-central-coast-pinot-noir/p18567",
+    "name": "Calera Central Coast Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p24979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "19",
+    "c_priceRange": "$12.09",
+    "c_subCategory": "Hard Iced Tea",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-iced-tea/the-club-long-island-iced-tea/p24979",
+    "name": "The Club Long Island Iced Tea"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

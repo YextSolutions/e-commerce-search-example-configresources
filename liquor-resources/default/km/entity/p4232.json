@@ -1,0 +1,17 @@
+{
+  "$id": "p4232",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "44.99",
+    "c_minPrice": "10.79",
+    "c_numberReviews": "35",
+    "c_priceRange": "$10.79 - $44.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/robert-mondavi-winery-napa-valley-chardonnay/p4232",
+    "name": "Robert Mondavi Winery Napa Valley Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p28666",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "11.19",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$5.99 - $11.19",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/principato-pinot-grigio/p28666",
+    "name": "Principato Pinot Grigio"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p102509",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "4.99",
+    "c_minPrice": "2.94",
+    "c_numberReviews": "135",
+    "c_priceRange": "$2.94 - $4.99",
+    "c_subCategory": "Mudslide Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/mudslide-ready-to-drink/buzzballz-choco-chiller/p102509",
+    "name": "BuzzBallz Choco Chiller"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

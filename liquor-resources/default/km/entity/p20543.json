@@ -1,0 +1,44 @@
+{
+  "$id": "p20543",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "209",
+    "c_priceRange": "$6.99 - $69.99",
+    "c_subCategory": "Cava",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/cava/campo-viejo-cava-brut-reserva/p20543",
+    "name": "Campo Viejo Cava Brut Reserva",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-campo-viejo-cava-brut-reserva-fdaca3cd291dca3d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_jx9r1ybUszjKB8f7POHh-JbTkShYF4vfS2Xyof4PA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_jx9r1ybUszjKB8f7POHh-JbTkShYF4vfS2Xyof4PA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/a_jx9r1ybUszjKB8f7POHh-JbTkShYF4vfS2Xyof4PA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/a_jx9r1ybUszjKB8f7POHh-JbTkShYF4vfS2Xyof4PA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

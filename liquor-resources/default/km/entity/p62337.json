@@ -1,0 +1,17 @@
+{
+  "$id": "p62337",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "61",
+    "c_priceRange": "$8.99 - $30.79",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/eandj-vanilla-brandy/p62337",
+    "name": "E\u0026J Vanilla Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

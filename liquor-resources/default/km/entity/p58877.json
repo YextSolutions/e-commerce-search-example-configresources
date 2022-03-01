@@ -1,0 +1,16 @@
+{
+  "$id": "p58877",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$9.99 - $47.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/st-george-bruto-americano/p58877",
+    "name": "St. George Bruto Americano"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

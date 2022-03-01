@@ -1,0 +1,17 @@
+{
+  "$id": "p28155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.98 - $31.99",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/the-irishman-irish-cream/p28155",
+    "name": "The Irishman Irish Cream"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

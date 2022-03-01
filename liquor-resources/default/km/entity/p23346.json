@@ -1,0 +1,44 @@
+{
+  "$id": "p23346",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "9.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "27",
+    "c_priceRange": "$8.99 - $9.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/juarez-triple-sec/p23346",
+    "name": "Juarez Triple Sec",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-juarez-triple-sec-573c165fc6e9ebeb.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/tDo9228v1x-dcOpSf3Uw1fqVFq2cxLHvAfjbXnEb0ec/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/tDo9228v1x-dcOpSf3Uw1fqVFq2cxLHvAfjbXnEb0ec/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/tDo9228v1x-dcOpSf3Uw1fqVFq2cxLHvAfjbXnEb0ec/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/tDo9228v1x-dcOpSf3Uw1fqVFq2cxLHvAfjbXnEb0ec/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p80026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.99 - $24.19",
+    "c_subCategory": "Cream Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/cream-liqueur/ponche-crema/p80026",
+    "name": "Ponche Crema Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

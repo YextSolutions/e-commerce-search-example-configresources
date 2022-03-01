@@ -1,0 +1,44 @@
+{
+  "$id": "p1838",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "3.47",
+    "c_numberReviews": "2258",
+    "c_priceRange": "$3.47 - $99.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/barefoot-pinot-grigio/p1838",
+    "name": "Barefoot Pinot Grigio",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-barefoot-pinot-grigio-e7b927de127cbf20.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/eruYmQI-zXrwUpHyQScZgM_Jd24HGJnVx-epdUUc7Mk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eruYmQI-zXrwUpHyQScZgM_Jd24HGJnVx-epdUUc7Mk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/eruYmQI-zXrwUpHyQScZgM_Jd24HGJnVx-epdUUc7Mk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eruYmQI-zXrwUpHyQScZgM_Jd24HGJnVx-epdUUc7Mk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

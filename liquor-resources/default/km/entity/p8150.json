@@ -1,0 +1,17 @@
+{
+  "$id": "p8150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "7.48",
+    "c_numberReviews": "6",
+    "c_priceRange": "$7.48 - $27.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/villa-maria-pinot-noir-private-bin/p8150",
+    "name": "Villa Maria Pinot Noir Private Bin"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p14138",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "11.79",
+    "c_numberReviews": "13",
+    "c_priceRange": "$11.79 - $22.99",
+    "c_subCategory": "Stout",
+    "c_type": "Imperial Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/imperial-stout/southern-tier-warlock/p14138",
+    "name": "Southern Tier Warlock Imperial Stout"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

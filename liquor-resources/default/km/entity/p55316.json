@@ -1,0 +1,17 @@
+{
+  "$id": "p55316",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "36.29",
+    "c_minPrice": "14.15",
+    "c_numberReviews": "81",
+    "c_priceRange": "$14.15 - $36.29",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/intrinsic-cabernet-sauvignon/p55316",
+    "name": "INTRINSIC Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

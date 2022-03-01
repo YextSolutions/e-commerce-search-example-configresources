@@ -1,0 +1,17 @@
+{
+  "$id": "p30236",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "9.75",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.75 - $23.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/100-pipers-scotch/p30236",
+    "name": "100 Pipers Scotch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

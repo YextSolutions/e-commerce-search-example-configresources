@@ -1,0 +1,17 @@
+{
+  "$id": "p19708",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "90.99",
+    "c_minPrice": "32.98",
+    "c_numberReviews": "4",
+    "c_priceRange": "$32.98 - $90.99",
+    "c_subCategory": "Calvados",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/calvados/boulard-vsop-calvados/p19708",
+    "name": "Boulard VSOP Calvados"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p4863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "74.24",
+    "c_minPrice": "18.60",
+    "c_numberReviews": "56",
+    "c_priceRange": "$18.60 - $74.24",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/stags-leap-winery-napa-valley-chardonnay/p4863",
+    "name": "Stags\u0027 Leap Winery Napa Valley Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

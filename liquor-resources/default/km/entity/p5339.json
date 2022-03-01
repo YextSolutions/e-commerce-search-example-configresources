@@ -1,0 +1,17 @@
+{
+  "$id": "p5339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "13.54",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.54 - $32.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/zuccardi-q-malbec/p5339",
+    "name": "Zuccardi Q Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

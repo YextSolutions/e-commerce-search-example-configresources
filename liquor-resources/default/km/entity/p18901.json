@@ -1,0 +1,17 @@
+{
+  "$id": "p18901",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "49.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$49.99 - $99.99",
+    "c_subCategory": "Brunello",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/brunello/argiano-brunello-di-montalcino/p18901",
+    "name": "Argiano Brunello Di Montalcino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

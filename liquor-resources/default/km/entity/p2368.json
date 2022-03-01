@@ -1,0 +1,16 @@
+{
+  "$id": "p2368",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$19.99 - $65.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/domaine-de-canton/p2368",
+    "name": "Domaine De Canton"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

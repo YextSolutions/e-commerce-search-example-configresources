@@ -1,0 +1,17 @@
+{
+  "$id": "p18991",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "83.99",
+    "c_minPrice": "34.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$34.99 - $83.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/camigliano-brunello-di-montalcino-docg/p18991",
+    "name": "Camigliano Brunello di Montalcino DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

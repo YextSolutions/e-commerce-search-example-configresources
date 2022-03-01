@@ -1,0 +1,44 @@
+{
+  "$id": "p21357",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.98",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "45",
+    "c_priceRange": "$12.09 - $26.98",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/99-pineapple-liqueur/p21357",
+    "name": "99 Pineapple Liqueur",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-99-pineapple-schnapps-52462d18ef911ca0.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/qhluusV4ZfgZEv7yL-2P9D6vzw9iIWQd5dqDy6kDsY8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/qhluusV4ZfgZEv7yL-2P9D6vzw9iIWQd5dqDy6kDsY8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/qhluusV4ZfgZEv7yL-2P9D6vzw9iIWQd5dqDy6kDsY8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qhluusV4ZfgZEv7yL-2P9D6vzw9iIWQd5dqDy6kDsY8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

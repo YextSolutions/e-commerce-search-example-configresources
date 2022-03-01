@@ -1,0 +1,17 @@
+{
+  "$id": "p84726",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "15.69",
+    "c_numberReviews": "36",
+    "c_priceRange": "$15.69 - $99.99",
+    "c_subCategory": "Moonshine",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/moonshine/ole-smoky-peaches-in-moonshine/p84726",
+    "name": "Ole Smoky Peaches in Moonshine"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

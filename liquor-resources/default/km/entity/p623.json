@@ -1,0 +1,18 @@
+{
+  "$id": "p623",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "30.79",
+    "c_minPrice": "6.29",
+    "c_numberReviews": "40",
+    "c_priceRange": "$6.29 - $30.79",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Tripel",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/tripel/allagash-curieux/p623",
+    "name": "Allagash Curieux"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p90433",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "99.99",
+    "c_minPrice": "11.54",
+    "c_numberReviews": "2",
+    "c_priceRange": "$11.54 - $99.99",
+    "c_subCategory": "Montepulciano",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/montepulciano/corte-fiore-lupi-reali-appassimento/p90433",
+    "name": "Corte Fiore Lupi Reali Appassimento"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

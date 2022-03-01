@@ -1,0 +1,17 @@
+{
+  "$id": "p4377",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "11",
+    "c_priceRange": "$14.99 - $29.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/salentein-reserve-malbec/p4377",
+    "name": "Salentein Reserve Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

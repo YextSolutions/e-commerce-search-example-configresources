@@ -1,0 +1,44 @@
+{
+  "$id": "p109704",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "34.44",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "80",
+    "c_priceRange": "$10.99 - $34.44",
+    "c_subCategory": "Flavored Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/flavored-rum/captain-morgan-sliced-apple/p109704",
+    "name": "Captain Morgan Sliced Apple",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-captain-morgan-sliced-apple-576f9a577be24d3a.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/yRZ8XJtZ7USjgjQS5od6dp18lFzGdN41KdvFPbD8Nhg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/yRZ8XJtZ7USjgjQS5od6dp18lFzGdN41KdvFPbD8Nhg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/yRZ8XJtZ7USjgjQS5od6dp18lFzGdN41KdvFPbD8Nhg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/yRZ8XJtZ7USjgjQS5od6dp18lFzGdN41KdvFPbD8Nhg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

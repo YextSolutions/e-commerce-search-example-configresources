@@ -1,0 +1,19 @@
+{
+  "$id": "p1121",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "47.77",
+    "c_minPrice": "1.75",
+    "c_numberReviews": "2817",
+    "c_priceRange": "$1.75 - $47.77",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/michelob-ultra/p1121",
+    "name": "Michelob Ultra"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5475",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "122",
+    "c_priceRange": "$17.99 - $49.99",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/bacardi-reserva-ocho-rum/p5475",
+    "name": "BACARDI Reserva Ocho Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

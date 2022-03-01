@@ -1,0 +1,17 @@
+{
+  "$id": "p32949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$5.99 - $12.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/boulaine-triple-sec/p32949",
+    "name": "Boulaine Triple Sec"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

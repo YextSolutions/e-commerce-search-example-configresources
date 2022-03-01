@@ -1,0 +1,18 @@
+{
+  "$id": "p7785",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "56",
+    "c_priceRange": "$2.99 - $65.99",
+    "c_subCategory": "Pale Ale",
+    "c_type": "Bitter Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/bitter-ale/fosters-premium-ale-beer/p7785",
+    "name": "Foster\u0027s Premium Ale Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p8116",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "899.99",
+    "c_minPrice": "41.00",
+    "c_numberReviews": "5",
+    "c_priceRange": "$41.00 - $899.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/rock-hill-farms-single-barrel-bourbon/p8116",
+    "name": "Rock Hill Farms Single Barrel Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

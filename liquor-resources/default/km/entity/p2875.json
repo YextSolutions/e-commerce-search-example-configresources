@@ -1,0 +1,17 @@
+{
+  "$id": "p2875",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$12.99 - $34.99",
+    "c_subCategory": "Gold Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/gold-rum/cruzan-151-proof-rum/p2875",
+    "name": "Cruzan 151 Proof Rum"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

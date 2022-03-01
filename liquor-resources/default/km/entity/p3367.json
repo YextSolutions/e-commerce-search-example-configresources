@@ -1,0 +1,17 @@
+{
+  "$id": "p3367",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "97.99",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "68",
+    "c_priceRange": "$17.59 - $97.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/flowers-sonoma-coast-pinot-noir/p3367",
+    "name": "Flowers Sonoma Coast Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

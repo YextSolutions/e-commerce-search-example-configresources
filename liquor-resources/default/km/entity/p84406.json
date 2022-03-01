@@ -1,0 +1,45 @@
+{
+  "$id": "p84406",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "52.99",
+    "c_minPrice": "7.79",
+    "c_numberReviews": "21",
+    "c_priceRange": "$7.79 - $52.99",
+    "c_subCategory": "Fruit Beer",
+    "c_type": "Shandy",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/shandy/jacks-abby-blood-orange-wheat-radler/p84406",
+    "name": "Jack\u0027s Abby Blood Orange Wheat Radler",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-jacks-abby-blood-orange-wheat-radler-e22122fe51dbd670.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/FALYSbsAMRO3d6BMQ5fUVweKVe3Cu_Orw84YCskqHIo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/FALYSbsAMRO3d6BMQ5fUVweKVe3Cu_Orw84YCskqHIo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/FALYSbsAMRO3d6BMQ5fUVweKVe3Cu_Orw84YCskqHIo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/FALYSbsAMRO3d6BMQ5fUVweKVe3Cu_Orw84YCskqHIo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

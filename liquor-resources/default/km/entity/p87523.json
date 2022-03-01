@@ -1,0 +1,17 @@
+{
+  "$id": "p87523",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "15.99",
+    "c_minPrice": "1.99",
+    "c_numberReviews": "78",
+    "c_priceRange": "$1.99 - $15.99",
+    "c_subCategory": "Fruit Cocktail Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/fruit-cocktail-ready-to-drink/monaco-cocktails-blue-crush/p87523",
+    "name": "Monaco Cocktails Blue Crush"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

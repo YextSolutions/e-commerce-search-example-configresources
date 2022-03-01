@@ -1,0 +1,17 @@
+{
+  "$id": "p99031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.77",
+    "c_numberReviews": "33",
+    "c_priceRange": "$9.77 - $24.99",
+    "c_subCategory": "Hard Kombucha",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-kombucha/flying-embers-grapefruit-hard-kombucha/p99031",
+    "name": "Flying Embers Grapefruit Hard Kombucha"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

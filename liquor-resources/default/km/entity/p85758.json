@@ -1,0 +1,17 @@
+{
+  "$id": "p85758",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.00",
+    "c_minPrice": "9.98",
+    "c_numberReviews": "106",
+    "c_priceRange": "$9.98 - $14.00",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/station-26-juicy-banger-ipa/p85758",
+    "name": "Station 26 Juicy Banger IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

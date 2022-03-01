@@ -1,0 +1,44 @@
+{
+  "$id": "p20451",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "35.63",
+    "c_minPrice": "19.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$19.99 - $35.63",
+    "c_subCategory": "Spiced Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/spiced-rum/old-new-orleans-cajun-spiced-rum/p20451",
+    "name": "Old New Orleans Cajun Spiced Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-old-new-orleans-cajun-spiced-rum-ad2b2e57dc398137.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_kQxin6p5BmTbXeYyZTM8JToy0KeMlk0Ctm2dLAhW8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_kQxin6p5BmTbXeYyZTM8JToy0KeMlk0Ctm2dLAhW8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/V_kQxin6p5BmTbXeYyZTM8JToy0KeMlk0Ctm2dLAhW8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/V_kQxin6p5BmTbXeYyZTM8JToy0KeMlk0Ctm2dLAhW8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p3692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "16.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$16.99 - $31.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/oberon-napa-valley-merlot/p3692",
+    "name": "Oberon Napa Valley Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

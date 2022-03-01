@@ -1,0 +1,17 @@
+{
+  "$id": "p84818",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "119",
+    "c_priceRange": "$15.99 - $69.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wild-turkey-longbranch/p84818",
+    "name": "Wild Turkey Longbranch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

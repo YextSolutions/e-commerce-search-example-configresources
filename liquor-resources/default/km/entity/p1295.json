@@ -1,0 +1,17 @@
+{
+  "$id": "p1295",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.98",
+    "c_numberReviews": "9",
+    "c_priceRange": "$6.98 - $18.99",
+    "c_subCategory": "Dessert Wine",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/dessert-wine/kinsen-plum-wine/p1295",
+    "name": "Kinsen Plum Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

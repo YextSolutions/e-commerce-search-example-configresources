@@ -1,0 +1,17 @@
+{
+  "$id": "p63485",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "31.89",
+    "c_minPrice": "13.77",
+    "c_numberReviews": "9",
+    "c_priceRange": "$13.77 - $31.89",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/gruet-sauvage/p63485",
+    "name": "Gruet Sauvage"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

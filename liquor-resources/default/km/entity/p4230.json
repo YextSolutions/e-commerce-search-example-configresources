@@ -1,0 +1,44 @@
+{
+  "$id": "p4230",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "5.44",
+    "c_numberReviews": "120",
+    "c_priceRange": "$5.44 - $22.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/robert-mondavi-merlot-private-selection/p4230",
+    "name": "Robert Mondavi Merlot Private Selection",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-robert-mondavi-private-selection-merlot-a538f47cc673d509.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/-1HcAxtjLPrAyEiSMw9edr3hvAI7qRbuW2-_juDgD3c/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-1HcAxtjLPrAyEiSMw9edr3hvAI7qRbuW2-_juDgD3c/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-1HcAxtjLPrAyEiSMw9edr3hvAI7qRbuW2-_juDgD3c/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-1HcAxtjLPrAyEiSMw9edr3hvAI7qRbuW2-_juDgD3c/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

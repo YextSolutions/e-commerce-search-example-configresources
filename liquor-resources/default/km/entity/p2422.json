@@ -1,0 +1,17 @@
+{
+  "$id": "p2422",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "62.99",
+    "c_minPrice": "15.64",
+    "c_numberReviews": "231",
+    "c_priceRange": "$15.64 - $62.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/cazadores-reposado-tequila/p2422",
+    "name": "Cazadores Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

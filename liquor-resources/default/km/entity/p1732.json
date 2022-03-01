@@ -1,0 +1,17 @@
+{
+  "$id": "p1732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "279.99",
+    "c_minPrice": "22.75",
+    "c_numberReviews": "24",
+    "c_priceRange": "$22.75 - $279.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/mount-veeder-napa-valley-cabernet-sauvignon/p1732",
+    "name": "Mount Veeder Napa Valley Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

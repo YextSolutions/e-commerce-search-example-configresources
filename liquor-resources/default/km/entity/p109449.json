@@ -1,0 +1,16 @@
+{
+  "$id": "p109449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rhone Blend",
+    "c_maxPrice": "28.60",
+    "c_minPrice": "12.98",
+    "c_numberReviews": "2",
+    "c_priceRange": "$12.98 - $28.60",
+    "landingPageUrl": "https://drizly.com/wine/rhone-blend/cherries-and-rainbows-organic-sans-soufre-red-blend/p109449",
+    "name": "Cherries \u0026 Rainbows Organic Sans Soufre Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

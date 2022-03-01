@@ -1,0 +1,44 @@
+{
+  "$id": "p7358",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "424515.00",
+    "c_minPrice": "18.69",
+    "c_numberReviews": "70",
+    "c_priceRange": "$18.69 - $424515.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/russells-reserve-10-year-old-bourbon/p7358",
+    "name": "Russell\u0027s Reserve 10 Year Old Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-russells-reserve-10-year-old-bourbon-3c83d61f5f447281.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/3CDqYY4Sr4wbXJ3nzT0O7BSe0-gGb1JVdC-kVvHlUJo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3CDqYY4Sr4wbXJ3nzT0O7BSe0-gGb1JVdC-kVvHlUJo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3CDqYY4Sr4wbXJ3nzT0O7BSe0-gGb1JVdC-kVvHlUJo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3CDqYY4Sr4wbXJ3nzT0O7BSe0-gGb1JVdC-kVvHlUJo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

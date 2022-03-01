@@ -1,0 +1,17 @@
+{
+  "$id": "p68032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$8.99 - $12.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/austin-beerworks-bloodwork-orange-ipa/p68032",
+    "name": "Austin Beerworks Bloodwork Orange IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p2224",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "26.36",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "67",
+    "c_priceRange": "$4.99 - $26.36",
+    "c_subCategory": "Black Tan",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/black-tan/yuengling-black-and-tan/p2224",
+    "name": "Yuengling Black \u0026 Tan"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

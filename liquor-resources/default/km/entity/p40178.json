@@ -1,0 +1,16 @@
+{
+  "$id": "p40178",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "15.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$15.49 - $32.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/paulaner-variety-pack-hefmunmrzokt/p40178",
+    "name": "Paulaner Variety Pack Hef/Mun/Mrz/Okt"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

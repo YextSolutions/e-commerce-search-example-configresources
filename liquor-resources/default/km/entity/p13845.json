@@ -1,0 +1,17 @@
+{
+  "$id": "p13845",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.99 - $14.99",
+    "c_subCategory": "Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/bale-breaker-field-41-pale-ale/p13845",
+    "name": "Bale Breaker Field 41 Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

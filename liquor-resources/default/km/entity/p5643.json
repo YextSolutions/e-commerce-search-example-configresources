@@ -1,0 +1,17 @@
+{
+  "$id": "p5643",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "199.99",
+    "c_minPrice": "15.39",
+    "c_numberReviews": "74",
+    "c_priceRange": "$15.39 - $199.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/tullamore-dew-special-reserve-12-year-old-irish-whiskey/p5643",
+    "name": "Tullamore D.E.W. Special Reserve 12 Year Old Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

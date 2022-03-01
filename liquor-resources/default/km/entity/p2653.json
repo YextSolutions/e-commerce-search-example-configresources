@@ -1,0 +1,18 @@
+{
+  "$id": "p2653",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "377.77",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "97",
+    "c_priceRange": "$12.99 - $377.77",
+    "c_subCategory": "Belgian Style Ale",
+    "c_type": "Belgian Strong Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/belgian-style-ale/belgian-strong-ale/chimay-grande-reserve/p2653",
+    "name": "Chimay Grande Reserve"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

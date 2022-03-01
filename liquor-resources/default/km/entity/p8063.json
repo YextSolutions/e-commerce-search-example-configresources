@@ -1,0 +1,17 @@
+{
+  "$id": "p8063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "142.55",
+    "c_minPrice": "41.47",
+    "c_numberReviews": "38",
+    "c_priceRange": "$41.47 - $142.55",
+    "c_subCategory": "Single Malt Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/single-malt-whiskey/glenmorangie-14-year-old-port-cask-finish-quinta-ruban-single-malt-whisky/p8063",
+    "name": "Glenmorangie 14 Year Old Port Cask Finish - Quinta Ruban Single Malt Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

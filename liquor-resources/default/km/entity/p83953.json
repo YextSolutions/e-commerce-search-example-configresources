@@ -1,0 +1,17 @@
+{
+  "$id": "p83953",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.99 - $22.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/unconditional-pinot-noir/p83953",
+    "name": "Unconditional Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

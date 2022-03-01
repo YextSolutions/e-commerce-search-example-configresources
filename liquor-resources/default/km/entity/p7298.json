@@ -1,0 +1,17 @@
+{
+  "$id": "p7298",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "5999.99",
+    "c_minPrice": "459.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$459.99 - $5999.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/pappy-van-winkles-15-year-family-reserve/p7298",
+    "name": "Pappy Van Winkle\u0027s 15 Year Family Reserve"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

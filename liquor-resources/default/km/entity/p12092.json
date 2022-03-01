@@ -1,0 +1,44 @@
+{
+  "$id": "p12092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$9.99 - $24.99",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/fish-eye-chardonnay-box/p12092",
+    "name": "Fish Eye Chardonnay Box",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-fish-eye-chardonnay-box-a33498a23ef5175b.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/o0vrkX8x139YeQsfygvROM-ZkwSmmZi97hZtdEKas_Y/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/o0vrkX8x139YeQsfygvROM-ZkwSmmZi97hZtdEKas_Y/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/o0vrkX8x139YeQsfygvROM-ZkwSmmZi97hZtdEKas_Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o0vrkX8x139YeQsfygvROM-ZkwSmmZi97hZtdEKas_Y/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

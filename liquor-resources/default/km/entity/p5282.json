@@ -1,0 +1,17 @@
+{
+  "$id": "p5282",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "329.00",
+    "c_minPrice": "72.99",
+    "c_numberReviews": "44",
+    "c_priceRange": "$72.99 - $329.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-glenlivet-18-year/p5282",
+    "name": "The Glenlivet 18 Year"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

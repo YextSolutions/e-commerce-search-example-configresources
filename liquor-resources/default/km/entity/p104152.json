@@ -1,0 +1,17 @@
+{
+  "$id": "p104152",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "10.31",
+    "c_numberReviews": "10",
+    "c_priceRange": "$10.31 - $19.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/good-fucking-wine-red-blend/p104152",
+    "name": "Good Fucking Wine Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p12025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "32.99",
+    "c_minPrice": "6.04",
+    "c_numberReviews": "315",
+    "c_priceRange": "$6.04 - $32.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/14-hands-hot-to-trot-red-blend/p12025",
+    "name": "14 Hands Hot to Trot Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

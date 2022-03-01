@@ -1,0 +1,17 @@
+{
+  "$id": "p42996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "199.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$199.99 - $499.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/johnnie-walker-blue-label-with-two-glasses/p42996",
+    "name": "Johnnie Walker Blue Label With Two Glasses"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p145453",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "40.99",
+    "c_minPrice": "19.79",
+    "c_numberReviews": "2",
+    "c_priceRange": "$19.79 - $40.99",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/mcbride-sisters-black-girl-magic-sparkling-brut/p145453",
+    "name": "McBride Sisters Black Girl Magic Sparkling Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p16230",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "34",
+    "c_priceRange": "$14.99 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/ballantines-scotch-whiskey/p16230",
+    "name": "Ballantine\u0027s Finest Blended Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p103500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$15.99 - $21.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/franzia-bold-and-jammy-cabernet-sauvignon-red-wine/p103500",
+    "name": "Franzia® Bold \u0026 Jammy Cabernet Sauvignon Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

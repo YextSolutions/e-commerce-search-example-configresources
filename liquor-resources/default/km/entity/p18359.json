@@ -1,0 +1,18 @@
+{
+  "$id": "p18359",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "14.00",
+    "c_minPrice": "3.79",
+    "c_numberReviews": "13",
+    "c_priceRange": "$3.79 - $14.00",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/milwaukees-best-ice-beer-american-lager/p18359",
+    "name": "Milwaukee\u0027s Best Ice Beer, American Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

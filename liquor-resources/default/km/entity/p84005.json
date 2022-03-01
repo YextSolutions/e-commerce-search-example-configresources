@@ -1,0 +1,18 @@
+{
+  "$id": "p84005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $21.99",
+    "c_subCategory": "Stout",
+    "c_type": "Oatmeal Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/oatmeal-stout/maplewood-fat-pug/p84005",
+    "name": "Maplewood Fat Pug"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

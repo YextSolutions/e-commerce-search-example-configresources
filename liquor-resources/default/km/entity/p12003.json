@@ -1,0 +1,44 @@
+{
+  "$id": "p12003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "163.09",
+    "c_minPrice": "10.13",
+    "c_numberReviews": "29",
+    "c_priceRange": "$10.13 - $163.09",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/angeline-pinot-noir-reserve/p12003",
+    "name": "Angeline Pinot Noir Reserve",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-angeline-pinot-noir-reserve-647e6ae8a6c9c2e2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EKaEjOsY7jsIKGMzyxLDBc0IdlZTGO6UmTFC1b0u6Q8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EKaEjOsY7jsIKGMzyxLDBc0IdlZTGO6UmTFC1b0u6Q8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EKaEjOsY7jsIKGMzyxLDBc0IdlZTGO6UmTFC1b0u6Q8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EKaEjOsY7jsIKGMzyxLDBc0IdlZTGO6UmTFC1b0u6Q8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p28086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "16.98",
+    "c_numberReviews": "3",
+    "c_priceRange": "$16.98 - $29.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/tenet-syrah-the-pundit/p28086",
+    "name": "Tenet Syrah The Pundit"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

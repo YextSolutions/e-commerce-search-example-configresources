@@ -1,0 +1,17 @@
+{
+  "$id": "p10836",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$8.99 - $25.99",
+    "c_subCategory": "Flavored Brandy",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/flavored-brandy/dekuyper-blackberry-flavored-brandy/p10836",
+    "name": "DeKuyper Blackberry Flavored Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

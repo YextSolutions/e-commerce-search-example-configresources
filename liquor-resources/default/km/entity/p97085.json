@@ -1,0 +1,17 @@
+{
+  "$id": "p97085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "29.19",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "12",
+    "c_priceRange": "$11.49 - $29.19",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/mcbride-sisters-collection-central-coast-red-blend/p97085",
+    "name": "McBride Sisters Collection Central Coast Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

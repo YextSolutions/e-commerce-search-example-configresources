@@ -1,0 +1,44 @@
+{
+  "$id": "p4687",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "29.85",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "456",
+    "c_priceRange": "$8.00 - $29.85",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-cherry/p4687",
+    "name": "Smirnoff Cherry",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-smirnoff-cherry-b011b5161c8271b1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/gduRfuAa7I-gG9vRbGAuEkxkk84YDzgAks-YlSJn0cA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/gduRfuAa7I-gG9vRbGAuEkxkk84YDzgAks-YlSJn0cA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/gduRfuAa7I-gG9vRbGAuEkxkk84YDzgAks-YlSJn0cA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/gduRfuAa7I-gG9vRbGAuEkxkk84YDzgAks-YlSJn0cA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

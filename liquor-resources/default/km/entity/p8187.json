@@ -1,0 +1,44 @@
+{
+  "$id": "p8187",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$13.99 - $29.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/francis-coppola-directors-cut-merlot/p8187",
+    "name": "Francis Coppola Director\u0027s Cut Merlot",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-francis-coppola-directors-cut-merlot-3bd0e7705324f42e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nb8ZLLzmQ4AFiKjdLW5mPjB1GRcmUWz1cjeR0r1LmnE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nb8ZLLzmQ4AFiKjdLW5mPjB1GRcmUWz1cjeR0r1LmnE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/Nb8ZLLzmQ4AFiKjdLW5mPjB1GRcmUWz1cjeR0r1LmnE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Nb8ZLLzmQ4AFiKjdLW5mPjB1GRcmUWz1cjeR0r1LmnE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

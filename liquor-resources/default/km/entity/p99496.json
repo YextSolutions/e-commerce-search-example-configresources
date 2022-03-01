@@ -1,0 +1,17 @@
+{
+  "$id": "p99496",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "23.75",
+    "c_minPrice": "8.80",
+    "c_numberReviews": "26",
+    "c_priceRange": "$8.80 - $23.75",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/menage-a-trois-bourbon-barrel-cabernet-sauvignon-red-wine-750ml-wine-bottle/p99496",
+    "name": "Menage a Trois Bourbon Barrel Cabernet Sauvignon Red Wine, 750mL Wine Bottle"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

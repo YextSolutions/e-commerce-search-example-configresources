@@ -1,0 +1,16 @@
+{
+  "$id": "p1268",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ouzo",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "25",
+    "c_priceRange": "$9.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/liquor/ouzo/ouzo-by-metaxa/p1268",
+    "name": "Ouzo by Metaxa"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

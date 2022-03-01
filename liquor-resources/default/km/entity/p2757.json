@@ -1,0 +1,17 @@
+{
+  "$id": "p2757",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "79.99",
+    "c_minPrice": "21.99",
+    "c_numberReviews": "979",
+    "c_priceRange": "$21.99 - $79.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/cointreau/p2757",
+    "name": "Cointreau"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

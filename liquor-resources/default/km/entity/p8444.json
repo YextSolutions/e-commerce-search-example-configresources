@@ -1,0 +1,17 @@
+{
+  "$id": "p8444",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "42.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $42.99",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/castellare-chianti-classico/p8444",
+    "name": "Castellare Chianti Classico"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

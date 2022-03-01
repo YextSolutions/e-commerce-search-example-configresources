@@ -1,0 +1,17 @@
+{
+  "$id": "p81891",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "10.50",
+    "c_numberReviews": "8",
+    "c_priceRange": "$10.50 - $22.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/modist-dream-yard-american-ipa/p81891",
+    "name": "Modist Dream Yard American IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

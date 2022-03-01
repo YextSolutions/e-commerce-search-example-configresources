@@ -1,0 +1,44 @@
+{
+  "$id": "p104061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "3.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$3.99 - $19.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/new-glory-gummy-worms-chewy-pale-ale/p104061",
+    "name": "New Glory Gummy Worms Chewy Pale Ale",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-new-glory-gummy-worms-chewy-pale-ale-6d9ebe5ade43f6f2.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/f5Xl26hHrEqXWfUP32AHO6viwDRkbV3yghWgxaxeVWw/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/f5Xl26hHrEqXWfUP32AHO6viwDRkbV3yghWgxaxeVWw/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/f5Xl26hHrEqXWfUP32AHO6viwDRkbV3yghWgxaxeVWw/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/f5Xl26hHrEqXWfUP32AHO6viwDRkbV3yghWgxaxeVWw/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

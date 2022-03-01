@@ -1,0 +1,17 @@
+{
+  "$id": "p4642",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "112",
+    "c_priceRange": "$5.99 - $41.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/sixpoint-bengali/p4642",
+    "name": "Sixpoint Bengali"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

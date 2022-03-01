@@ -1,0 +1,17 @@
+{
+  "$id": "p46806",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Blend",
+    "c_maxPrice": "93.08",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$24.99 - $93.08",
+    "c_subCategory": "Proprietary Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-blend/proprietary-red-blend/leviathan-red-blend/p46806",
+    "name": "Leviathan Red Blend"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

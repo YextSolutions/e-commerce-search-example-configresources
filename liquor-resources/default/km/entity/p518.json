@@ -1,0 +1,17 @@
+{
+  "$id": "p518",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "5.49",
+    "c_numberReviews": "11",
+    "c_priceRange": "$5.49 - $39.99",
+    "c_subCategory": "Pilsner",
+    "landingPageUrl": "https://drizly.com/beer/lager/pilsner/victory-brewing-prima-pils/p518",
+    "name": "Victory Brewing Prima Pils"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

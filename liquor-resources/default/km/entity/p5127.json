@@ -1,0 +1,17 @@
+{
+  "$id": "p5127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "43.55",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "106",
+    "c_priceRange": "$11.99 - $43.55",
+    "c_subCategory": "Chardonnay",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/chardonnay/louis-jadot-pouilly-fuisse-chardonnay/p5127",
+    "name": "Louis Jadot Pouilly-Fuisse Chardonnay"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

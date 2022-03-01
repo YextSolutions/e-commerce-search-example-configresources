@@ -1,0 +1,17 @@
+{
+  "$id": "p6296",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "524.99",
+    "c_minPrice": "10.94",
+    "c_numberReviews": "183",
+    "c_priceRange": "$10.94 - $524.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/evan-williams-bottled-in-bond/p6296",
+    "name": "Evan Williams Bottled-in-Bond"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

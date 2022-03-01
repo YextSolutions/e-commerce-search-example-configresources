@@ -1,0 +1,17 @@
+{
+  "$id": "p27920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Pink Wine",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "7",
+    "c_priceRange": "$6.59 - $27.99",
+    "c_subCategory": "White Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/pink-wine/white-zinfandel/almaden-white-zinfandel/p27920",
+    "name": "Almaden White Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p5133",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "137.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "226",
+    "c_priceRange": "$5.99 - $137.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/jam-jar-sweet-shiraz/p5133",
+    "name": "Jam Jar Sweet Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

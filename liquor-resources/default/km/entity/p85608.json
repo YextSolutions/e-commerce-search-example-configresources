@@ -1,0 +1,18 @@
+{
+  "$id": "p85608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "12.09",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$6.99 - $12.09",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/left-hand-colorful-colorado-pale-ale/p85608",
+    "name": "Left Hand Colorful Colorado Pale Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

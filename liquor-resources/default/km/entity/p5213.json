@@ -1,0 +1,17 @@
+{
+  "$id": "p5213",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "39.89",
+    "c_minPrice": "8.17",
+    "c_numberReviews": "539",
+    "c_priceRange": "$8.17 - $39.89",
+    "c_subCategory": "Sauvignon Blanc",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/sauvignon-blanc/josh-cellars-sauvignon-blanc/p5213",
+    "name": "Josh Cellars Sauvignon Blanc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p28613",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "38.51",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$10.99 - $38.51",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/educated-guess-merlot/p28613",
+    "name": "Educated Guess Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

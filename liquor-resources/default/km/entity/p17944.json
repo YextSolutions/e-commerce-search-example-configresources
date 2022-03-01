@@ -1,0 +1,17 @@
+{
+  "$id": "p17944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "10",
+    "c_priceRange": "$6.59 - $18.99",
+    "c_subCategory": "Grenache",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/grenache/vina-borgia-garnacha/p17944",
+    "name": "Viña Borgia Garnacha"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

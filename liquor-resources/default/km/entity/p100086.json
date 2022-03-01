@@ -1,0 +1,17 @@
+{
+  "$id": "p100086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "39.59",
+    "c_numberReviews": "24",
+    "c_priceRange": "$39.59 - $149.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/heaven-hill-bottled-in-bond-7-year-bourbon/p100086",
+    "name": "Heaven Hill Bottled-in-Bond 7-Year Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

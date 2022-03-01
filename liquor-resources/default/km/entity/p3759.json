@@ -1,0 +1,44 @@
+{
+  "$id": "p3759",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "64",
+    "c_priceRange": "$5.99 - $25.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/oyster-bay-pinot-noir/p3759",
+    "name": "Oyster Bay Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-oyster-bay-pinot-noir-4d96cd70032afffd.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/M-KvMBk5HVoa-0j3I3i6orFCFdo4JGnVI7q3IsoXU4U/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/M-KvMBk5HVoa-0j3I3i6orFCFdo4JGnVI7q3IsoXU4U/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/M-KvMBk5HVoa-0j3I3i6orFCFdo4JGnVI7q3IsoXU4U/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/M-KvMBk5HVoa-0j3I3i6orFCFdo4JGnVI7q3IsoXU4U/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

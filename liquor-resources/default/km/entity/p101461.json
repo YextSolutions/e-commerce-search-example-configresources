@@ -1,0 +1,17 @@
+{
+  "$id": "p101461",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "14.78",
+    "c_numberReviews": "2",
+    "c_priceRange": "$14.78 - $26.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/josh-cellars-family-reserve-bourbon-barrel-aged-cabernet-sauvignon/p101461",
+    "name": "Josh Cellars Family Reserve Bourbon Barrel Aged Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

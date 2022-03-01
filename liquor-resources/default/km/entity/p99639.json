@@ -1,0 +1,46 @@
+{
+  "$id": "p99639",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "63",
+    "c_priceRange": "$2.99 - $11.49",
+    "c_subCategory": "Fruit Wine",
+    "c_subType": "White Sangria",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/white-sangria/carlo-rossi-pineapple-sangria/p99639",
+    "name": "Carlo Rossi Pineapple Sangria",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-carlo-rossi-pineapple-sangria-c3a49004d0d6b2d6.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/v4dZp_69TnGTJOcIG7IB1eDfE6ELqdzHvYIIs7012rA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/v4dZp_69TnGTJOcIG7IB1eDfE6ELqdzHvYIIs7012rA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/v4dZp_69TnGTJOcIG7IB1eDfE6ELqdzHvYIIs7012rA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/v4dZp_69TnGTJOcIG7IB1eDfE6ELqdzHvYIIs7012rA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

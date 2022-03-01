@@ -1,0 +1,17 @@
+{
+  "$id": "p85689",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "29.90",
+    "c_numberReviews": "12",
+    "c_priceRange": "$29.90 - $65.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/jaja-reposado-tequila/p85689",
+    "name": "JAJA Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

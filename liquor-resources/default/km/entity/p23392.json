@@ -1,0 +1,17 @@
+{
+  "$id": "p23392",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "6.21",
+    "c_numberReviews": "23",
+    "c_priceRange": "$6.21 - $14.99",
+    "c_subCategory": "Plum Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/plum-wine/kikkoman-plum-wine/p23392",
+    "name": "Kikkoman Plum Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

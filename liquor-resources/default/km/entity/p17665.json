@@ -1,0 +1,18 @@
+{
+  "$id": "p17665",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "5.98",
+    "c_numberReviews": "35",
+    "c_priceRange": "$5.98 - $34.99",
+    "c_subCategory": "Fruit Beer",
+    "c_type": "Shandy",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/fruit-beer/shandy/narragansett-dels-lemon-shandy/p17665",
+    "name": "Narragansett Del\u0027s Lemon Shandy"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

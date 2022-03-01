@@ -1,0 +1,15 @@
+{
+  "$id": "p104710",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "3",
+    "c_priceRange": "$18.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/cafe-agave-spiked-cold-brew-coffee-cafe-mocha/p104710",
+    "name": "Cafe Agave Spiked Cold Brew Coffee Cafe Mocha"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

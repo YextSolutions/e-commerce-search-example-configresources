@@ -1,0 +1,17 @@
+{
+  "$id": "p1532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "15.25",
+    "c_numberReviews": "5",
+    "c_priceRange": "$15.25 - $39.99",
+    "c_subCategory": "Sherry",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/sherry/lustau-east-india-solera/p1532",
+    "name": "Lustau East India Solera"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

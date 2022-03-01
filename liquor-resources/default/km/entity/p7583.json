@@ -1,0 +1,19 @@
+{
+  "$id": "p7583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "47.96",
+    "c_minPrice": "4.49",
+    "c_numberReviews": "25",
+    "c_priceRange": "$4.49 - $47.96",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/miller-high-life-light/p7583",
+    "name": "Miller High Life Light"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

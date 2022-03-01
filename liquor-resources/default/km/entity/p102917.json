@@ -1,0 +1,17 @@
+{
+  "$id": "p102917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "33",
+    "c_priceRange": "$8.99 - $19.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/calicraft-brewing-cool-kidz-ipa/p102917",
+    "name": "Calicraft Brewing Cool Kidz IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

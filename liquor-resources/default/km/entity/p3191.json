@@ -1,0 +1,17 @@
+{
+  "$id": "p3191",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "55.19",
+    "c_minPrice": "18.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$18.99 - $55.19",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/el-jimador-anejo-tequila/p3191",
+    "name": "El Jimador Anejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

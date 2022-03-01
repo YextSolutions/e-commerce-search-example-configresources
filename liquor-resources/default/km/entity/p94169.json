@@ -1,0 +1,17 @@
+{
+  "$id": "p94169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "85.49",
+    "c_minPrice": "21.44",
+    "c_numberReviews": "8",
+    "c_priceRange": "$21.44 - $85.49",
+    "c_subCategory": "Champagne",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/champagne/gh-mumm-grand-cordon-rose-brut/p94169",
+    "name": "G.H. Mumm Grand Cordon Rose Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

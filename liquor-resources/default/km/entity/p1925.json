@@ -1,0 +1,17 @@
+{
+  "$id": "p1925",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "7.47",
+    "c_numberReviews": "33",
+    "c_priceRange": "$7.47 - $59.99",
+    "c_subCategory": "Wheat Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/wheat-ale/boulevard-unfiltered-wheat/p1925",
+    "name": "Boulevard Unfiltered Wheat"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

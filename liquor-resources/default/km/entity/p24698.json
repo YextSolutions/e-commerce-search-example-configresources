@@ -1,0 +1,17 @@
+{
+  "$id": "p24698",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "13.19",
+    "c_minPrice": "8.09",
+    "c_numberReviews": "2",
+    "c_priceRange": "$8.09 - $13.19",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/skol-gin/p24698",
+    "name": "Skol Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

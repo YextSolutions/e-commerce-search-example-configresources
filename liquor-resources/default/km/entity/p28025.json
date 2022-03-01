@@ -1,0 +1,16 @@
+{
+  "$id": "p28025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "27.99",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "205",
+    "c_priceRange": "$6.59 - $27.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/seagrams-escapes-variety-pack/p28025",
+    "name": "Seagram\u0027s Escapes Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

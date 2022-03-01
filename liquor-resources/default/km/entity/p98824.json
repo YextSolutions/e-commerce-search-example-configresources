@@ -1,0 +1,16 @@
+{
+  "$id": "p98824",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "39",
+    "c_priceRange": "$5.99 - $20.89",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/campo-viejo-rose/p98824",
+    "name": "Campo Viejo Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

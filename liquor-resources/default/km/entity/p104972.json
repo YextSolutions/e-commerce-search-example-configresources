@@ -1,0 +1,16 @@
+{
+  "$id": "p104972",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "2.74",
+    "c_numberReviews": "110",
+    "c_priceRange": "$2.74 - $21.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/jack-daniels-tennessee-honey-and-lemonade/p104972",
+    "name": "Jack Daniel\u0027s Tennessee Honey and Lemonade"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

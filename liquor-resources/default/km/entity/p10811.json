@@ -1,0 +1,44 @@
+{
+  "$id": "p10811",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "51.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.99 - $51.99",
+    "c_subCategory": "Junmai Ginjo",
+    "landingPageUrl": "https://drizly.com/wine/sake/junmai-ginjo/kikusui-junmai-ginjo/p10811",
+    "name": "Kikusui Junmai Ginjo",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-kikusui-junmai-ginjo-ea3b7d6d3833464e.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/-2Yn7tUaM7eDQQvvArZ67lS0h6bz2o7oD35eMoLoOao/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/-2Yn7tUaM7eDQQvvArZ67lS0h6bz2o7oD35eMoLoOao/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/-2Yn7tUaM7eDQQvvArZ67lS0h6bz2o7oD35eMoLoOao/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/-2Yn7tUaM7eDQQvvArZ67lS0h6bz2o7oD35eMoLoOao/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

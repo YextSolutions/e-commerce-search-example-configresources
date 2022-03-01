@@ -1,0 +1,17 @@
+{
+  "$id": "p19631",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "20.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "106",
+    "c_priceRange": "$8.79 - $20.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/baron-herzog-jeunesse-cabernet-sauvignon/p19631",
+    "name": "Baron Herzog Jeunesse Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

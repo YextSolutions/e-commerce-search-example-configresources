@@ -1,0 +1,16 @@
+{
+  "$id": "p27848",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "8.89",
+    "c_numberReviews": "13",
+    "c_priceRange": "$8.89 - $26.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/dekuyper-hot-damn-cinnamon-schnapps-100-proof/p27848",
+    "name": "Dekuyper Hot Damn Cinnamon Schnapps 100 Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

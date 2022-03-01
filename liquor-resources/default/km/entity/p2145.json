@@ -1,0 +1,44 @@
+{
+  "$id": "p2145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "45.99",
+    "c_minPrice": "24.97",
+    "c_numberReviews": "5",
+    "c_priceRange": "$24.97 - $45.99",
+    "c_subCategory": "Modern Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/modern-gin/grandten-wire-works-american-gin/p2145",
+    "name": "GrandTen Wire Works American Gin",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-grandten-wire-works-american-gin-2277053e7822a3a1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/QNxdOsBgCK9x7JBdavj-ID9WE54aVj-HgXlYHWCZQ6o/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/QNxdOsBgCK9x7JBdavj-ID9WE54aVj-HgXlYHWCZQ6o/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/QNxdOsBgCK9x7JBdavj-ID9WE54aVj-HgXlYHWCZQ6o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/QNxdOsBgCK9x7JBdavj-ID9WE54aVj-HgXlYHWCZQ6o/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

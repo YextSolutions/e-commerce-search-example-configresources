@@ -1,0 +1,18 @@
+{
+  "$id": "p89732",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "65",
+    "c_priceRange": "$11.49 - $36.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/five-boroughs-brewing-co-tiny-juicy-ipa/p89732",
+    "name": "Five Boroughs Brewing Co. Tiny Juicy IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

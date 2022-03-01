@@ -1,0 +1,44 @@
+{
+  "$id": "p16789",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$2.99 - $17.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/cooks-california-champagne-sweet-rose/p16789",
+    "name": "Cook\u0027s California Champagne Sweet Rose",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-cooks-sweet-rose-ac4c2c5530cbe6ad.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/3PBbl9tG78cW2JnEu5LnOlwRpxdLZAp7DmZ7uPiJ17s/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3PBbl9tG78cW2JnEu5LnOlwRpxdLZAp7DmZ7uPiJ17s/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3PBbl9tG78cW2JnEu5LnOlwRpxdLZAp7DmZ7uPiJ17s/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3PBbl9tG78cW2JnEu5LnOlwRpxdLZAp7DmZ7uPiJ17s/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

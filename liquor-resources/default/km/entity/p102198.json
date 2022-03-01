@@ -1,0 +1,18 @@
+{
+  "$id": "p102198",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "33.99",
+    "c_minPrice": "4.61",
+    "c_numberReviews": "27",
+    "c_priceRange": "$4.61 - $33.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Gose",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/gose/cigar-city-margarita-gose/p102198",
+    "name": "Cigar City Margarita Gose"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

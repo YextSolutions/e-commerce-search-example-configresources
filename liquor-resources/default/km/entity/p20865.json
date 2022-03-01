@@ -1,0 +1,17 @@
+{
+  "$id": "p20865",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "9.77",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.77 - $21.99",
+    "c_subCategory": "Zinfandel",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/zinfandel/baron-herzog-old-vine-zinfandel/p20865",
+    "name": "Baron Herzog Old Vine Zinfandel"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

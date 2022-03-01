@@ -1,0 +1,16 @@
+{
+  "$id": "p16481",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "19.99",
+    "c_minPrice": "4.27",
+    "c_numberReviews": "7",
+    "c_priceRange": "$4.27 - $19.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/le-grand-noir-rose/p16481",
+    "name": "Le Grand Noir Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

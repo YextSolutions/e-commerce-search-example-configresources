@@ -1,0 +1,17 @@
+{
+  "$id": "p5968",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "150.00",
+    "c_minPrice": "26.66",
+    "c_numberReviews": "39",
+    "c_priceRange": "$26.66 - $150.00",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/knob-creek-single-barrel-bourbon-whiskey/p5968",
+    "name": "Knob Creek Single Barrel Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

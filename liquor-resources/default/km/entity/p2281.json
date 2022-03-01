@@ -1,0 +1,17 @@
+{
+  "$id": "p2281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "154",
+    "c_priceRange": "$9.99 - $76.99",
+    "c_subCategory": "Irish Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/irish-whiskey/bushmills-irish-whiskey/p2281",
+    "name": "Bushmills Irish Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p93852",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "31.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "233",
+    "c_priceRange": "$10.99 - $31.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/jim-beam-peach-bourbon-whiskey/p93852",
+    "name": "Jim Beam Peach Bourbon Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

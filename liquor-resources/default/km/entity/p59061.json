@@ -1,0 +1,43 @@
+{
+  "$id": "p59061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "249.00",
+    "c_minPrice": "16.54",
+    "c_numberReviews": "148",
+    "c_priceRange": "$16.54 - $249.00",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/luc-belaire-rare-luxe-cuvee/p59061",
+    "name": "Luc Belaire Rare Luxe Cuvée",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-luc-belaire-rare-luxe-c211206f4650c552.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqdNpI1_F9O6wH099kD5sOFPiYGsM-y8if4mMjlmAx8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqdNpI1_F9O6wH099kD5sOFPiYGsM-y8if4mMjlmAx8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/EqdNpI1_F9O6wH099kD5sOFPiYGsM-y8if4mMjlmAx8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/EqdNpI1_F9O6wH099kD5sOFPiYGsM-y8if4mMjlmAx8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p23318",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "47.99",
+    "c_minPrice": "11.00",
+    "c_numberReviews": "36",
+    "c_priceRange": "$11.00 - $47.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/john-barr-reserve-blend/p23318",
+    "name": "John Barr Reserve Blend",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-john-barr-black-reserve-scotch-5b46de3223703f82.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/RXx1cW17_e_0OWE8hZ7SbuRx1l8vSNGLhkQXfgpAVy8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/RXx1cW17_e_0OWE8hZ7SbuRx1l8vSNGLhkQXfgpAVy8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/RXx1cW17_e_0OWE8hZ7SbuRx1l8vSNGLhkQXfgpAVy8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RXx1cW17_e_0OWE8hZ7SbuRx1l8vSNGLhkQXfgpAVy8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

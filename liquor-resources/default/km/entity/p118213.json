@@ -1,0 +1,17 @@
+{
+  "$id": "p118213",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Dessert Fortified Wine",
+    "c_maxPrice": "43.99",
+    "c_minPrice": "10.26",
+    "c_numberReviews": "2",
+    "c_priceRange": "$10.26 - $43.99",
+    "c_subCategory": "Port",
+    "landingPageUrl": "https://drizly.com/wine/dessert-fortified-wine/port/taylor-fladgate-fine-tawny-port/p118213",
+    "name": "Taylor Fladgate Fine Tawny Port"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p85263",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "65.40",
+    "c_minPrice": "1.98",
+    "c_numberReviews": "113",
+    "c_priceRange": "$1.98 - $65.40",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/long-drink-traditional-citrus-soda-real-liquor/p85263",
+    "name": "Long Drink Traditional - Citrus Soda. Real Liquor."
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

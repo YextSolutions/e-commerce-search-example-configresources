@@ -1,0 +1,45 @@
+{
+  "$id": "p10847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "3.12",
+    "c_numberReviews": "35",
+    "c_priceRange": "$3.12 - $39.99",
+    "c_subCategory": "Stout",
+    "c_type": "Dry Stout",
+    "landingPageUrl": "https://drizly.com/beer/ale/stout/dry-stout/murphys-stout/p10847",
+    "name": "Murphy\u0027s Stout",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-murphys-irish-stout-22734c793bf9c97d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/9mQ9yLiAK39lUBi7fr41imT2vp7QfuSWSDZb8ox8BwE/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9mQ9yLiAK39lUBi7fr41imT2vp7QfuSWSDZb8ox8BwE/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/9mQ9yLiAK39lUBi7fr41imT2vp7QfuSWSDZb8ox8BwE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9mQ9yLiAK39lUBi7fr41imT2vp7QfuSWSDZb8ox8BwE/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

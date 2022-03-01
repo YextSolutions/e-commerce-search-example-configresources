@@ -1,0 +1,17 @@
+{
+  "$id": "p18104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "76.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "42",
+    "c_priceRange": "$10.99 - $76.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/hess-allomi-cabernet-sauvignon/p18104",
+    "name": "Hess Allomi Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

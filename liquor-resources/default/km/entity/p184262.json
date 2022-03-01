@@ -1,0 +1,44 @@
+{
+  "$id": "p184262",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "129.99",
+    "c_minPrice": "32.95",
+    "c_numberReviews": "6",
+    "c_priceRange": "$32.95 - $129.99",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-vs-limited-edition-by-julien-colombier/p184262",
+    "name": "Hennessy V.S Limited Edition by Julien Colombier",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-hennessy-vs-limited-edition-by-julien-colombier-d5502ebccf7b81cb.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/wGUbVvW-2ippr5pzj6dw25dXoPupp_9UcM-euooGkr4/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/wGUbVvW-2ippr5pzj6dw25dXoPupp_9UcM-euooGkr4/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/wGUbVvW-2ippr5pzj6dw25dXoPupp_9UcM-euooGkr4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wGUbVvW-2ippr5pzj6dw25dXoPupp_9UcM-euooGkr4/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

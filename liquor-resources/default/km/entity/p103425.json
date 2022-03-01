@@ -1,0 +1,18 @@
+{
+  "$id": "p103425",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$10.99 - $24.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/ninkasi-megalodom-iiipa/p103425",
+    "name": "Ninkasi Megalodom IIIPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

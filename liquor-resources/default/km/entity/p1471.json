@@ -1,0 +1,17 @@
+{
+  "$id": "p1471",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "3.90",
+    "c_numberReviews": "221",
+    "c_priceRange": "$3.90 - $16.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/-yellow-tail-shiraz/p1471",
+    "name": "[ yellow tail ]  Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

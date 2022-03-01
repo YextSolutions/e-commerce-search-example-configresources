@@ -1,0 +1,17 @@
+{
+  "$id": "p24583",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "8.98",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.98 - $25.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/santa-carolina-finca-el-origin-malbec-reserva-estate/p24583",
+    "name": "Santa Carolina Finca El Origin Malbec Reserva Estate"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

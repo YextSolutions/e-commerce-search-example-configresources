@@ -1,0 +1,17 @@
+{
+  "$id": "p107053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.95",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$7.99 - $18.95",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/vipra-rosso-dolce-sweet-red/p107053",
+    "name": "Vipra Rosso Dolce Sweet Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

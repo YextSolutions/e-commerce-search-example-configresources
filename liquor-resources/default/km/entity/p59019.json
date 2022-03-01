@@ -1,0 +1,18 @@
+{
+  "$id": "p59019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "16.98",
+    "c_numberReviews": "33",
+    "c_priceRange": "$16.98 - $29.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Berliner Weisse",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/berliner-weisse/night-shift-weisse-fruited-sour-series/p59019",
+    "name": "Night Shift Weisse Fruited Sour Series"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

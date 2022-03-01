@@ -1,0 +1,17 @@
+{
+  "$id": "p20506",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.99 - $41.99",
+    "c_subCategory": "Pinot Grigio",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/pinot-grigio/gabriele-pinot-grigio-kosher/p20506",
+    "name": "Gabriele Pinot Grigio (Kosher)"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

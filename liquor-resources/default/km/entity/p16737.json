@@ -1,0 +1,17 @@
+{
+  "$id": "p16737",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "11.99",
+    "c_minPrice": "2.53",
+    "c_numberReviews": "98",
+    "c_priceRange": "$2.53 - $11.99",
+    "c_subCategory": "Moscato",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/moscato/arbor-mist-mango-strawberry-moscato-sweet-wine/p16737",
+    "name": "Arbor Mist Mango Strawberry Moscato Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p101960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "123.99",
+    "c_minPrice": "24.99",
+    "c_numberReviews": "9",
+    "c_priceRange": "$24.99 - $123.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/tenjaku-blended-japanese-whisky/p101960",
+    "name": "Tenjaku Blended Japanese Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

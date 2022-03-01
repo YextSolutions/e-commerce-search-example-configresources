@@ -1,0 +1,17 @@
+{
+  "$id": "p81532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "249.99",
+    "c_minPrice": "53.95",
+    "c_numberReviews": "27",
+    "c_priceRange": "$53.95 - $249.99",
+    "c_subCategory": "Anejo Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/anejo-tequila/patron-extra-anejo-tequila/p81532",
+    "name": "Patrón Extra Añejo Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

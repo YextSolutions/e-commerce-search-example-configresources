@@ -1,0 +1,17 @@
+{
+  "$id": "p4629",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "2499.00",
+    "c_minPrice": "5.39",
+    "c_numberReviews": "28",
+    "c_priceRange": "$5.39 - $2499.00",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/simi-sonoma-county-merlot-red-wine/p4629",
+    "name": "SIMI Sonoma County Merlot Red Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

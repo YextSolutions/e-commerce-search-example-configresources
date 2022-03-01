@@ -1,0 +1,44 @@
+{
+  "$id": "p4695",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "1387",
+    "c_priceRange": "$9.89 - $24.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-green-apple/p4695",
+    "name": "Smirnoff Green Apple",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-smirnoff-green-apple-3795500087185224.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/o689Tup42P3BErXv20thvLOUtS8ZjNNm-IRTbpqM-Hk/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/o689Tup42P3BErXv20thvLOUtS8ZjNNm-IRTbpqM-Hk/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/o689Tup42P3BErXv20thvLOUtS8ZjNNm-IRTbpqM-Hk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/o689Tup42P3BErXv20thvLOUtS8ZjNNm-IRTbpqM-Hk/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

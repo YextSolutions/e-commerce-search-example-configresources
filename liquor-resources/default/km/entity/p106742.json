@@ -1,0 +1,44 @@
+{
+  "$id": "p106742",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "86.24",
+    "c_minPrice": "27.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$27.99 - $86.24",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/hirsch-the-horizon-straight-bourbon/p106742",
+    "name": "Hirsch The Horizon Straight Bourbon",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-hirsch-the-horizon-straight-bourbon-721f2d033b990c3c.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQ0h9Wbu4GP0dEyRmhVf0-25ijP1jKb7hy896M4Jpmg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQ0h9Wbu4GP0dEyRmhVf0-25ijP1jKb7hy896M4Jpmg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/vQ0h9Wbu4GP0dEyRmhVf0-25ijP1jKb7hy896M4Jpmg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vQ0h9Wbu4GP0dEyRmhVf0-25ijP1jKb7hy896M4Jpmg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

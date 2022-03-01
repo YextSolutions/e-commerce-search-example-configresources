@@ -1,0 +1,17 @@
+{
+  "$id": "p19863",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "3.89",
+    "c_numberReviews": "12",
+    "c_priceRange": "$3.89 - $14.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/lindemans-bin-40-merlot/p19863",
+    "name": "Lindemans Bin 40 Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

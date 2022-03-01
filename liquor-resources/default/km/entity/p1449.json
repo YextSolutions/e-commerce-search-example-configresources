@@ -1,0 +1,17 @@
+{
+  "$id": "p1449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "51.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$5.99 - $51.99",
+    "c_subCategory": "Red Blend",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/red-blend/liberty-creek-sweet-red/p1449",
+    "name": "Liberty Creek Sweet Red"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

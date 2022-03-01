@@ -1,0 +1,18 @@
+{
+  "$id": "p4398",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "37.71",
+    "c_minPrice": "2.00",
+    "c_numberReviews": "41",
+    "c_priceRange": "$2.00 - $37.71",
+    "c_subCategory": "Pale Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/samuel-adams-alpine-lager-seasonal-craft-beer/p4398",
+    "name": "Samuel Adams Alpine Lager Seasonal Craft Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

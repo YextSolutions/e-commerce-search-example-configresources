@@ -1,0 +1,16 @@
+{
+  "$id": "p4609",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "10.80",
+    "c_numberReviews": "36",
+    "c_priceRange": "$10.80 - $39.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/sierra-nevada-hoppy-sampler-variety-pack/p4609",
+    "name": "Sierra Nevada Hoppy Sampler Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

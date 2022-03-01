@@ -1,0 +1,17 @@
+{
+  "$id": "p87436",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "27.49",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "26",
+    "c_priceRange": "$7.99 - $27.49",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/dark-horse-sparkling-brut/p87436",
+    "name": "Dark Horse Sparkling Brut"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

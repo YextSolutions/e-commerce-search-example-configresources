@@ -1,0 +1,18 @@
+{
+  "$id": "p5478",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "36.08",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "43",
+    "c_priceRange": "$8.79 - $36.08",
+    "c_subCategory": "Pale Ale",
+    "c_type": "American Pale Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/pale-ale/american-pale-ale/brooklyn-summer-ale/p5478",
+    "name": "Brooklyn Summer Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

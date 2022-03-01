@@ -1,0 +1,17 @@
+{
+  "$id": "p20533",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "12.99",
+    "c_minPrice": "1.25",
+    "c_numberReviews": "53",
+    "c_priceRange": "$1.25 - $12.99",
+    "c_subCategory": "Malt Liquor",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/malt-liquor/seagrams-escapes-peach-bellini/p20533",
+    "name": "Seagram\u0027s Escapes Peach Bellini"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

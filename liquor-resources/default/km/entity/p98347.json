@@ -1,0 +1,17 @@
+{
+  "$id": "p98347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "119.99",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$39.99 - $119.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/woodinville-bourbon-port-cask/p98347",
+    "name": "Woodinville Bourbon Port Cask"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p102814",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.99",
+    "c_minPrice": "35.99",
+    "c_numberReviews": "21",
+    "c_priceRange": "$35.99 - $499.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/larceny-barrel-proof/p102814",
+    "name": "Larceny Barrel Proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "p83148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "41",
+    "c_priceRange": "$13.99 - $26.99",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/fiddlehead-second-fiddle-double-ipa/p83148",
+    "name": "Fiddlehead Second Fiddle Double IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

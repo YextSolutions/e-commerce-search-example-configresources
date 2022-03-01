@@ -1,0 +1,44 @@
+{
+  "$id": "p27427",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "19.75",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "10",
+    "c_priceRange": "$7.99 - $19.75",
+    "c_subCategory": "White Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/white-rum/palo-viejo-silver-rum/p27427",
+    "name": "Palo Viejo Silver Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-palo-viejo-silver-rum-ff719fae730c22e8.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/rbXwdePUk0Qr1eFlc80HrVq-X0YKa0GMtu2-oZLBBBg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/rbXwdePUk0Qr1eFlc80HrVq-X0YKa0GMtu2-oZLBBBg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/rbXwdePUk0Qr1eFlc80HrVq-X0YKa0GMtu2-oZLBBBg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rbXwdePUk0Qr1eFlc80HrVq-X0YKa0GMtu2-oZLBBBg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

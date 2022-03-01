@@ -1,0 +1,16 @@
+{
+  "$id": "p92121",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "2.31",
+    "c_numberReviews": "39",
+    "c_priceRange": "$2.31 - $14.99",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/monaco-cocktails-moscow-mule/p92121",
+    "name": "Monaco Cocktails Moscow Mule"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

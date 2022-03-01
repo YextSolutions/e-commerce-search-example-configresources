@@ -1,0 +1,17 @@
+{
+  "$id": "p4621",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "599.99",
+    "c_minPrice": "49.50",
+    "c_numberReviews": "11",
+    "c_priceRange": "$49.50 - $599.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/silver-oak-napa-valley-cabernet-sauvignon/p4621",
+    "name": "Silver Oak Napa Valley Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

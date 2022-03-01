@@ -1,0 +1,17 @@
+{
+  "$id": "p106270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "31.35",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "8",
+    "c_priceRange": "$9.99 - $31.35",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/sea-sun-pinot-noir/p106270",
+    "name": "Sea Sun Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p1028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$8.99 - $39.99",
+    "landingPageUrl": "https://drizly.com/beer/lager/kingfisher-lager-beer/p1028",
+    "name": "Kingfisher Lager Beer"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

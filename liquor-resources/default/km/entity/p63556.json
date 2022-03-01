@@ -1,0 +1,17 @@
+{
+  "$id": "p63556",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "White Wine",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$12.99 - $38.99",
+    "c_subCategory": "Albarino",
+    "landingPageUrl": "https://drizly.com/wine/white-wine/albarino/bodega-garzon-2014-albarino/p63556",
+    "name": "Bodega Garzon Albarino"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

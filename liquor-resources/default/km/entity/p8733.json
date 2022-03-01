@@ -1,0 +1,17 @@
+{
+  "$id": "p8733",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "38.49",
+    "c_minPrice": "11.99",
+    "c_numberReviews": "64",
+    "c_priceRange": "$11.99 - $38.49",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/santa-margherita-prosecco-superiore-docg/p8733",
+    "name": "Santa Margherita Prosecco Superiore DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

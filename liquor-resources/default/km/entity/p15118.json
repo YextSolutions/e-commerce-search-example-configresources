@@ -1,0 +1,17 @@
+{
+  "$id": "p15118",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "23.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "50",
+    "c_priceRange": "$15.99 - $23.99",
+    "c_subCategory": "Nigori",
+    "landingPageUrl": "https://drizly.com/wine/sake/nigori/tozai-snow-maiden-junmai-nigori-sake/p15118",
+    "name": "Tozai Snow Maiden Junmai Nigori Sake"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

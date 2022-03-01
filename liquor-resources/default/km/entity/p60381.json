@@ -1,0 +1,17 @@
+{
+  "$id": "p60381",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "71.49",
+    "c_minPrice": "2.98",
+    "c_numberReviews": "166",
+    "c_priceRange": "$2.98 - $71.49",
+    "c_subCategory": "Pina Colada Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/pina-colada-ready-to-drink/buzzballz-lotta-colada/p60381",
+    "name": "BuzzBallz Lotta Colada"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

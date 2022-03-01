@@ -1,0 +1,17 @@
+{
+  "$id": "p28004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "89.99",
+    "c_minPrice": "25.99",
+    "c_numberReviews": "24",
+    "c_priceRange": "$25.99 - $89.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/el-tesoro-platinum-tequila/p28004",
+    "name": "El Tesoro Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p16179",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "26.99",
+    "c_minPrice": "10.00",
+    "c_numberReviews": "33",
+    "c_priceRange": "$10.00 - $26.99",
+    "c_subCategory": "Fruit Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/fruit-liqueur/99-blackberries-liqueur/p16179",
+    "name": "99 Blackberries Liqueur"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

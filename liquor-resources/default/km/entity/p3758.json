@@ -1,0 +1,17 @@
+{
+  "$id": "p3758",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$5.99 - $21.99",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/oyster-bay-merlot/p3758",
+    "name": "Oyster Bay Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p1914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "37.99",
+    "c_minPrice": "14.98",
+    "c_numberReviews": "75",
+    "c_priceRange": "$14.98 - $37.99",
+    "c_subCategory": "Shiraz",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/shiraz/bota-box-shiraz/p1914",
+    "name": "Bota Box Shiraz"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

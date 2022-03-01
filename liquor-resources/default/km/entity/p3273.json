@@ -1,0 +1,17 @@
+{
+  "$id": "p3273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "12.99",
+    "c_numberReviews": "129",
+    "c_priceRange": "$12.99 - $39.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/familia-camarena-reposado-tequila/p3273",
+    "name": "Familia Camarena Reposado Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p12116",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "20.89",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "31",
+    "c_priceRange": "$8.99 - $20.89",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/pinnacle-coconut-vodka/p12116",
+    "name": "Pinnacle Coconut Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

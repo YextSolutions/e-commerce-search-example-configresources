@@ -1,0 +1,17 @@
+{
+  "$id": "p4792",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "92.06",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "13",
+    "c_priceRange": "$4.99 - $92.06",
+    "c_subCategory": "Seasonal Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/seasonal-beer/southern-tier-blackwater-series-seasonal/p4792",
+    "name": "Southern Tier Blackwater Series Seasonal"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

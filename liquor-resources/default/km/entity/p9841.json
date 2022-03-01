@@ -1,0 +1,17 @@
+{
+  "$id": "p9841",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "49.99",
+    "c_minPrice": "19.95",
+    "c_numberReviews": "5",
+    "c_priceRange": "$19.95 - $49.99",
+    "c_subCategory": "Citrus Triple Sec Liqueur",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/citrus-triple-sec-liqueur/loriginal-combier-liqueur-dorange/p9841",
+    "name": "L\u0027Original Combier Liqueur d\u0027Orange"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "p3132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "183",
+    "c_priceRange": "$4.99 - $24.99",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/the-dreaming-tree-cabernet-sauvignon-red-wine/p3132",
+    "name": "The Dreaming Tree Cabernet Sauvignon Red Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-dreaming-tree-cabernet-sauvignon-1eee14e139fa75f1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/O4tcPHyy3evYulCOU6dvQM7GzuN0FVm4W7Sg8EZdXAo/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/O4tcPHyy3evYulCOU6dvQM7GzuN0FVm4W7Sg8EZdXAo/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/O4tcPHyy3evYulCOU6dvQM7GzuN0FVm4W7Sg8EZdXAo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/O4tcPHyy3evYulCOU6dvQM7GzuN0FVm4W7Sg8EZdXAo/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

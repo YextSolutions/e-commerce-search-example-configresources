@@ -1,0 +1,44 @@
+{
+  "$id": "p18355",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "6.99",
+    "c_numberReviews": "49",
+    "c_priceRange": "$6.99 - $25.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/mionetto-rose-sparkling-wine/p18355",
+    "name": "Mionetto Rosé Sparkling Wine",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-mionetto-prosecco-gran-rose-extra-dry-09ba3a4aff96dc15.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSL25ZiX7ibQULYiOyQoPS6bavdEs69b8ur-8Fi9Ro8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSL25ZiX7ibQULYiOyQoPS6bavdEs69b8ur-8Fi9Ro8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSL25ZiX7ibQULYiOyQoPS6bavdEs69b8ur-8Fi9Ro8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YSL25ZiX7ibQULYiOyQoPS6bavdEs69b8ur-8Fi9Ro8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

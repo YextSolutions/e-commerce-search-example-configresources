@@ -1,0 +1,16 @@
+{
+  "$id": "p16612",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Chianti Blend",
+    "c_maxPrice": "24.95",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "11",
+    "c_priceRange": "$7.69 - $24.95",
+    "landingPageUrl": "https://drizly.com/wine/chianti-blend/frescobaldi-castiglioni-chianti-chianti-docg/p16612",
+    "name": "Frescobaldi Castiglioni Chianti Chianti DOCG"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

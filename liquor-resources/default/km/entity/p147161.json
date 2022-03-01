@@ -1,0 +1,44 @@
+{
+  "$id": "p147161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "34.49",
+    "c_minPrice": "14.99",
+    "c_numberReviews": "15",
+    "c_priceRange": "$14.99 - $34.49",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/spindrift-spiked-variety-pack/p147161",
+    "name": "Spindrift Spiked Variety Pack",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-spindrift-variety-pack-46cf1a61050e7470.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/MndTeh2nyNRvwrg41ldC25Rbb_rgRuguGKhr9EORIBs/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/MndTeh2nyNRvwrg41ldC25Rbb_rgRuguGKhr9EORIBs/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/MndTeh2nyNRvwrg41ldC25Rbb_rgRuguGKhr9EORIBs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/MndTeh2nyNRvwrg41ldC25Rbb_rgRuguGKhr9EORIBs/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

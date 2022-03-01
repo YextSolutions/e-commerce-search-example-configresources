@@ -1,0 +1,17 @@
+{
+  "$id": "p14842",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$9.99 - $35.99",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/wild-turkey-american-honey-sting/p14842",
+    "name": "Wild Turkey American Honey Sting"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

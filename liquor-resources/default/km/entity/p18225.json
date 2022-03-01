@@ -1,0 +1,16 @@
+{
+  "$id": "p18225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Liqueur",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "19",
+    "c_priceRange": "$8.79 - $21.99",
+    "landingPageUrl": "https://drizly.com/liquor/liqueur/christian-brothers-honey/p18225",
+    "name": "Christian Brothers Honey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

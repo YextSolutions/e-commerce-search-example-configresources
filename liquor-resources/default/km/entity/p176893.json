@@ -1,0 +1,17 @@
+{
+  "$id": "p176893",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "14.29",
+    "c_minPrice": "9.13",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.13 - $14.29",
+    "c_subCategory": "Red Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/red-ale/guinness-el-dorado-amber/p176893",
+    "name": "Guinness El Dorado Amber"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p100552",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "35.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "1898",
+    "c_priceRange": "$10.99 - $35.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/truly-hard-seltzer-lemonade-variety-pack-spiked-and-sparkling-water/p100552",
+    "name": "TRULY Hard Seltzer Lemonade Variety Pack Spiked \u0026 Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

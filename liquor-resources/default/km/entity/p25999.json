@@ -1,0 +1,17 @@
+{
+  "$id": "p25999",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "16",
+    "c_priceRange": "$9.89 - $13.99",
+    "c_subCategory": "IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/monument-city-51-rye/p25999",
+    "name": "Monument City 51 Rye"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

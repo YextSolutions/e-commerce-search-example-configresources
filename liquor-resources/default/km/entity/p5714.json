@@ -1,0 +1,44 @@
+{
+  "$id": "p5714",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "6999.00",
+    "c_minPrice": "23.99",
+    "c_numberReviews": "40",
+    "c_priceRange": "$23.99 - $6999.00",
+    "c_subCategory": "Aged Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/aged-rum/el-dorado-12-year/p5714",
+    "name": "El Dorado 12 Year",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-el-dorado-12-year-cd02271b510746ed.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/m1b4j53VMR6hC_Ky_zANwuu_FBJN78XokzmDPE1rdFg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/m1b4j53VMR6hC_Ky_zANwuu_FBJN78XokzmDPE1rdFg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/m1b4j53VMR6hC_Ky_zANwuu_FBJN78XokzmDPE1rdFg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/m1b4j53VMR6hC_Ky_zANwuu_FBJN78XokzmDPE1rdFg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

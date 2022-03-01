@@ -1,0 +1,17 @@
+{
+  "$id": "p126692",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "98.99",
+    "c_minPrice": "42.99",
+    "c_numberReviews": "5",
+    "c_priceRange": "$42.99 - $98.99",
+    "c_subCategory": "Reposado Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/reposado-tequila/lobos-1707-tequila-reposado/p126692",
+    "name": "Lobos 1707 Tequila Reposado"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

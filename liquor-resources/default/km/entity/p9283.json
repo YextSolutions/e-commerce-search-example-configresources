@@ -1,0 +1,44 @@
+{
+  "$id": "p9283",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "15.59",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "3",
+    "c_priceRange": "$9.89 - $15.59",
+    "c_subCategory": "Sangiovese",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/sangiovese/era-montepulciano/p9283",
+    "name": "Era Montepulciano",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products3.imgix.drizly.com/ci-era-montepulciano-f4ee855a5d54c5c8.png?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/1qd0dBAOd4GzEhg69_QDqo2jBADz-0h58OPQa2c79CA/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/1qd0dBAOd4GzEhg69_QDqo2jBADz-0h58OPQa2c79CA/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/1qd0dBAOd4GzEhg69_QDqo2jBADz-0h58OPQa2c79CA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1qd0dBAOd4GzEhg69_QDqo2jBADz-0h58OPQa2c79CA/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

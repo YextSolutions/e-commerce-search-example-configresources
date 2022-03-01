@@ -1,0 +1,17 @@
+{
+  "$id": "p4345",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "39.99",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "651",
+    "c_priceRange": "$5.99 - $39.99",
+    "c_subCategory": "Prosecco",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/prosecco/ruffino-prosecco-doc-italian-sparkling-wine/p4345",
+    "name": "Ruffino Prosecco DOC Italian Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

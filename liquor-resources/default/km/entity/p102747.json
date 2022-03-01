@@ -1,0 +1,18 @@
+{
+  "$id": "p102747",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "21.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "6",
+    "c_priceRange": "$13.99 - $21.99",
+    "c_subCategory": "Sour Ale",
+    "c_type": "Wild Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/sour-ale/wild-ale/loveland-aleworks-blackberry-lemon-bar-sour-ale/p102747",
+    "name": "Loveland Aleworks Blackberry Lemon Bar Sour Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

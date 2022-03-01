@@ -1,0 +1,16 @@
+{
+  "$id": "p18177",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$13.99 - $59.99",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/torres-10-brandy/p18177",
+    "name": "Torres 10 Brandy"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

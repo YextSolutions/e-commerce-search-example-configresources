@@ -1,0 +1,17 @@
+{
+  "$id": "p1707",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "24.19",
+    "c_minPrice": "7.99",
+    "c_numberReviews": "18",
+    "c_priceRange": "$7.99 - $24.19",
+    "c_subCategory": "Tempranillo",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/tempranillo/montebuena-rioja/p1707",
+    "name": "Montebuena Rioja"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

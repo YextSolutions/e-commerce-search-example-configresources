@@ -1,0 +1,16 @@
+{
+  "$id": "p64193",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Sake",
+    "c_maxPrice": "64.99",
+    "c_minPrice": "17.49",
+    "c_numberReviews": "5",
+    "c_priceRange": "$17.49 - $64.99",
+    "landingPageUrl": "https://drizly.com/wine/sake/dassai-39-junmai-daiginjo/p64193",
+    "name": "Dassai 39 Junmai Daiginjo"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

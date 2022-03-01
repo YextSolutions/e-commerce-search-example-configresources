@@ -1,0 +1,17 @@
+{
+  "$id": "p11025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.69",
+    "c_minPrice": "17.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$17.99 - $29.69",
+    "c_subCategory": "Cabernet Franc",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-franc/the-infinite-monkey-theorem-cabernet-franc/p11025",
+    "name": "The Infinite Monkey Theorem Cabernet Franc"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

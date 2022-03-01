@@ -1,0 +1,17 @@
+{
+  "$id": "p11449",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "59.99",
+    "c_minPrice": "12.09",
+    "c_numberReviews": "8",
+    "c_priceRange": "$12.09 - $59.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/scharffenberger-brut-sparkling-wine/p11449",
+    "name": "Scharffenberger Brut Sparkling Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

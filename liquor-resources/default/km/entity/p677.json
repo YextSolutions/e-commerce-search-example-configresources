@@ -1,0 +1,17 @@
+{
+  "$id": "p677",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "13.99",
+    "c_minPrice": "4.99",
+    "c_numberReviews": "106",
+    "c_priceRange": "$4.99 - $13.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/andre-peach-moscato/p677",
+    "name": "Andre Peach Moscato"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

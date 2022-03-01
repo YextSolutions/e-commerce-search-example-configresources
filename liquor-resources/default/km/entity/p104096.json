@@ -1,0 +1,17 @@
+{
+  "$id": "p104096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "4.39",
+    "c_minPrice": "3.69",
+    "c_numberReviews": "12",
+    "c_priceRange": "$3.69 - $4.39",
+    "c_subCategory": "Punch Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/punch-ready-to-drink/beatbox-tropical-punch/p104096",
+    "name": "Beatbox Tropical Punch"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

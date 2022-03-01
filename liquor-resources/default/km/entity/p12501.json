@@ -1,0 +1,17 @@
+{
+  "$id": "p12501",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "18.88",
+    "c_numberReviews": "228",
+    "c_priceRange": "$18.88 - $65.99",
+    "c_subCategory": "Sparkling Rose Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/sparkling-rose-wine/luc-belaire-rare-rose/p12501",
+    "name": "Luc Belaire Rare Rose"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

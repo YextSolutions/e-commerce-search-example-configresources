@@ -1,0 +1,17 @@
+{
+  "$id": "p9040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "8.00",
+    "c_numberReviews": "254",
+    "c_priceRange": "$8.00 - $29.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/jose-cuervo-golden-margarita/p9040",
+    "name": "Jose Cuervo Golden Margarita"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

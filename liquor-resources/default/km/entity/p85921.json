@@ -1,0 +1,44 @@
+{
+  "$id": "p85921",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "283.07",
+    "c_minPrice": "69.00",
+    "c_numberReviews": "3",
+    "c_priceRange": "$69.00 - $283.07",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-dalmore-port-wood-reserve-single-malt-scotch-whisky/p85921",
+    "name": "The Dalmore Port Wood Reserve Single Malt Scotch Whisky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-the-dalmore-port-wood-reserve-single-malt-scotch-whisky-7a9a0dd84624f0de.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqGk1oevl1yUvVwTQIHP2JRzRhlBrbAwATEgbRs6IU8/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqGk1oevl1yUvVwTQIHP2JRzRhlBrbAwATEgbRs6IU8/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/cqGk1oevl1yUvVwTQIHP2JRzRhlBrbAwATEgbRs6IU8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/cqGk1oevl1yUvVwTQIHP2JRzRhlBrbAwATEgbRs6IU8/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

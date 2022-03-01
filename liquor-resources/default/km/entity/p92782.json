@@ -1,0 +1,16 @@
+{
+  "$id": "p92782",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "16.30",
+    "c_minPrice": "3.84",
+    "c_numberReviews": "42",
+    "c_priceRange": "$3.84 - $16.30",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/woodbridge-rose-by-robert-mondavi/p92782",
+    "name": "Woodbridge Rosé by Robert Mondavi"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

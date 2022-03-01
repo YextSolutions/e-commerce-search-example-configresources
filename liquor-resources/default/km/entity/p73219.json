@@ -1,0 +1,17 @@
+{
+  "$id": "p73219",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "102.49",
+    "c_minPrice": "45.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$45.99 - $102.49",
+    "c_subCategory": "Bourbon",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/bourbon/breckenridge-px-cask-finish-bourbon/p73219",
+    "name": "Breckenridge PX Cask Finish Bourbon"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

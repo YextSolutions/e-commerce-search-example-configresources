@@ -1,0 +1,17 @@
+{
+  "$id": "p12159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "7.69",
+    "c_numberReviews": "31",
+    "c_priceRange": "$7.69 - $29.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/murphy-goode-california-pinot-noir/p12159",
+    "name": "Murphy-Goode California Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

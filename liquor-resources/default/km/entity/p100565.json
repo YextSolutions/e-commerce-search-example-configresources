@@ -1,0 +1,44 @@
+{
+  "$id": "p100565",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "33.59",
+    "c_minPrice": "2.99",
+    "c_numberReviews": "57",
+    "c_priceRange": "$2.99 - $33.59",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/bud-light-seltzer-black-cherry/p100565",
+    "name": "Bud Light Seltzer Black Cherry",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-bud-light-seltzer-black-cherry-5f50f72ae62944d1.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziQ5VxlRwaRchRnH-QfPxVAIfWr9IF9tXhUzzaVpuos/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziQ5VxlRwaRchRnH-QfPxVAIfWr9IF9tXhUzzaVpuos/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/ziQ5VxlRwaRchRnH-QfPxVAIfWr9IF9tXhUzzaVpuos/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/ziQ5VxlRwaRchRnH-QfPxVAIfWr9IF9tXhUzzaVpuos/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

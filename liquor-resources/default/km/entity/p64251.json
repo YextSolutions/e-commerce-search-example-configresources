@@ -1,0 +1,17 @@
+{
+  "$id": "p64251",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "17.59",
+    "c_minPrice": "6.59",
+    "c_numberReviews": "1",
+    "c_priceRange": "$6.59 - $17.59",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/black-oak-cabernet-sauvignon/p64251",
+    "name": "Black Oak Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

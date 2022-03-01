@@ -1,0 +1,16 @@
+{
+  "$id": "p10556",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "41.99",
+    "c_minPrice": "11.60",
+    "c_numberReviews": "100",
+    "c_priceRange": "$11.60 - $41.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/new-belgium-variety-pack/p10556",
+    "name": "New Belgium Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

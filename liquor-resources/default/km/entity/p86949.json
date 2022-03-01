@@ -1,0 +1,17 @@
+{
+  "$id": "p86949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "499.00",
+    "c_minPrice": "51.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$51.99 - $499.00",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-double-cask-gold-single-malt-scotch-whisky/p86949",
+    "name": "The Macallan Double Cask Gold Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

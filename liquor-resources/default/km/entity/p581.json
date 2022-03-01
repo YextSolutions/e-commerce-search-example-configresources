@@ -1,0 +1,16 @@
+{
+  "$id": "p581",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Absinthe",
+    "c_maxPrice": "109.99",
+    "c_minPrice": "29.17",
+    "c_numberReviews": "50",
+    "c_priceRange": "$29.17 - $109.99",
+    "landingPageUrl": "https://drizly.com/liquor/absinthe/absente-absinthe-110-proof/p581",
+    "name": "Absente Absinthe 110 proof"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

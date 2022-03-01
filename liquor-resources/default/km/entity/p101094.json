@@ -1,0 +1,18 @@
+{
+  "$id": "p101094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "37.39",
+    "c_minPrice": "4.79",
+    "c_numberReviews": "133",
+    "c_priceRange": "$4.79 - $37.39",
+    "c_subCategory": "Fruit Wine",
+    "c_type": "Sangria",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/sangria/barefoot-fruitscato-watermelon-sweet-wine/p101094",
+    "name": "Barefoot Fruitscato Watermelon Sweet Wine"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

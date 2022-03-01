@@ -1,0 +1,18 @@
+{
+  "$id": "p89691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "16.99",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$10.99 - $16.99",
+    "c_subCategory": "IPA",
+    "c_type": "Session IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/session-ipa/boat-beer-session-ale/p89691",
+    "name": "Boat Beer Session Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

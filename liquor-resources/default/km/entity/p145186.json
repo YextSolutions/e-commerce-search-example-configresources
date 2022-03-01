@@ -1,0 +1,18 @@
+{
+  "$id": "p145186",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "17.35",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$9.99 - $17.35",
+    "c_subCategory": "IPA",
+    "c_type": "Imperial Double IPA",
+    "landingPageUrl": "https://drizly.com/beer/ale/ipa/imperial-double-ipa/founders-4-giants-ipa/p145186",
+    "name": "Founders 4 Giants IPA"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

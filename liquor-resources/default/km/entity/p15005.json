@@ -1,0 +1,17 @@
+{
+  "$id": "p15005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "65.99",
+    "c_minPrice": "15.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$15.99 - $65.99",
+    "c_subCategory": "Other Sparkling Wine",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/other-sparkling-wine/schramsberg-cremant/p15005",
+    "name": "Schramsberg Crémant"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

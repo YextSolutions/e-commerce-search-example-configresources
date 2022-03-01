@@ -1,0 +1,44 @@
+{
+  "$id": "p4690",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "737",
+    "c_priceRange": "$8.79 - $24.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/smirnoff-citrus/p4690",
+    "name": "Smirnoff Citrus",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-smirnoff-citrus-e33a76bd822077c4.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/67MuIGeBE8b-DGz_kEeHYuopA092B7-C-s9OLxqCn60/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/67MuIGeBE8b-DGz_kEeHYuopA092B7-C-s9OLxqCn60/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/67MuIGeBE8b-DGz_kEeHYuopA092B7-C-s9OLxqCn60/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/67MuIGeBE8b-DGz_kEeHYuopA092B7-C-s9OLxqCn60/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

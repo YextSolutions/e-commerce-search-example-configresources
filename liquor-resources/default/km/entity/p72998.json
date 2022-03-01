@@ -1,0 +1,17 @@
+{
+  "$id": "p72998",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "999.99",
+    "c_minPrice": "82.99",
+    "c_numberReviews": "7",
+    "c_priceRange": "$82.99 - $999.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/the-macallan-classic-cut-edition-single-malt-scotch-whisky/p72998",
+    "name": "The Macallan Classic Cut Edition Single Malt Scotch Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p18532",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Champagne Sparkling Wine",
+    "c_maxPrice": "14.99",
+    "c_minPrice": "4.58",
+    "c_numberReviews": "25",
+    "c_priceRange": "$4.58 - $14.99",
+    "c_subCategory": "American Sparkling",
+    "landingPageUrl": "https://drizly.com/wine/champagne-sparkling-wine/american-sparkling/andre-moscato/p18532",
+    "name": "Andre Moscato"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

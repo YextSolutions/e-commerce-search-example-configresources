@@ -1,0 +1,17 @@
+{
+  "$id": "p63310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Tequila",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "23.08",
+    "c_numberReviews": "6",
+    "c_priceRange": "$23.08 - $69.99",
+    "c_subCategory": "Silver Tequila",
+    "landingPageUrl": "https://drizly.com/liquor/tequila/silver-tequila/pasote-blanco-tequila/p63310",
+    "name": "Pasote Blanco Tequila"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

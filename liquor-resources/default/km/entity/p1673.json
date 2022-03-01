@@ -1,0 +1,17 @@
+{
+  "$id": "p1673",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "96.00",
+    "c_minPrice": "5.99",
+    "c_numberReviews": "4",
+    "c_priceRange": "$5.99 - $96.00",
+    "c_subCategory": "Cabernet Sauvignon",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/cabernet-sauvignon/mirassou-cabernet-sauvignon/p1673",
+    "name": "Mirassou Cabernet Sauvignon"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

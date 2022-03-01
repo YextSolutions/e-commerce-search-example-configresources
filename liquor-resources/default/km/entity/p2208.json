@@ -1,0 +1,17 @@
+{
+  "$id": "p2208",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "299.23",
+    "c_minPrice": "3.90",
+    "c_numberReviews": "312",
+    "c_priceRange": "$3.90 - $299.23",
+    "c_subCategory": "Merlot",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/merlot/-yellow-tail-merlot/p2208",
+    "name": "[ yellow tail ]  Merlot"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

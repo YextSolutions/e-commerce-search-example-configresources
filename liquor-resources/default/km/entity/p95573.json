@@ -1,0 +1,17 @@
+{
+  "$id": "p95573",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "25.99",
+    "c_minPrice": "6.00",
+    "c_numberReviews": "8",
+    "c_priceRange": "$6.00 - $25.99",
+    "c_subCategory": "Margarita Ready To Drink",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/margarita-ready-to-drink/dulce-vida-tequila-sparkling-paloma-ready-to-drink-cans/p95573",
+    "name": "Dulce Vida Tequila Sparkling Paloma - Ready To Drink Cans"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

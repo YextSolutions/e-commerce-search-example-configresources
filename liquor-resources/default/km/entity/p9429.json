@@ -1,0 +1,44 @@
+{
+  "$id": "p9429",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rum",
+    "c_maxPrice": "28.99",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "90",
+    "c_priceRange": "$9.89 - $28.99",
+    "c_subCategory": "Dark Rum",
+    "landingPageUrl": "https://drizly.com/liquor/rum/dark-rum/cruzan-aged-dark-rum/p9429",
+    "name": "Cruzan Aged Dark Rum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-cruzan-aged-dark-rum-d2b5e8eb881ff299.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/hEdv75FTddt_qO_1AheDDkDKBxEHFSd9Vp_ANeC-WKg/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/hEdv75FTddt_qO_1AheDDkDKBxEHFSd9Vp_ANeC-WKg/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/hEdv75FTddt_qO_1AheDDkDKBxEHFSd9Vp_ANeC-WKg/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/hEdv75FTddt_qO_1AheDDkDKBxEHFSd9Vp_ANeC-WKg/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

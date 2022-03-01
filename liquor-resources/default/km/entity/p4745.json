@@ -1,0 +1,18 @@
+{
+  "$id": "p4745",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ale",
+    "c_maxPrice": "33.00",
+    "c_minPrice": "9.69",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.69 - $33.00",
+    "c_subCategory": "Brown Ale",
+    "c_type": "American Brown Ale",
+    "landingPageUrl": "https://drizly.com/beer/ale/brown-ale/american-brown-ale/smuttynose-old-brown-dog-ale/p4745",
+    "name": "Smuttynose Old Brown Dog Ale"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

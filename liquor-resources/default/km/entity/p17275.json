@@ -1,0 +1,17 @@
+{
+  "$id": "p17275",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "52.49",
+    "c_minPrice": "17.59",
+    "c_numberReviews": "20",
+    "c_priceRange": "$17.59 - $52.49",
+    "c_subCategory": "American Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/american-whiskey/rebecca-creek-whiskey/p17275",
+    "name": "Rebecca Creek Whiskey"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

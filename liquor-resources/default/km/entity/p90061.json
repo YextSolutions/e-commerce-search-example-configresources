@@ -1,0 +1,17 @@
+{
+  "$id": "p90061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "219.99",
+    "c_minPrice": "26.99",
+    "c_numberReviews": "2",
+    "c_priceRange": "$26.99 - $219.99",
+    "c_subCategory": "Rye Whiskey",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/rye-whiskey/templeton-rye-whiskey-barrel-strength/p90061",
+    "name": "Templeton Rye Whiskey Barrel Strength"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

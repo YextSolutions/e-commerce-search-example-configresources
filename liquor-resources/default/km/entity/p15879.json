@@ -1,0 +1,17 @@
+{
+  "$id": "p15879",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Wine",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "3.29",
+    "c_numberReviews": "37",
+    "c_priceRange": "$3.29 - $17.99",
+    "c_subCategory": "Fruit Wine",
+    "landingPageUrl": "https://drizly.com/wine/specialty-wine/fruit-wine/manischewitz-blackberry/p15879",
+    "name": "Manischewitz Blackberry"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "p3370",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Variety Pack Beer",
+    "c_maxPrice": "38.99",
+    "c_minPrice": "11.49",
+    "c_numberReviews": "84",
+    "c_priceRange": "$11.49 - $38.99",
+    "landingPageUrl": "https://drizly.com/beer/variety-pack-beer/flying-dog-variety-pack/p3370",
+    "name": "Flying Dog Variety Pack"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

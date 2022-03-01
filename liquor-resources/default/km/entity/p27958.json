@@ -1,0 +1,43 @@
+{
+  "$id": "p27958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "31.24",
+    "c_minPrice": "9.89",
+    "c_numberReviews": "134",
+    "c_priceRange": "$9.89 - $31.24",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/rain-organic-vodka/p27958",
+    "name": "Rain Organic Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-rain-vodka-organic-f079f3f4041a6ada.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/eTZ0lNIItqcLjTgube4Jh9qIY3HUm-HrHNLOeg02b8I/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/eTZ0lNIItqcLjTgube4Jh9qIY3HUm-HrHNLOeg02b8I/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/eTZ0lNIItqcLjTgube4Jh9qIY3HUm-HrHNLOeg02b8I/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/eTZ0lNIItqcLjTgube4Jh9qIY3HUm-HrHNLOeg02b8I/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

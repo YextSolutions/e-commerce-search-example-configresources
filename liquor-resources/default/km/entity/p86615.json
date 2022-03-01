@@ -1,0 +1,44 @@
+{
+  "$id": "p86615",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "34.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "723",
+    "c_priceRange": "$9.99 - $34.99",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/absolut-grapefruit-vodka/p86615",
+    "name": "Absolut Grapefruit Vodka",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-absolut-grapefruit-vodka-1d66a2e193cd32e7.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/9y9osZej3Lm4PwLiLOk1f86mjRKzpwxph2HYXEWY45U/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/9y9osZej3Lm4PwLiLOk1f86mjRKzpwxph2HYXEWY45U/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/9y9osZej3Lm4PwLiLOk1f86mjRKzpwxph2HYXEWY45U/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9y9osZej3Lm4PwLiLOk1f86mjRKzpwxph2HYXEWY45U/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

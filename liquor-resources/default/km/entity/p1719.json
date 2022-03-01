@@ -1,0 +1,44 @@
+{
+  "$id": "p1719",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "98.99",
+    "c_minPrice": "13.99",
+    "c_numberReviews": "14",
+    "c_priceRange": "$13.99 - $98.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/montinore-estate-pinot-noir/p1719",
+    "name": "Montinore Estate Pinot Noir",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products2.imgix.drizly.com/ci-montinore-estate-pinot-noir-0385bd3ad3de4373.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/T44v6UZ9SVBtexkDgN7o3BfIP0rgiCO2xoIrKDsKc3g/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/T44v6UZ9SVBtexkDgN7o3BfIP0rgiCO2xoIrKDsKc3g/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/T44v6UZ9SVBtexkDgN7o3BfIP0rgiCO2xoIrKDsKc3g/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/T44v6UZ9SVBtexkDgN7o3BfIP0rgiCO2xoIrKDsKc3g/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "p6671",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "210.99",
+    "c_minPrice": "59.99",
+    "c_numberReviews": "82",
+    "c_priceRange": "$59.99 - $210.99",
+    "c_subCategory": "Japanese Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/japanese-whisky/nikka-coffey-grain-whisky/p6671",
+    "name": "Nikka Coffey Grain Whisky"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

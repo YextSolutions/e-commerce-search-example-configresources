@@ -1,0 +1,17 @@
+{
+  "$id": "p109065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "17.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "1",
+    "c_priceRange": "$9.99 - $17.99",
+    "c_subCategory": "Non Alcoholic Beer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/non-alcoholic-beer/two-roots-brewing-co-enough-said-non-alcoholic-helles/p109065",
+    "name": "Two Roots Brewing Co. Enough Said - Non-Alcoholic Helles"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

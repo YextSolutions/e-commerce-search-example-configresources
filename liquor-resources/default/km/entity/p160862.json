@@ -1,0 +1,44 @@
+{
+  "$id": "p160862",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Brandy",
+    "c_maxPrice": "118.79",
+    "c_minPrice": "39.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$39.99 - $118.79",
+    "c_subCategory": "Cognac",
+    "landingPageUrl": "https://drizly.com/liquor/brandy/cognac/hennessy-vs-x-faith-xlvii-cognac/p160862",
+    "name": "Hennessy V.S x FAITH XLVII Cognac",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products0.imgix.drizly.com/ci-hennessy-vs-x-faith-xlvii-9d6b8caeebd9168d.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/vZj6MBJJPSgVa7OZPwD8vUPTDs9ON60hKwwi3rsMfgU/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/vZj6MBJJPSgVa7OZPwD8vUPTDs9ON60hKwwi3rsMfgU/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/vZj6MBJJPSgVa7OZPwD8vUPTDs9ON60hKwwi3rsMfgU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/vZj6MBJJPSgVa7OZPwD8vUPTDs9ON60hKwwi3rsMfgU/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

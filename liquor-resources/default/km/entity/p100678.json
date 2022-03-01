@@ -1,0 +1,17 @@
+{
+  "$id": "p100678",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Specialty Beer Alternatives",
+    "c_maxPrice": "37.39",
+    "c_minPrice": "10.99",
+    "c_numberReviews": "570",
+    "c_priceRange": "$10.99 - $37.39",
+    "c_subCategory": "Hard Seltzer",
+    "landingPageUrl": "https://drizly.com/beer/specialty-beer-alternatives/hard-seltzer/corona-hard-seltzer-gluten-free-original-variety-pack-1-spiked-sparkling-water/p100678",
+    "name": "Corona Hard Seltzer Gluten Free Original Variety Pack 1 Spiked Sparkling Water"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

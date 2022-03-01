@@ -1,0 +1,16 @@
+{
+  "$id": "p107906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "21.27",
+    "c_minPrice": "3.79",
+    "c_numberReviews": "15",
+    "c_priceRange": "$3.79 - $21.27",
+    "landingPageUrl": "https://drizly.com/beer/lager/busch-light-apple/p107906",
+    "name": "Busch Light Apple"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

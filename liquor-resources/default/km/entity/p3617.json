@@ -1,0 +1,17 @@
+{
+  "$id": "p3617",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Gin",
+    "c_maxPrice": "24.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "514",
+    "c_priceRange": "$8.79 - $24.99",
+    "c_subCategory": "London Dry Gin",
+    "landingPageUrl": "https://drizly.com/liquor/gin/london-dry-gin/new-amsterdam-gin/p3617",
+    "name": "New Amsterdam Gin"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "product.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Product-default",
+  "entityType": "product",
+  "fields": [
+    "c_aBV",
+    "c_caloriesPerServing",
+    "c_carbsPerServing",
+    "c_category",
+    "c_features",
+    "c_foodPairing",
+    "c_iBU",
+    "c_priceRange",
+    "c_region",
+    "c_reviews",
+    "c_subCategory",
+    "c_subType",
+    "c_suggestedGlassware",
+    "c_suggestedServingTemperature",
+    "c_tastingNotes",
+    "c_type"
+  ],
+  "required": []
+}

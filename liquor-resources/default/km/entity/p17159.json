@@ -1,0 +1,17 @@
+{
+  "$id": "p17159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "18.99",
+    "c_minPrice": "7.93",
+    "c_numberReviews": "2",
+    "c_priceRange": "$7.93 - $18.99",
+    "c_subCategory": "Malbec",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/malbec/the-seeker-malbec/p17159",
+    "name": "The Seeker Malbec"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

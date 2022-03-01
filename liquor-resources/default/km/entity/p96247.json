@@ -1,0 +1,43 @@
+{
+  "$id": "p96247",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Ready To Drink",
+    "c_maxPrice": "11.49",
+    "c_minPrice": "8.99",
+    "c_numberReviews": "16",
+    "c_priceRange": "$8.99 - $11.49",
+    "landingPageUrl": "https://drizly.com/liquor/ready-to-drink/five-drinks-co-moscow-mule/p96247",
+    "name": "Five Drinks Co. Moscow Mule",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 480,
+          "sourceUrl": "https://products1.imgix.drizly.com/ci-five-drinks-co-moscow-mule-e986203074e766bd.jpeg?auto\u003dformat%2Ccompress\u0026ch\u003dWidth%2CDPR\u0026dpr\u003d2\u0026fm\u003djpg\u0026h\u003d240\u0026q\u003d20",
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "https://a.mktgcdn.com/p-sandbox/3dhenqZ9YkK-IJAJH5_pKuaNBOvjT7CChtCu6NwSLls/320x480.jpg",
+              "width": 320
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/3dhenqZ9YkK-IJAJH5_pKuaNBOvjT7CChtCu6NwSLls/300x450.jpg",
+              "width": 300
+            },
+            {
+              "height": 294,
+              "url": "https://a.mktgcdn.com/p-sandbox/3dhenqZ9YkK-IJAJH5_pKuaNBOvjT7CChtCu6NwSLls/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/3dhenqZ9YkK-IJAJH5_pKuaNBOvjT7CChtCu6NwSLls/320x480.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "p11106",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Lager",
+    "c_maxPrice": "22.99",
+    "c_minPrice": "8.79",
+    "c_numberReviews": "7",
+    "c_priceRange": "$8.79 - $22.99",
+    "c_subCategory": "Pale Lager",
+    "c_subType": "Light Lager",
+    "c_type": "American Style Lager",
+    "landingPageUrl": "https://drizly.com/beer/lager/pale-lager/american-style-lager/light-lager/cisco-brewers-shark-tracker-light-lager/p11106",
+    "name": "Cisco Brewers Shark Tracker Light Lager"
+  },
+  "entityType": "ce_beer",
+  "labels": []
+}

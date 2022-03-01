@@ -1,0 +1,17 @@
+{
+  "$id": "p1979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Whiskey",
+    "c_maxPrice": "149.99",
+    "c_minPrice": "43.99",
+    "c_numberReviews": "343",
+    "c_priceRange": "$43.99 - $149.99",
+    "c_subCategory": "Scotch Whisky",
+    "landingPageUrl": "https://drizly.com/liquor/whiskey/scotch-whisky/bruichladdich-scottish-barley-the-classic-laddie/p1979",
+    "name": "Bruichladdich Scottish Barley - The Classic Laddie"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

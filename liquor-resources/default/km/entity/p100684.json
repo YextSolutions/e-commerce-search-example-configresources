@@ -1,0 +1,17 @@
+{
+  "$id": "p100684",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Vodka",
+    "c_maxPrice": "1399.00",
+    "c_minPrice": "9.97",
+    "c_numberReviews": "138",
+    "c_priceRange": "$9.97 - $1399.00",
+    "c_subCategory": "Flavored Vodka",
+    "landingPageUrl": "https://drizly.com/liquor/vodka/flavored-vodka/new-amsterdam-watermelon-vodka/p100684",
+    "name": "New Amsterdam Watermelon Vodka"
+  },
+  "entityType": "ce_liquor",
+  "labels": []
+}

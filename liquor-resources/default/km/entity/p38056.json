@@ -1,0 +1,16 @@
+{
+  "$id": "p38056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Rose Wine",
+    "c_maxPrice": "29.99",
+    "c_minPrice": "9.99",
+    "c_numberReviews": "12",
+    "c_priceRange": "$9.99 - $29.99",
+    "landingPageUrl": "https://drizly.com/wine/rose-wine/vievite-cotes-de-provence-rose/p38056",
+    "name": "VieVité Cotes de Provence Rosé"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}

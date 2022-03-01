@@ -1,0 +1,17 @@
+{
+  "$id": "p3244",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": "Red Wine",
+    "c_maxPrice": "69.99",
+    "c_minPrice": "21.97",
+    "c_numberReviews": "8",
+    "c_priceRange": "$21.97 - $69.99",
+    "c_subCategory": "Pinot Noir",
+    "landingPageUrl": "https://drizly.com/wine/red-wine/pinot-noir/etude-grace-benoist-ranch-carneros-pinot-noir/p3244",
+    "name": "Etude Grace Benoist Ranch Carneros Pinot Noir"
+  },
+  "entityType": "ce_wine",
+  "labels": []
+}
